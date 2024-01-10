@@ -1,0 +1,36 @@
+	<br />
+    <div id="cyto_scene"></div>
+  </body>
+  
+  <script>
+	var network_generate = function(){
+		var tmp = $('#net').val();
+		if (tmp==1){
+			network.one();
+		}else if (tmp==2){
+			network.two();
+		}else if (tmp==3){
+			network.three();
+		}else if (tmp==4){
+			network.four();
+		}
+	}
+		
+	function reset(){
+		var tmp = $('#net').val();
+		if (tmp==1){
+			network.one();
+		}else if (tmp==2){
+			network.two();
+		}else if (tmp==3){
+			network.three();
+		}else if (tmp==4){
+			network.four();
+		}
+	}
+	
+	$('#net').on('change', network_generate);
+	$(document).ready(network_generate);
+  </script>
+
+</html>
