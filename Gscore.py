@@ -124,7 +124,6 @@ def Gscore(GEM,
     
     #*************************************************#
     all_DEG = [str(x) for x in list(DEG_data[0])] #criteira
-    global query_list
     query_list = [str(x) for x in list(DEG_data[DEG_data[1]==1][0])] #query
     #*************************************************#
     
