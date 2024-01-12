@@ -45,7 +45,7 @@ def Gscore(GEM,
 ```
 Variable | Description  
 ------------ | ------------- 
-GEM | The directory of gene expression data (.txt). This variable can not be empty. See the data format explaination [below](https://github.com/SysMednet/GscorePy/blob/main/README.md#gene-expression-data-format).
+GEM | The directory of gene expression data (.txt). This variable can not be empty. See the data format explaination [below](#Gene-expression-data-format).
 DEG | The directory of differentially expressed gene data (.txt). This variable can not be empty. See the data format explaination below.
 gene_set | The directory of gene sets data (.txt), or the users can use the default gene sets data in our database. See the details below.
 species | The species ID (defined by KEGG) is used to choose defualt gene sets data in our database, there are 7 species can choose ("hsa","mmu","dre","dme","cel","rno","sce").
