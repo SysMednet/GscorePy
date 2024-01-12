@@ -1,0 +1,5 @@
+var CanvasApp = function () {
+			var cy;
+			var cyto_scene;
+
+			return {
