@@ -10,11 +10,11 @@ More detail information about Gscore is available on:
 [Gscore tutorial on the Gscore website](https://gscore.ibsb.nycu.edu.tw/tutorial.html)  
 [Gscore github](https://github.com/SysMednet/Gscore)  
 
-**Publication**  
+### **Publication**  
 Chang, L. T.<sup>+</sup>, Lee, M. Z.<sup>+</sup>, Wu, Y. J.<sup>+</sup>, Lee, W. k., Ma, C. L., Chang, J. M., Chen, C. W., Huang, T. C., Lee, C. H., Lee, J. C., Tseng, Y. Y., Lin, C. Y. * (2023). Gene set correlation enrichment analysis for interpreting and annotating gene expression profiles, Nucleic Acids Research, gkad1187.  
 [[LINK]](https://doi.org/10.1093/nar/gkad1187)  [[PDF]](https://academic.oup.com/nar/advance-article-pdf/doi/10.1093/nar/gkad1187/54448061/gkad1187.pdf)
 
-## Dependencies  
+## Dependencies and requirement  
 The GscorePy source code is written in [python 3.9.13](https://www.python.org/downloads/release/python-3913/). Users also need to install following python package listed below:  
 * Numpy
 * Pandas
@@ -51,9 +51,11 @@ gene_set | The directory of gene sets data (.txt), or the users can use the defa
 species | The species ID (defined by KEGG) is used to choose defualt gene sets data in our database, there are 7 species can choose ("hsa","mmu","dre","dme","cel","rno","sce").
 ID_type | Users can choose "entrez" or "symbol", users should check if their gene ID type in input data is correct.
 pcc_cutoff | The cutoff for pearson correlation coefficient, which should be set between 0 and 1.
-criterion | The significance level criterion for determining the association. "fdrq"(Benjamini–Hochberg method) or "pv"(raw <i>p</i> value) can be chosen, default : "fdrq". (FDR<i>q</i> $\le$ 0.05 or raw <i>p</i> $\le$ 0.05)
+criterion | The significance criterion for determining the association. "fdrq"(Benjamini–Hochberg method) or "pv"(raw <i>p</i> value) can be chosen, default : "fdrq". (FDR<i>q</i> $\le$ 0.05 or raw <i>p</i> $\le$ 0.05)
 output_dir | The output directory (folder), all output files will save in this folder. This variable can not be empty.
-coexp_detail | 
+coexp_detail | Set this variable "True" to output the list of coexpressed DEG pairs. See the output format explaination below.
+ratio_plot | Set this variable "True" to output the dotplot (.png) of the ratios of coexpressed DEG pairs (m/n) vs significantly associated gene sets. See the output format explaination below.
+
 
 
 ### Gene expression data format
@@ -62,4 +64,5 @@ coexp_detail |
 
 ### Gene sets data format
 
+### Coexpressed DEG pairs output file format
 
