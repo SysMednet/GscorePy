@@ -69,4 +69,4 @@ coexp_graph | Set this variable "True" to output the cytoscape network revealed 
 
 ### Network graph
 
-# Example
+# Usage
