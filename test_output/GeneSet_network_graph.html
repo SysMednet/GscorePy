@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+	<script src="graph_files/jquery.min.js"></script>
+	<script src="graph_files/cytoscape.min.2.3.7.js"></script>
+	<script src="graph_files/cytoscape.min.3.23.0.js"></script>
+	<link href="graph_files/cytoscape.js-panzoom.css" rel="stylesheet" type="text/css" />
+    <link href="graph_files/font-awesome-4.0.3/css/font-awesome.css" rel="stylesheet" type="text/css" />
+    <script src="graph_files/cytoscape-panzoom.js"></script>
+    <script src="graph_files/script.js"></script>
+	<style>
+		#cy {
+            width: 1000px;
+            height: 700px;
+            border: 1px solid #888;
+			background-color: #FFFFFF;
+			background-image: url('graph_files/legend_fdrq.png');
+			background-repeat: no-repeat; 
+			background-size: 200px; 
+			background-position: right bottom;
+        }
+    </style>
+  </head>
+
+  <body>
+	<br />
+	<br />
+	Show top
+	<select id="net">
+		<option value=1 selected>10</option>
+		<option value=2>25</option>
+		<option value=3>50</option>
+	</select>
+	gene sets
+	&emsp;&emsp;
+	<button onclick="reset()">Network initialize</button>
+	<br />
+	(ranked by FDR <i>q</i> value)
+	<br />
+    <div id="cyto_scene"></div>
+  </body>
+  
+  <script>
+	var network_generate = function(){
+		var tmp = $('#net').val();
+		if (tmp==1){
+			network.one();
+		}else if (tmp==2){
+			network.two();
+		}else if (tmp==3){
+			network.three();
+		}else if (tmp==4){
+			network.four();
+		}
+	}
+		
+	function reset(){
+		var tmp = $('#net').val();
+		if (tmp==1){
+			network.one();
+		}else if (tmp==2){
+			network.two();
+		}else if (tmp==3){
+			network.three();
+		}else if (tmp==4){
+			network.four();
+		}
+	}
+	
+	$('#net').on('change', network_generate);
+	$(document).ready(network_generate);
+  </script>
+
+</html>
