@@ -47,7 +47,11 @@ Variable | Description
 ------------ | ------------- 
 GEM | The directory of gene expression data (.txt). This variable could not be empty. See the data format explaination below.
 DEG | The directory of differentially expressed gene data (.txt). This variable could not be empty. See the data format explaination below.
-gene_set | The directory of gene sets data (.txt). This variable could not be empty. See the data format explaination below.
+gene_set | The directory of gene sets data (.txt), or the users can use the default gene sets data in our database. See the details below.
+species | The species ID (defined by KEGG) is used to choose defualt gene sets data in our database, there are 7 species can choose ("hsa","mmu","dre","dme","cel","rno","sce").
+ID_type | Users can choose "entrez" or "symbol", users should check if their gene ID type in input data is correct.
+pcc_cutoff | The cutoff for pearson correlation coefficient, which should be set between 0 and 1.
+criterion | The significance level criterion for determining the association. "fdrq"(Benjamini–Hochberg method) or "pv"(raw <i>p</i> value) can be chosen, default: "fdrq".
 
 ### Gene expression data format
 
