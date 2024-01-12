@@ -12,24 +12,24 @@ More detail information about Gscore is available on:
 
 **Publication**  
 Chang, L. T.<sup>+</sup>, Lee, M. Z.<sup>+</sup>, Wu, Y. J.<sup>+</sup>, Lee, W. k., Ma, C. L., Chang, J. M., Chen, C. W., Huang, T. C., Lee, C. H., Lee, J. C., Tseng, Y. Y., Lin, C. Y. * (2023). Gene set correlation enrichment analysis for interpreting and annotating gene expression profiles, Nucleic Acids Research, gkad1187.  
-[[LINK]](https://doi.org/10.1093/nar/gkad1187) [[PDF]](https://academic.oup.com/nar/advance-article-pdf/doi/10.1093/nar/gkad1187/54448061/gkad1187.pdf)
+[[LINK]](https://doi.org/10.1093/nar/gkad1187)  [[PDF]](https://academic.oup.com/nar/advance-article-pdf/doi/10.1093/nar/gkad1187/54448061/gkad1187.pdf)
 
-# Dependencies  
+## Dependencies  
 The GscorePy source code is written in [python 3.9.13](https://www.python.org/downloads/release/python-3913/). Users also need to install following python package listed below:  
 * Numpy
 * Pandas
 * os
 * Scipy
-* Statsmodels
-* Matplotlib
-* Importlib
-* Seaborn
-* Shutil
+* statsmodels
+* matplotlib
+* importlib
+* seaborn
+* shutil
   
-# Installation
+## Installation
 
-# Variable
-Gscore function
+## Variable
+### Gscore function (see Gscore.py)
 ```python
 def Gscore(GEM, 
            DEG, 
@@ -43,3 +43,16 @@ def Gscore(GEM,
            ratio_plot=False, 
            coexp_graph=False)
 ```
+Variable | Description  
+------------ | ------------- 
+GEM | The directory of gene expression data (.txt). This variable could not be empty. See the data format explaination below.
+DEG | The directory of differentially expressed gene data (.txt). This variable could not be empty. See the data format explaination below.
+gene_set | The directory of gene sets data (.txt). This variable could not be empty. See the data format explaination below.
+
+### Gene expression data format
+
+### Differentially expressed gene data format
+
+### Gene sets data format
+
+
