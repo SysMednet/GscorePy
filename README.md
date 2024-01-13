@@ -6,7 +6,7 @@
 **(1) individual DEG** in the query DEG list and all the DEGs of a certain gene set in the selected collection to determine its association significance;  
 **(2) query DEG list** and all the DEGs of a certain gene set in the selected collection to determine its association significance. 
 
-More detail information about Gscore is available on:  
+More detail information about Gscore:  
 [Gscore tutorial on the Gscore website](https://gscore.ibsb.nycu.edu.tw/tutorial.html)  
 [Gscore github](https://github.com/SysMednet/Gscore)  
 
@@ -58,6 +58,7 @@ ratio_plot | Set this variable "True" to output the dotplot (.png) of the ratios
 coexp_graph | Set this variable "True" to output the cytoscape network revealed by offline webpage (.html). See the details and sample webpage [below](#Network-graph).
 
 ### Gene expression data format
+
 
 ### Differentially expressed gene data format
 
