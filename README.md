@@ -90,7 +90,21 @@ gene5  3.40008  3.32992  3.28303  ...
 ```
 
 ### Differentially expressed gene data format
+There are two column in this file:  
+* The first column is the DEG criteria which will be used to construct the coexpression network.  
+* The second column is used to define the query DEG list, the gene labeled by "0" or "1" which represents "not query DEG" and "query DEG", respectively.
 
+Please note that all genes in this file should also exist in GEM file.
+```
+gene1  1
+gene2  1
+gene3  1
+gene4  1
+gene5  0
+gene6  1
+gene7  0
+...
+```
 
 ### Gene sets data format
 
