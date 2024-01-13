@@ -6,7 +6,7 @@
 **(1) individual DEG** in the query DEG list and all the DEGs of a certain gene set in the selected collection to determine its association significance;  
 **(2) query DEG list** and all the DEGs of a certain gene set in the selected collection to determine its association significance. 
 
-More detail information about Gscore:  
+More details about Gscore:  
 [Gscore tutorial on the Gscore website](https://gscore.ibsb.nycu.edu.tw/tutorial.html)  
 [Gscore github](https://github.com/SysMednet/Gscore)  
 
@@ -58,9 +58,10 @@ ratio_plot | Set this variable "True" to output the dotplot (.png) of the ratios
 coexp_graph | Set this variable "True" to output the cytoscape network revealed by offline webpage (.html). See the details and sample webpage [below](#Network-graph).
 
 ### Gene expression data format
-There are three available gene expression matrix (GEM) format can be used, please mind that:
+There are three available gene expression matrix (GEM) format can be used, please note that:
 * Each elements should be delimited by **tab (\t)**.
-* There should be at least 5 case samples.  
+* There should be at least 5 case samples.
+* The gene ID should be entrez or gene symbol.
 1. GEM with two types of phenotype. The phenotype of the sample should be labeled by "0" or "1" which represents "control" and "case", respectively.
 ```
 Phenotype  0  1  0  0  1  1  ...
@@ -70,7 +71,7 @@ gene3  4.63834	2.46628  1.62849  10.0764  7.20375  3.68444  ...
 gene4  3.74739	4.32639  4.74154  3.41298  4.33184  4.28809  ...
 gene5  2.57056	3.40008  1.81487  5.07296  3.32992  3.28303  ...
 ```
-2. GEM with only single type of phenotype. In this case, all the samples will be considered as case sample, the phenotype can be labeled by any character but can only use one label type.
+2. GEM with only single type of phenotype. In this case, all the samples will be considered as case samples. Note that the phenotype can be labeled by any character but can only use one label type.
 ```
 Phenotype  1  1  1	...
 gene1  2.63735  2.06477  5.43987  ...
@@ -79,7 +80,7 @@ gene3  2.46628  7.20375  3.68444  ...
 gene4  4.32639  4.33184  4.28809  ...
 gene5  3.40008  3.32992  3.28303  ...
 ```
-3. No phenotype label in GEM file. In this case, all the samples will be considered as case sample.
+3. No phenotype label in GEM file. In this case, all the samples will be considered as case samples.
 ```
 gene1  2.63735  2.06477  5.43987  ...
 gene2  2.10675  5.55138  2.74120  ...
@@ -88,8 +89,8 @@ gene4  4.32639  4.33184  4.28809  ...
 gene5  3.40008  3.32992  3.28303  ...
 ```
 
-
 ### Differentially expressed gene data format
+
 
 ### Gene sets data format
 
