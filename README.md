@@ -109,11 +109,11 @@ gene7  0
 ### Gene sets data format
 
 ```
-gene-set1  gene11  gene12	gene13	gene14	gene15	gene16
-gene-set2  gene21  gene22	gene23	gene24	gene25	gene26
-gene-set3  gene31  gene32	gene33	gene34	gene35	
-gene-set4  gene41  gene42	gene43	gene44	gene45	gene46
-gene-set5  gene51  gene52	gene53	gene54
+gene-set1  gene11  gene12  gene13  gene14  gene15  gene16
+gene-set2  gene21  gene22  gene23  gene24  gene25  gene26
+gene-set3  gene31  gene32  gene33  gene34  gene35
+gene-set4  gene41  gene42  gene43  gene44  gene45  gene46
+gene-set5  gene51  gene52  gene53  gene54
 ...
 ```
 
