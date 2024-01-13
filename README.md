@@ -58,10 +58,19 @@ ratio_plot | Set this variable "True" to output the dotplot (.png) of the ratios
 coexp_graph | Set this variable "True" to output the cytoscape network revealed by offline webpage (.html). See the details and sample webpage [below](#Network-graph).
 
 ### Gene expression data format
-There are three available gene expression matrix (GEM) format can choose.  
-1. 
+There are three available gene expression matrix (GEM) format can be used, mind that each elements should be delimited by **tab (\t)**.  
+1. GEM with two types of phenotype. The phenotype of the sample should be labeled by "0" or "1" which represents "control" and "case", respectively.
 ```
 Phenotype  0  1  0  0  1  1	
+gene1  1.32762  2.63735  3.28497  2.80999  2.06477  5.43987	
+gene2  0.78467	2.10675  1.55954  2.52396  5.55138  2.74120	
+gene3  4.63834	2.46628  1.62849  10.0764  7.20375  3.68444
+gene4  3.74739	4.32639  4.74154  3.41298  4.33184  4.28809
+gene5  2.57056	3.40008  1.81487  5.07296  3.32992  3.28303
+```
+2. GEM with only single type of phenotype. The phenotype of the sample should be labeled by "0" or "1" which represents "control" and "case", respectively.
+```
+Phenotype  1  1  1  1  1  1	
 gene1  1.32762  2.63735  3.28497  2.80999  2.06477  5.43987	
 gene2  0.78467	2.10675  1.55954  2.52396  5.55138  2.74120	
 gene3  4.63834	2.46628  1.62849  10.0764  7.20375  3.68444
