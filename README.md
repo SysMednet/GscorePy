@@ -50,7 +50,7 @@ DEG | The directory of differentially expressed gene data (.txt). This variable 
 gene_set | The directory of gene sets data (.txt), or the users can use the default gene sets data in our database. See the details [below](#Gene-sets-data-format).
 species | The species ID (defined by KEGG) is used to choose defualt gene sets data in our database, there are 7 species can choose ("hsa","mmu","dre","dme","cel","rno","sce").
 ID_type | Users can choose "entrez" or "symbol", users should check if their gene ID type in input data is correct.
-pcc_cutoff | The cutoff for pearson correlation coefficient, which should be set between 0 and 1.
+pcc_cutoff | The cutoff for \| pearson correlation coefficient \|, which should be set between 0 and 1.
 criterion | The significance criterion for determining the association. "fdrq"(Benjamini–Hochberg method) or "pv"(raw <i>p</i> value) can be chosen, default : "fdrq". (FDR<i>q</i> $\le$ 0.05 or raw <i>p</i> $\le$ 0.05)
 output_dir | The output directory (folder), all output files will save in this folder. This variable can not be empty.
 coexp_detail | Set this variable "True" to output the list of coexpressed DEG pairs. See the output format explaination [below](#Coexpressed-DEG-pairs-output-file-format).
@@ -94,7 +94,7 @@ There are two column in this file:
 * The first column is the DEG criteria which will be used to construct the coexpression network.  
 * The second column is used to define the query DEG list, the gene labeled by "0" or "1" which represents "not query DEG" and "query DEG", respectively.
 
-Please note that all genes in this file should also exist in GEM file.
+Please note that all genes in this file must also exist in GEM file, and each elements should be delimited by **tab (\t)**.
 ```
 gene1  1
 gene2  1
@@ -107,6 +107,15 @@ gene7  0
 ```
 
 ### Gene sets data format
+
+```
+gene-set1	  gene11	gene12	gene13	gene14	gene15	gene16
+gene-set2	  gene21	gene22	gene23	gene24	gene25	gene26
+gene-set3	  gene31	gene32	gene33	gene34	gene35	
+gene-set4	  gene41	gene42	gene43	gene44	gene45	gene46
+gene-set5	  gene51	gene52	gene53	gene54
+...
+```
 
 ### Coexpressed DEG pairs output file format
 
