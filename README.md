@@ -122,6 +122,28 @@ gene-set4  gene41  gene42  gene43  gene44  gene45  gene46
 gene-set5  gene51  gene52  gene53  gene54
 ...
 ```
+We provide several default gene sets in this package, including 7 species from 5 different collections with two different gene ID type (entrez ID and gene symbol). 
+* Species table
+
+Full name | KEGG short name  
+------------ | ------------- 
+Homo sapiens | hsa
+Mus musculus | mmu
+Danio rerio | dre
+Drosophila melanogaster | dme
+Caenorhabditis elegans | cel
+Rattus norvegicus | rno
+Saccharomyces cerevisiae | sce
+
+* Gene set collection table
+
+Collection | Version or date 
+------------ | ------------- 
+Kyoto Encyclopedia of Genes and Genome (KEGG) | Ver. 102
+Reactome Pathway Database | Ver. 08.11.2021
+Gene Ontology Biological Process (GO_BP) | Ver. 12.20.2020
+Gene Ontology Cellular Component (GO_CC) | Ver. 12.20.2020
+Gene Ontology Molecular Function (GO_MF) | Ver. 12.20.2020
 
 ### Coexpressed DEG pairs output file format
 
