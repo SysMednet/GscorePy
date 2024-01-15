@@ -47,7 +47,7 @@ Variable | Description
 ------------ | ------------- 
 GEM | The directory of gene expression data (.txt). This variable can not be empty. See the data format explaination [below](#Gene-expression-data-format).
 DEG | The directory of differentially expressed gene data (.txt). This variable can not be empty. See the data format explaination [below](#Differentially-expressed-gene-data-format).
-gene_set | The directory of gene sets data (.txt), or the users can use the default gene sets data in our database. See the details [below](#Gene-sets-data-format).
+gene_set | The directory of gene sets data (.txt), or the users can use the default gene sets data in our database ("KEGG","Reactome","GO_BP","GO_CC","GO_MF"). See the details [below](#Gene-sets-data-format).
 species | The species ID (defined by KEGG) is used to choose defualt gene sets data in our database, there are 7 species can choose ("hsa","mmu","dre","dme","cel","rno","sce").
 ID_type | Users can choose "entrez" or "symbol", users should check if their gene ID type in input data is correct.
 pcc_cutoff | The cutoff for \| pearson correlation coefficient \|, which should be set between 0 and 1.
@@ -122,9 +122,12 @@ gene-set4  gene41  gene42  gene43  gene44  gene45  gene46
 gene-set5  gene51  gene52  gene53  gene54
 ...
 ```
-We provide several default gene sets in this package, including 7 species from 5 different collections with two different gene ID type (entrez ID and gene symbol). 
-* Species table
+We provide several default gene sets in this package, including 7 species from 5 different collections with two different gene ID type (entrez ID and gene symbol).  
+Users can choose the specific default gene set they need by these two variable in Gscore function:
+* Set variable "gene_set" to selection the collection you want ("KEGG","Reactome","GO_BP","GO_CC","GO_MF").
+* Set variable "species" to selection the species you want ("hsa","mmu","dre","dme","cel","rno","sce").
 
+Species information
 Full name | KEGG short name  
 ------------ | ------------- 
 Homo sapiens | hsa
@@ -135,8 +138,7 @@ Caenorhabditis elegans | cel
 Rattus norvegicus | rno
 Saccharomyces cerevisiae | sce
 
-* Gene set collection table
-
+Gene set collection information
 Collection | Version or date 
 ------------ | ------------- 
 Kyoto Encyclopedia of Genes and Genome (KEGG) | Ver. 102
