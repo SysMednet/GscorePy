@@ -150,6 +150,10 @@ Gene Ontology Molecular Function (GO_MF) | Ver. 12.20.2020
 ## Usage and output format
 ### Import and execute Gscore function in python 
 sample code in user_test.py
+* All example input data can be found in test_input folder
+* All example output data can be found in test_output folder
+
+Every output files from this function will be saved in the folder set by output_dir variable.
 ```python
 import Gscore as gs
 
@@ -165,6 +169,17 @@ gs.Gscore(GEM='test_input/GSE157103.txt',
             ratio_plot=True,
             coexp_graph=True)
 ```
+
+### Individual DEG result and DEG list result
+**Individual DEG** result output (Example file : "Individual_DEG_sig.associations.txt" in "test_output" folder)
+GeneSet | gene_ID	| N | M | n | m | p_value | fDR_q_value 
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
+RNA degradation	| 100132406	| 155 | 19 | 2 | 2 | 0.014327607875994974	| 0.19581064097193132
+Protein digestion and absorption | 100132406 | 155 | 19 | 2 | 2 | 0.014327607875994974 | 0.19581064097193132
+Alzheimer disease	| 100132406	| 155	| 19 | 8 | 4 | 0.00841512165628363 | 0.19581064097193132
+Mucin type O-glycan biosynthesis | 100132406 | 155 | 19 | 1 | 1 | 0.12258064516129032 | 0.2792114695340502
+Glycerolipid metabolism	| 100132406	| 155	| 19 | 1 | 1 | 0.12258064516129032 | 0.2792114695340502
+Glycerophospholipid metabolism | 100132406 | 155 | 19 | 1 | 1 | 0.12258064516129032 | 0.2792114695340502
 
 ### Coexpressed DEG pairs output file format
 
