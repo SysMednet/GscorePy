@@ -29,7 +29,7 @@ The GscorePy source code is written in [python 3.9.13](https://www.python.org/do
 ## Installation
 
 ## Variable
-### Gscore function (see Gscore.py)
+### Gscore function (defined in Gscore.py)
 ```python
 def Gscore(GEM, 
            DEG, 
@@ -147,7 +147,23 @@ Gene Ontology Biological Process (GO_BP) | Ver. 12.20.2020
 Gene Ontology Cellular Component (GO_CC) | Ver. 12.20.2020
 Gene Ontology Molecular Function (GO_MF) | Ver. 12.20.2020
 
-# Usage and output format
+## Usage and output format
+### Import and call Gscore function in python (sample code in user_test.py)
+```python
+import Gscore as gs
+
+gs.Gscore(GEM='test_input/GSE157103.txt', 
+            DEG='test_input/allDEG.txt', 
+            pcc_cutoff=0.7, 
+            criterion='fdrq', 
+            gene_set='KEGG', 
+            species='hsa', 
+            ID_type='entrez',
+            output_dir = 'test_output/',
+            coexp_detail=True,
+            ratio_plot=True,
+            coexp_graph=True)
+```
 
 ### Coexpressed DEG pairs output file format
 
