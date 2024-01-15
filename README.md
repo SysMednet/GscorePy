@@ -61,7 +61,7 @@ coexp_graph | Set this variable "True" to output the cytoscape network revealed 
 There are three available gene expression matrix (GEM) format can be used, please note that:
 * Each elements should be delimited by **tab (\t)**.
 * There should be at least 5 case samples.
-* The gene ID should be entrez or gene symbol.
+* The gene ID should be entrez ID or gene symbol.
 1. GEM with two types of phenotype. The phenotype of the sample should be labeled by "0" or "1" which represents "control" and "case", respectively.
 ```
 Phenotype  0  1  0  0  1  1  ...
@@ -90,11 +90,13 @@ gene5  3.40008  3.32992  3.28303  ...
 ```
 
 ### Differentially expressed gene data format
-There are two column in this file:  
+A DEG file contains at least three genes, including two columns:
 * The first column is the DEG criteria which will be used to construct the coexpression network.  
 * The second column is used to define the query DEG list, the gene labeled by "0" or "1" which represents "not query DEG" and "query DEG", respectively.
 
-Please note that all genes in this file must also exist in GEM file, and each elements should be delimited by **tab (\t)**.
+Please note that:
+* Each elements should be delimited by **tab (\t)**.
+* Genes **MUST** use the same feature ID as the expression profiles (entrez ID or gene symbol).
 ```
 gene1  1
 gene2  1
@@ -107,6 +109,10 @@ gene7  0
 ```
 
 ### Gene sets data format
+A gene set file contains at least one gene set(s), including the gene set names (or IDs) and their lists of genes.  
+Please note that:
+* The genes in these gene sets **MUST** use the same feature ID as the expression profiles (entrez ID or gene symbol).
+* Every gene set must include at least one gene.
 
 ```
 gene-set1  gene11  gene12  gene13  gene14  gene15  gene16
