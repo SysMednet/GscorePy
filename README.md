@@ -172,7 +172,8 @@ gs.Gscore(GEM='test_input/GSE157103.txt',
 
 ### Individual DEG result and DEG list result
 **Individual DEG** result output (Example file : "Individual_DEG_sig.associations.txt" in "test_output" folder)
-GeneSet | gene_ID	| N | M | n | m | p_value | fDR_q_value 
+
+GeneSet | gene_ID	| N | M | n | m | p_value | FDR_q_value 
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
 RNA degradation	| 100132406	| 155 | 19 | 2 | 2 | 0.014327607875994974	| 0.19581064097193132
 Protein digestion and absorption | 100132406 | 155 | 19 | 2 | 2 | 0.014327607875994974 | 0.19581064097193132
