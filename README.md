@@ -127,7 +127,7 @@ Users can choose the specific default gene set they need by these two variable i
 * Set variable "gene_set" to selection the collection you want ("KEGG","Reactome","GO_BP","GO_CC","GO_MF").
 * Set variable "species" to selection the species you want ("hsa","mmu","dre","dme","cel","rno","sce").
 
-Species information
+Species table
 Full name | KEGG short name  
 ------------ | ------------- 
 Homo sapiens | hsa
@@ -138,7 +138,7 @@ Caenorhabditis elegans | cel
 Rattus norvegicus | rno
 Saccharomyces cerevisiae | sce
 
-Gene set collection information
+Gene set collection table
 Collection | Version or date 
 ------------ | ------------- 
 Kyoto Encyclopedia of Genes and Genome (KEGG) | Ver. 102
@@ -172,17 +172,55 @@ gs.Gscore(GEM='test_input/GSE157103.txt',
 
 ### Individual DEG result and DEG list result
 **Individual DEG** result output (Example file : "Individual_DEG_sig.associations.txt" in "test_output" folder)
+* This result shows the significant associations between each DEG in the DEG list and each gene sets in the gene set collection.
+* The result table will be grouped by gene_ID and sorted by p_value column in each group.
 
 GeneSet | gene_ID	| N | M | n | m | p_value | FDR_q_value 
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
-RNA degradation	| 100132406	| 155 | 19 | 2 | 2 | 0.014327607875994974	| 0.19581064097193132
-Protein digestion and absorption | 100132406 | 155 | 19 | 2 | 2 | 0.014327607875994974 | 0.19581064097193132
-Alzheimer disease	| 100132406	| 155	| 19 | 8 | 4 | 0.00841512165628363 | 0.19581064097193132
-Mucin type O-glycan biosynthesis | 100132406 | 155 | 19 | 1 | 1 | 0.12258064516129032 | 0.2792114695340502
-Glycerolipid metabolism	| 100132406	| 155	| 19 | 1 | 1 | 0.12258064516129032 | 0.2792114695340502
-Glycerophospholipid metabolism | 100132406 | 155 | 19 | 1 | 1 | 0.12258064516129032 | 0.2792114695340502
+Alzheimer disease	| 100132406	| 155	| 19	| 8	| 4	| 0.00841512165628363	| 0.19581064097193132
+RNA degradation	| 100132406	| 155	| 19	| 2	| 2	| 0.014327607875994974	| 0.19581064097193132
+Protein digestion and absorption	| 100132406	| 155	| 19	| 2	| 2	| 0.014327607875994974	| 0.19581064097193132
+Pathways of neurodegeneration - multiple diseases	| 100132406	| 155	| 19	| 7	| 3	| 0.04011389753523095	| 0.2792114695340502
+Mucin type O-glycan biosynthesis	| 100132406	| 155	| 19	| 1	| 1	| 0.12258064516129032	| 0.2792114695340502
+Glycerolipid metabolism	| 100132406	| 155	| 19	| 1	| 1	| 0.12258064516129032	| 0.2792114695340502
+
+**DEG list** result output (Example file : "DEG_list_sig.associations.txt" in "test_output" folder)
+* This result shows the significant associations between the query DEG list and each gene sets in the gene set collection.
+* The result table will be sorted by p_value column.
+
+GeneSet | N | M | n | m | p_value | FDR_q_value 
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
+Influenza A	| 45105	| 4919 | 2910	| 564	| 2.023591412811608e-44	| 3.8245877702139396e-42
+Measles	| 45105	| 4919	| 2619	| 512	| 2.893305586300621e-41	| 2.734173779054087e-39
+Coronavirus disease - COVID-19	| 45105	| 4919	| 3201	| 571	| 2.861210592445993e-34	| 1.8025626732409756e-32
+Cell cycle	| 45105	| 4919	| 4074	| 677	| 3.5465567829188843e-31	| 1.6757480799291729e-29
+Herpes simplex virus 1 infection	| 45105	| 4919	| 2619	| 471	| 5.416377513419858e-29	| 2.0473907000727063e-27
+Oocyte meiosis	| 45105	| 4919	| 2037	| 377	| 1.357134092542624e-25	| 4.2749723915092664e-24
 
 ### Coexpressed DEG pairs output file format
+This additional output can show the detail correlation (Pearson's r) between each DEG in the DEG list and each DEG in each gene set.  
+We provide two coxpressed detail file, and both of them only show the DEG pairs with greater |Pearson's r| than the pcc_cutoff.
+1. The result will be grouped by DEG in the DEG list. (Example file : "Individual_gene_coexpressed_detail.txt" in "test_output" folder)
+
+Entrez ID of the individual DEG | Entrez ID in the gene set | Gene set | Pearson's r 
+------------ | ------------- | ------------- | ------------- 
+991	| 9133	| p53 signaling pathway	| 0.905121
+991	| 891	| p53 signaling pathway	| 0.878674
+991	| 6241	| p53 signaling pathway	| 0.85834
+991	| 983	| p53 signaling pathway	| 0.819157
+991	| 7083	| Pyrimidine metabolism	| 0.895685
+991	| 7298	| Pyrimidine metabolism	| 0.862836
+
+2. The result will be grouped by gene set. (Example file : "DEG_list_coexpressed_detail.txt" in "test_output" folder)
+
+Gene set | Entrez ID in the gene set | Entrez ID in the DEG list | Pearson's r 
+------------ | ------------- | ------------- | ------------- 
+p53 signaling pathway | 983 | 983 | 1.0
+p53 signaling pathway | 6241 | 6241 | 1.0
+p53 signaling pathway | 9133 | 9133 | 1.0
+p53 signaling pathway | 891 | 891 | 1.0
+p53 signaling pathway | 6241 | 64151 | 0.957943
+p53 signaling pathway | 6241 | 11130 | 0.955961
 
 ### Ratio dotplot
 
