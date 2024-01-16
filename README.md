@@ -54,8 +54,8 @@ pcc_cutoff | The cutoff for \| pearson correlation coefficient \|, which should 
 criterion | The significance criterion for determining the association. "fdrq"(Benjamini–Hochberg method) or "pv"(raw <i>p</i> value) can be chosen, default : "fdrq". (FDR<i>q</i> $\le$ 0.05 or raw <i>p</i> $\le$ 0.05)
 output_dir | The output directory (folder), all output files will save in this folder. This variable can not be empty. See the output details [below](#Individual-DEG-result-and-DEG-list-result).
 coexp_detail | Set this variable "True" to output the list of coexpressed DEG pairs. See the output format explaination [below](#Coexpressed-DEG-pairs-output-file-format).
-ratio_plot | Set this variable "True" to output the dotplot (.png) of the ratios of coexpressed DEG pairs (m/n) vs significantly associated gene sets. See the sample figure [below](#Ratio-dotplot).
-coexp_graph | Set this variable "True" to output the cytoscape network revealed by offline webpage (.html). See the details and sample webpage [below](#Network-graph).
+ratio_plot | Set this variable "True" to output the dotplot (.png) of the ratios of coexpressed DEG pairs (m/n) vs significantly associated gene sets. See the example figure [below](#Ratio-dotplot).
+coexp_graph | Set this variable "True" to output the cytoscape network revealed by offline webpage (.html). See the details and example webpage [below](#Network-graph).
 
 ### Gene expression data format
 [[Click to back to variable table]](#gscore-function-defined-in-gscorepy)  
@@ -237,4 +237,6 @@ This additional output visualize the ratio of association significant gene sets 
 
 ### Network graph
 [[Click to back to variable table]](#gscore-function-defined-in-gscorepy)  
+
+
 
