@@ -237,7 +237,8 @@ This additional output visualize the ratio of significantly associated gene sets
 
 ### Network graph
 [[Click to back to variable table]](#gscore-function-defined-in-gscorepy)  
-The offline webpage shows the significantly associated gene sets by network graph with cytoscape.js  
+The offline webpage shows the significantly associated gene sets by network graph with cytoscape.js.  
+Example webpage : double click the "GeneSet_network_graph.html" file in "test_output" folder, the webpage will show on your browser.  
 <img src="./readme_figure/network_graph_1.png" alt="drawing" width="700"/>
 
 
