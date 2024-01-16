@@ -58,7 +58,8 @@ ratio_plot | Set this variable "True" to output the dotplot (.png) of the ratios
 coexp_graph | Set this variable "True" to output the cytoscape network revealed by offline webpage (.html). See the details and sample webpage [below](#Network-graph).
 
 ### Gene expression data format
-[back to variable table](#gscore-function-defined-in-gscorepy){: .btn}
+[back to variable table](#gscore-function-defined-in-gscorepy)
+<button name="button" onclick="https://github.com/SysMednet/GscorePy/blob/main/README.md#gscore-function-defined-in-gscorepy">back to variable table</button>
 There are three available gene expression matrix (GEM) format can be used, please note that:
 * Each elements should be delimited by **tab (\t)**.
 * There should be at least 5 case samples.
