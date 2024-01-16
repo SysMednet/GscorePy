@@ -49,8 +49,8 @@ GEM | The directory of gene expression data (.txt). This variable can not be emp
 DEG | The directory of differentially expressed gene data (.txt). This variable can not be empty. See the data format explaination [below](#Differentially-expressed-gene-data-format).
 gene_set | The directory of gene sets data (.txt), or the users can use the default gene sets data in our database ("KEGG","Reactome","GO_BP","GO_CC","GO_MF"). See the details [below](#Gene-sets-data-format).
 species | The species ID (defined by KEGG) is used to choose defualt gene sets data in our database, there are 7 species can choose ("hsa","mmu","dre","dme","cel","rno","sce"). See the details [below](#Gene-sets-data-format).
-ID_type | Users can choose "entrez" or "symbol", users should check if their gene ID type in input data is correct.
-pcc_cutoff | The cutoff for \| pearson correlation coefficient \|, which should be set between 0 and 1.
+ID_type | Users can choose "entrez" or "symbol", users should check if their gene ID type in input data is correct. Default : "fdrq".
+pcc_cutoff | The cutoff for \| pearson correlation coefficient \|, which should be set between 0 and 1. Default : 0.5.
 criterion | The significance criterion for determining the association. "fdrq"(Benjamini–Hochberg method) or "pv"(raw <i>p</i> value) can be chosen, default : "fdrq". (FDR<i>q</i> $\le$ 0.05 or raw <i>p</i> $\le$ 0.05)
 output_dir | The output directory (folder), all output files will save in this folder. This variable can not be empty. See the output details [below](#Individual-DEG-result-and-DEG-list-result).
 coexp_detail | Set this variable "True" to output the list of coexpressed DEG pairs. See the output format explaination [below](#Coexpressed-DEG-pairs-output-file-format).
