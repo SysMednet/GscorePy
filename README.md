@@ -148,7 +148,7 @@ Gene Ontology Cellular Component (GO_CC) | Ver. 12.20.2020
 Gene Ontology Molecular Function (GO_MF) | Ver. 12.20.2020
 
 ## Usage and output format
-### Import and execute Gscore function in python 
+### Import and execute Gscore function with python 
 sample code in user_test.py
 * All example input data can be found in test_input folder
 * All example output data can be found in test_output folder
