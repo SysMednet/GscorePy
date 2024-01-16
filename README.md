@@ -199,7 +199,7 @@ Oocyte meiosis	| 45105	| 4919	| 2037	| 377	| 1.357134092542624e-25	| 4.274972391
 
 ### Coexpressed DEG pairs output file format
 This additional output can show the detail correlation (Pearson's r) between each DEG in the DEG list and each DEG in each gene set.  
-We provide two coxpressed detail file, and both of them only show the DEG pairs with greater |Pearson's r| than the pcc_cutoff.
+We provide two coexpressed detail file, and both of them only show the DEG pairs with greater |Pearson's r| than the pcc_cutoff.
 1. The result will be grouped by DEG in the DEG list. (Example file : "Individual_gene_coexpressed_detail.txt" in "test_output" folder)
 
 Entrez ID of the individual DEG | Entrez ID in the gene set | Gene set | Pearson's r 
@@ -223,6 +223,11 @@ p53 signaling pathway | 6241 | 64151 | 0.957943
 p53 signaling pathway | 6241 | 11130 | 0.955961
 
 ### Ratio dotplot
+This additional output visualize the ratio of association significant gene sets by dotplot. (Example file : "Ratio_dotplot.png" in "test_output" folder)
+* Ratio = m/n. m and n values have already record in DEG list result table.
+* This figure only show up to 500 gene sets.
+* The point size represent how many DEGs in the DEG list contribute at least one coexpressed gene pair with the DEGs in the gene set.
+<img src="./test_output/Ratio_dotplot.png" alt="drawing" width="700"/>
 
 ### Network graph
 
