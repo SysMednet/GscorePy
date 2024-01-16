@@ -52,7 +52,7 @@ species | The species ID (defined by KEGG) is used to choose defualt gene sets d
 ID_type | Users can choose "entrez" or "symbol", users should check if their gene ID type in input data is correct.
 pcc_cutoff | The cutoff for \| pearson correlation coefficient \|, which should be set between 0 and 1.
 criterion | The significance criterion for determining the association. "fdrq"(Benjamini–Hochberg method) or "pv"(raw <i>p</i> value) can be chosen, default : "fdrq". (FDR<i>q</i> $\le$ 0.05 or raw <i>p</i> $\le$ 0.05)
-output_dir | The output directory (folder), all output files will save in this folder. This variable can not be empty.
+output_dir | The output directory (folder), all output files will save in this folder. This variable can not be empty. See the output details [below](#Individual-DEG-result-and-DEG-list-result).
 coexp_detail | Set this variable "True" to output the list of coexpressed DEG pairs. See the output format explaination [below](#Coexpressed-DEG-pairs-output-file-format).
 ratio_plot | Set this variable "True" to output the dotplot (.png) of the ratios of coexpressed DEG pairs (m/n) vs significantly associated gene sets. See the sample figure [below](#Ratio-dotplot).
 coexp_graph | Set this variable "True" to output the cytoscape network revealed by offline webpage (.html). See the details and sample webpage [below](#Network-graph).
@@ -152,7 +152,6 @@ Gene Ontology Molecular Function (GO_MF) | Ver. 12.20.2020
 
 ## Usage and output format
 ### Import and execute Gscore function with python 
-[[Click to back to variable table]](#gscore-function-defined-in-gscorepy)  
 sample code in user_test.py
 * All example input data can be found in test_input folder
 * All example output data can be found in test_output folder
