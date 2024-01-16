@@ -15,7 +15,7 @@
             height: 700px;
             border: 1px solid #888;
 			background-color: #FFFFFF;
-			background-image: url('graph_files/legend_fdrq.png');
+			background-image: url('graph_files/legend_rawp.png');
 			background-repeat: no-repeat; 
 			background-size: 200px; 
 			background-position: right bottom;
@@ -31,12 +31,13 @@
 		<option value=1 selected>10</option>
 		<option value=2>25</option>
 		<option value=3>50</option>
+		<option value=4>56</option>
 	</select>
 	gene sets
 	&emsp;&emsp;
 	<button onclick="reset()">Network initialize</button>
 	<br />
-	(ranked by FDR <i>q</i> value)
+	(ranked by raw <i>p</i> value)
 	<br />
     <div id="cyto_scene"></div>
   </body>

@@ -1,8 +1,8 @@
 Gene set	Entrez ID in the gene set	Entrez ID in the DEG list	Pearson's r
-p53 signaling pathway	6241	6241	1.0
-p53 signaling pathway	891	891	1.0
 p53 signaling pathway	983	983	1.0
+p53 signaling pathway	6241	6241	1.0
 p53 signaling pathway	9133	9133	1.0
+p53 signaling pathway	891	891	1.0
 p53 signaling pathway	6241	64151	0.957943
 p53 signaling pathway	6241	11130	0.955961
 p53 signaling pathway	983	890	0.953441
@@ -33,8 +33,8 @@ p53 signaling pathway	983	51203	0.923651
 p53 signaling pathway	891	11004	0.923555
 p53 signaling pathway	6241	990	0.922577
 p53 signaling pathway	891	29089	0.922544
-p53 signaling pathway	9133	891	0.921541
 p53 signaling pathway	891	9133	0.921541
+p53 signaling pathway	9133	891	0.921541
 p53 signaling pathway	6241	22974	0.920885
 p53 signaling pathway	9133	890	0.919148
 p53 signaling pathway	9133	332	0.917026
@@ -42,8 +42,8 @@ p53 signaling pathway	6241	9787	0.91682
 p53 signaling pathway	983	7298	0.916812
 p53 signaling pathway	6241	51203	0.916741
 p53 signaling pathway	6241	8318	0.916402
-p53 signaling pathway	983	6241	0.91639
 p53 signaling pathway	6241	983	0.91639
+p53 signaling pathway	983	6241	0.91639
 p53 signaling pathway	9133	9787	0.916354
 p53 signaling pathway	6241	7298	0.916342
 p53 signaling pathway	6241	11004	0.916054
@@ -69,8 +69,8 @@ p53 signaling pathway	9133	991	0.905121
 p53 signaling pathway	891	699	0.904746
 p53 signaling pathway	9133	9232	0.90146
 p53 signaling pathway	891	83540	0.901055
-p53 signaling pathway	983	891	0.900653
 p53 signaling pathway	891	983	0.900653
+p53 signaling pathway	983	891	0.900653
 p53 signaling pathway	891	9232	0.900187
 p53 signaling pathway	983	7153	0.898857
 p53 signaling pathway	6241	55789	0.897812
@@ -223,10 +223,10 @@ p53 signaling pathway	983	6518	0.706614
 p53 signaling pathway	983	4175	0.703403
 p53 signaling pathway	6241	3662	0.700537
 p53 signaling pathway	9133	8836	0.700505
-Ubiquitin mediated proteolysis	991	991	1.0
 Ubiquitin mediated proteolysis	6923	6923	1.0
-Ubiquitin mediated proteolysis	8916	8916	1.0
 Ubiquitin mediated proteolysis	11065	11065	1.0
+Ubiquitin mediated proteolysis	991	991	1.0
+Ubiquitin mediated proteolysis	8916	8916	1.0
 Ubiquitin mediated proteolysis	8916	23389	0.976271
 Ubiquitin mediated proteolysis	8916	254225	0.963858
 Ubiquitin mediated proteolysis	8916	120892	0.959004
@@ -322,8 +322,8 @@ Ubiquitin mediated proteolysis	991	10615	0.795596
 Ubiquitin mediated proteolysis	11065	8318	0.795429
 Ubiquitin mediated proteolysis	11065	79682	0.794221
 Ubiquitin mediated proteolysis	991	890	0.793725
-Ubiquitin mediated proteolysis	11065	991	0.793079
 Ubiquitin mediated proteolysis	991	11065	0.793079
+Ubiquitin mediated proteolysis	11065	991	0.793079
 Ubiquitin mediated proteolysis	8916	351	0.792931
 Ubiquitin mediated proteolysis	991	990	0.791457
 Ubiquitin mediated proteolysis	991	3925	0.791257
@@ -496,8 +496,119 @@ Toll-like receptor signaling pathway	6772	19	0.738642
 Toll-like receptor signaling pathway	6772	130589	0.733066
 Toll-like receptor signaling pathway	6772	162394	0.721093
 Toll-like receptor signaling pathway	6772	29126	0.719703
-Th17 cell differentiation	6772	6772	1.0
+Thyroid hormone signaling pathway	23389	23389	1.0
+Thyroid hormone signaling pathway	3690	3690	1.0
+Thyroid hormone signaling pathway	6772	6772	1.0
+Thyroid hormone signaling pathway	23389	8916	0.976271
+Thyroid hormone signaling pathway	6772	80830	0.962769
+Thyroid hormone signaling pathway	23389	254225	0.962192
+Thyroid hormone signaling pathway	23389	100132406	0.955464
+Thyroid hormone signaling pathway	6772	54625	0.953744
+Thyroid hormone signaling pathway	6772	151636	0.947775
+Thyroid hormone signaling pathway	6772	219285	0.94673
+Thyroid hormone signaling pathway	6772	83666	0.944406
+Thyroid hormone signaling pathway	6772	2633	0.93929
+Thyroid hormone signaling pathway	23389	120892	0.938207
+Thyroid hormone signaling pathway	6772	55601	0.93662
+Thyroid hormone signaling pathway	23389	1997	0.930696
+Thyroid hormone signaling pathway	3690	22885	0.929332
+Thyroid hormone signaling pathway	23389	444882	0.92928
+Thyroid hormone signaling pathway	23389	80267	0.928223
+Thyroid hormone signaling pathway	23389	25832	0.927734
+Thyroid hormone signaling pathway	6772	3433	0.926004
+Thyroid hormone signaling pathway	6772	23586	0.922216
+Thyroid hormone signaling pathway	23389	140609	0.920697
+Thyroid hormone signaling pathway	6772	85363	0.920207
+Thyroid hormone signaling pathway	6772	57674	0.915284
+Thyroid hormone signaling pathway	23389	23347	0.914928
+Thyroid hormone signaling pathway	6772	64135	0.914559
+Thyroid hormone signaling pathway	23389	80315	0.914104
+Thyroid hormone signaling pathway	6772	6773	0.912497
+Thyroid hormone signaling pathway	6772	24138	0.912404
+Thyroid hormone signaling pathway	3690	5577	0.909586
+Thyroid hormone signaling pathway	23389	55196	0.908796
+Thyroid hormone signaling pathway	6772	54809	0.907513
+Thyroid hormone signaling pathway	6772	2635	0.90529
+Thyroid hormone signaling pathway	23389	57162	0.900847
+Thyroid hormone signaling pathway	6772	54877	0.899291
+Thyroid hormone signaling pathway	6772	10346	0.897606
+Thyroid hormone signaling pathway	23389	1955	0.897347
+Thyroid hormone signaling pathway	6772	4940	0.888517
+Thyroid hormone signaling pathway	23389	6868	0.888345
+Thyroid hormone signaling pathway	23389	153222	0.882573
+Thyroid hormone signaling pathway	3690	6678	0.882208
+Thyroid hormone signaling pathway	6772	3437	0.881833
+Thyroid hormone signaling pathway	6772	115362	0.881629
+Thyroid hormone signaling pathway	6772	5610	0.869897
+Thyroid hormone signaling pathway	6772	54739	0.867537
+Thyroid hormone signaling pathway	23389	219988	0.866509
+Thyroid hormone signaling pathway	6772	94240	0.86634
+Thyroid hormone signaling pathway	6772	129607	0.862936
+Thyroid hormone signaling pathway	23389	101060226	0.858193
+Thyroid hormone signaling pathway	23389	9663	0.856614
+Thyroid hormone signaling pathway	23389	54464	0.856141
+Thyroid hormone signaling pathway	6772	114908	0.856091
+Thyroid hormone signaling pathway	6772	4939	0.852331
+Thyroid hormone signaling pathway	6772	54464	0.845235
+Thyroid hormone signaling pathway	6772	10964	0.842583
+Thyroid hormone signaling pathway	3690	1950	0.838787
+Thyroid hormone signaling pathway	6772	10561	0.838096
+Thyroid hormone signaling pathway	6772	115361	0.837413
+Thyroid hormone signaling pathway	23389	51439	0.836296
+Thyroid hormone signaling pathway	6772	51191	0.83155
+Thyroid hormone signaling pathway	6772	219988	0.829793
+Thyroid hormone signaling pathway	6772	84333	0.827756
+Thyroid hormone signaling pathway	23389	54407	0.82664
+Thyroid hormone signaling pathway	23389	81027	0.82463
+Thyroid hormone signaling pathway	6772	4938	0.823039
+Thyroid hormone signaling pathway	23389	734	0.822259
+Thyroid hormone signaling pathway	6772	11119	0.821973
+Thyroid hormone signaling pathway	6772	3434	0.821806
+Thyroid hormone signaling pathway	6772	64108	0.821121
+Thyroid hormone signaling pathway	6772	91543	0.821111
+Thyroid hormone signaling pathway	23389	64407	0.819169
+Thyroid hormone signaling pathway	6772	135112	0.818673
+Thyroid hormone signaling pathway	6772	51439	0.813892
+Thyroid hormone signaling pathway	23389	147339	0.813128
+Thyroid hormone signaling pathway	23389	351	0.812901
+Thyroid hormone signaling pathway	3690	2162	0.808871
+Thyroid hormone signaling pathway	23389	19	0.804803
+Thyroid hormone signaling pathway	23389	92906	0.801545
+Thyroid hormone signaling pathway	3690	23531	0.799362
+Thyroid hormone signaling pathway	23389	6782	0.798585
+Thyroid hormone signaling pathway	6772	219537	0.798276
+Thyroid hormone signaling pathway	6772	81030	0.789652
+Thyroid hormone signaling pathway	3690	84174	0.78812
+Thyroid hormone signaling pathway	6772	23347	0.783231
+Thyroid hormone signaling pathway	3690	81027	0.782156
+Thyroid hormone signaling pathway	6772	4599	0.782155
+Thyroid hormone signaling pathway	6772	116071	0.779465
+Thyroid hormone signaling pathway	6772	8638	0.7788
+Thyroid hormone signaling pathway	23389	55454	0.77036
+Thyroid hormone signaling pathway	23389	79598	0.768802
+Thyroid hormone signaling pathway	6772	92906	0.768238
+Thyroid hormone signaling pathway	6772	710	0.76536
+Thyroid hormone signaling pathway	6772	440068	0.760715
+Thyroid hormone signaling pathway	23389	9334	0.759784
+Thyroid hormone signaling pathway	23389	2162	0.7588
+Thyroid hormone signaling pathway	6772	10384	0.752686
+Thyroid hormone signaling pathway	6772	55008	0.748724
+Thyroid hormone signaling pathway	6772	11274	0.748023
+Thyroid hormone signaling pathway	23389	4051	0.746508
+Thyroid hormone signaling pathway	23389	84333	0.744225
+Thyroid hormone signaling pathway	6772	1997	0.741222
+Thyroid hormone signaling pathway	6772	19	0.738642
+Thyroid hormone signaling pathway	23389	5577	0.734017
+Thyroid hormone signaling pathway	6772	130589	0.733066
+Thyroid hormone signaling pathway	6772	162394	0.721093
+Thyroid hormone signaling pathway	6772	29126	0.719703
+Thyroid hormone signaling pathway	23389	54809	0.719599
+Thyroid hormone signaling pathway	23389	79056	0.714494
+Thyroid hormone signaling pathway	23389	4311	0.703904
+Thyroid hormone signaling pathway	23389	348262	-0.702589
+Thyroid hormone signaling pathway	23389	375298	-0.798992
 Th17 cell differentiation	3662	3662	1.0
+Th17 cell differentiation	6772	6772	1.0
 Th17 cell differentiation	6772	80830	0.962769
 Th17 cell differentiation	6772	54625	0.953744
 Th17 cell differentiation	3662	65244	0.950413
@@ -706,11 +817,11 @@ Signaling pathways regulating pluripotency of stem cells	84333	6782	0.728769
 Signaling pathways regulating pluripotency of stem cells	84333	8343	0.701694
 Signaling pathways regulating pluripotency of stem cells	84333	23531	0.700274
 Signaling pathways regulating pluripotency of stem cells	84333	706	-0.74641
-RNA degradation	54464	54464	1.0
 RNA degradation	219988	219988	1.0
+RNA degradation	54464	54464	1.0
 RNA degradation	219988	1997	0.953121
-RNA degradation	219988	54464	0.94346
 RNA degradation	54464	219988	0.94346
+RNA degradation	219988	54464	0.94346
 RNA degradation	219988	254225	0.930426
 RNA degradation	219988	23347	0.929407
 RNA degradation	54464	1997	0.928039
@@ -943,10 +1054,10 @@ RIG-I-like receptor signaling pathway	23586	2537	0.714891
 RIG-I-like receptor signaling pathway	64135	51439	0.710765
 RIG-I-like receptor signaling pathway	23586	6614	0.710452
 RIG-I-like receptor signaling pathway	23586	29126	0.708005
-Pyrimidine metabolism	6241	6241	1.0
-Pyrimidine metabolism	129607	129607	1.0
 Pyrimidine metabolism	7298	7298	1.0
 Pyrimidine metabolism	7083	7083	1.0
+Pyrimidine metabolism	6241	6241	1.0
+Pyrimidine metabolism	129607	129607	1.0
 Pyrimidine metabolism	129607	91543	0.98248
 Pyrimidine metabolism	129607	10561	0.975243
 Pyrimidine metabolism	129607	10964	0.97181
@@ -982,8 +1093,8 @@ Pyrimidine metabolism	7298	983	0.916812
 Pyrimidine metabolism	6241	51203	0.916741
 Pyrimidine metabolism	6241	8318	0.916402
 Pyrimidine metabolism	6241	983	0.91639
-Pyrimidine metabolism	7298	6241	0.916342
 Pyrimidine metabolism	6241	7298	0.916342
+Pyrimidine metabolism	7298	6241	0.916342
 Pyrimidine metabolism	6241	11004	0.916054
 Pyrimidine metabolism	7083	9212	0.915844
 Pyrimidine metabolism	7298	9133	0.915433
@@ -1127,8 +1238,8 @@ Pyrimidine metabolism	6241	7184	0.739684
 Pyrimidine metabolism	129607	115362	0.734264
 Pyrimidine metabolism	7083	6941	0.73104
 Pyrimidine metabolism	7083	55355	0.731031
-Pyrimidine metabolism	7083	6241	0.728136
 Pyrimidine metabolism	6241	7083	0.728136
+Pyrimidine metabolism	7083	6241	0.728136
 Pyrimidine metabolism	129607	11119	0.72758
 Pyrimidine metabolism	6241	1719	0.727432
 Pyrimidine metabolism	129607	115361	0.725903
@@ -1211,12 +1322,12 @@ Purine metabolism	6241	90701	0.715383
 Purine metabolism	6241	81618	0.714777
 Purine metabolism	6241	608	0.711614
 Purine metabolism	6241	3662	0.700537
-Protein processing in endoplasmic reticulum	81567	81567	1.0
-Protein processing in endoplasmic reticulum	5610	5610	1.0
-Protein processing in endoplasmic reticulum	7184	7184	1.0
-Protein processing in endoplasmic reticulum	3998	3998	1.0
 Protein processing in endoplasmic reticulum	80267	80267	1.0
+Protein processing in endoplasmic reticulum	7184	7184	1.0
+Protein processing in endoplasmic reticulum	5610	5610	1.0
 Protein processing in endoplasmic reticulum	91319	91319	1.0
+Protein processing in endoplasmic reticulum	81567	81567	1.0
+Protein processing in endoplasmic reticulum	3998	3998	1.0
 Protein processing in endoplasmic reticulum	3998	9697	0.953961
 Protein processing in endoplasmic reticulum	3998	65244	0.95017
 Protein processing in endoplasmic reticulum	7184	65244	0.949106
@@ -1247,8 +1358,8 @@ Protein processing in endoplasmic reticulum	5610	85363	0.90861
 Protein processing in endoplasmic reticulum	80267	1997	0.908226
 Protein processing in endoplasmic reticulum	91319	81618	0.907466
 Protein processing in endoplasmic reticulum	81567	65244	0.905977
-Protein processing in endoplasmic reticulum	7184	81567	0.903213
 Protein processing in endoplasmic reticulum	81567	7184	0.903213
+Protein processing in endoplasmic reticulum	7184	81567	0.903213
 Protein processing in endoplasmic reticulum	5610	151636	0.90296
 Protein processing in endoplasmic reticulum	5610	54877	0.902425
 Protein processing in endoplasmic reticulum	80267	23347	0.901752
@@ -1317,8 +1428,8 @@ Protein processing in endoplasmic reticulum	91319	3493	0.850839
 Protein processing in endoplasmic reticulum	5610	51439	0.850613
 Protein processing in endoplasmic reticulum	7184	54855	0.847454
 Protein processing in endoplasmic reticulum	91319	3503	0.84716
-Protein processing in endoplasmic reticulum	91319	81567	0.845354
 Protein processing in endoplasmic reticulum	81567	91319	0.845354
+Protein processing in endoplasmic reticulum	91319	81567	0.845354
 Protein processing in endoplasmic reticulum	91319	90701	0.8441
 Protein processing in endoplasmic reticulum	7184	699	0.844056
 Protein processing in endoplasmic reticulum	3998	5450	0.842358
@@ -1591,18 +1702,18 @@ Prolactin signaling pathway	6772	19	0.738642
 Prolactin signaling pathway	6772	130589	0.733066
 Prolactin signaling pathway	6772	162394	0.721093
 Prolactin signaling pathway	6772	29126	0.719703
-Progesterone-mediated oocyte maturation	890	890	1.0
-Progesterone-mediated oocyte maturation	891	891	1.0
+Progesterone-mediated oocyte maturation	699	699	1.0
 Progesterone-mediated oocyte maturation	983	983	1.0
+Progesterone-mediated oocyte maturation	80315	80315	1.0
+Progesterone-mediated oocyte maturation	890	890	1.0
 Progesterone-mediated oocyte maturation	8900	8900	1.0
 Progesterone-mediated oocyte maturation	9133	9133	1.0
-Progesterone-mediated oocyte maturation	699	699	1.0
-Progesterone-mediated oocyte maturation	80315	80315	1.0
+Progesterone-mediated oocyte maturation	891	891	1.0
 Progesterone-mediated oocyte maturation	699	79801	0.969024
 Progesterone-mediated oocyte maturation	890	64151	0.964082
 Progesterone-mediated oocyte maturation	699	990	0.9614
-Progesterone-mediated oocyte maturation	983	890	0.953441
 Progesterone-mediated oocyte maturation	890	983	0.953441
+Progesterone-mediated oocyte maturation	983	890	0.953441
 Progesterone-mediated oocyte maturation	890	55789	0.951885
 Progesterone-mediated oocyte maturation	890	3832	0.94935
 Progesterone-mediated oocyte maturation	983	9787	0.946395
@@ -1642,8 +1753,8 @@ Progesterone-mediated oocyte maturation	890	11004	0.924303
 Progesterone-mediated oocyte maturation	983	51203	0.923651
 Progesterone-mediated oocyte maturation	891	11004	0.923555
 Progesterone-mediated oocyte maturation	891	29089	0.922544
-Progesterone-mediated oocyte maturation	9133	891	0.921541
 Progesterone-mediated oocyte maturation	891	9133	0.921541
+Progesterone-mediated oocyte maturation	9133	891	0.921541
 Progesterone-mediated oocyte maturation	890	11130	0.921064
 Progesterone-mediated oocyte maturation	890	10615	0.920591
 Progesterone-mediated oocyte maturation	9133	890	0.919148
@@ -1680,14 +1791,14 @@ Progesterone-mediated oocyte maturation	9133	55355	0.906455
 Progesterone-mediated oocyte maturation	699	3161	0.906122
 Progesterone-mediated oocyte maturation	9133	991	0.905121
 Progesterone-mediated oocyte maturation	699	3832	0.904761
-Progesterone-mediated oocyte maturation	699	891	0.904746
 Progesterone-mediated oocyte maturation	891	699	0.904746
+Progesterone-mediated oocyte maturation	699	891	0.904746
 Progesterone-mediated oocyte maturation	80315	54407	0.904224
 Progesterone-mediated oocyte maturation	80315	254225	0.901701
 Progesterone-mediated oocyte maturation	9133	9232	0.90146
 Progesterone-mediated oocyte maturation	891	83540	0.901055
-Progesterone-mediated oocyte maturation	983	891	0.900653
 Progesterone-mediated oocyte maturation	891	983	0.900653
+Progesterone-mediated oocyte maturation	983	891	0.900653
 Progesterone-mediated oocyte maturation	891	9232	0.900187
 Progesterone-mediated oocyte maturation	983	7153	0.898857
 Progesterone-mediated oocyte maturation	891	55355	0.896548
@@ -1699,8 +1810,8 @@ Progesterone-mediated oocyte maturation	699	494143	0.894897
 Progesterone-mediated oocyte maturation	891	55789	0.892413
 Progesterone-mediated oocyte maturation	891	1033	0.891675
 Progesterone-mediated oocyte maturation	983	55165	0.89083
-Progesterone-mediated oocyte maturation	699	890	0.890629
 Progesterone-mediated oocyte maturation	890	699	0.890629
+Progesterone-mediated oocyte maturation	699	890	0.890629
 Progesterone-mediated oocyte maturation	890	9055	0.890331
 Progesterone-mediated oocyte maturation	80315	64407	0.890188
 Progesterone-mediated oocyte maturation	891	2237	0.887321
@@ -1748,8 +1859,8 @@ Progesterone-mediated oocyte maturation	891	51053	0.861711
 Progesterone-mediated oocyte maturation	699	65244	0.861711
 Progesterone-mediated oocyte maturation	9133	51203	0.860777
 Progesterone-mediated oocyte maturation	699	51203	0.859594
-Progesterone-mediated oocyte maturation	699	983	0.859472
 Progesterone-mediated oocyte maturation	983	699	0.859472
+Progesterone-mediated oocyte maturation	699	983	0.859472
 Progesterone-mediated oocyte maturation	699	83540	0.859043
 Progesterone-mediated oocyte maturation	891	51203	0.856927
 Progesterone-mediated oocyte maturation	699	22974	0.856876
@@ -1773,8 +1884,8 @@ Progesterone-mediated oocyte maturation	80315	219988	0.84737
 Progesterone-mediated oocyte maturation	983	9232	0.847042
 Progesterone-mediated oocyte maturation	891	6941	0.846639
 Progesterone-mediated oocyte maturation	890	29089	0.845692
-Progesterone-mediated oocyte maturation	699	9133	0.845106
 Progesterone-mediated oocyte maturation	9133	699	0.845106
+Progesterone-mediated oocyte maturation	699	9133	0.845106
 Progesterone-mediated oocyte maturation	699	8318	0.844353
 Progesterone-mediated oocyte maturation	699	7184	0.844056
 Progesterone-mediated oocyte maturation	699	55507	0.844049
@@ -2058,13 +2169,13 @@ Pertussis	710	440068	0.720041
 Pertussis	710	151636	0.711372
 Pertussis	710	57674	0.705528
 Pertussis	710	219285	0.701429
-Oocyte meiosis	991	991	1.0
-Oocyte meiosis	891	891	1.0
+Oocyte meiosis	699	699	1.0
 Oocyte meiosis	983	983	1.0
+Oocyte meiosis	80315	80315	1.0
 Oocyte meiosis	9232	9232	1.0
 Oocyte meiosis	9133	9133	1.0
-Oocyte meiosis	699	699	1.0
-Oocyte meiosis	80315	80315	1.0
+Oocyte meiosis	891	891	1.0
+Oocyte meiosis	991	991	1.0
 Oocyte meiosis	699	79801	0.969024
 Oocyte meiosis	699	990	0.9614
 Oocyte meiosis	983	890	0.953441
@@ -2098,8 +2209,8 @@ Oocyte meiosis	9133	1033	0.925062
 Oocyte meiosis	983	51203	0.923651
 Oocyte meiosis	891	11004	0.923555
 Oocyte meiosis	891	29089	0.922544
-Oocyte meiosis	9133	891	0.921541
 Oocyte meiosis	891	9133	0.921541
+Oocyte meiosis	9133	891	0.921541
 Oocyte meiosis	9133	890	0.919148
 Oocyte meiosis	9232	29089	0.918876
 Oocyte meiosis	699	9787	0.917797
@@ -2131,11 +2242,11 @@ Oocyte meiosis	699	55789	0.90737
 Oocyte meiosis	983	11130	0.906715
 Oocyte meiosis	9133	55355	0.906455
 Oocyte meiosis	699	3161	0.906122
-Oocyte meiosis	9133	991	0.905121
 Oocyte meiosis	991	9133	0.905121
+Oocyte meiosis	9133	991	0.905121
 Oocyte meiosis	699	3832	0.904761
-Oocyte meiosis	699	891	0.904746
 Oocyte meiosis	891	699	0.904746
+Oocyte meiosis	699	891	0.904746
 Oocyte meiosis	80315	54407	0.904224
 Oocyte meiosis	991	11004	0.902568
 Oocyte meiosis	80315	254225	0.901701
@@ -2143,16 +2254,16 @@ Oocyte meiosis	991	9212	0.901461
 Oocyte meiosis	9133	9232	0.90146
 Oocyte meiosis	9232	9133	0.90146
 Oocyte meiosis	891	83540	0.901055
-Oocyte meiosis	983	891	0.900653
 Oocyte meiosis	891	983	0.900653
-Oocyte meiosis	9232	891	0.900187
+Oocyte meiosis	983	891	0.900653
 Oocyte meiosis	891	9232	0.900187
+Oocyte meiosis	9232	891	0.900187
 Oocyte meiosis	983	7153	0.898857
 Oocyte meiosis	9232	332	0.898347
 Oocyte meiosis	891	55355	0.896548
 Oocyte meiosis	891	3832	0.896329
-Oocyte meiosis	9232	991	0.896067
 Oocyte meiosis	991	9232	0.896067
+Oocyte meiosis	9232	991	0.896067
 Oocyte meiosis	991	7083	0.895685
 Oocyte meiosis	9133	83540	0.895449
 Oocyte meiosis	983	9055	0.895311
@@ -2183,8 +2294,8 @@ Oocyte meiosis	891	113130	0.880622
 Oocyte meiosis	80315	80267	0.879715
 Oocyte meiosis	9232	113130	0.879569
 Oocyte meiosis	983	3833	0.878944
-Oocyte meiosis	891	991	0.878674
 Oocyte meiosis	991	891	0.878674
+Oocyte meiosis	891	991	0.878674
 Oocyte meiosis	9232	2237	0.877715
 Oocyte meiosis	983	11065	0.877245
 Oocyte meiosis	9133	11065	0.876649
@@ -2218,8 +2329,8 @@ Oocyte meiosis	9232	1033	0.861699
 Oocyte meiosis	9133	51203	0.860777
 Oocyte meiosis	991	1033	0.860585
 Oocyte meiosis	699	51203	0.859594
-Oocyte meiosis	699	983	0.859472
 Oocyte meiosis	983	699	0.859472
+Oocyte meiosis	699	983	0.859472
 Oocyte meiosis	699	83540	0.859043
 Oocyte meiosis	991	2237	0.858623
 Oocyte meiosis	991	6241	0.85834
@@ -2249,8 +2360,8 @@ Oocyte meiosis	9232	983	0.847042
 Oocyte meiosis	983	9232	0.847042
 Oocyte meiosis	891	6941	0.846639
 Oocyte meiosis	9232	10024	0.845762
-Oocyte meiosis	699	9133	0.845106
 Oocyte meiosis	9133	699	0.845106
+Oocyte meiosis	699	9133	0.845106
 Oocyte meiosis	991	51053	0.84495
 Oocyte meiosis	9232	22974	0.844627
 Oocyte meiosis	699	8318	0.844353
@@ -2291,8 +2402,8 @@ Oocyte meiosis	699	51053	0.821106
 Oocyte meiosis	891	11065	0.821029
 Oocyte meiosis	9232	4605	0.82
 Oocyte meiosis	983	4173	0.819217
-Oocyte meiosis	983	991	0.819157
 Oocyte meiosis	991	983	0.819157
+Oocyte meiosis	983	991	0.819157
 Oocyte meiosis	80315	92906	0.817184
 Oocyte meiosis	991	55355	0.815927
 Oocyte meiosis	9133	9055	0.81561
@@ -2344,15 +2455,15 @@ Oocyte meiosis	699	7298	0.786434
 Oocyte meiosis	699	608	0.786079
 Oocyte meiosis	891	9055	0.784244
 Oocyte meiosis	699	8836	0.783099
-Oocyte meiosis	699	991	0.779718
 Oocyte meiosis	991	699	0.779718
+Oocyte meiosis	699	991	0.779718
 Oocyte meiosis	9133	7083	0.779132
 Oocyte meiosis	80315	101060226	0.778458
 Oocyte meiosis	9232	55789	0.778059
 Oocyte meiosis	991	122509	0.777523
 Oocyte meiosis	699	22936	0.776858
-Oocyte meiosis	699	9232	0.775667
 Oocyte meiosis	9232	699	0.775667
+Oocyte meiosis	699	9232	0.775667
 Oocyte meiosis	80315	79598	0.775516
 Oocyte meiosis	991	6941	0.774161
 Oocyte meiosis	891	494143	0.770425
@@ -2435,10 +2546,10 @@ Oocyte meiosis	80315	374291	-0.770455
 Oocyte meiosis	80315	513	-0.770955
 Oocyte meiosis	80315	348262	-0.808636
 Oocyte meiosis	80315	375298	-0.812216
-Nucleotide metabolism	6241	6241	1.0
-Nucleotide metabolism	129607	129607	1.0
 Nucleotide metabolism	7298	7298	1.0
 Nucleotide metabolism	7083	7083	1.0
+Nucleotide metabolism	6241	6241	1.0
+Nucleotide metabolism	129607	129607	1.0
 Nucleotide metabolism	129607	91543	0.98248
 Nucleotide metabolism	129607	10561	0.975243
 Nucleotide metabolism	129607	10964	0.97181
@@ -2474,8 +2585,8 @@ Nucleotide metabolism	7298	983	0.916812
 Nucleotide metabolism	6241	51203	0.916741
 Nucleotide metabolism	6241	8318	0.916402
 Nucleotide metabolism	6241	983	0.91639
-Nucleotide metabolism	7298	6241	0.916342
 Nucleotide metabolism	6241	7298	0.916342
+Nucleotide metabolism	7298	6241	0.916342
 Nucleotide metabolism	6241	11004	0.916054
 Nucleotide metabolism	7083	9212	0.915844
 Nucleotide metabolism	7298	9133	0.915433
@@ -2619,8 +2730,8 @@ Nucleotide metabolism	6241	7184	0.739684
 Nucleotide metabolism	129607	115362	0.734264
 Nucleotide metabolism	7083	6941	0.73104
 Nucleotide metabolism	7083	55355	0.731031
-Nucleotide metabolism	7083	6241	0.728136
 Nucleotide metabolism	6241	7083	0.728136
+Nucleotide metabolism	7083	6241	0.728136
 Nucleotide metabolism	129607	11119	0.72758
 Nucleotide metabolism	6241	1719	0.727432
 Nucleotide metabolism	129607	115361	0.725903
@@ -2799,10 +2910,10 @@ Non-homologous end-joining	2237	952	0.71748
 Non-homologous end-joining	2237	5450	0.713514
 Non-homologous end-joining	2237	51237	0.707206
 Non-homologous end-joining	2237	2731	0.706876
-Necroptosis	81030	81030	1.0
+Necroptosis	6773	6773	1.0
 Necroptosis	5610	5610	1.0
 Necroptosis	6772	6772	1.0
-Necroptosis	6773	6773	1.0
+Necroptosis	81030	81030	1.0
 Necroptosis	6772	80830	0.962769
 Necroptosis	6773	54625	0.953874
 Necroptosis	6772	54625	0.953744
@@ -2829,8 +2940,8 @@ Necroptosis	6772	64135	0.914559
 Necroptosis	6773	2635	0.91402
 Necroptosis	6773	219285	0.913742
 Necroptosis	81030	3437	0.913582
-Necroptosis	6773	6772	0.912497
 Necroptosis	6772	6773	0.912497
+Necroptosis	6773	6772	0.912497
 Necroptosis	6772	24138	0.912404
 Necroptosis	81030	54739	0.911624
 Necroptosis	6773	57674	0.911298
@@ -2903,8 +3014,8 @@ Necroptosis	6773	54877	0.856126
 Necroptosis	6772	114908	0.856091
 Necroptosis	5610	129607	0.853372
 Necroptosis	5610	64135	0.852798
-Necroptosis	6773	81030	0.85266
 Necroptosis	81030	6773	0.85266
+Necroptosis	6773	81030	0.85266
 Necroptosis	6772	4939	0.852331
 Necroptosis	81030	54877	0.852261
 Necroptosis	5610	51439	0.850613
@@ -2944,8 +3055,8 @@ Necroptosis	6773	710	0.814186
 Necroptosis	6772	51439	0.813892
 Necroptosis	5610	51191	0.813153
 Necroptosis	5610	4939	0.8119
-Necroptosis	6773	5610	0.810364
 Necroptosis	5610	6773	0.810364
+Necroptosis	6773	5610	0.810364
 Necroptosis	81030	6614	0.809505
 Necroptosis	5610	54739	0.807784
 Necroptosis	6773	130589	0.806819
@@ -2960,13 +3071,13 @@ Necroptosis	5610	3434	0.794162
 Necroptosis	81030	151636	0.793708
 Necroptosis	5610	2635	0.793541
 Necroptosis	6773	51513	0.792009
-Necroptosis	6772	81030	0.789652
 Necroptosis	81030	6772	0.789652
+Necroptosis	6772	81030	0.789652
 Necroptosis	5610	91543	0.788421
 Necroptosis	81030	85363	0.788412
 Necroptosis	81030	219537	0.786863
-Necroptosis	5610	81030	0.786373
 Necroptosis	81030	5610	0.786373
+Necroptosis	5610	81030	0.786373
 Necroptosis	5610	23347	0.786011
 Necroptosis	6773	162394	0.785797
 Necroptosis	6773	6614	0.784825
@@ -3029,21 +3140,21 @@ Necroptosis	5610	8343	0.709193
 Necroptosis	6773	9381	0.706512
 Necroptosis	5610	3017	0.701571
 Necroptosis	6773	5414	0.701451
-NOD-like receptor signaling pathway	820	820	1.0
 NOD-like receptor signaling pathway	1667	1667	1.0
-NOD-like receptor signaling pathway	140609	140609	1.0
-NOD-like receptor signaling pathway	1668	1668	1.0
 NOD-like receptor signaling pathway	115361	115361	1.0
 NOD-like receptor signaling pathway	4940	4940	1.0
-NOD-like receptor signaling pathway	2635	2635	1.0
-NOD-like receptor signaling pathway	2633	2633	1.0
-NOD-like receptor signaling pathway	6772	6772	1.0
-NOD-like receptor signaling pathway	115362	115362	1.0
 NOD-like receptor signaling pathway	6773	6773	1.0
-NOD-like receptor signaling pathway	4939	4939	1.0
-NOD-like receptor signaling pathway	1669	1669	1.0
-NOD-like receptor signaling pathway	728358	728358	1.0
+NOD-like receptor signaling pathway	2635	2635	1.0
 NOD-like receptor signaling pathway	4938	4938	1.0
+NOD-like receptor signaling pathway	2633	2633	1.0
+NOD-like receptor signaling pathway	820	820	1.0
+NOD-like receptor signaling pathway	1669	1669	1.0
+NOD-like receptor signaling pathway	4939	4939	1.0
+NOD-like receptor signaling pathway	728358	728358	1.0
+NOD-like receptor signaling pathway	115362	115362	1.0
+NOD-like receptor signaling pathway	1668	1668	1.0
+NOD-like receptor signaling pathway	140609	140609	1.0
+NOD-like receptor signaling pathway	6772	6772	1.0
 NOD-like receptor signaling pathway	4939	54739	0.978735
 NOD-like receptor signaling pathway	4939	4940	0.974654
 NOD-like receptor signaling pathway	4940	4939	0.974654
@@ -3052,8 +3163,8 @@ NOD-like receptor signaling pathway	4940	10964	0.964401
 NOD-like receptor signaling pathway	4940	129607	0.964395
 NOD-like receptor signaling pathway	1669	1511	0.963415
 NOD-like receptor signaling pathway	6772	80830	0.962769
-NOD-like receptor signaling pathway	4938	4939	0.961481
 NOD-like receptor signaling pathway	4939	4938	0.961481
+NOD-like receptor signaling pathway	4938	4939	0.961481
 NOD-like receptor signaling pathway	4940	55601	0.959016
 NOD-like receptor signaling pathway	4939	10964	0.958307
 NOD-like receptor signaling pathway	4940	64135	0.957107
@@ -3138,13 +3249,13 @@ NOD-like receptor signaling pathway	4938	4599	0.916003
 NOD-like receptor signaling pathway	6772	57674	0.915284
 NOD-like receptor signaling pathway	6772	64135	0.914559
 NOD-like receptor signaling pathway	2633	54625	0.914152
-NOD-like receptor signaling pathway	6773	2635	0.91402
 NOD-like receptor signaling pathway	2635	6773	0.91402
+NOD-like receptor signaling pathway	6773	2635	0.91402
 NOD-like receptor signaling pathway	6773	219285	0.913742
 NOD-like receptor signaling pathway	140609	54407	0.91299
 NOD-like receptor signaling pathway	728358	4353	0.912517
-NOD-like receptor signaling pathway	6773	6772	0.912497
 NOD-like receptor signaling pathway	6772	6773	0.912497
+NOD-like receptor signaling pathway	6773	6772	0.912497
 NOD-like receptor signaling pathway	6772	24138	0.912404
 NOD-like receptor signaling pathway	4940	55008	0.912182
 NOD-like receptor signaling pathway	4940	57674	0.911586
@@ -3163,8 +3274,8 @@ NOD-like receptor signaling pathway	115362	80830	0.907082
 NOD-like receptor signaling pathway	4940	64108	0.90654
 NOD-like receptor signaling pathway	4938	55008	0.905843
 NOD-like receptor signaling pathway	2635	64135	0.905632
-NOD-like receptor signaling pathway	6773	2633	0.905402
 NOD-like receptor signaling pathway	2633	6773	0.905402
+NOD-like receptor signaling pathway	6773	2633	0.905402
 NOD-like receptor signaling pathway	6772	2635	0.90529
 NOD-like receptor signaling pathway	2635	6772	0.90529
 NOD-like receptor signaling pathway	2635	54625	0.905228
@@ -3223,8 +3334,8 @@ NOD-like receptor signaling pathway	115361	80830	0.882295
 NOD-like receptor signaling pathway	6772	3437	0.881833
 NOD-like receptor signaling pathway	728358	1667	0.881656
 NOD-like receptor signaling pathway	1667	728358	0.881656
-NOD-like receptor signaling pathway	115362	6772	0.881629
 NOD-like receptor signaling pathway	6772	115362	0.881629
+NOD-like receptor signaling pathway	115362	6772	0.881629
 NOD-like receptor signaling pathway	6773	129607	0.880908
 NOD-like receptor signaling pathway	4938	94240	0.880401
 NOD-like receptor signaling pathway	4940	85363	0.880092
@@ -3295,8 +3406,8 @@ NOD-like receptor signaling pathway	115361	64135	0.853616
 NOD-like receptor signaling pathway	140609	55454	0.852797
 NOD-like receptor signaling pathway	6773	81030	0.85266
 NOD-like receptor signaling pathway	4939	85363	0.852645
-NOD-like receptor signaling pathway	4939	6772	0.852331
 NOD-like receptor signaling pathway	6772	4939	0.852331
+NOD-like receptor signaling pathway	4939	6772	0.852331
 NOD-like receptor signaling pathway	140609	734	0.852132
 NOD-like receptor signaling pathway	140609	147339	0.850116
 NOD-like receptor signaling pathway	2633	24138	0.850039
@@ -3317,8 +3428,8 @@ NOD-like receptor signaling pathway	2635	3437	0.84381
 NOD-like receptor signaling pathway	4940	54809	0.843614
 NOD-like receptor signaling pathway	728358	10321	0.842695
 NOD-like receptor signaling pathway	6772	10964	0.842583
-NOD-like receptor signaling pathway	4938	2633	0.841588
 NOD-like receptor signaling pathway	2633	4938	0.841588
+NOD-like receptor signaling pathway	4938	2633	0.841588
 NOD-like receptor signaling pathway	4938	6614	0.841183
 NOD-like receptor signaling pathway	1667	4057	0.84075
 NOD-like receptor signaling pathway	4940	710	0.840715
@@ -3345,8 +3456,8 @@ NOD-like receptor signaling pathway	4940	6614	0.832276
 NOD-like receptor signaling pathway	6772	51191	0.83155
 NOD-like receptor signaling pathway	4938	80830	0.831471
 NOD-like receptor signaling pathway	2635	83666	0.831415
-NOD-like receptor signaling pathway	6773	115362	0.831229
 NOD-like receptor signaling pathway	115362	6773	0.831229
+NOD-like receptor signaling pathway	6773	115362	0.831229
 NOD-like receptor signaling pathway	2635	11119	0.83098
 NOD-like receptor signaling pathway	115362	2635	0.83041
 NOD-like receptor signaling pathway	2635	115362	0.83041
@@ -3366,8 +3477,8 @@ NOD-like receptor signaling pathway	115361	23586	0.825487
 NOD-like receptor signaling pathway	4940	219537	0.825344
 NOD-like receptor signaling pathway	115362	219285	0.824687
 NOD-like receptor signaling pathway	4938	219285	0.823226
-NOD-like receptor signaling pathway	4938	6772	0.823039
 NOD-like receptor signaling pathway	6772	4938	0.823039
+NOD-like receptor signaling pathway	4938	6772	0.823039
 NOD-like receptor signaling pathway	2635	11274	0.822989
 NOD-like receptor signaling pathway	4939	130589	0.82274
 NOD-like receptor signaling pathway	4940	115361	0.822425
@@ -3488,8 +3599,8 @@ NOD-like receptor signaling pathway	115361	54809	0.778899
 NOD-like receptor signaling pathway	6772	8638	0.7788
 NOD-like receptor signaling pathway	4939	4061	0.778384
 NOD-like receptor signaling pathway	2633	11119	0.778195
-NOD-like receptor signaling pathway	1669	1668	0.777646
 NOD-like receptor signaling pathway	1668	1669	0.777646
+NOD-like receptor signaling pathway	1669	1668	0.777646
 NOD-like receptor signaling pathway	6773	8638	0.776947
 NOD-like receptor signaling pathway	4938	135112	0.776273
 NOD-like receptor signaling pathway	115362	4940	0.77596
@@ -3525,8 +3636,8 @@ NOD-like receptor signaling pathway	115362	24138	0.765936
 NOD-like receptor signaling pathway	1669	6037	0.76563
 NOD-like receptor signaling pathway	6772	710	0.76536
 NOD-like receptor signaling pathway	1668	1511	0.764701
-NOD-like receptor signaling pathway	1667	820	0.764452
 NOD-like receptor signaling pathway	820	1667	0.764452
+NOD-like receptor signaling pathway	1667	820	0.764452
 NOD-like receptor signaling pathway	4940	10384	0.764451
 NOD-like receptor signaling pathway	115362	84333	0.76408
 NOD-like receptor signaling pathway	4938	5610	0.762281
@@ -3549,8 +3660,8 @@ NOD-like receptor signaling pathway	1667	6037	0.75333
 NOD-like receptor signaling pathway	115361	24138	0.752967
 NOD-like receptor signaling pathway	6772	10384	0.752686
 NOD-like receptor signaling pathway	2633	10384	0.751942
-NOD-like receptor signaling pathway	4939	115362	0.751628
 NOD-like receptor signaling pathway	115362	4939	0.751628
+NOD-like receptor signaling pathway	4939	115362	0.751628
 NOD-like receptor signaling pathway	1669	6518	0.75044
 NOD-like receptor signaling pathway	115362	54809	0.749968
 NOD-like receptor signaling pathway	115362	54464	0.749467
@@ -3579,8 +3690,8 @@ NOD-like receptor signaling pathway	140609	81027	0.736282
 NOD-like receptor signaling pathway	728358	10562	0.73599
 NOD-like receptor signaling pathway	1667	1118	0.735699
 NOD-like receptor signaling pathway	2635	51513	0.735487
-NOD-like receptor signaling pathway	728358	1668	0.73522
 NOD-like receptor signaling pathway	1668	728358	0.73522
+NOD-like receptor signaling pathway	728358	1668	0.73522
 NOD-like receptor signaling pathway	115361	130589	0.734561
 NOD-like receptor signaling pathway	2633	11274	0.734478
 NOD-like receptor signaling pathway	115362	129607	0.734264
@@ -3596,8 +3707,8 @@ NOD-like receptor signaling pathway	2635	8638	0.729867
 NOD-like receptor signaling pathway	4939	3429	0.729713
 NOD-like receptor signaling pathway	115362	10964	0.729614
 NOD-like receptor signaling pathway	115362	10346	0.729393
-NOD-like receptor signaling pathway	4938	115362	0.729359
 NOD-like receptor signaling pathway	115362	4938	0.729359
+NOD-like receptor signaling pathway	4938	115362	0.729359
 NOD-like receptor signaling pathway	2633	55008	0.727805
 NOD-like receptor signaling pathway	115362	10561	0.727798
 NOD-like receptor signaling pathway	1669	10562	0.726139
@@ -3708,15 +3819,15 @@ NF-kappa B signaling pathway	23586	116071	0.730138
 NF-kappa B signaling pathway	23586	2537	0.714891
 NF-kappa B signaling pathway	23586	6614	0.710452
 NF-kappa B signaling pathway	23586	29126	0.708005
-Measles	4599	4599	1.0
-Measles	23586	23586	1.0
-Measles	5610	5610	1.0
 Measles	4940	4940	1.0
-Measles	6772	6772	1.0
+Measles	23586	23586	1.0
 Measles	6773	6773	1.0
+Measles	5610	5610	1.0
+Measles	4599	4599	1.0
+Measles	4938	4938	1.0
 Measles	4939	4939	1.0
 Measles	64135	64135	1.0
-Measles	4938	4938	1.0
+Measles	6772	6772	1.0
 Measles	4939	54739	0.978735
 Measles	4939	4940	0.974654
 Measles	4940	4939	0.974654
@@ -3724,8 +3835,8 @@ Measles	4940	54739	0.971035
 Measles	4940	10964	0.964401
 Measles	4940	129607	0.964395
 Measles	6772	80830	0.962769
-Measles	4938	4939	0.961481
 Measles	4939	4938	0.961481
+Measles	4938	4939	0.961481
 Measles	23586	151636	0.961111
 Measles	4940	55601	0.959016
 Measles	4939	10964	0.958307
@@ -3782,8 +3893,8 @@ Measles	64135	55601	0.936674
 Measles	6772	55601	0.93662
 Measles	4938	10964	0.936609
 Measles	64135	151636	0.935432
-Measles	4940	4599	0.935213
 Measles	4599	4940	0.935213
+Measles	4940	4599	0.935213
 Measles	4599	129607	0.934477
 Measles	4939	3437	0.934191
 Measles	4939	64108	0.933908
@@ -3819,8 +3930,8 @@ Measles	64135	129607	0.920423
 Measles	6772	85363	0.920207
 Measles	64135	10964	0.919048
 Measles	4938	11274	0.918615
-Measles	4940	23586	0.917558
 Measles	23586	4940	0.917558
+Measles	4940	23586	0.917558
 Measles	64135	85363	0.917294
 Measles	4938	51191	0.916918
 Measles	4938	4599	0.916003
@@ -3829,12 +3940,12 @@ Measles	5610	83666	0.915722
 Measles	23586	54809	0.915706
 Measles	4599	54739	0.915498
 Measles	6772	57674	0.915284
-Measles	64135	6772	0.914559
 Measles	6772	64135	0.914559
+Measles	64135	6772	0.914559
 Measles	6773	2635	0.91402
 Measles	6773	219285	0.913742
-Measles	6773	6772	0.912497
 Measles	6772	6773	0.912497
+Measles	6773	6772	0.912497
 Measles	6772	24138	0.912404
 Measles	4940	55008	0.912182
 Measles	64135	219285	0.911971
@@ -3848,8 +3959,8 @@ Measles	4940	54877	0.909858
 Measles	5610	85363	0.90861
 Measles	4599	2537	0.908189
 Measles	64135	2633	0.908138
-Measles	4938	64135	0.907562
 Measles	64135	4938	0.907562
+Measles	4938	64135	0.907562
 Measles	6772	54809	0.907513
 Measles	4940	64108	0.90654
 Measles	4938	55008	0.905843
@@ -3949,16 +4060,16 @@ Measles	4938	81030	0.865795
 Measles	64135	54809	0.865454
 Measles	4939	6614	0.865332
 Measles	4938	24138	0.863904
-Measles	6773	4599	0.863855
 Measles	4599	6773	0.863855
+Measles	6773	4599	0.863855
 Measles	5610	54625	0.863015
 Measles	6772	129607	0.862936
 Measles	5610	135112	0.862781
 Measles	4940	8638	0.862041
 Measles	4940	2633	0.861632
 Measles	4599	94240	0.860809
-Measles	4940	5610	0.860268
 Measles	5610	4940	0.860268
+Measles	4940	5610	0.860268
 Measles	4940	135112	0.8586
 Measles	5610	80830	0.858503
 Measles	6773	91543	0.857994
@@ -3977,8 +4088,8 @@ Measles	5610	64135	0.852798
 Measles	6773	81030	0.85266
 Measles	4939	85363	0.852645
 Measles	64135	94240	0.85245
-Measles	4939	6772	0.852331
 Measles	6772	4939	0.852331
+Measles	4939	6772	0.852331
 Measles	5610	51439	0.850613
 Measles	4938	2635	0.84989
 Measles	4938	23586	0.849839
@@ -4004,8 +4115,8 @@ Measles	4939	135112	0.840506
 Measles	64135	135112	0.840078
 Measles	4938	8638	0.839757
 Measles	23586	64108	0.839553
-Measles	23586	4599	0.839164
 Measles	4599	23586	0.839164
+Measles	23586	4599	0.839164
 Measles	4939	2633	0.838822
 Measles	6772	10561	0.838096
 Measles	6772	115361	0.837413
@@ -4030,8 +4141,8 @@ Measles	5610	3437	0.826214
 Measles	23586	115361	0.825487
 Measles	4940	219537	0.825344
 Measles	4938	219285	0.823226
-Measles	4938	6772	0.823039
 Measles	6772	4938	0.823039
+Measles	4938	6772	0.823039
 Measles	4939	130589	0.82274
 Measles	4940	115361	0.822425
 Measles	6772	11119	0.821973
@@ -4060,8 +4171,8 @@ Measles	5610	4939	0.8119
 Measles	64135	10384	0.811727
 Measles	4599	57674	0.811555
 Measles	4599	4061	0.810558
-Measles	6773	5610	0.810364
 Measles	5610	6773	0.810364
+Measles	6773	5610	0.810364
 Measles	4939	219537	0.809187
 Measles	4599	51513	0.809153
 Measles	4599	9381	0.808689
@@ -4119,8 +4230,8 @@ Measles	6772	116071	0.779465
 Measles	4938	130589	0.779461
 Measles	6772	8638	0.7788
 Measles	4939	4061	0.778384
-Measles	5610	4599	0.777927
 Measles	4599	5610	0.777927
+Measles	5610	4599	0.777927
 Measles	23586	54464	0.777121
 Measles	6773	8638	0.776947
 Measles	5610	84333	0.776818
@@ -4221,9 +4332,9 @@ Measles	6773	5414	0.701451
 Measles	4939	10346	0.700801
 Measles	4599	5414	0.7006
 Kaposi sarcoma-associated herpesvirus infection	1869	1869	1.0
+Kaposi sarcoma-associated herpesvirus infection	6773	6773	1.0
 Kaposi sarcoma-associated herpesvirus infection	5610	5610	1.0
 Kaposi sarcoma-associated herpesvirus infection	6772	6772	1.0
-Kaposi sarcoma-associated herpesvirus infection	6773	6773	1.0
 Kaposi sarcoma-associated herpesvirus infection	6772	80830	0.962769
 Kaposi sarcoma-associated herpesvirus infection	6773	54625	0.953874
 Kaposi sarcoma-associated herpesvirus infection	6772	54625	0.953744
@@ -4248,8 +4359,8 @@ Kaposi sarcoma-associated herpesvirus infection	6772	57674	0.915284
 Kaposi sarcoma-associated herpesvirus infection	6772	64135	0.914559
 Kaposi sarcoma-associated herpesvirus infection	6773	2635	0.91402
 Kaposi sarcoma-associated herpesvirus infection	6773	219285	0.913742
-Kaposi sarcoma-associated herpesvirus infection	6773	6772	0.912497
 Kaposi sarcoma-associated herpesvirus infection	6772	6773	0.912497
+Kaposi sarcoma-associated herpesvirus infection	6773	6772	0.912497
 Kaposi sarcoma-associated herpesvirus infection	6772	24138	0.912404
 Kaposi sarcoma-associated herpesvirus infection	6773	57674	0.911298
 Kaposi sarcoma-associated herpesvirus infection	5610	85363	0.90861
@@ -4335,8 +4446,8 @@ Kaposi sarcoma-associated herpesvirus infection	6773	710	0.814186
 Kaposi sarcoma-associated herpesvirus infection	6772	51439	0.813892
 Kaposi sarcoma-associated herpesvirus infection	5610	51191	0.813153
 Kaposi sarcoma-associated herpesvirus infection	5610	4939	0.8119
-Kaposi sarcoma-associated herpesvirus infection	6773	5610	0.810364
 Kaposi sarcoma-associated herpesvirus infection	5610	6773	0.810364
+Kaposi sarcoma-associated herpesvirus infection	6773	5610	0.810364
 Kaposi sarcoma-associated herpesvirus infection	5610	54739	0.807784
 Kaposi sarcoma-associated herpesvirus infection	6773	130589	0.806819
 Kaposi sarcoma-associated herpesvirus infection	5610	94240	0.805063
@@ -4396,8 +4507,8 @@ Kaposi sarcoma-associated herpesvirus infection	6773	9381	0.706512
 Kaposi sarcoma-associated herpesvirus infection	5610	3017	0.701571
 Kaposi sarcoma-associated herpesvirus infection	6773	5414	0.701451
 JAK-STAT signaling pathway	1950	1950	1.0
-JAK-STAT signaling pathway	6772	6772	1.0
 JAK-STAT signaling pathway	6773	6773	1.0
+JAK-STAT signaling pathway	6772	6772	1.0
 JAK-STAT signaling pathway	6772	80830	0.962769
 JAK-STAT signaling pathway	6773	54625	0.953874
 JAK-STAT signaling pathway	6772	54625	0.953744
@@ -4421,8 +4532,8 @@ JAK-STAT signaling pathway	6772	57674	0.915284
 JAK-STAT signaling pathway	6772	64135	0.914559
 JAK-STAT signaling pathway	6773	2635	0.91402
 JAK-STAT signaling pathway	6773	219285	0.913742
-JAK-STAT signaling pathway	6773	6772	0.912497
 JAK-STAT signaling pathway	6772	6773	0.912497
+JAK-STAT signaling pathway	6773	6772	0.912497
 JAK-STAT signaling pathway	6772	24138	0.912404
 JAK-STAT signaling pathway	6773	57674	0.911298
 JAK-STAT signaling pathway	6772	54809	0.907513
@@ -4524,16 +4635,16 @@ JAK-STAT signaling pathway	1950	8970	0.718531
 JAK-STAT signaling pathway	6773	219988	0.71796
 JAK-STAT signaling pathway	6773	9381	0.706512
 JAK-STAT signaling pathway	6773	5414	0.701451
-Influenza A	4599	4599	1.0
-Influenza A	23586	23586	1.0
-Influenza A	5610	5610	1.0
-Influenza A	4940	4940	1.0
 Influenza A	91543	91543	1.0
-Influenza A	6772	6772	1.0
+Influenza A	4940	4940	1.0
+Influenza A	23586	23586	1.0
 Influenza A	6773	6773	1.0
+Influenza A	5610	5610	1.0
+Influenza A	4599	4599	1.0
+Influenza A	4938	4938	1.0
 Influenza A	4939	4939	1.0
 Influenza A	64135	64135	1.0
-Influenza A	4938	4938	1.0
+Influenza A	6772	6772	1.0
 Influenza A	91543	129607	0.98248
 Influenza A	91543	3434	0.980012
 Influenza A	4939	54739	0.978735
@@ -4547,8 +4658,8 @@ Influenza A	91543	10964	0.969649
 Influenza A	4940	10964	0.964401
 Influenza A	4940	129607	0.964395
 Influenza A	6772	80830	0.962769
-Influenza A	4938	4939	0.961481
 Influenza A	4939	4938	0.961481
+Influenza A	4938	4939	0.961481
 Influenza A	23586	151636	0.961111
 Influenza A	4940	55601	0.959016
 Influenza A	4939	10964	0.958307
@@ -4568,8 +4679,8 @@ Influenza A	4940	10561	0.951679
 Influenza A	23586	3433	0.951103
 Influenza A	4599	3434	0.950611
 Influenza A	4940	3437	0.950388
-Influenza A	91543	4940	0.948573
 Influenza A	4940	91543	0.948573
+Influenza A	91543	4940	0.948573
 Influenza A	6772	151636	0.947775
 Influenza A	64135	54739	0.947718
 Influenza A	6772	219285	0.94673
@@ -4586,8 +4697,8 @@ Influenza A	6773	54739	0.944269
 Influenza A	4599	10964	0.943137
 Influenza A	4939	55601	0.941861
 Influenza A	4939	129607	0.941394
-Influenza A	91543	4599	0.941145
 Influenza A	4599	91543	0.941145
+Influenza A	91543	4599	0.941145
 Influenza A	4938	10561	0.941058
 Influenza A	23586	219285	0.94091
 Influenza A	4940	3434	0.940687
@@ -4608,8 +4719,8 @@ Influenza A	64135	55601	0.936674
 Influenza A	6772	55601	0.93662
 Influenza A	4938	10964	0.936609
 Influenza A	64135	151636	0.935432
-Influenza A	4940	4599	0.935213
 Influenza A	4599	4940	0.935213
+Influenza A	4940	4599	0.935213
 Influenza A	4599	129607	0.934477
 Influenza A	4939	3437	0.934191
 Influenza A	4939	64108	0.933908
@@ -4649,8 +4760,8 @@ Influenza A	64135	129607	0.920423
 Influenza A	6772	85363	0.920207
 Influenza A	64135	10964	0.919048
 Influenza A	4938	11274	0.918615
-Influenza A	4940	23586	0.917558
 Influenza A	23586	4940	0.917558
+Influenza A	4940	23586	0.917558
 Influenza A	64135	85363	0.917294
 Influenza A	4938	51191	0.916918
 Influenza A	4938	4599	0.916003
@@ -4661,13 +4772,13 @@ Influenza A	91543	2537	0.915534
 Influenza A	4599	54739	0.915498
 Influenza A	6772	57674	0.915284
 Influenza A	91543	24138	0.914908
-Influenza A	64135	6772	0.914559
 Influenza A	6772	64135	0.914559
+Influenza A	64135	6772	0.914559
 Influenza A	6773	2635	0.91402
 Influenza A	6773	219285	0.913742
 Influenza A	91543	11274	0.913736
-Influenza A	6773	6772	0.912497
 Influenza A	6772	6773	0.912497
+Influenza A	6773	6772	0.912497
 Influenza A	6772	24138	0.912404
 Influenza A	4940	55008	0.912182
 Influenza A	64135	219285	0.911971
@@ -4682,8 +4793,8 @@ Influenza A	91543	94240	0.908846
 Influenza A	5610	85363	0.90861
 Influenza A	4599	2537	0.908189
 Influenza A	64135	2633	0.908138
-Influenza A	4938	64135	0.907562
 Influenza A	64135	4938	0.907562
+Influenza A	4938	64135	0.907562
 Influenza A	6772	54809	0.907513
 Influenza A	4940	64108	0.90654
 Influenza A	4938	55008	0.905843
@@ -4789,16 +4900,16 @@ Influenza A	4938	81030	0.865795
 Influenza A	64135	54809	0.865454
 Influenza A	4939	6614	0.865332
 Influenza A	4938	24138	0.863904
-Influenza A	6773	4599	0.863855
 Influenza A	4599	6773	0.863855
+Influenza A	6773	4599	0.863855
 Influenza A	5610	54625	0.863015
 Influenza A	6772	129607	0.862936
 Influenza A	5610	135112	0.862781
 Influenza A	4940	8638	0.862041
 Influenza A	4940	2633	0.861632
 Influenza A	4599	94240	0.860809
-Influenza A	4940	5610	0.860268
 Influenza A	5610	4940	0.860268
+Influenza A	4940	5610	0.860268
 Influenza A	4940	135112	0.8586
 Influenza A	5610	80830	0.858503
 Influenza A	6773	91543	0.857994
@@ -4818,15 +4929,15 @@ Influenza A	5610	64135	0.852798
 Influenza A	6773	81030	0.85266
 Influenza A	4939	85363	0.852645
 Influenza A	64135	94240	0.85245
-Influenza A	4939	6772	0.852331
 Influenza A	6772	4939	0.852331
+Influenza A	4939	6772	0.852331
 Influenza A	5610	51439	0.850613
 Influenza A	4938	2635	0.84989
 Influenza A	4938	23586	0.849839
 Influenza A	23586	4938	0.849839
 Influenza A	6773	3434	0.849438
-Influenza A	91543	23586	0.849287
 Influenza A	23586	91543	0.849287
+Influenza A	91543	23586	0.849287
 Influenza A	4939	8638	0.848776
 Influenza A	4939	114908	0.848709
 Influenza A	4938	3433	0.847935
@@ -4848,8 +4959,8 @@ Influenza A	4939	135112	0.840506
 Influenza A	64135	135112	0.840078
 Influenza A	4938	8638	0.839757
 Influenza A	23586	64108	0.839553
-Influenza A	23586	4599	0.839164
 Influenza A	4599	23586	0.839164
+Influenza A	23586	4599	0.839164
 Influenza A	4939	2633	0.838822
 Influenza A	6772	10561	0.838096
 Influenza A	6772	115361	0.837413
@@ -4878,8 +4989,8 @@ Influenza A	23586	115361	0.825487
 Influenza A	4940	219537	0.825344
 Influenza A	91543	4061	0.824424
 Influenza A	4938	219285	0.823226
-Influenza A	4938	6772	0.823039
 Influenza A	6772	4938	0.823039
+Influenza A	4938	6772	0.823039
 Influenza A	4939	130589	0.82274
 Influenza A	4940	115361	0.822425
 Influenza A	91543	116071	0.822402
@@ -4912,8 +5023,8 @@ Influenza A	64135	10384	0.811727
 Influenza A	4599	57674	0.811555
 Influenza A	91543	9381	0.811263
 Influenza A	4599	4061	0.810558
-Influenza A	6773	5610	0.810364
 Influenza A	5610	6773	0.810364
+Influenza A	6773	5610	0.810364
 Influenza A	4939	219537	0.809187
 Influenza A	4599	51513	0.809153
 Influenza A	4599	9381	0.808689
@@ -4958,8 +5069,8 @@ Influenza A	6772	81030	0.789652
 Influenza A	23586	115362	0.789597
 Influenza A	91543	151636	0.789106
 Influenza A	4938	9381	0.78878
-Influenza A	91543	5610	0.788421
 Influenza A	5610	91543	0.788421
+Influenza A	91543	5610	0.788421
 Influenza A	5610	81030	0.786373
 Influenza A	4939	9381	0.786279
 Influenza A	5610	23347	0.786011
@@ -4978,8 +5089,8 @@ Influenza A	6772	116071	0.779465
 Influenza A	4938	130589	0.779461
 Influenza A	6772	8638	0.7788
 Influenza A	4939	4061	0.778384
-Influenza A	5610	4599	0.777927
 Influenza A	4599	5610	0.777927
+Influenza A	5610	4599	0.777927
 Influenza A	23586	54464	0.777121
 Influenza A	6773	8638	0.776947
 Influenza A	5610	84333	0.776818
@@ -5021,8 +5132,8 @@ Influenza A	64135	162394	0.757611
 Influenza A	4938	83666	0.756194
 Influenza A	4940	10346	0.75458
 Influenza A	5610	55008	0.754564
-Influenza A	91543	3429	0.754443
 Influenza A	4940	84333	0.754443
+Influenza A	91543	3429	0.754443
 Influenza A	4599	116071	0.753787
 Influenza A	6772	10384	0.752686
 Influenza A	5610	11274	0.752171
@@ -5088,6 +5199,606 @@ Influenza A	5610	3017	0.701571
 Influenza A	6773	5414	0.701451
 Influenza A	4939	10346	0.700801
 Influenza A	4599	5414	0.7006
+Human papillomavirus infection	1950	1950	1.0
+Human papillomavirus infection	1869	1869	1.0
+Human papillomavirus infection	890	890	1.0
+Human papillomavirus infection	6773	6773	1.0
+Human papillomavirus infection	5610	5610	1.0
+Human papillomavirus infection	4599	4599	1.0
+Human papillomavirus infection	8900	8900	1.0
+Human papillomavirus infection	8638	8638	1.0
+Human papillomavirus infection	3690	3690	1.0
+Human papillomavirus infection	6772	6772	1.0
+Human papillomavirus infection	890	64151	0.964082
+Human papillomavirus infection	6772	80830	0.962769
+Human papillomavirus infection	6773	54625	0.953874
+Human papillomavirus infection	6772	54625	0.953744
+Human papillomavirus infection	6773	64135	0.953676
+Human papillomavirus infection	890	983	0.953441
+Human papillomavirus infection	4599	51191	0.951887
+Human papillomavirus infection	890	55789	0.951885
+Human papillomavirus infection	4599	3434	0.950611
+Human papillomavirus infection	890	3832	0.94935
+Human papillomavirus infection	6772	151636	0.947775
+Human papillomavirus infection	6772	219285	0.94673
+Human papillomavirus infection	6773	4939	0.945271
+Human papillomavirus infection	890	9787	0.944728
+Human papillomavirus infection	6772	83666	0.944406
+Human papillomavirus infection	6773	54739	0.944269
+Human papillomavirus infection	890	51203	0.943582
+Human papillomavirus infection	4599	10964	0.943137
+Human papillomavirus infection	4599	91543	0.941145
+Human papillomavirus infection	890	83540	0.940911
+Human papillomavirus infection	4599	10561	0.940382
+Human papillomavirus infection	6772	2633	0.93929
+Human papillomavirus infection	6773	4940	0.939167
+Human papillomavirus infection	4599	3437	0.938452
+Human papillomavirus infection	4599	4939	0.936779
+Human papillomavirus infection	6772	55601	0.93662
+Human papillomavirus infection	890	55355	0.935659
+Human papillomavirus infection	4599	4940	0.935213
+Human papillomavirus infection	890	3161	0.934811
+Human papillomavirus infection	4599	129607	0.934477
+Human papillomavirus infection	890	22974	0.934433
+Human papillomavirus infection	890	6241	0.934227
+Human papillomavirus infection	6773	80830	0.932251
+Human papillomavirus infection	6773	23586	0.930414
+Human papillomavirus infection	3690	22885	0.929332
+Human papillomavirus infection	6773	151636	0.92903
+Human papillomavirus infection	6772	3433	0.926004
+Human papillomavirus infection	4599	55008	0.925243
+Human papillomavirus infection	890	11004	0.924303
+Human papillomavirus infection	4599	11274	0.922927
+Human papillomavirus infection	6773	55601	0.922376
+Human papillomavirus infection	6772	23586	0.922216
+Human papillomavirus infection	890	11130	0.921064
+Human papillomavirus infection	890	10615	0.920591
+Human papillomavirus infection	6772	85363	0.920207
+Human papillomavirus infection	890	9133	0.919148
+Human papillomavirus infection	890	55165	0.916305
+Human papillomavirus infection	4599	4938	0.916003
+Human papillomavirus infection	890	7153	0.916
+Human papillomavirus infection	5610	83666	0.915722
+Human papillomavirus infection	4599	54739	0.915498
+Human papillomavirus infection	6772	57674	0.915284
+Human papillomavirus infection	6772	64135	0.914559
+Human papillomavirus infection	6773	2635	0.91402
+Human papillomavirus infection	6773	219285	0.913742
+Human papillomavirus infection	6772	6773	0.912497
+Human papillomavirus infection	6773	6772	0.912497
+Human papillomavirus infection	6772	24138	0.912404
+Human papillomavirus infection	6773	57674	0.911298
+Human papillomavirus infection	3690	5577	0.909586
+Human papillomavirus infection	890	891	0.909043
+Human papillomavirus infection	5610	85363	0.90861
+Human papillomavirus infection	4599	2537	0.908189
+Human papillomavirus infection	890	9768	0.907951
+Human papillomavirus infection	6772	54809	0.907513
+Human papillomavirus infection	6773	2633	0.905402
+Human papillomavirus infection	6772	2635	0.90529
+Human papillomavirus infection	6773	10964	0.904476
+Human papillomavirus infection	6773	4938	0.904092
+Human papillomavirus infection	6773	3433	0.903554
+Human papillomavirus infection	5610	151636	0.90296
+Human papillomavirus infection	5610	54877	0.902425
+Human papillomavirus infection	5610	24138	0.900428
+Human papillomavirus infection	6773	85363	0.899306
+Human papillomavirus infection	6772	54877	0.899291
+Human papillomavirus infection	5610	10346	0.898512
+Human papillomavirus infection	6772	10346	0.897606
+Human papillomavirus infection	8638	3437	0.897382
+Human papillomavirus infection	6773	3437	0.895374
+Human papillomavirus infection	8638	4599	0.895278
+Human papillomavirus infection	4599	8638	0.895278
+Human papillomavirus infection	890	7298	0.895003
+Human papillomavirus infection	5610	219285	0.894727
+Human papillomavirus infection	6773	24138	0.8945
+Human papillomavirus infection	5610	57674	0.893934
+Human papillomavirus infection	8638	51191	0.890944
+Human papillomavirus infection	4599	81030	0.89086
+Human papillomavirus infection	6773	115361	0.890814
+Human papillomavirus infection	890	699	0.890629
+Human papillomavirus infection	890	9055	0.890331
+Human papillomavirus infection	1950	5577	0.888884
+Human papillomavirus infection	6772	4940	0.888517
+Human papillomavirus infection	8638	3434	0.888327
+Human papillomavirus infection	6773	64108	0.888322
+Human papillomavirus infection	890	8318	0.886917
+Human papillomavirus infection	890	1033	0.885792
+Human papillomavirus infection	5610	54809	0.885201
+Human papillomavirus infection	6773	10561	0.884885
+Human papillomavirus infection	890	4173	0.884118
+Human papillomavirus infection	4599	55601	0.883217
+Human papillomavirus infection	4599	64135	0.882815
+Human papillomavirus infection	3690	6678	0.882208
+Human papillomavirus infection	6772	3437	0.881833
+Human papillomavirus infection	6772	115362	0.881629
+Human papillomavirus infection	4599	24138	0.881053
+Human papillomavirus infection	5610	55601	0.880943
+Human papillomavirus infection	6773	129607	0.880908
+Human papillomavirus infection	5610	3433	0.880438
+Human papillomavirus infection	5610	219988	0.880275
+Human papillomavirus infection	5610	23586	0.880273
+Human papillomavirus infection	890	113130	0.880218
+Human papillomavirus infection	890	4288	0.87754
+Human papillomavirus infection	8638	94240	0.875397
+Human papillomavirus infection	4599	64108	0.874632
+Human papillomavirus infection	4599	3433	0.874418
+Human papillomavirus infection	4599	6614	0.874297
+Human papillomavirus infection	890	3833	0.873675
+Human papillomavirus infection	8638	91543	0.873617
+Human papillomavirus infection	8638	129607	0.873228
+Human papillomavirus infection	6773	55008	0.872063
+Human papillomavirus infection	5610	114908	0.870289
+Human papillomavirus infection	6772	5610	0.869897
+Human papillomavirus infection	5610	6772	0.869897
+Human papillomavirus infection	1950	81027	0.868169
+Human papillomavirus infection	6773	51191	0.868014
+Human papillomavirus infection	6772	54739	0.867537
+Human papillomavirus infection	6772	94240	0.86634
+Human papillomavirus infection	6773	11274	0.866201
+Human papillomavirus infection	890	79801	0.865736
+Human papillomavirus infection	4599	6773	0.863855
+Human papillomavirus infection	6773	4599	0.863855
+Human papillomavirus infection	5610	54625	0.863015
+Human papillomavirus infection	6772	129607	0.862936
+Human papillomavirus infection	5610	135112	0.862781
+Human papillomavirus infection	8638	4940	0.862041
+Human papillomavirus infection	8638	10561	0.861646
+Human papillomavirus infection	8638	81030	0.861528
+Human papillomavirus infection	4599	94240	0.860809
+Human papillomavirus infection	5610	4940	0.860268
+Human papillomavirus infection	5610	80830	0.858503
+Human papillomavirus infection	6773	91543	0.857994
+Human papillomavirus infection	6773	114908	0.857067
+Human papillomavirus infection	6773	54809	0.856286
+Human papillomavirus infection	6773	54877	0.856126
+Human papillomavirus infection	6772	114908	0.856091
+Human papillomavirus infection	890	51053	0.854925
+Human papillomavirus infection	890	9232	0.854761
+Human papillomavirus infection	890	990	0.853997
+Human papillomavirus infection	5610	129607	0.853372
+Human papillomavirus infection	5610	64135	0.852798
+Human papillomavirus infection	6773	81030	0.85266
+Human papillomavirus infection	6772	4939	0.852331
+Human papillomavirus infection	5610	51439	0.850613
+Human papillomavirus infection	8638	10964	0.850246
+Human papillomavirus infection	6773	3434	0.849438
+Human papillomavirus infection	8638	4939	0.848776
+Human papillomavirus infection	8638	3433	0.847245
+Human papillomavirus infection	1950	22885	0.84687
+Human papillomavirus infection	8638	64135	0.846243
+Human papillomavirus infection	8638	24138	0.845977
+Human papillomavirus infection	890	29089	0.845692
+Human papillomavirus infection	6772	54464	0.845235
+Human papillomavirus infection	8638	2537	0.843167
+Human papillomavirus infection	6772	10964	0.842583
+Human papillomavirus infection	4599	710	0.841482
+Human papillomavirus infection	890	11065	0.839957
+Human papillomavirus infection	8638	4938	0.839757
+Human papillomavirus infection	4599	23586	0.839164
+Human papillomavirus infection	890	3925	0.839015
+Human papillomavirus infection	3690	1950	0.838787
+Human papillomavirus infection	1950	3690	0.838787
+Human papillomavirus infection	6772	10561	0.838096
+Human papillomavirus infection	6772	115361	0.837413
+Human papillomavirus infection	5610	54464	0.836205
+Human papillomavirus infection	6773	83666	0.833904
+Human papillomavirus infection	890	6941	0.833902
+Human papillomavirus infection	6772	51191	0.83155
+Human papillomavirus infection	6773	115362	0.831229
+Human papillomavirus infection	1950	23531	0.831075
+Human papillomavirus infection	8638	54739	0.831007
+Human papillomavirus infection	6772	219988	0.829793
+Human papillomavirus infection	6773	219537	0.829172
+Human papillomavirus infection	1950	2162	0.828457
+Human papillomavirus infection	6773	135112	0.827977
+Human papillomavirus infection	6772	84333	0.827756
+Human papillomavirus infection	8638	130589	0.827456
+Human papillomavirus infection	890	84057	0.82731
+Human papillomavirus infection	890	2237	0.827295
+Human papillomavirus infection	6773	10384	0.826772
+Human papillomavirus infection	5610	10964	0.826243
+Human papillomavirus infection	5610	3437	0.826214
+Human papillomavirus infection	8638	55008	0.825348
+Human papillomavirus infection	8638	11274	0.824178
+Human papillomavirus infection	6772	4938	0.823039
+Human papillomavirus infection	6772	11119	0.821973
+Human papillomavirus infection	6772	3434	0.821806
+Human papillomavirus infection	8638	55601	0.821765
+Human papillomavirus infection	6772	64108	0.821121
+Human papillomavirus infection	6772	91543	0.821111
+Human papillomavirus infection	8638	710	0.821102
+Human papillomavirus infection	890	332	0.820756
+Human papillomavirus infection	5610	10561	0.820382
+Human papillomavirus infection	4599	54625	0.819498
+Human papillomavirus infection	6773	11119	0.819311
+Human papillomavirus infection	6772	135112	0.818673
+Human papillomavirus infection	890	79682	0.817569
+Human papillomavirus infection	6773	94240	0.815963
+Human papillomavirus infection	6773	710	0.814186
+Human papillomavirus infection	6772	51439	0.813892
+Human papillomavirus infection	5610	51191	0.813153
+Human papillomavirus infection	5610	4939	0.8119
+Human papillomavirus infection	4599	57674	0.811555
+Human papillomavirus infection	4599	4061	0.810558
+Human papillomavirus infection	5610	6773	0.810364
+Human papillomavirus infection	6773	5610	0.810364
+Human papillomavirus infection	4599	51513	0.809153
+Human papillomavirus infection	3690	2162	0.808871
+Human papillomavirus infection	4599	9381	0.808689
+Human papillomavirus infection	4599	54877	0.808463
+Human papillomavirus infection	890	51659	0.808128
+Human papillomavirus infection	5610	54739	0.807784
+Human papillomavirus infection	6773	130589	0.806819
+Human papillomavirus infection	8638	23586	0.805748
+Human papillomavirus infection	5610	94240	0.805063
+Human papillomavirus infection	6773	84333	0.803625
+Human papillomavirus infection	4599	151636	0.803508
+Human papillomavirus infection	1950	84174	0.801919
+Human papillomavirus infection	3690	23531	0.799362
+Human papillomavirus infection	6772	219537	0.798276
+Human papillomavirus infection	890	4175	0.798242
+Human papillomavirus infection	5610	92906	0.797846
+Human papillomavirus infection	5610	1997	0.796181
+Human papillomavirus infection	8638	54877	0.795114
+Human papillomavirus infection	5610	3434	0.794162
+Human papillomavirus infection	890	991	0.793725
+Human papillomavirus infection	5610	2635	0.793541
+Human papillomavirus infection	890	4171	0.792737
+Human papillomavirus infection	4599	85363	0.792671
+Human papillomavirus infection	8638	57674	0.792244
+Human papillomavirus infection	6773	51513	0.792009
+Human papillomavirus infection	8638	85363	0.791235
+Human papillomavirus infection	8638	151636	0.79104
+Human papillomavirus infection	8638	64108	0.79057
+Human papillomavirus infection	6772	81030	0.789652
+Human papillomavirus infection	5610	91543	0.788421
+Human papillomavirus infection	3690	84174	0.78812
+Human papillomavirus infection	5610	81030	0.786373
+Human papillomavirus infection	5610	23347	0.786011
+Human papillomavirus infection	8638	219537	0.785858
+Human papillomavirus infection	6773	162394	0.785797
+Human papillomavirus infection	6773	6614	0.784825
+Human papillomavirus infection	8638	54625	0.783634
+Human papillomavirus infection	6772	23347	0.783231
+Human papillomavirus infection	8638	9381	0.782813
+Human papillomavirus infection	3690	81027	0.782156
+Human papillomavirus infection	6772	4599	0.782155
+Human papillomavirus infection	4599	6772	0.782155
+Human papillomavirus infection	8638	116071	0.780845
+Human papillomavirus infection	4599	2635	0.780582
+Human papillomavirus infection	4599	80830	0.780523
+Human papillomavirus infection	6772	116071	0.779465
+Human papillomavirus infection	6772	8638	0.7788
+Human papillomavirus infection	8638	6772	0.7788
+Human papillomavirus infection	4599	5610	0.777927
+Human papillomavirus infection	5610	4599	0.777927
+Human papillomavirus infection	8638	6773	0.776947
+Human papillomavirus infection	6773	8638	0.776947
+Human papillomavirus infection	5610	84333	0.776818
+Human papillomavirus infection	4599	219285	0.776258
+Human papillomavirus infection	5610	440068	0.776189
+Human papillomavirus infection	1950	6678	0.776044
+Human papillomavirus infection	8638	5610	0.775539
+Human papillomavirus infection	5610	8638	0.775539
+Human papillomavirus infection	4599	219537	0.774986
+Human papillomavirus infection	8638	6614	0.773917
+Human papillomavirus infection	4599	130589	0.772373
+Human papillomavirus infection	6773	116071	0.77123
+Human papillomavirus infection	5610	2633	0.7705
+Human papillomavirus infection	6772	92906	0.768238
+Human papillomavirus infection	8638	51513	0.767825
+Human papillomavirus infection	6773	2537	0.767577
+Human papillomavirus infection	5610	219537	0.767515
+Human papillomavirus infection	4599	135112	0.766137
+Human papillomavirus infection	6772	710	0.76536
+Human papillomavirus infection	5610	4938	0.762281
+Human papillomavirus infection	6772	440068	0.760715
+Human papillomavirus infection	1950	257019	0.760518
+Human papillomavirus infection	8638	83666	0.758959
+Human papillomavirus infection	4599	2633	0.758102
+Human papillomavirus infection	8638	2633	0.757941
+Human papillomavirus infection	8638	80830	0.757162
+Human papillomavirus infection	890	10024	0.75533
+Human papillomavirus infection	5610	55008	0.754564
+Human papillomavirus infection	4599	116071	0.753787
+Human papillomavirus infection	890	29028	0.753687
+Human papillomavirus infection	6772	10384	0.752686
+Human papillomavirus infection	5610	11274	0.752171
+Human papillomavirus infection	6772	55008	0.748724
+Human papillomavirus infection	6772	11274	0.748023
+Human papillomavirus infection	8638	4061	0.747958
+Human papillomavirus infection	8638	5414	0.742754
+Human papillomavirus infection	890	9212	0.741461
+Human papillomavirus infection	6772	1997	0.741222
+Human papillomavirus infection	4599	3429	0.74037
+Human papillomavirus infection	6772	19	0.738642
+Human papillomavirus infection	1950	351	0.737854
+Human papillomavirus infection	6773	10346	0.736328
+Human papillomavirus infection	4599	114908	0.735181
+Human papillomavirus infection	890	1719	0.734906
+Human papillomavirus infection	890	4605	0.734531
+Human papillomavirus infection	6772	130589	0.733066
+Human papillomavirus infection	8638	2635	0.729867
+Human papillomavirus infection	5610	8347	0.728811
+Human papillomavirus infection	4599	83666	0.728212
+Human papillomavirus infection	5610	147339	0.727016
+Human papillomavirus infection	5610	3656	0.725886
+Human papillomavirus infection	1950	387882	0.724589
+Human papillomavirus infection	5610	254225	0.724319
+Human papillomavirus infection	5610	11119	0.723532
+Human papillomavirus infection	890	494143	0.723039
+Human papillomavirus infection	8638	3429	0.721927
+Human papillomavirus infection	5610	19	0.72177
+Human papillomavirus infection	6772	162394	0.721093
+Human papillomavirus infection	890	54855	0.720663
+Human papillomavirus infection	6773	54464	0.720656
+Human papillomavirus infection	6772	29126	0.719703
+Human papillomavirus infection	8638	219285	0.719102
+Human papillomavirus infection	1950	8970	0.718531
+Human papillomavirus infection	6773	219988	0.71796
+Human papillomavirus infection	5610	130589	0.715425
+Human papillomavirus infection	5610	64108	0.712563
+Human papillomavirus infection	8638	3017	0.712158
+Human papillomavirus infection	5610	8343	0.709193
+Human papillomavirus infection	6773	9381	0.706512
+Human papillomavirus infection	4599	54809	0.704723
+Human papillomavirus infection	5610	3017	0.701571
+Human papillomavirus infection	6773	5414	0.701451
+Human papillomavirus infection	4599	5414	0.7006
+Human immunodeficiency virus 1 infection	983	983	1.0
+Human immunodeficiency virus 1 infection	9582	9582	1.0
+Human immunodeficiency virus 1 infection	6923	6923	1.0
+Human immunodeficiency virus 1 infection	100913187	100913187	1.0
+Human immunodeficiency virus 1 infection	9133	9133	1.0
+Human immunodeficiency virus 1 infection	891	891	1.0
+Human immunodeficiency virus 1 infection	85363	85363	1.0
+Human immunodeficiency virus 1 infection	85363	151636	0.963133
+Human immunodeficiency virus 1 infection	6923	348262	0.955235
+Human immunodeficiency virus 1 infection	85363	57674	0.953896
+Human immunodeficiency virus 1 infection	983	890	0.953441
+Human immunodeficiency virus 1 infection	983	9787	0.946395
+Human immunodeficiency virus 1 infection	9133	11004	0.944057
+Human immunodeficiency virus 1 infection	6923	4713	0.942821
+Human immunodeficiency virus 1 infection	983	22974	0.939656
+Human immunodeficiency virus 1 infection	983	83540	0.939586
+Human immunodeficiency virus 1 infection	891	11130	0.939338
+Human immunodeficiency virus 1 infection	983	64151	0.9379
+Human immunodeficiency virus 1 infection	9133	983	0.936995
+Human immunodeficiency virus 1 infection	983	9133	0.936995
+Human immunodeficiency virus 1 infection	85363	54625	0.936764
+Human immunodeficiency virus 1 infection	983	55355	0.936563
+Human immunodeficiency virus 1 infection	891	64151	0.935232
+Human immunodeficiency virus 1 infection	983	3161	0.935225
+Human immunodeficiency virus 1 infection	6923	147807	0.932778
+Human immunodeficiency virus 1 infection	85363	219285	0.932672
+Human immunodeficiency virus 1 infection	983	3832	0.931635
+Human immunodeficiency virus 1 infection	983	9768	0.930395
+Human immunodeficiency virus 1 infection	85363	23586	0.930083
+Human immunodeficiency virus 1 infection	983	55789	0.929852
+Human immunodeficiency virus 1 infection	9133	64151	0.929252
+Human immunodeficiency virus 1 infection	983	11004	0.928511
+Human immunodeficiency virus 1 infection	9133	9768	0.927318
+Human immunodeficiency virus 1 infection	891	9787	0.925642
+Human immunodeficiency virus 1 infection	6923	513	0.925474
+Human immunodeficiency virus 1 infection	9133	1033	0.925062
+Human immunodeficiency virus 1 infection	983	51203	0.923651
+Human immunodeficiency virus 1 infection	891	11004	0.923555
+Human immunodeficiency virus 1 infection	891	29089	0.922544
+Human immunodeficiency virus 1 infection	891	9133	0.921541
+Human immunodeficiency virus 1 infection	9133	891	0.921541
+Human immunodeficiency virus 1 infection	85363	6772	0.920207
+Human immunodeficiency virus 1 infection	9133	890	0.919148
+Human immunodeficiency virus 1 infection	85363	64135	0.917294
+Human immunodeficiency virus 1 infection	9133	332	0.917026
+Human immunodeficiency virus 1 infection	85363	54809	0.916879
+Human immunodeficiency virus 1 infection	983	7298	0.916812
+Human immunodeficiency virus 1 infection	983	6241	0.91639
+Human immunodeficiency virus 1 infection	9133	9787	0.916354
+Human immunodeficiency virus 1 infection	85363	83666	0.916349
+Human immunodeficiency virus 1 infection	9133	7298	0.915433
+Human immunodeficiency virus 1 infection	891	6241	0.9153
+Human immunodeficiency virus 1 infection	983	1033	0.914843
+Human immunodeficiency virus 1 infection	9133	6241	0.914308
+Human immunodeficiency virus 1 infection	891	3161	0.913737
+Human immunodeficiency virus 1 infection	9133	22974	0.91275
+Human immunodeficiency virus 1 infection	9133	113130	0.911717
+Human immunodeficiency virus 1 infection	891	10615	0.911556
+Human immunodeficiency virus 1 infection	6923	374291	0.910834
+Human immunodeficiency virus 1 infection	9133	11130	0.91039
+Human immunodeficiency virus 1 infection	891	22974	0.909956
+Human immunodeficiency virus 1 infection	891	890	0.909043
+Human immunodeficiency virus 1 infection	85363	5610	0.90861
+Human immunodeficiency virus 1 infection	85363	80830	0.90691
+Human immunodeficiency virus 1 infection	983	11130	0.906715
+Human immunodeficiency virus 1 infection	9133	55355	0.906455
+Human immunodeficiency virus 1 infection	9133	991	0.905121
+Human immunodeficiency virus 1 infection	891	699	0.904746
+Human immunodeficiency virus 1 infection	9133	9232	0.90146
+Human immunodeficiency virus 1 infection	891	83540	0.901055
+Human immunodeficiency virus 1 infection	85363	3433	0.900701
+Human immunodeficiency virus 1 infection	891	983	0.900653
+Human immunodeficiency virus 1 infection	983	891	0.900653
+Human immunodeficiency virus 1 infection	891	9232	0.900187
+Human immunodeficiency virus 1 infection	85363	6773	0.899306
+Human immunodeficiency virus 1 infection	983	7153	0.898857
+Human immunodeficiency virus 1 infection	891	55355	0.896548
+Human immunodeficiency virus 1 infection	891	3832	0.896329
+Human immunodeficiency virus 1 infection	9133	83540	0.895449
+Human immunodeficiency virus 1 infection	983	9055	0.895311
+Human immunodeficiency virus 1 infection	891	55789	0.892413
+Human immunodeficiency virus 1 infection	891	1033	0.891675
+Human immunodeficiency virus 1 infection	983	55165	0.89083
+Human immunodeficiency virus 1 infection	891	2237	0.887321
+Human immunodeficiency virus 1 infection	9133	8318	0.886977
+Human immunodeficiency virus 1 infection	85363	24138	0.886693
+Human immunodeficiency virus 1 infection	983	10615	0.885738
+Human immunodeficiency virus 1 infection	9133	3833	0.884217
+Human immunodeficiency virus 1 infection	9133	3161	0.884062
+Human immunodeficiency virus 1 infection	85363	55601	0.883668
+Human immunodeficiency virus 1 infection	891	990	0.88365
+Human immunodeficiency virus 1 infection	891	8318	0.883144
+Human immunodeficiency virus 1 infection	6923	93100	0.883063
+Human immunodeficiency virus 1 infection	9133	3832	0.881178
+Human immunodeficiency virus 1 infection	983	113130	0.881046
+Human immunodeficiency virus 1 infection	891	113130	0.880622
+Human immunodeficiency virus 1 infection	85363	4940	0.880092
+Human immunodeficiency virus 1 infection	983	3833	0.878944
+Human immunodeficiency virus 1 infection	891	991	0.878674
+Human immunodeficiency virus 1 infection	983	11065	0.877245
+Human immunodeficiency virus 1 infection	9133	11065	0.876649
+Human immunodeficiency virus 1 infection	891	3833	0.876263
+Human immunodeficiency virus 1 infection	85363	54877	0.872374
+Human immunodeficiency virus 1 infection	9133	10615	0.87087
+Human immunodeficiency virus 1 infection	85363	2635	0.870388
+Human immunodeficiency virus 1 infection	9133	51659	0.867154
+Human immunodeficiency virus 1 infection	9133	55789	0.866389
+Human immunodeficiency virus 1 infection	891	55165	0.86581
+Human immunodeficiency virus 1 infection	891	332	0.863965
+Human immunodeficiency virus 1 infection	891	9768	0.863391
+Human immunodeficiency virus 1 infection	9133	29089	0.862588
+Human immunodeficiency virus 1 infection	891	51053	0.861711
+Human immunodeficiency virus 1 infection	9133	51203	0.860777
+Human immunodeficiency virus 1 infection	85363	114908	0.859523
+Human immunodeficiency virus 1 infection	983	699	0.859472
+Human immunodeficiency virus 1 infection	891	51203	0.856927
+Human immunodeficiency virus 1 infection	891	7298	0.85662
+Human immunodeficiency virus 1 infection	983	4288	0.856136
+Human immunodeficiency virus 1 infection	9133	84057	0.855143
+Human immunodeficiency virus 1 infection	85363	135112	0.854367
+Human immunodeficiency virus 1 infection	891	3925	0.853766
+Human immunodeficiency virus 1 infection	9133	10024	0.853717
+Human immunodeficiency virus 1 infection	983	8318	0.853348
+Human immunodeficiency virus 1 infection	85363	4939	0.852645
+Human immunodeficiency virus 1 infection	891	4173	0.852228
+Human immunodeficiency virus 1 infection	6923	29952	0.851676
+Human immunodeficiency virus 1 infection	85363	219988	0.851639
+Human immunodeficiency virus 1 infection	9133	51053	0.850399
+Human immunodeficiency virus 1 infection	85363	10346	0.849931
+Human immunodeficiency virus 1 infection	891	79801	0.849877
+Human immunodeficiency virus 1 infection	983	9232	0.847042
+Human immunodeficiency virus 1 infection	891	6941	0.846639
+Human immunodeficiency virus 1 infection	85363	2633	0.846573
+Human immunodeficiency virus 1 infection	9133	699	0.845106
+Human immunodeficiency virus 1 infection	85363	54739	0.844102
+Human immunodeficiency virus 1 infection	983	332	0.84137
+Human immunodeficiency virus 1 infection	891	51659	0.839624
+Human immunodeficiency virus 1 infection	891	4288	0.838547
+Human immunodeficiency virus 1 infection	9133	55165	0.83827
+Human immunodeficiency virus 1 infection	983	29089	0.838266
+Human immunodeficiency virus 1 infection	983	79801	0.834865
+Human immunodeficiency virus 1 infection	9133	4288	0.833966
+Human immunodeficiency virus 1 infection	85363	3437	0.830991
+Human immunodeficiency virus 1 infection	983	10024	0.830005
+Human immunodeficiency virus 1 infection	85363	54464	0.827861
+Human immunodeficiency virus 1 infection	891	4605	0.826957
+Human immunodeficiency virus 1 infection	891	7153	0.826433
+Human immunodeficiency virus 1 infection	85363	129607	0.826159
+Human immunodeficiency virus 1 infection	85363	84333	0.826094
+Human immunodeficiency virus 1 infection	983	84057	0.825504
+Human immunodeficiency virus 1 infection	9133	990	0.824541
+Human immunodeficiency virus 1 infection	85363	10964	0.823853
+Human immunodeficiency virus 1 infection	9133	7153	0.82316
+Human immunodeficiency virus 1 infection	9133	9212	0.821738
+Human immunodeficiency virus 1 infection	891	11065	0.821029
+Human immunodeficiency virus 1 infection	983	4173	0.819217
+Human immunodeficiency virus 1 infection	983	991	0.819157
+Human immunodeficiency virus 1 infection	9133	9055	0.81561
+Human immunodeficiency virus 1 infection	891	4171	0.813845
+Human immunodeficiency virus 1 infection	85363	130589	0.813531
+Human immunodeficiency virus 1 infection	9133	3925	0.810963
+Human immunodeficiency virus 1 infection	9133	4605	0.810944
+Human immunodeficiency virus 1 infection	983	990	0.80879
+Human immunodeficiency virus 1 infection	6923	8698	0.80756
+Human immunodeficiency virus 1 infection	9133	79801	0.80542
+Human immunodeficiency virus 1 infection	9133	2237	0.805387
+Human immunodeficiency virus 1 infection	983	3925	0.804633
+Human immunodeficiency virus 1 infection	891	84057	0.804105
+Human immunodeficiency virus 1 infection	983	51053	0.803398
+Human immunodeficiency virus 1 infection	85363	10561	0.802884
+Human immunodeficiency virus 1 infection	891	10024	0.801966
+Human immunodeficiency virus 1 infection	85363	51439	0.800898
+Human immunodeficiency virus 1 infection	983	79682	0.79985
+Human immunodeficiency virus 1 infection	9133	4173	0.799044
+Human immunodeficiency virus 1 infection	983	51659	0.797739
+Human immunodeficiency virus 1 infection	85363	219537	0.797536
+Human immunodeficiency virus 1 infection	100913187	1997	0.797354
+Human immunodeficiency virus 1 infection	85363	4938	0.797074
+Human immunodeficiency virus 1 infection	891	9212	0.794625
+Human immunodeficiency virus 1 infection	9133	4171	0.793416
+Human immunodeficiency virus 1 infection	85363	4599	0.792671
+Human immunodeficiency virus 1 infection	85363	55008	0.791266
+Human immunodeficiency virus 1 infection	85363	8638	0.791235
+Human immunodeficiency virus 1 infection	85363	51191	0.791213
+Human immunodeficiency virus 1 infection	85363	115361	0.790426
+Human immunodeficiency virus 1 infection	85363	23347	0.789317
+Human immunodeficiency virus 1 infection	85363	11119	0.788916
+Human immunodeficiency virus 1 infection	85363	81030	0.788412
+Human immunodeficiency virus 1 infection	983	6941	0.787103
+Human immunodeficiency virus 1 infection	891	9055	0.784244
+Human immunodeficiency virus 1 infection	9133	7083	0.779132
+Human immunodeficiency virus 1 infection	85363	94240	0.779089
+Human immunodeficiency virus 1 infection	6923	706	0.778711
+Human immunodeficiency virus 1 infection	100913187	219988	0.777001
+Human immunodeficiency virus 1 infection	85363	92906	0.775951
+Human immunodeficiency virus 1 infection	85363	3434	0.773069
+Human immunodeficiency virus 1 infection	85363	11274	0.771683
+Human immunodeficiency virus 1 infection	891	494143	0.770425
+Human immunodeficiency virus 1 infection	85363	10384	0.76993
+Human immunodeficiency virus 1 infection	85363	91543	0.766396
+Human immunodeficiency virus 1 infection	6923	924	0.765923
+Human immunodeficiency virus 1 infection	983	2237	0.765498
+Human immunodeficiency virus 1 infection	9133	6941	0.765443
+Human immunodeficiency virus 1 infection	891	4175	0.765152
+Human immunodeficiency virus 1 infection	100913187	51439	0.76454
+Human immunodeficiency virus 1 infection	85363	64108	0.764153
+Human immunodeficiency virus 1 infection	983	4171	0.762797
+Human immunodeficiency virus 1 infection	9133	79682	0.760063
+Human immunodeficiency virus 1 infection	983	9212	0.758686
+Human immunodeficiency virus 1 infection	891	54855	0.754579
+Human immunodeficiency virus 1 infection	100913187	23347	0.753074
+Human immunodeficiency virus 1 infection	85363	1997	0.752902
+Human immunodeficiency virus 1 infection	891	55507	0.752625
+Human immunodeficiency virus 1 infection	85363	440068	0.749603
+Human immunodeficiency virus 1 infection	100913187	120892	0.749513
+Human immunodeficiency virus 1 infection	100913187	10346	0.748998
+Human immunodeficiency virus 1 infection	891	7083	0.745024
+Human immunodeficiency virus 1 infection	85363	115362	0.742108
+Human immunodeficiency virus 1 infection	85363	162394	0.740033
+Human immunodeficiency virus 1 infection	891	79682	0.738813
+Human immunodeficiency virus 1 infection	983	4605	0.734745
+Human immunodeficiency virus 1 infection	100913187	8916	0.734285
+Human immunodeficiency virus 1 infection	891	2731	0.733357
+Human immunodeficiency virus 1 infection	85363	3656	0.726385
+Human immunodeficiency virus 1 infection	100913187	83666	0.725103
+Human immunodeficiency virus 1 infection	891	90701	0.724831
+Human immunodeficiency virus 1 infection	100913187	54464	0.724377
+Human immunodeficiency virus 1 infection	100913187	254225	0.724265
+Human immunodeficiency virus 1 infection	100913187	80315	0.724005
+Human immunodeficiency virus 1 infection	85363	8347	0.721352
+Human immunodeficiency virus 1 infection	100913187	92906	0.721057
+Human immunodeficiency virus 1 infection	100913187	25832	0.720735
+Human immunodeficiency virus 1 infection	891	81567	0.720428
+Human immunodeficiency virus 1 infection	85363	19	0.71831
+Human immunodeficiency virus 1 infection	891	65244	0.717798
+Human immunodeficiency virus 1 infection	983	8836	0.717684
+Human immunodeficiency virus 1 infection	983	1719	0.714123
+Human immunodeficiency virus 1 infection	100913187	19	0.714059
+Human immunodeficiency virus 1 infection	891	7345	0.711845
+Human immunodeficiency virus 1 infection	891	81618	0.710577
+Human immunodeficiency virus 1 infection	100913187	140609	0.710302
+Human immunodeficiency virus 1 infection	85363	3017	0.709614
+Human immunodeficiency virus 1 infection	100913187	147339	0.707324
+Human immunodeficiency virus 1 infection	983	6518	0.706614
+Human immunodeficiency virus 1 infection	85363	254225	0.704174
+Human immunodeficiency virus 1 infection	983	4175	0.703403
+Human immunodeficiency virus 1 infection	100913187	55196	0.702249
+Human immunodeficiency virus 1 infection	9133	8836	0.700505
+Human immunodeficiency virus 1 infection	100913187	1955	0.700432
+Human immunodeficiency virus 1 infection	6923	9334	-0.709063
+Human immunodeficiency virus 1 infection	6923	140609	-0.716923
+Human immunodeficiency virus 1 infection	6923	80315	-0.742313
 Hippo signaling pathway	332	332	1.0
 Hippo signaling pathway	332	991	0.950961
 Hippo signaling pathway	332	113130	0.948274
@@ -5134,15 +5845,15 @@ Hippo signaling pathway	332	699	0.732058
 Hippo signaling pathway	332	4173	0.729898
 Hippo signaling pathway	332	6518	0.705027
 Hippo signaling pathway	332	9055	0.700472
-Herpes simplex virus 1 infection	23586	23586	1.0
-Herpes simplex virus 1 infection	5610	5610	1.0
 Herpes simplex virus 1 infection	4940	4940	1.0
-Herpes simplex virus 1 infection	6772	6772	1.0
+Herpes simplex virus 1 infection	23586	23586	1.0
 Herpes simplex virus 1 infection	6773	6773	1.0
+Herpes simplex virus 1 infection	5610	5610	1.0
+Herpes simplex virus 1 infection	4938	4938	1.0
 Herpes simplex virus 1 infection	4939	4939	1.0
 Herpes simplex virus 1 infection	3690	3690	1.0
 Herpes simplex virus 1 infection	64135	64135	1.0
-Herpes simplex virus 1 infection	4938	4938	1.0
+Herpes simplex virus 1 infection	6772	6772	1.0
 Herpes simplex virus 1 infection	4939	54739	0.978735
 Herpes simplex virus 1 infection	4939	4940	0.974654
 Herpes simplex virus 1 infection	4940	4939	0.974654
@@ -5150,8 +5861,8 @@ Herpes simplex virus 1 infection	4940	54739	0.971035
 Herpes simplex virus 1 infection	4940	10964	0.964401
 Herpes simplex virus 1 infection	4940	129607	0.964395
 Herpes simplex virus 1 infection	6772	80830	0.962769
-Herpes simplex virus 1 infection	4938	4939	0.961481
 Herpes simplex virus 1 infection	4939	4938	0.961481
+Herpes simplex virus 1 infection	4938	4939	0.961481
 Herpes simplex virus 1 infection	23586	151636	0.961111
 Herpes simplex virus 1 infection	4940	55601	0.959016
 Herpes simplex virus 1 infection	4939	10964	0.958307
@@ -5235,20 +5946,20 @@ Herpes simplex virus 1 infection	64135	129607	0.920423
 Herpes simplex virus 1 infection	6772	85363	0.920207
 Herpes simplex virus 1 infection	64135	10964	0.919048
 Herpes simplex virus 1 infection	4938	11274	0.918615
-Herpes simplex virus 1 infection	4940	23586	0.917558
 Herpes simplex virus 1 infection	23586	4940	0.917558
+Herpes simplex virus 1 infection	4940	23586	0.917558
 Herpes simplex virus 1 infection	64135	85363	0.917294
 Herpes simplex virus 1 infection	4938	51191	0.916918
 Herpes simplex virus 1 infection	4938	4599	0.916003
 Herpes simplex virus 1 infection	5610	83666	0.915722
 Herpes simplex virus 1 infection	23586	54809	0.915706
 Herpes simplex virus 1 infection	6772	57674	0.915284
-Herpes simplex virus 1 infection	64135	6772	0.914559
 Herpes simplex virus 1 infection	6772	64135	0.914559
+Herpes simplex virus 1 infection	64135	6772	0.914559
 Herpes simplex virus 1 infection	6773	2635	0.91402
 Herpes simplex virus 1 infection	6773	219285	0.913742
-Herpes simplex virus 1 infection	6773	6772	0.912497
 Herpes simplex virus 1 infection	6772	6773	0.912497
+Herpes simplex virus 1 infection	6773	6772	0.912497
 Herpes simplex virus 1 infection	6772	24138	0.912404
 Herpes simplex virus 1 infection	4940	55008	0.912182
 Herpes simplex virus 1 infection	64135	219285	0.911971
@@ -5262,8 +5973,8 @@ Herpes simplex virus 1 infection	4940	54877	0.909858
 Herpes simplex virus 1 infection	3690	5577	0.909586
 Herpes simplex virus 1 infection	5610	85363	0.90861
 Herpes simplex virus 1 infection	64135	2633	0.908138
-Herpes simplex virus 1 infection	4938	64135	0.907562
 Herpes simplex virus 1 infection	64135	4938	0.907562
+Herpes simplex virus 1 infection	4938	64135	0.907562
 Herpes simplex virus 1 infection	6772	54809	0.907513
 Herpes simplex virus 1 infection	4940	64108	0.90654
 Herpes simplex virus 1 infection	4938	55008	0.905843
@@ -5362,8 +6073,8 @@ Herpes simplex virus 1 infection	6772	129607	0.862936
 Herpes simplex virus 1 infection	5610	135112	0.862781
 Herpes simplex virus 1 infection	4940	8638	0.862041
 Herpes simplex virus 1 infection	4940	2633	0.861632
-Herpes simplex virus 1 infection	4940	5610	0.860268
 Herpes simplex virus 1 infection	5610	4940	0.860268
+Herpes simplex virus 1 infection	4940	5610	0.860268
 Herpes simplex virus 1 infection	4940	135112	0.8586
 Herpes simplex virus 1 infection	5610	80830	0.858503
 Herpes simplex virus 1 infection	6773	91543	0.857994
@@ -5382,8 +6093,8 @@ Herpes simplex virus 1 infection	5610	64135	0.852798
 Herpes simplex virus 1 infection	6773	81030	0.85266
 Herpes simplex virus 1 infection	4939	85363	0.852645
 Herpes simplex virus 1 infection	64135	94240	0.85245
-Herpes simplex virus 1 infection	4939	6772	0.852331
 Herpes simplex virus 1 infection	6772	4939	0.852331
+Herpes simplex virus 1 infection	4939	6772	0.852331
 Herpes simplex virus 1 infection	5610	51439	0.850613
 Herpes simplex virus 1 infection	4938	2635	0.84989
 Herpes simplex virus 1 infection	4938	23586	0.849839
@@ -5434,8 +6145,8 @@ Herpes simplex virus 1 infection	5610	3437	0.826214
 Herpes simplex virus 1 infection	23586	115361	0.825487
 Herpes simplex virus 1 infection	4940	219537	0.825344
 Herpes simplex virus 1 infection	4938	219285	0.823226
-Herpes simplex virus 1 infection	4938	6772	0.823039
 Herpes simplex virus 1 infection	6772	4938	0.823039
+Herpes simplex virus 1 infection	4938	6772	0.823039
 Herpes simplex virus 1 infection	4939	130589	0.82274
 Herpes simplex virus 1 infection	4940	115361	0.822425
 Herpes simplex virus 1 infection	6772	11119	0.821973
@@ -5461,8 +6172,8 @@ Herpes simplex virus 1 infection	5610	51191	0.813153
 Herpes simplex virus 1 infection	4939	5610	0.8119
 Herpes simplex virus 1 infection	5610	4939	0.8119
 Herpes simplex virus 1 infection	64135	10384	0.811727
-Herpes simplex virus 1 infection	6773	5610	0.810364
 Herpes simplex virus 1 infection	5610	6773	0.810364
+Herpes simplex virus 1 infection	6773	5610	0.810364
 Herpes simplex virus 1 infection	4939	219537	0.809187
 Herpes simplex virus 1 infection	3690	2162	0.808871
 Herpes simplex virus 1 infection	5610	54739	0.807784
@@ -5605,21 +6316,21 @@ Herpes simplex virus 1 infection	4940	3429	0.706037
 Herpes simplex virus 1 infection	5610	3017	0.701571
 Herpes simplex virus 1 infection	6773	5414	0.701451
 Herpes simplex virus 1 infection	4939	10346	0.700801
-Hepatitis C	4599	4599	1.0
-Hepatitis C	1869	1869	1.0
-Hepatitis C	23586	23586	1.0
-Hepatitis C	5610	5610	1.0
-Hepatitis C	4940	4940	1.0
 Hepatitis C	1950	1950	1.0
-Hepatitis C	3434	3434	1.0
 Hepatitis C	91543	91543	1.0
-Hepatitis C	6772	6772	1.0
+Hepatitis C	1869	1869	1.0
+Hepatitis C	4940	4940	1.0
+Hepatitis C	23586	23586	1.0
 Hepatitis C	6773	6773	1.0
-Hepatitis C	4939	4939	1.0
+Hepatitis C	5610	5610	1.0
+Hepatitis C	4599	4599	1.0
 Hepatitis C	4938	4938	1.0
+Hepatitis C	3434	3434	1.0
+Hepatitis C	4939	4939	1.0
+Hepatitis C	6772	6772	1.0
 Hepatitis C	91543	129607	0.98248
-Hepatitis C	91543	3434	0.980012
 Hepatitis C	3434	91543	0.980012
+Hepatitis C	91543	3434	0.980012
 Hepatitis C	4939	54739	0.978735
 Hepatitis C	3434	51191	0.975653
 Hepatitis C	4939	4940	0.974654
@@ -5634,8 +6345,8 @@ Hepatitis C	91543	10964	0.969649
 Hepatitis C	4940	10964	0.964401
 Hepatitis C	4940	129607	0.964395
 Hepatitis C	6772	80830	0.962769
-Hepatitis C	4938	4939	0.961481
 Hepatitis C	4939	4938	0.961481
+Hepatitis C	4938	4939	0.961481
 Hepatitis C	23586	151636	0.961111
 Hepatitis C	4940	55601	0.959016
 Hepatitis C	4939	10964	0.958307
@@ -5654,8 +6365,8 @@ Hepatitis C	23586	3433	0.951103
 Hepatitis C	3434	4599	0.950611
 Hepatitis C	4599	3434	0.950611
 Hepatitis C	4940	3437	0.950388
-Hepatitis C	91543	4940	0.948573
 Hepatitis C	4940	91543	0.948573
+Hepatitis C	91543	4940	0.948573
 Hepatitis C	6772	151636	0.947775
 Hepatitis C	6772	219285	0.94673
 Hepatitis C	4939	11274	0.94658
@@ -5670,8 +6381,8 @@ Hepatitis C	6773	54739	0.944269
 Hepatitis C	4599	10964	0.943137
 Hepatitis C	4939	55601	0.941861
 Hepatitis C	4939	129607	0.941394
-Hepatitis C	91543	4599	0.941145
 Hepatitis C	4599	91543	0.941145
+Hepatitis C	91543	4599	0.941145
 Hepatitis C	4938	10561	0.941058
 Hepatitis C	23586	219285	0.94091
 Hepatitis C	3434	4940	0.940687
@@ -5690,8 +6401,8 @@ Hepatitis C	4939	4599	0.936779
 Hepatitis C	4599	4939	0.936779
 Hepatitis C	6772	55601	0.93662
 Hepatitis C	4938	10964	0.936609
-Hepatitis C	4940	4599	0.935213
 Hepatitis C	4599	4940	0.935213
+Hepatitis C	4940	4599	0.935213
 Hepatitis C	4599	129607	0.934477
 Hepatitis C	4939	3437	0.934191
 Hepatitis C	4939	64108	0.933908
@@ -5729,8 +6440,8 @@ Hepatitis C	23586	6772	0.922216
 Hepatitis C	91543	64108	0.921039
 Hepatitis C	6772	85363	0.920207
 Hepatitis C	4938	11274	0.918615
-Hepatitis C	4940	23586	0.917558
 Hepatitis C	23586	4940	0.917558
+Hepatitis C	4940	23586	0.917558
 Hepatitis C	3434	3433	0.917124
 Hepatitis C	4938	51191	0.916918
 Hepatitis C	4938	4599	0.916003
@@ -5746,8 +6457,8 @@ Hepatitis C	6773	2635	0.91402
 Hepatitis C	6773	219285	0.913742
 Hepatitis C	91543	11274	0.913736
 Hepatitis C	3434	11274	0.912934
-Hepatitis C	6773	6772	0.912497
 Hepatitis C	6772	6773	0.912497
+Hepatitis C	6773	6772	0.912497
 Hepatitis C	6772	24138	0.912404
 Hepatitis C	4940	55008	0.912182
 Hepatitis C	4940	57674	0.911586
@@ -5774,8 +6485,8 @@ Hepatitis C	6773	3433	0.903554
 Hepatitis C	5610	151636	0.90296
 Hepatitis C	5610	54877	0.902425
 Hepatitis C	3434	2537	0.902198
-Hepatitis C	4938	3434	0.901715
 Hepatitis C	3434	4938	0.901715
+Hepatitis C	4938	3434	0.901715
 Hepatitis C	3434	55008	0.901672
 Hepatitis C	23586	54739	0.900722
 Hepatitis C	4940	81030	0.900691
@@ -5862,8 +6573,8 @@ Hepatitis C	6773	11274	0.866201
 Hepatitis C	4938	81030	0.865795
 Hepatitis C	4939	6614	0.865332
 Hepatitis C	4938	24138	0.863904
-Hepatitis C	6773	4599	0.863855
 Hepatitis C	4599	6773	0.863855
+Hepatitis C	6773	4599	0.863855
 Hepatitis C	5610	54625	0.863015
 Hepatitis C	6772	129607	0.862936
 Hepatitis C	5610	135112	0.862781
@@ -5871,8 +6582,8 @@ Hepatitis C	4940	8638	0.862041
 Hepatitis C	4940	2633	0.861632
 Hepatitis C	3434	54877	0.861144
 Hepatitis C	4599	94240	0.860809
-Hepatitis C	4940	5610	0.860268
 Hepatitis C	5610	4940	0.860268
+Hepatitis C	4940	5610	0.860268
 Hepatitis C	4940	135112	0.8586
 Hepatitis C	5610	80830	0.858503
 Hepatitis C	6773	91543	0.857994
@@ -5891,16 +6602,16 @@ Hepatitis C	5610	129607	0.853372
 Hepatitis C	5610	64135	0.852798
 Hepatitis C	6773	81030	0.85266
 Hepatitis C	4939	85363	0.852645
-Hepatitis C	4939	6772	0.852331
 Hepatitis C	6772	4939	0.852331
+Hepatitis C	4939	6772	0.852331
 Hepatitis C	5610	51439	0.850613
 Hepatitis C	4938	2635	0.84989
 Hepatitis C	4938	23586	0.849839
 Hepatitis C	23586	4938	0.849839
-Hepatitis C	6773	3434	0.849438
 Hepatitis C	3434	6773	0.849438
-Hepatitis C	91543	23586	0.849287
+Hepatitis C	6773	3434	0.849438
 Hepatitis C	23586	91543	0.849287
+Hepatitis C	91543	23586	0.849287
 Hepatitis C	4939	8638	0.848776
 Hepatitis C	4939	114908	0.848709
 Hepatitis C	4938	3433	0.847935
@@ -5920,8 +6631,8 @@ Hepatitis C	4940	710	0.840715
 Hepatitis C	4939	135112	0.840506
 Hepatitis C	4938	8638	0.839757
 Hepatitis C	23586	64108	0.839553
-Hepatitis C	23586	4599	0.839164
 Hepatitis C	4599	23586	0.839164
+Hepatitis C	23586	4599	0.839164
 Hepatitis C	4939	2633	0.838822
 Hepatitis C	1950	3690	0.838787
 Hepatitis C	6772	10561	0.838096
@@ -5953,8 +6664,8 @@ Hepatitis C	23586	115361	0.825487
 Hepatitis C	4940	219537	0.825344
 Hepatitis C	91543	4061	0.824424
 Hepatitis C	4938	219285	0.823226
-Hepatitis C	4938	6772	0.823039
 Hepatitis C	6772	4938	0.823039
+Hepatitis C	4938	6772	0.823039
 Hepatitis C	4939	130589	0.82274
 Hepatitis C	4940	115361	0.822425
 Hepatitis C	91543	116071	0.822402
@@ -5987,8 +6698,8 @@ Hepatitis C	5610	4939	0.8119
 Hepatitis C	4599	57674	0.811555
 Hepatitis C	91543	9381	0.811263
 Hepatitis C	4599	4061	0.810558
-Hepatitis C	6773	5610	0.810364
 Hepatitis C	5610	6773	0.810364
+Hepatitis C	6773	5610	0.810364
 Hepatitis C	4939	219537	0.809187
 Hepatitis C	4599	51513	0.809153
 Hepatitis C	4599	9381	0.808689
@@ -6038,8 +6749,8 @@ Hepatitis C	6772	81030	0.789652
 Hepatitis C	23586	115362	0.789597
 Hepatitis C	91543	151636	0.789106
 Hepatitis C	4938	9381	0.78878
-Hepatitis C	91543	5610	0.788421
 Hepatitis C	5610	91543	0.788421
+Hepatitis C	91543	5610	0.788421
 Hepatitis C	3434	219285	0.787151
 Hepatitis C	5610	81030	0.786373
 Hepatitis C	4939	9381	0.786279
@@ -6059,8 +6770,8 @@ Hepatitis C	4938	130589	0.779461
 Hepatitis C	6772	8638	0.7788
 Hepatitis C	4939	4061	0.778384
 Hepatitis C	3434	135112	0.778247
-Hepatitis C	5610	4599	0.777927
 Hepatitis C	4599	5610	0.777927
+Hepatitis C	5610	4599	0.777927
 Hepatitis C	3434	114908	0.77764
 Hepatitis C	23586	54464	0.777121
 Hepatitis C	6773	8638	0.776947
@@ -6105,8 +6816,8 @@ Hepatitis C	4599	2633	0.758102
 Hepatitis C	4938	83666	0.756194
 Hepatitis C	4940	10346	0.75458
 Hepatitis C	5610	55008	0.754564
-Hepatitis C	91543	3429	0.754443
 Hepatitis C	4940	84333	0.754443
+Hepatitis C	91543	3429	0.754443
 Hepatitis C	4599	116071	0.753787
 Hepatitis C	6772	10384	0.752686
 Hepatitis C	5610	11274	0.752171
@@ -6178,14 +6889,14 @@ Hepatitis C	5610	3017	0.701571
 Hepatitis C	6773	5414	0.701451
 Hepatitis C	4939	10346	0.700801
 Hepatitis C	4599	5414	0.7006
-Hepatitis B	890	890	1.0
-Hepatitis B	332	332	1.0
 Hepatitis B	1869	1869	1.0
+Hepatitis B	890	890	1.0
 Hepatitis B	23586	23586	1.0
-Hepatitis B	6772	6772	1.0
 Hepatitis B	6773	6773	1.0
+Hepatitis B	332	332	1.0
 Hepatitis B	8900	8900	1.0
 Hepatitis B	64135	64135	1.0
+Hepatitis B	6772	6772	1.0
 Hepatitis B	890	64151	0.964082
 Hepatitis B	6772	80830	0.962769
 Hepatitis B	23586	151636	0.961111
@@ -6259,12 +6970,12 @@ Hepatitis B	890	55165	0.916305
 Hepatitis B	890	7153	0.916
 Hepatitis B	23586	54809	0.915706
 Hepatitis B	6772	57674	0.915284
-Hepatitis B	64135	6772	0.914559
 Hepatitis B	6772	64135	0.914559
+Hepatitis B	64135	6772	0.914559
 Hepatitis B	6773	2635	0.91402
 Hepatitis B	6773	219285	0.913742
-Hepatitis B	6773	6772	0.912497
 Hepatitis B	6772	6773	0.912497
+Hepatitis B	6773	6772	0.912497
 Hepatitis B	6772	24138	0.912404
 Hepatitis B	64135	219285	0.911971
 Hepatitis B	332	3833	0.911427
@@ -6571,6 +7282,50 @@ Growth hormone synthesis, secretion and action	6772	19	0.738642
 Growth hormone synthesis, secretion and action	6772	130589	0.733066
 Growth hormone synthesis, secretion and action	6772	162394	0.721093
 Growth hormone synthesis, secretion and action	6772	29126	0.719703
+Glyoxylate and dicarboxylate metabolism	2731	2731	1.0
+Glyoxylate and dicarboxylate metabolism	2731	55507	0.910798
+Glyoxylate and dicarboxylate metabolism	2731	81567	0.909304
+Glyoxylate and dicarboxylate metabolism	2731	494143	0.902293
+Glyoxylate and dicarboxylate metabolism	2731	65244	0.88988
+Glyoxylate and dicarboxylate metabolism	2731	5450	0.881792
+Glyoxylate and dicarboxylate metabolism	2731	54855	0.878035
+Glyoxylate and dicarboxylate metabolism	2731	7184	0.877392
+Glyoxylate and dicarboxylate metabolism	2731	90701	0.872794
+Glyoxylate and dicarboxylate metabolism	2731	608	0.865754
+Glyoxylate and dicarboxylate metabolism	2731	990	0.859704
+Glyoxylate and dicarboxylate metabolism	2731	3662	0.856671
+Glyoxylate and dicarboxylate metabolism	2731	699	0.84994
+Glyoxylate and dicarboxylate metabolism	2731	81618	0.84503
+Glyoxylate and dicarboxylate metabolism	2731	79801	0.841598
+Glyoxylate and dicarboxylate metabolism	2731	51303	0.840023
+Glyoxylate and dicarboxylate metabolism	2731	23495	0.834183
+Glyoxylate and dicarboxylate metabolism	2731	3998	0.828703
+Glyoxylate and dicarboxylate metabolism	2731	54979	0.828578
+Glyoxylate and dicarboxylate metabolism	2731	6675	0.819874
+Glyoxylate and dicarboxylate metabolism	2731	3512	0.817738
+Glyoxylate and dicarboxylate metabolism	2731	91319	0.814599
+Glyoxylate and dicarboxylate metabolism	2731	7345	0.805797
+Glyoxylate and dicarboxylate metabolism	2731	51237	0.80238
+Glyoxylate and dicarboxylate metabolism	2731	9697	0.798659
+Glyoxylate and dicarboxylate metabolism	2731	952	0.790444
+Glyoxylate and dicarboxylate metabolism	2731	3502	0.763162
+Glyoxylate and dicarboxylate metabolism	2731	11130	0.761452
+Glyoxylate and dicarboxylate metabolism	2731	23231	0.757803
+Glyoxylate and dicarboxylate metabolism	2731	10615	0.756844
+Glyoxylate and dicarboxylate metabolism	2731	100423062	0.753486
+Glyoxylate and dicarboxylate metabolism	2731	3500	0.752211
+Glyoxylate and dicarboxylate metabolism	2731	4605	0.749458
+Glyoxylate and dicarboxylate metabolism	2731	6241	0.748434
+Glyoxylate and dicarboxylate metabolism	2731	3503	0.734237
+Glyoxylate and dicarboxylate metabolism	2731	891	0.733357
+Glyoxylate and dicarboxylate metabolism	2731	22936	0.732248
+Glyoxylate and dicarboxylate metabolism	2731	3538	0.725788
+Glyoxylate and dicarboxylate metabolism	2731	54900	0.723372
+Glyoxylate and dicarboxylate metabolism	2731	3539	0.718562
+Glyoxylate and dicarboxylate metabolism	2731	8836	0.712249
+Glyoxylate and dicarboxylate metabolism	2731	2237	0.706876
+Glyoxylate and dicarboxylate metabolism	2731	3514	0.706847
+Glyoxylate and dicarboxylate metabolism	2731	64151	0.705747
 Glycolysis / Gluconeogenesis	130589	130589	1.0
 Glycolysis / Gluconeogenesis	130589	64135	0.828189
 Glycolysis / Gluconeogenesis	130589	8638	0.827456
@@ -6617,6 +7372,50 @@ Glycolysis / Gluconeogenesis	130589	54877	0.718838
 Glycolysis / Gluconeogenesis	130589	94240	0.71547
 Glycolysis / Gluconeogenesis	130589	5610	0.715425
 Glycolysis / Gluconeogenesis	130589	2537	0.715111
+Glycine, serine and threonine metabolism	2731	2731	1.0
+Glycine, serine and threonine metabolism	2731	55507	0.910798
+Glycine, serine and threonine metabolism	2731	81567	0.909304
+Glycine, serine and threonine metabolism	2731	494143	0.902293
+Glycine, serine and threonine metabolism	2731	65244	0.88988
+Glycine, serine and threonine metabolism	2731	5450	0.881792
+Glycine, serine and threonine metabolism	2731	54855	0.878035
+Glycine, serine and threonine metabolism	2731	7184	0.877392
+Glycine, serine and threonine metabolism	2731	90701	0.872794
+Glycine, serine and threonine metabolism	2731	608	0.865754
+Glycine, serine and threonine metabolism	2731	990	0.859704
+Glycine, serine and threonine metabolism	2731	3662	0.856671
+Glycine, serine and threonine metabolism	2731	699	0.84994
+Glycine, serine and threonine metabolism	2731	81618	0.84503
+Glycine, serine and threonine metabolism	2731	79801	0.841598
+Glycine, serine and threonine metabolism	2731	51303	0.840023
+Glycine, serine and threonine metabolism	2731	23495	0.834183
+Glycine, serine and threonine metabolism	2731	3998	0.828703
+Glycine, serine and threonine metabolism	2731	54979	0.828578
+Glycine, serine and threonine metabolism	2731	6675	0.819874
+Glycine, serine and threonine metabolism	2731	3512	0.817738
+Glycine, serine and threonine metabolism	2731	91319	0.814599
+Glycine, serine and threonine metabolism	2731	7345	0.805797
+Glycine, serine and threonine metabolism	2731	51237	0.80238
+Glycine, serine and threonine metabolism	2731	9697	0.798659
+Glycine, serine and threonine metabolism	2731	952	0.790444
+Glycine, serine and threonine metabolism	2731	3502	0.763162
+Glycine, serine and threonine metabolism	2731	11130	0.761452
+Glycine, serine and threonine metabolism	2731	23231	0.757803
+Glycine, serine and threonine metabolism	2731	10615	0.756844
+Glycine, serine and threonine metabolism	2731	100423062	0.753486
+Glycine, serine and threonine metabolism	2731	3500	0.752211
+Glycine, serine and threonine metabolism	2731	4605	0.749458
+Glycine, serine and threonine metabolism	2731	6241	0.748434
+Glycine, serine and threonine metabolism	2731	3503	0.734237
+Glycine, serine and threonine metabolism	2731	891	0.733357
+Glycine, serine and threonine metabolism	2731	22936	0.732248
+Glycine, serine and threonine metabolism	2731	3538	0.725788
+Glycine, serine and threonine metabolism	2731	54900	0.723372
+Glycine, serine and threonine metabolism	2731	3539	0.718562
+Glycine, serine and threonine metabolism	2731	8836	0.712249
+Glycine, serine and threonine metabolism	2731	2237	0.706876
+Glycine, serine and threonine metabolism	2731	3514	0.706847
+Glycine, serine and threonine metabolism	2731	64151	0.705747
 Glutathione metabolism	6241	6241	1.0
 Glutathione metabolism	494143	494143	1.0
 Glutathione metabolism	6241	64151	0.957943
@@ -6873,17 +7672,17 @@ Fanconi anemia pathway	29089	11065	0.725057
 Fanconi anemia pathway	29089	81618	0.722178
 Fanconi anemia pathway	29089	9055	0.709187
 Fanconi anemia pathway	29089	55507	0.701693
-Epstein-Barr virus infection	890	890	1.0
 Epstein-Barr virus infection	1869	1869	1.0
-Epstein-Barr virus infection	23586	23586	1.0
-Epstein-Barr virus infection	5610	5610	1.0
-Epstein-Barr virus infection	4940	4940	1.0
 Epstein-Barr virus infection	8819	8819	1.0
-Epstein-Barr virus infection	6772	6772	1.0
+Epstein-Barr virus infection	4940	4940	1.0
+Epstein-Barr virus infection	890	890	1.0
+Epstein-Barr virus infection	23586	23586	1.0
 Epstein-Barr virus infection	6773	6773	1.0
+Epstein-Barr virus infection	5610	5610	1.0
+Epstein-Barr virus infection	4938	4938	1.0
 Epstein-Barr virus infection	8900	8900	1.0
 Epstein-Barr virus infection	4939	4939	1.0
-Epstein-Barr virus infection	4938	4938	1.0
+Epstein-Barr virus infection	6772	6772	1.0
 Epstein-Barr virus infection	4939	54739	0.978735
 Epstein-Barr virus infection	4939	4940	0.974654
 Epstein-Barr virus infection	4940	4939	0.974654
@@ -6892,8 +7691,8 @@ Epstein-Barr virus infection	4940	10964	0.964401
 Epstein-Barr virus infection	4940	129607	0.964395
 Epstein-Barr virus infection	890	64151	0.964082
 Epstein-Barr virus infection	6772	80830	0.962769
-Epstein-Barr virus infection	4938	4939	0.961481
 Epstein-Barr virus infection	4939	4938	0.961481
+Epstein-Barr virus infection	4938	4939	0.961481
 Epstein-Barr virus infection	23586	151636	0.961111
 Epstein-Barr virus infection	4940	55601	0.959016
 Epstein-Barr virus infection	4939	10964	0.958307
@@ -6975,8 +7774,8 @@ Epstein-Barr virus infection	890	10615	0.920591
 Epstein-Barr virus infection	6772	85363	0.920207
 Epstein-Barr virus infection	890	9133	0.919148
 Epstein-Barr virus infection	4938	11274	0.918615
-Epstein-Barr virus infection	4940	23586	0.917558
 Epstein-Barr virus infection	23586	4940	0.917558
+Epstein-Barr virus infection	4940	23586	0.917558
 Epstein-Barr virus infection	4938	51191	0.916918
 Epstein-Barr virus infection	890	55165	0.916305
 Epstein-Barr virus infection	4938	4599	0.916003
@@ -6987,8 +7786,8 @@ Epstein-Barr virus infection	6772	57674	0.915284
 Epstein-Barr virus infection	6772	64135	0.914559
 Epstein-Barr virus infection	6773	2635	0.91402
 Epstein-Barr virus infection	6773	219285	0.913742
-Epstein-Barr virus infection	6773	6772	0.912497
 Epstein-Barr virus infection	6772	6773	0.912497
+Epstein-Barr virus infection	6773	6772	0.912497
 Epstein-Barr virus infection	6772	24138	0.912404
 Epstein-Barr virus infection	4940	55008	0.912182
 Epstein-Barr virus infection	4940	57674	0.911586
@@ -7095,8 +7894,8 @@ Epstein-Barr virus infection	6772	129607	0.862936
 Epstein-Barr virus infection	5610	135112	0.862781
 Epstein-Barr virus infection	4940	8638	0.862041
 Epstein-Barr virus infection	4940	2633	0.861632
-Epstein-Barr virus infection	4940	5610	0.860268
 Epstein-Barr virus infection	5610	4940	0.860268
+Epstein-Barr virus infection	4940	5610	0.860268
 Epstein-Barr virus infection	4940	135112	0.8586
 Epstein-Barr virus infection	5610	80830	0.858503
 Epstein-Barr virus infection	6773	91543	0.857994
@@ -7116,8 +7915,8 @@ Epstein-Barr virus infection	5610	64135	0.852798
 Epstein-Barr virus infection	6773	81030	0.85266
 Epstein-Barr virus infection	4939	85363	0.852645
 Epstein-Barr virus infection	8819	90355	0.852631
-Epstein-Barr virus infection	4939	6772	0.852331
 Epstein-Barr virus infection	6772	4939	0.852331
+Epstein-Barr virus infection	4939	6772	0.852331
 Epstein-Barr virus infection	5610	51439	0.850613
 Epstein-Barr virus infection	4938	2635	0.84989
 Epstein-Barr virus infection	4938	23586	0.849839
@@ -7169,8 +7968,8 @@ Epstein-Barr virus infection	5610	3437	0.826214
 Epstein-Barr virus infection	23586	115361	0.825487
 Epstein-Barr virus infection	4940	219537	0.825344
 Epstein-Barr virus infection	4938	219285	0.823226
-Epstein-Barr virus infection	4938	6772	0.823039
 Epstein-Barr virus infection	6772	4938	0.823039
+Epstein-Barr virus infection	4938	6772	0.823039
 Epstein-Barr virus infection	4939	130589	0.82274
 Epstein-Barr virus infection	4940	115361	0.822425
 Epstein-Barr virus infection	6772	11119	0.821973
@@ -7197,8 +7996,8 @@ Epstein-Barr virus infection	5610	51191	0.813153
 Epstein-Barr virus infection	4939	5610	0.8119
 Epstein-Barr virus infection	5610	4939	0.8119
 Epstein-Barr virus infection	8819	8460	0.810868
-Epstein-Barr virus infection	6773	5610	0.810364
 Epstein-Barr virus infection	5610	6773	0.810364
+Epstein-Barr virus infection	6773	5610	0.810364
 Epstein-Barr virus infection	4939	219537	0.809187
 Epstein-Barr virus infection	890	51659	0.808128
 Epstein-Barr virus infection	5610	54739	0.807784
@@ -7334,9 +8133,9 @@ Epstein-Barr virus infection	4940	3429	0.706037
 Epstein-Barr virus infection	5610	3017	0.701571
 Epstein-Barr virus infection	6773	5414	0.701451
 Epstein-Barr virus infection	4939	10346	0.700801
+Drug metabolism - other enzymes	7083	7083	1.0
 Drug metabolism - other enzymes	6241	6241	1.0
 Drug metabolism - other enzymes	4353	4353	1.0
-Drug metabolism - other enzymes	7083	7083	1.0
 Drug metabolism - other enzymes	6241	64151	0.957943
 Drug metabolism - other enzymes	6241	11130	0.955961
 Drug metabolism - other enzymes	4353	1511	0.940968
@@ -7439,8 +8238,8 @@ Drug metabolism - other enzymes	6241	7184	0.739684
 Drug metabolism - other enzymes	4353	1118	0.73382
 Drug metabolism - other enzymes	7083	6941	0.73104
 Drug metabolism - other enzymes	7083	55355	0.731031
-Drug metabolism - other enzymes	7083	6241	0.728136
 Drug metabolism - other enzymes	6241	7083	0.728136
+Drug metabolism - other enzymes	7083	6241	0.728136
 Drug metabolism - other enzymes	4353	10562	0.727771
 Drug metabolism - other enzymes	6241	1719	0.727432
 Drug metabolism - other enzymes	7083	84057	0.722513
@@ -7456,18 +8255,18 @@ Drug metabolism - other enzymes	6241	608	0.711614
 Drug metabolism - other enzymes	4353	5806	0.706982
 Drug metabolism - other enzymes	7083	64151	0.704838
 Drug metabolism - other enzymes	6241	3662	0.700537
+DNA replication	4171	4171	1.0
 DNA replication	4175	4175	1.0
 DNA replication	4173	4173	1.0
 DNA replication	2237	2237	1.0
-DNA replication	4171	4171	1.0
 DNA replication	2237	6941	0.927334
 DNA replication	4173	4288	0.9205
 DNA replication	2237	3925	0.917923
 DNA replication	4171	113130	0.916024
 DNA replication	4173	4175	0.914539
 DNA replication	4175	4173	0.914539
-DNA replication	4171	2237	0.910924
 DNA replication	2237	4171	0.910924
+DNA replication	4171	2237	0.910924
 DNA replication	4173	10615	0.909529
 DNA replication	4173	51203	0.908968
 DNA replication	4173	11130	0.908689
@@ -7495,8 +8294,8 @@ DNA replication	2237	3833	0.882731
 DNA replication	2237	4173	0.879145
 DNA replication	4173	2237	0.879145
 DNA replication	2237	9232	0.877715
-DNA replication	4171	4173	0.877494
 DNA replication	4173	4171	0.877494
+DNA replication	4171	4173	0.877494
 DNA replication	4171	3925	0.872338
 DNA replication	4171	7298	0.870906
 DNA replication	4171	11004	0.870673
@@ -7618,8 +8417,8 @@ DNA replication	4171	983	0.762797
 DNA replication	4175	445815	0.762088
 DNA replication	4171	9787	0.761378
 DNA replication	4171	55789	0.760961
-DNA replication	4171	4175	0.760749
 DNA replication	4175	4171	0.760749
+DNA replication	4171	4175	0.760749
 DNA replication	4173	10403	0.76039
 DNA replication	4173	494143	0.760089
 DNA replication	2237	3161	0.758985
@@ -7684,8 +8483,8 @@ DNA replication	4175	983	0.703403
 DNA replication	4171	79801	0.702922
 DNA replication	4171	11065	0.702538
 DNA replication	4175	113130	0.701427
-Cytosolic DNA-sensing pathway	81030	81030	1.0
 Cytosolic DNA-sensing pathway	23586	23586	1.0
+Cytosolic DNA-sensing pathway	81030	81030	1.0
 Cytosolic DNA-sensing pathway	23586	151636	0.961111
 Cytosolic DNA-sensing pathway	23586	64135	0.95348
 Cytosolic DNA-sensing pathway	23586	54625	0.953059
@@ -7746,8 +8545,8 @@ Cytosolic DNA-sensing pathway	23586	64108	0.839553
 Cytosolic DNA-sensing pathway	23586	4599	0.839164
 Cytosolic DNA-sensing pathway	81030	2537	0.835375
 Cytosolic DNA-sensing pathway	81030	57674	0.83535
-Cytosolic DNA-sensing pathway	23586	81030	0.828909
 Cytosolic DNA-sensing pathway	81030	23586	0.828909
+Cytosolic DNA-sensing pathway	23586	81030	0.828909
 Cytosolic DNA-sensing pathway	81030	80830	0.827227
 Cytosolic DNA-sensing pathway	81030	54625	0.827054
 Cytosolic DNA-sensing pathway	23586	115361	0.825487
@@ -7799,17 +8598,17 @@ Cytosolic DNA-sensing pathway	81030	162394	0.712886
 Cytosolic DNA-sensing pathway	23586	6614	0.710452
 Cytosolic DNA-sensing pathway	81030	115362	0.709701
 Cytosolic DNA-sensing pathway	23586	29126	0.708005
-Coronavirus disease - COVID-19	4599	4599	1.0
-Coronavirus disease - COVID-19	23586	23586	1.0
-Coronavirus disease - COVID-19	5610	5610	1.0
 Coronavirus disease - COVID-19	4940	4940	1.0
-Coronavirus disease - COVID-19	6868	6868	1.0
-Coronavirus disease - COVID-19	2162	2162	1.0
-Coronavirus disease - COVID-19	6772	6772	1.0
+Coronavirus disease - COVID-19	23586	23586	1.0
 Coronavirus disease - COVID-19	6773	6773	1.0
-Coronavirus disease - COVID-19	4939	4939	1.0
-Coronavirus disease - COVID-19	64135	64135	1.0
+Coronavirus disease - COVID-19	5610	5610	1.0
+Coronavirus disease - COVID-19	4599	4599	1.0
+Coronavirus disease - COVID-19	2162	2162	1.0
 Coronavirus disease - COVID-19	4938	4938	1.0
+Coronavirus disease - COVID-19	4939	4939	1.0
+Coronavirus disease - COVID-19	6868	6868	1.0
+Coronavirus disease - COVID-19	64135	64135	1.0
+Coronavirus disease - COVID-19	6772	6772	1.0
 Coronavirus disease - COVID-19	4939	54739	0.978735
 Coronavirus disease - COVID-19	4939	4940	0.974654
 Coronavirus disease - COVID-19	4940	4939	0.974654
@@ -7817,8 +8616,8 @@ Coronavirus disease - COVID-19	4940	54739	0.971035
 Coronavirus disease - COVID-19	4940	10964	0.964401
 Coronavirus disease - COVID-19	4940	129607	0.964395
 Coronavirus disease - COVID-19	6772	80830	0.962769
-Coronavirus disease - COVID-19	4938	4939	0.961481
 Coronavirus disease - COVID-19	4939	4938	0.961481
+Coronavirus disease - COVID-19	4938	4939	0.961481
 Coronavirus disease - COVID-19	23586	151636	0.961111
 Coronavirus disease - COVID-19	6868	1955	0.959545
 Coronavirus disease - COVID-19	4940	55601	0.959016
@@ -7877,8 +8676,8 @@ Coronavirus disease - COVID-19	64135	55601	0.936674
 Coronavirus disease - COVID-19	6772	55601	0.93662
 Coronavirus disease - COVID-19	4938	10964	0.936609
 Coronavirus disease - COVID-19	64135	151636	0.935432
-Coronavirus disease - COVID-19	4940	4599	0.935213
 Coronavirus disease - COVID-19	4599	4940	0.935213
+Coronavirus disease - COVID-19	4940	4599	0.935213
 Coronavirus disease - COVID-19	6868	140609	0.93494
 Coronavirus disease - COVID-19	4599	129607	0.934477
 Coronavirus disease - COVID-19	4939	3437	0.934191
@@ -7918,8 +8717,8 @@ Coronavirus disease - COVID-19	6772	85363	0.920207
 Coronavirus disease - COVID-19	6868	55196	0.919987
 Coronavirus disease - COVID-19	64135	10964	0.919048
 Coronavirus disease - COVID-19	4938	11274	0.918615
-Coronavirus disease - COVID-19	4940	23586	0.917558
 Coronavirus disease - COVID-19	23586	4940	0.917558
+Coronavirus disease - COVID-19	4940	23586	0.917558
 Coronavirus disease - COVID-19	64135	85363	0.917294
 Coronavirus disease - COVID-19	4938	51191	0.916918
 Coronavirus disease - COVID-19	4938	4599	0.916003
@@ -7929,13 +8728,13 @@ Coronavirus disease - COVID-19	23586	54809	0.915706
 Coronavirus disease - COVID-19	4599	54739	0.915498
 Coronavirus disease - COVID-19	6772	57674	0.915284
 Coronavirus disease - COVID-19	2162	81027	0.915094
-Coronavirus disease - COVID-19	64135	6772	0.914559
 Coronavirus disease - COVID-19	6772	64135	0.914559
+Coronavirus disease - COVID-19	64135	6772	0.914559
 Coronavirus disease - COVID-19	6773	2635	0.91402
 Coronavirus disease - COVID-19	6868	80315	0.913937
 Coronavirus disease - COVID-19	6773	219285	0.913742
-Coronavirus disease - COVID-19	6773	6772	0.912497
 Coronavirus disease - COVID-19	6772	6773	0.912497
+Coronavirus disease - COVID-19	6773	6772	0.912497
 Coronavirus disease - COVID-19	6772	24138	0.912404
 Coronavirus disease - COVID-19	4940	55008	0.912182
 Coronavirus disease - COVID-19	64135	219285	0.911971
@@ -7952,8 +8751,8 @@ Coronavirus disease - COVID-19	6868	153222	0.909232
 Coronavirus disease - COVID-19	5610	85363	0.90861
 Coronavirus disease - COVID-19	4599	2537	0.908189
 Coronavirus disease - COVID-19	64135	2633	0.908138
-Coronavirus disease - COVID-19	4938	64135	0.907562
 Coronavirus disease - COVID-19	64135	4938	0.907562
+Coronavirus disease - COVID-19	4938	64135	0.907562
 Coronavirus disease - COVID-19	6772	54809	0.907513
 Coronavirus disease - COVID-19	4940	64108	0.90654
 Coronavirus disease - COVID-19	4938	55008	0.905843
@@ -8063,16 +8862,16 @@ Coronavirus disease - COVID-19	64135	54809	0.865454
 Coronavirus disease - COVID-19	4939	6614	0.865332
 Coronavirus disease - COVID-19	6868	147339	0.864117
 Coronavirus disease - COVID-19	4938	24138	0.863904
-Coronavirus disease - COVID-19	6773	4599	0.863855
 Coronavirus disease - COVID-19	4599	6773	0.863855
+Coronavirus disease - COVID-19	6773	4599	0.863855
 Coronavirus disease - COVID-19	5610	54625	0.863015
 Coronavirus disease - COVID-19	6772	129607	0.862936
 Coronavirus disease - COVID-19	5610	135112	0.862781
 Coronavirus disease - COVID-19	4940	8638	0.862041
 Coronavirus disease - COVID-19	4940	2633	0.861632
 Coronavirus disease - COVID-19	4599	94240	0.860809
-Coronavirus disease - COVID-19	4940	5610	0.860268
 Coronavirus disease - COVID-19	5610	4940	0.860268
+Coronavirus disease - COVID-19	4940	5610	0.860268
 Coronavirus disease - COVID-19	4940	135112	0.8586
 Coronavirus disease - COVID-19	5610	80830	0.858503
 Coronavirus disease - COVID-19	6773	91543	0.857994
@@ -8093,8 +8892,8 @@ Coronavirus disease - COVID-19	5610	64135	0.852798
 Coronavirus disease - COVID-19	6773	81030	0.85266
 Coronavirus disease - COVID-19	4939	85363	0.852645
 Coronavirus disease - COVID-19	64135	94240	0.85245
-Coronavirus disease - COVID-19	4939	6772	0.852331
 Coronavirus disease - COVID-19	6772	4939	0.852331
+Coronavirus disease - COVID-19	4939	6772	0.852331
 Coronavirus disease - COVID-19	5610	51439	0.850613
 Coronavirus disease - COVID-19	4938	2635	0.84989
 Coronavirus disease - COVID-19	4938	23586	0.849839
@@ -8121,8 +8920,8 @@ Coronavirus disease - COVID-19	4939	135112	0.840506
 Coronavirus disease - COVID-19	64135	135112	0.840078
 Coronavirus disease - COVID-19	4938	8638	0.839757
 Coronavirus disease - COVID-19	23586	64108	0.839553
-Coronavirus disease - COVID-19	23586	4599	0.839164
 Coronavirus disease - COVID-19	4599	23586	0.839164
+Coronavirus disease - COVID-19	23586	4599	0.839164
 Coronavirus disease - COVID-19	4939	2633	0.838822
 Coronavirus disease - COVID-19	6772	10561	0.838096
 Coronavirus disease - COVID-19	6772	115361	0.837413
@@ -8150,8 +8949,8 @@ Coronavirus disease - COVID-19	23586	115361	0.825487
 Coronavirus disease - COVID-19	4940	219537	0.825344
 Coronavirus disease - COVID-19	6868	51439	0.823988
 Coronavirus disease - COVID-19	4938	219285	0.823226
-Coronavirus disease - COVID-19	4938	6772	0.823039
 Coronavirus disease - COVID-19	6772	4938	0.823039
+Coronavirus disease - COVID-19	4938	6772	0.823039
 Coronavirus disease - COVID-19	4939	130589	0.82274
 Coronavirus disease - COVID-19	4940	115361	0.822425
 Coronavirus disease - COVID-19	6772	11119	0.821973
@@ -8181,8 +8980,8 @@ Coronavirus disease - COVID-19	5610	4939	0.8119
 Coronavirus disease - COVID-19	64135	10384	0.811727
 Coronavirus disease - COVID-19	4599	57674	0.811555
 Coronavirus disease - COVID-19	4599	4061	0.810558
-Coronavirus disease - COVID-19	6773	5610	0.810364
 Coronavirus disease - COVID-19	5610	6773	0.810364
+Coronavirus disease - COVID-19	6773	5610	0.810364
 Coronavirus disease - COVID-19	4939	219537	0.809187
 Coronavirus disease - COVID-19	4599	51513	0.809153
 Coronavirus disease - COVID-19	6868	9663	0.809132
@@ -8249,8 +9048,8 @@ Coronavirus disease - COVID-19	6772	116071	0.779465
 Coronavirus disease - COVID-19	4938	130589	0.779461
 Coronavirus disease - COVID-19	6772	8638	0.7788
 Coronavirus disease - COVID-19	4939	4061	0.778384
-Coronavirus disease - COVID-19	5610	4599	0.777927
 Coronavirus disease - COVID-19	4599	5610	0.777927
+Coronavirus disease - COVID-19	5610	4599	0.777927
 Coronavirus disease - COVID-19	23586	54464	0.777121
 Coronavirus disease - COVID-19	6773	8638	0.776947
 Coronavirus disease - COVID-19	5610	84333	0.776818
@@ -8370,8 +9169,8 @@ Coronavirus disease - COVID-19	4939	10346	0.700801
 Coronavirus disease - COVID-19	4599	5414	0.7006
 Coronavirus disease - COVID-19	6868	348262	-0.753346
 Coronavirus disease - COVID-19	6868	375298	-0.772563
-Chemokine signaling pathway	6772	6772	1.0
 Chemokine signaling pathway	6773	6773	1.0
+Chemokine signaling pathway	6772	6772	1.0
 Chemokine signaling pathway	6772	80830	0.962769
 Chemokine signaling pathway	6773	54625	0.953874
 Chemokine signaling pathway	6772	54625	0.953744
@@ -8395,8 +9194,8 @@ Chemokine signaling pathway	6772	57674	0.915284
 Chemokine signaling pathway	6772	64135	0.914559
 Chemokine signaling pathway	6773	2635	0.91402
 Chemokine signaling pathway	6773	219285	0.913742
-Chemokine signaling pathway	6773	6772	0.912497
 Chemokine signaling pathway	6772	6773	0.912497
+Chemokine signaling pathway	6773	6772	0.912497
 Chemokine signaling pathway	6772	24138	0.912404
 Chemokine signaling pathway	6773	57674	0.911298
 Chemokine signaling pathway	6772	54809	0.907513
@@ -8486,16 +9285,16 @@ Chemokine signaling pathway	6772	29126	0.719703
 Chemokine signaling pathway	6773	219988	0.71796
 Chemokine signaling pathway	6773	9381	0.706512
 Chemokine signaling pathway	6773	5414	0.701451
-Cellular senescence	890	890	1.0
-Cellular senescence	1869	1869	1.0
-Cellular senescence	4605	4605	1.0
-Cellular senescence	891	891	1.0
 Cellular senescence	983	983	1.0
+Cellular senescence	1869	1869	1.0
+Cellular senescence	890	890	1.0
 Cellular senescence	8900	8900	1.0
+Cellular senescence	4605	4605	1.0
 Cellular senescence	9133	9133	1.0
+Cellular senescence	891	891	1.0
 Cellular senescence	890	64151	0.964082
-Cellular senescence	983	890	0.953441
 Cellular senescence	890	983	0.953441
+Cellular senescence	983	890	0.953441
 Cellular senescence	890	55789	0.951885
 Cellular senescence	890	3832	0.94935
 Cellular senescence	983	9787	0.946395
@@ -8528,8 +9327,8 @@ Cellular senescence	890	11004	0.924303
 Cellular senescence	983	51203	0.923651
 Cellular senescence	891	11004	0.923555
 Cellular senescence	891	29089	0.922544
-Cellular senescence	9133	891	0.921541
 Cellular senescence	891	9133	0.921541
+Cellular senescence	9133	891	0.921541
 Cellular senescence	890	11130	0.921064
 Cellular senescence	890	10615	0.920591
 Cellular senescence	9133	890	0.919148
@@ -8560,8 +9359,8 @@ Cellular senescence	9133	991	0.905121
 Cellular senescence	891	699	0.904746
 Cellular senescence	9133	9232	0.90146
 Cellular senescence	891	83540	0.901055
-Cellular senescence	983	891	0.900653
 Cellular senescence	891	983	0.900653
+Cellular senescence	983	891	0.900653
 Cellular senescence	891	9232	0.900187
 Cellular senescence	983	7153	0.898857
 Cellular senescence	891	55355	0.896548
@@ -8739,8 +9538,8 @@ Cellular senescence	890	9212	0.741461
 Cellular senescence	4605	54855	0.73955
 Cellular senescence	891	79682	0.738813
 Cellular senescence	890	1719	0.734906
-Cellular senescence	983	4605	0.734745
 Cellular senescence	4605	983	0.734745
+Cellular senescence	983	4605	0.734745
 Cellular senescence	4605	890	0.734531
 Cellular senescence	890	4605	0.734531
 Cellular senescence	4605	3507	0.733824
@@ -8766,26 +9565,26 @@ Cellular senescence	983	4175	0.703403
 Cellular senescence	4605	83540	0.70268
 Cellular senescence	4605	3832	0.701438
 Cellular senescence	9133	8836	0.700505
-Cell cycle	890	890	1.0
+Cell cycle	4171	4171	1.0
 Cell cycle	4175	4175	1.0
+Cell cycle	699	699	1.0
+Cell cycle	983	983	1.0
+Cell cycle	1869	1869	1.0
+Cell cycle	890	890	1.0
 Cell cycle	4173	4173	1.0
 Cell cycle	8318	8318	1.0
-Cell cycle	990	990	1.0
-Cell cycle	1869	1869	1.0
-Cell cycle	991	991	1.0
-Cell cycle	891	891	1.0
-Cell cycle	983	983	1.0
-Cell cycle	8900	8900	1.0
 Cell cycle	9232	9232	1.0
-Cell cycle	4171	4171	1.0
+Cell cycle	990	990	1.0
+Cell cycle	8900	8900	1.0
 Cell cycle	9133	9133	1.0
-Cell cycle	699	699	1.0
+Cell cycle	891	891	1.0
+Cell cycle	991	991	1.0
 Cell cycle	699	79801	0.969024
 Cell cycle	890	64151	0.964082
-Cell cycle	699	990	0.9614
 Cell cycle	990	699	0.9614
-Cell cycle	983	890	0.953441
+Cell cycle	699	990	0.9614
 Cell cycle	890	983	0.953441
+Cell cycle	983	890	0.953441
 Cell cycle	890	55789	0.951885
 Cell cycle	991	332	0.950961
 Cell cycle	890	3832	0.94935
@@ -8829,8 +9628,8 @@ Cell cycle	983	51203	0.923651
 Cell cycle	891	11004	0.923555
 Cell cycle	990	6241	0.922577
 Cell cycle	891	29089	0.922544
-Cell cycle	9133	891	0.921541
 Cell cycle	891	9133	0.921541
+Cell cycle	9133	891	0.921541
 Cell cycle	890	11130	0.921064
 Cell cycle	890	10615	0.920591
 Cell cycle	4173	4288	0.9205
@@ -8875,16 +9674,16 @@ Cell cycle	8318	7298	0.907142
 Cell cycle	983	11130	0.906715
 Cell cycle	9133	55355	0.906455
 Cell cycle	699	3161	0.906122
-Cell cycle	9133	991	0.905121
 Cell cycle	991	9133	0.905121
+Cell cycle	9133	991	0.905121
 Cell cycle	699	3832	0.904761
-Cell cycle	699	891	0.904746
 Cell cycle	891	699	0.904746
+Cell cycle	699	891	0.904746
 Cell cycle	990	10615	0.904722
 Cell cycle	8318	2237	0.90402
 Cell cycle	990	64151	0.902786
-Cell cycle	4171	8318	0.902625
 Cell cycle	8318	4171	0.902625
+Cell cycle	4171	8318	0.902625
 Cell cycle	991	11004	0.902568
 Cell cycle	4173	3832	0.901875
 Cell cycle	991	9212	0.901461
@@ -8892,10 +9691,10 @@ Cell cycle	9133	9232	0.90146
 Cell cycle	9232	9133	0.90146
 Cell cycle	891	83540	0.901055
 Cell cycle	8318	55355	0.901014
-Cell cycle	983	891	0.900653
 Cell cycle	891	983	0.900653
-Cell cycle	9232	891	0.900187
+Cell cycle	983	891	0.900653
 Cell cycle	891	9232	0.900187
+Cell cycle	9232	891	0.900187
 Cell cycle	8318	51659	0.899904
 Cell cycle	4173	6941	0.89984
 Cell cycle	983	7153	0.898857
@@ -8904,8 +9703,8 @@ Cell cycle	8318	22974	0.897614
 Cell cycle	891	55355	0.896548
 Cell cycle	4171	3833	0.896371
 Cell cycle	891	3832	0.896329
-Cell cycle	9232	991	0.896067
 Cell cycle	991	9232	0.896067
+Cell cycle	9232	991	0.896067
 Cell cycle	991	7083	0.895685
 Cell cycle	9133	83540	0.895449
 Cell cycle	983	9055	0.895311
@@ -8918,8 +9717,8 @@ Cell cycle	4173	22974	0.892056
 Cell cycle	891	1033	0.891675
 Cell cycle	4171	6941	0.890903
 Cell cycle	983	55165	0.89083
-Cell cycle	699	890	0.890629
 Cell cycle	890	699	0.890629
+Cell cycle	699	890	0.890629
 Cell cycle	991	8318	0.890374
 Cell cycle	8318	991	0.890374
 Cell cycle	890	9055	0.890331
@@ -8957,13 +9756,13 @@ Cell cycle	8318	9768	0.880205
 Cell cycle	9232	113130	0.879569
 Cell cycle	4173	2237	0.879145
 Cell cycle	983	3833	0.878944
-Cell cycle	891	991	0.878674
 Cell cycle	991	891	0.878674
+Cell cycle	891	991	0.878674
 Cell cycle	8318	9787	0.878601
 Cell cycle	9232	2237	0.877715
 Cell cycle	890	4288	0.87754
-Cell cycle	4171	4173	0.877494
 Cell cycle	4173	4171	0.877494
+Cell cycle	4171	4173	0.877494
 Cell cycle	983	11065	0.877245
 Cell cycle	9133	11065	0.876649
 Cell cycle	891	3833	0.876263
@@ -9004,8 +9803,8 @@ Cell cycle	699	54855	0.862973
 Cell cycle	991	7298	0.862836
 Cell cycle	9133	29089	0.862588
 Cell cycle	4173	11004	0.861849
-Cell cycle	699	4173	0.861815
 Cell cycle	4173	699	0.861815
+Cell cycle	699	4173	0.861815
 Cell cycle	891	51053	0.861711
 Cell cycle	699	65244	0.861711
 Cell cycle	9232	1033	0.861699
@@ -9017,8 +9816,8 @@ Cell cycle	990	3832	0.860668
 Cell cycle	991	1033	0.860585
 Cell cycle	990	2731	0.859704
 Cell cycle	699	51203	0.859594
-Cell cycle	699	983	0.859472
 Cell cycle	983	699	0.859472
+Cell cycle	699	983	0.859472
 Cell cycle	699	83540	0.859043
 Cell cycle	8318	7083	0.858664
 Cell cycle	991	2237	0.858623
@@ -9045,8 +9844,8 @@ Cell cycle	990	890	0.853997
 Cell cycle	890	990	0.853997
 Cell cycle	891	3925	0.853766
 Cell cycle	9133	10024	0.853717
-Cell cycle	983	8318	0.853348
 Cell cycle	8318	983	0.853348
+Cell cycle	983	8318	0.853348
 Cell cycle	4171	332	0.852303
 Cell cycle	891	4173	0.852228
 Cell cycle	4173	891	0.852228
@@ -9076,13 +9875,13 @@ Cell cycle	4171	4605	0.845763
 Cell cycle	9232	10024	0.845762
 Cell cycle	890	29089	0.845692
 Cell cycle	4171	9768	0.845349
-Cell cycle	699	9133	0.845106
 Cell cycle	9133	699	0.845106
+Cell cycle	699	9133	0.845106
 Cell cycle	8318	55789	0.845036
 Cell cycle	991	51053	0.84495
 Cell cycle	9232	22974	0.844627
-Cell cycle	699	8318	0.844353
 Cell cycle	8318	699	0.844353
+Cell cycle	699	8318	0.844353
 Cell cycle	699	7184	0.844056
 Cell cycle	699	55507	0.844049
 Cell cycle	991	64151	0.844001
@@ -9116,8 +9915,8 @@ Cell cycle	699	6941	0.832972
 Cell cycle	4171	51053	0.831238
 Cell cycle	990	2237	0.830313
 Cell cycle	983	10024	0.830005
-Cell cycle	4171	991	0.82914
 Cell cycle	991	4171	0.82914
+Cell cycle	4171	991	0.82914
 Cell cycle	990	11004	0.829122
 Cell cycle	699	3998	0.82844
 Cell cycle	9232	9212	0.827682
@@ -9147,10 +9946,10 @@ Cell cycle	891	11065	0.821029
 Cell cycle	890	332	0.820756
 Cell cycle	9232	4605	0.82
 Cell cycle	990	55165	0.819245
-Cell cycle	983	4173	0.819217
 Cell cycle	4173	983	0.819217
-Cell cycle	983	991	0.819157
+Cell cycle	983	4173	0.819217
 Cell cycle	991	983	0.819157
+Cell cycle	983	991	0.819157
 Cell cycle	8318	83540	0.81894
 Cell cycle	8318	3161	0.818372
 Cell cycle	990	51203	0.818337
@@ -9164,8 +9963,8 @@ Cell cycle	4171	10615	0.815514
 Cell cycle	990	6941	0.814278
 Cell cycle	4175	3832	0.813881
 Cell cycle	4173	9055	0.813869
-Cell cycle	4171	891	0.813845
 Cell cycle	891	4171	0.813845
+Cell cycle	4171	891	0.813845
 Cell cycle	699	4288	0.81337
 Cell cycle	4175	3998	0.812973
 Cell cycle	990	22974	0.812801
@@ -9180,8 +9979,8 @@ Cell cycle	4173	9768	0.810313
 Cell cycle	991	84057	0.810154
 Cell cycle	991	9787	0.809537
 Cell cycle	4171	29089	0.808966
-Cell cycle	983	990	0.80879
 Cell cycle	990	983	0.80879
+Cell cycle	983	990	0.80879
 Cell cycle	4171	64151	0.808578
 Cell cycle	890	51659	0.808128
 Cell cycle	8318	10024	0.807439
@@ -9197,8 +9996,8 @@ Cell cycle	990	29089	0.803658
 Cell cycle	699	7345	0.803619
 Cell cycle	699	3662	0.803555
 Cell cycle	699	113130	0.803533
-Cell cycle	4171	9232	0.803425
 Cell cycle	9232	4171	0.803425
+Cell cycle	4171	9232	0.803425
 Cell cycle	983	51053	0.803398
 Cell cycle	9232	7083	0.803281
 Cell cycle	4175	64151	0.803163
@@ -9216,8 +10015,8 @@ Cell cycle	9133	4173	0.799044
 Cell cycle	4173	9133	0.799044
 Cell cycle	990	83540	0.79872
 Cell cycle	699	90701	0.798653
-Cell cycle	4175	890	0.798242
 Cell cycle	890	4175	0.798242
+Cell cycle	4175	890	0.798242
 Cell cycle	4175	11130	0.797855
 Cell cycle	8318	84057	0.797853
 Cell cycle	983	51659	0.797739
@@ -9232,8 +10031,8 @@ Cell cycle	890	991	0.793725
 Cell cycle	9133	4171	0.793416
 Cell cycle	4171	9133	0.793416
 Cell cycle	991	11065	0.793079
-Cell cycle	4171	890	0.792737
 Cell cycle	890	4171	0.792737
+Cell cycle	4171	890	0.792737
 Cell cycle	4175	22974	0.79188
 Cell cycle	991	990	0.791457
 Cell cycle	990	991	0.791457
@@ -9267,8 +10066,8 @@ Cell cycle	990	4175	0.780312
 Cell cycle	4175	990	0.780312
 Cell cycle	4171	3832	0.780272
 Cell cycle	4175	79801	0.780126
-Cell cycle	699	991	0.779718
 Cell cycle	991	699	0.779718
+Cell cycle	699	991	0.779718
 Cell cycle	990	7298	0.779683
 Cell cycle	4175	1719	0.779209
 Cell cycle	9133	7083	0.779132
@@ -9279,8 +10078,8 @@ Cell cycle	4175	64105	0.777333
 Cell cycle	990	3833	0.777104
 Cell cycle	699	22936	0.776858
 Cell cycle	4175	3662	0.775759
-Cell cycle	699	9232	0.775667
 Cell cycle	9232	699	0.775667
+Cell cycle	699	9232	0.775667
 Cell cycle	4175	55355	0.775506
 Cell cycle	4173	29089	0.775214
 Cell cycle	991	6941	0.774161
@@ -9296,8 +10095,8 @@ Cell cycle	4175	54900	0.76845
 Cell cycle	699	79682	0.767211
 Cell cycle	9232	51203	0.767167
 Cell cycle	4171	6518	0.766445
-Cell cycle	9232	990	0.765865
 Cell cycle	990	9232	0.765865
+Cell cycle	9232	990	0.765865
 Cell cycle	983	2237	0.765498
 Cell cycle	9133	6941	0.765443
 Cell cycle	4175	10403	0.765245
@@ -9308,14 +10107,14 @@ Cell cycle	8318	9055	0.764004
 Cell cycle	4173	952	0.763785
 Cell cycle	991	83540	0.763731
 Cell cycle	4173	54855	0.76357
-Cell cycle	4171	983	0.762797
 Cell cycle	983	4171	0.762797
+Cell cycle	4171	983	0.762797
 Cell cycle	990	22936	0.762121
 Cell cycle	4175	445815	0.762088
 Cell cycle	4171	9787	0.761378
 Cell cycle	4171	55789	0.760961
-Cell cycle	4171	4175	0.760749
 Cell cycle	4175	4171	0.760749
+Cell cycle	4171	4175	0.760749
 Cell cycle	699	3512	0.760448
 Cell cycle	4173	10403	0.76039
 Cell cycle	4173	494143	0.760089
@@ -9332,8 +10131,8 @@ Cell cycle	891	54855	0.754579
 Cell cycle	890	29028	0.753687
 Cell cycle	991	3832	0.75341
 Cell cycle	891	55507	0.752625
-Cell cycle	4171	990	0.75156
 Cell cycle	990	4171	0.75156
+Cell cycle	4171	990	0.75156
 Cell cycle	4173	7184	0.749768
 Cell cycle	4175	9787	0.749296
 Cell cycle	990	3512	0.749012
@@ -9443,8 +10242,52 @@ Cell cycle	4175	113130	0.701427
 Cell cycle	991	55165	0.700816
 Cell cycle	9232	7153	0.700555
 Cell cycle	9133	8836	0.700505
-C-type lectin receptor signaling pathway	6772	6772	1.0
+Carbon metabolism	2731	2731	1.0
+Carbon metabolism	2731	55507	0.910798
+Carbon metabolism	2731	81567	0.909304
+Carbon metabolism	2731	494143	0.902293
+Carbon metabolism	2731	65244	0.88988
+Carbon metabolism	2731	5450	0.881792
+Carbon metabolism	2731	54855	0.878035
+Carbon metabolism	2731	7184	0.877392
+Carbon metabolism	2731	90701	0.872794
+Carbon metabolism	2731	608	0.865754
+Carbon metabolism	2731	990	0.859704
+Carbon metabolism	2731	3662	0.856671
+Carbon metabolism	2731	699	0.84994
+Carbon metabolism	2731	81618	0.84503
+Carbon metabolism	2731	79801	0.841598
+Carbon metabolism	2731	51303	0.840023
+Carbon metabolism	2731	23495	0.834183
+Carbon metabolism	2731	3998	0.828703
+Carbon metabolism	2731	54979	0.828578
+Carbon metabolism	2731	6675	0.819874
+Carbon metabolism	2731	3512	0.817738
+Carbon metabolism	2731	91319	0.814599
+Carbon metabolism	2731	7345	0.805797
+Carbon metabolism	2731	51237	0.80238
+Carbon metabolism	2731	9697	0.798659
+Carbon metabolism	2731	952	0.790444
+Carbon metabolism	2731	3502	0.763162
+Carbon metabolism	2731	11130	0.761452
+Carbon metabolism	2731	23231	0.757803
+Carbon metabolism	2731	10615	0.756844
+Carbon metabolism	2731	100423062	0.753486
+Carbon metabolism	2731	3500	0.752211
+Carbon metabolism	2731	4605	0.749458
+Carbon metabolism	2731	6241	0.748434
+Carbon metabolism	2731	3503	0.734237
+Carbon metabolism	2731	891	0.733357
+Carbon metabolism	2731	22936	0.732248
+Carbon metabolism	2731	3538	0.725788
+Carbon metabolism	2731	54900	0.723372
+Carbon metabolism	2731	3539	0.718562
+Carbon metabolism	2731	8836	0.712249
+Carbon metabolism	2731	2237	0.706876
+Carbon metabolism	2731	3514	0.706847
+Carbon metabolism	2731	64151	0.705747
 C-type lectin receptor signaling pathway	6773	6773	1.0
+C-type lectin receptor signaling pathway	6772	6772	1.0
 C-type lectin receptor signaling pathway	6772	80830	0.962769
 C-type lectin receptor signaling pathway	6773	54625	0.953874
 C-type lectin receptor signaling pathway	6772	54625	0.953744
@@ -9468,8 +10311,8 @@ C-type lectin receptor signaling pathway	6772	57674	0.915284
 C-type lectin receptor signaling pathway	6772	64135	0.914559
 C-type lectin receptor signaling pathway	6773	2635	0.91402
 C-type lectin receptor signaling pathway	6773	219285	0.913742
-C-type lectin receptor signaling pathway	6773	6772	0.912497
 C-type lectin receptor signaling pathway	6772	6773	0.912497
+C-type lectin receptor signaling pathway	6773	6772	0.912497
 C-type lectin receptor signaling pathway	6772	24138	0.912404
 C-type lectin receptor signaling pathway	6773	57674	0.911298
 C-type lectin receptor signaling pathway	6772	54809	0.907513
