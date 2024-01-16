@@ -57,7 +57,8 @@ coexp_detail | Set this variable "True" to output the list of coexpressed DEG pa
 ratio_plot | Set this variable "True" to output the dotplot (.png) of the ratios of coexpressed DEG pairs (m/n) vs significantly associated gene sets. See the sample figure [below](#Ratio-dotplot).
 coexp_graph | Set this variable "True" to output the cytoscape network revealed by offline webpage (.html). See the details and sample webpage [below](#Network-graph).
 
-### Gene expression data format
+### Gene expression data format  
+[back to variable table](#Gscore-function-(defined-in-Gscore.py))
 There are three available gene expression matrix (GEM) format can be used, please note that:
 * Each elements should be delimited by **tab (\t)**.
 * There should be at least 5 case samples.
