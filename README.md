@@ -229,7 +229,7 @@ p53 signaling pathway | 6241 | 11130 | 0.955961
 
 ### Ratio dotplot
 [[Click to back to variable table]](#gscore-function-defined-in-gscorepy)  
-This additional output visualize the ratio of association significant gene sets by dotplot. (Example file : "Ratio_dotplot.png" in "test_output" folder)
+This additional output visualize the ratio of significantly associated gene sets by dotplot. (Example file : "Ratio_dotplot.png" in "test_output" folder)
 * Ratio = m/n. m and n values have already record in DEG list result table.
 * This figure only show up to 500 gene sets.
 * The point size represent how many DEGs in the DEG list contribute at least one coexpressed gene pair with the DEGs in the gene set.
@@ -237,6 +237,7 @@ This additional output visualize the ratio of association significant gene sets 
 
 ### Network graph
 [[Click to back to variable table]](#gscore-function-defined-in-gscorepy)  
-
+The offline webpage shows the significantly associated gene sets by network graph with cytoscape.js  
+<img src="./readme_figure/network_graph_1.png" alt="drawing" width="700"/>
 
 
