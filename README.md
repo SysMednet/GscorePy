@@ -26,7 +26,11 @@ The GscorePy source code is written in [python 3.9.13](https://www.python.org/do
   
 ## Installation
 ```shell
-
+pip install git+https://github.com/SysMednet/GscorePy
+```
+If the error message "cannot find command git" was shown, please install "git" by this command
+```shell
+conda install git
 ```
 
 ## Variable
