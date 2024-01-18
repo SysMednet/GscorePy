@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import os
-from . import coexpresssion as coexp
+from . import coexpression as coexp
 from . import main_process as main
 from . import dotplot as dplt
 from . import network_graph as ng
