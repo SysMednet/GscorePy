@@ -149,7 +149,7 @@ def Gscore(GEM,
     print('DEG....OK')
     
     #check gene set
-    gene_set_database_dir = 'Database/geneset/'
+    gene_set_database_dir = './Database/geneset/'
     gene_set_list = {'GO_BP','GO_CC','GO_MF','KEGG','Reactome'}
     
     if gene_set in gene_set_list:
