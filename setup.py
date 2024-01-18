@@ -7,7 +7,6 @@ requirements = [
     'statsmodels',
     'matplotlib',
     'seaborn',
-    'shutil',
 ]
 
 setup(
