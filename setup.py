@@ -6,7 +6,7 @@ requirements = [
     'scipy',
     'statsmodels',
     'matplotlib',
-    'seaborn',
+    'seaborn'
 ]
 
 setup(
