@@ -16,8 +16,8 @@ Chang, L. T.<sup>+</sup>, Lee, M. Z.<sup>+</sup>, Wu, Y. J.<sup>+</sup>, Lee, W.
 
 ## Dependencies and requirement  
 The GscorePy source code is written in [python 3.9.13](https://www.python.org/downloads/release/python-3913/). Users also need to install following python package listed below:  
-* Numpy
-* Pandas
+* numpy
+* pandas
 * os
 * Scipy
 * statsmodels
