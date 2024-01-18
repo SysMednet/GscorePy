@@ -1,11 +1,11 @@
 import numpy as np
 import pandas as pd
 import os
-import coexpression as coexp
-import main_process as main
-import dotplot as dplt
-import network_graph as ng
-import coexpressed_detail as codetail
+from coexpression import correlation
+from main_process import gscore_processing
+from dotplot import plot
+from network_graph import gene_set_network
+from coexpressed_detail import get_detail
 
 pd.options.mode.chained_assignment = None
 
@@ -249,9 +249,9 @@ def Gscore(GEM,
     print('Start running....')
     #running
     print('Building coexpression network....')
-    coexp_network = coexp.correlation(GEM, all_DEG, all_case_bool, phenotype_bool)
+    coexp_network = correlation(GEM, all_DEG, all_case_bool, phenotype_bool)
     print('Enrichment analyzing....')
-    individual_result_df, DEG_list_result_df, coexpress_detail_df, involved_dic = main.gscore_processing(all_DEG, query_list, coexp_network, pcc_cutoff, gene_set_dic,ID_type)
+    individual_result_df, DEG_list_result_df, coexpress_detail_df, involved_dic = gscore_processing(all_DEG, query_list, coexp_network, pcc_cutoff, gene_set_dic,ID_type)
     
     #result sorting
     individual_result_df = individual_result_df.sort_values(['gene_ID','p_value'],ascending=True).groupby(['gene_ID']).head(len(individual_result_df))
@@ -266,7 +266,7 @@ def Gscore(GEM,
     #coexpressed detail output
     if coexp_detail:
         print('Start getting coexpressed pair....')
-        individual_detail_df, DEGlist_detail_df = codetail.get_detail(individual_result_df, DEG_list_result_df, coexpress_detail_df, criterion, query_list,ID_type)
+        individual_detail_df, DEGlist_detail_df = get_detail(individual_result_df, DEG_list_result_df, coexpress_detail_df, criterion, query_list,ID_type)
         individual_detail_df.to_csv(os.path.join(output_dir,'Individual_gene_coexpressed_detail.txt'),sep='\t', index=False)
         DEGlist_detail_df.to_csv(os.path.join(output_dir,'DEG_list_coexpressed_detail.txt'),sep='\t', index=False)
         print('Complete')
@@ -275,12 +275,11 @@ def Gscore(GEM,
     if ratio_plot:
         print('Start ploting....')
         save_dir = os.path.join(output_dir,'Ratio_dotplot.png')
-        dplt.plot(DEG_list_result_df, involved_dic, criterion, save_dir)
+        plot(DEG_list_result_df, involved_dic, criterion, save_dir)
         print('Complete')
 
     #coexpression network graph
     if coexp_graph:
         print('Network graph generating....')
-        ng.gene_set_network(DEG_list_result_df, criterion, output_dir)
+        gene_set_network(DEG_list_result_df, criterion, output_dir)
         print('Complete')
-
