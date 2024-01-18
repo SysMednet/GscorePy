@@ -3,7 +3,6 @@ from setuptools import setup
 requirements = [
     'numpy',
     'pandas',
-    'os',
     'scipy',
     'statsmodels',
     'matplotlib',
