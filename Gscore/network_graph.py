@@ -86,7 +86,7 @@ def gene_set_network(DEG_list_result_df, criterion, output_dir):
     fileo_html.write(html_f2)
     fileo_html.write(html_selection)
     fileo_html.write('\t</select>\n\tgene sets\n')
-    fileo_html.write('\t&emsp;&emsp;\n\t<button onclick="reset()">Network initialize</button>\n')
+    fileo_html.write('\t&emsp;&emsp;\n\t<button onclick="reset()">Refresh</button>\n')
     fileo_html.write('\t<br />\n\t'+rank_by_tag+'\n')
     fileo_html.write(html_f3)
     fileo_html.close()
