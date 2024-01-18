@@ -1,0 +1,1092 @@
+Golgi apparatus	Hip14	Golgin245	opm	Rab9E	pod1	CG8230	CG18810	gry	CG13516	ClC-c	CG42542	CG17197	CG9171	CHOp24	BthD	cbs	Rab11	Gnpnat	RabX4	LPCAT	Tango1	CG10483	Pgant2	Membrin	sau	CG4483	Fer2LCH	CG10481	Rab9D	GalT1	TBC1D5	CG30036	CLIP-190	CG15651	ttv	CG7149	S	Pgant1	wls	CG1840	stet	CG17198	Sec71	Pgant8	ZnT86D	Rab18	RabX2	CG2901	fng	CG17196	CG3038	Bet3	SIDL	CG9536	lqfR	fws	CG3631	alpha-Spec	clu	Pgant7	pip	Rich	p24-2	Pis	OSCP1	CG33129	senju	Patsas	CG7579	CG4953	Cog1	Pgant4	SPoCk	CG31145	CG5196	Osbp	Rab26	p24-1	Cog7	CDC50	CG13186	Dhc64C	CG14971	CG17819	CG5382	Mppe	GM130	beta4GalNAcTB	Rab30	PHGPx	Ykt6	Pgant6	l(3)76BDm	Pgant35A	CG7272	Ccm3	CG4676	SiaT	CG17195	ema	CG13029	CG8668	CG9308	CG14015	Syx5	GCC185	gammaCOP	lva	CG7536	Rab6	brn	GCC88	Arv1	Vps52	fdl	loj	CG3253	betaCOP	CG30037	Nha2	Mgat1	SppL	CG11396	pns	eIF3m	Nhe1	fwd	IFT20	CG3662	Mtp	CG14621	cert	ICA69	Tango6	Fer1HCH	vib	sotv	Rab9Db	asrij	CG7304	CG1116	CG15399	CG1418	Rab8	park	CG30423	CG31787	CG10000	Ndfip	Hsepi	Vti1a	CG13049	Pgant3	NUCB1	CG8314	CG4645	app	IntS3	GABPI	Arfrp1	CG33116	Rab19	puc	Gnptab	bai	O-fut2	prd1	Syx16	GlcAT-P	nac	Madm	CG15483	mud	brun	Rab39	Evi5	BicD	botv	Efr	Myt1	Gas8	Tango2	Tpst	CG11149	plx	CG31776	beta4GalNAcTA	X11L	Rab10	Pgant9	Zip99C	CG17287	beta4GalT7	CG5880	Csas	Rab1	Golgin84	CG4956	CG32485	EMC5	Dnz1	CG17075	O-fut1	Vps53	CG17660	CG11357	CG4557	SelG	Rab9Fa	S1P	sfl	Pgant5	atl	comm	CG8673	GckIII	Arl1	Vti1b	Arf1	CG31251	scat	Rab9Fb	CG12121	ksh	Usp32	Tango9	frc	Klp61F	mon2	Rab2	Grasp65	Lztr1	c11.1	CG15147	rho	spn-F	eca	Papst2	sll	CG10344	spoon	RhoGAP15B	CG8841	CG14182	IFT57
+membrane	car	t-cup	FucTC	dsb	Cftr	oys	rost	na	heix	CG8641	CG31668	INPP5E	CG7806	nSMase	disp	Agpat2	CG3038	Tmem131	CG6870	CG9903	Sur	rut	c-cup	CG8642	Pal1	Sgt	Trp1	CG12056	Snmp1	CenB1A	sbm	FucTD	Mer	CG1309	Invadolysin	CG8668	CG14669	brn	DnaJ-60	Rab21	CG13101	CG30037	dob	DppIII	mtm	Zip89B	Sdc	rumpel	Mgat3	teq	Galk	CG12376	CG14340	RanBPM	Opa1	CG2983	CG15719	CG3702	CG7627	slo	Ir7c	Ptr	bmm	CG11426	frj	Sec8	CG32087	RhoGAP1A	Sk1	Phb1	CG32579	MRP	Catsup	Phb2	sif	spict	snz	CenG1A	brv1	CG14743	Tao	Vha14-2	CG3770	mira	CG11425	Tango9	SrpRalpha	CG9205	alpha4GT2	Loxl2	Ctl2	Rlb1	MSBP	CG33124	Pkd2	CG10444	CG12773	CG34056	CG30036	Snap25	Sec6	CG31678	CG3119	CG9555	CG7227	SP1173	Tret1-2	Sr-CII	BBS9	Zip48C	CG1889	syd	Ocrl	Slc45-1	Mulk	CG18558	CG10413	Smvt	CG3652	CG10505	alphaSnap	Pvf1	CG31663	AnxB10	Sid	COX3	EndoA	lovit	cert	CG10359	ninaD	Clic	CG42685	CG11437	Ir92a	Spred	Vps39	mnd	Pi3K92E	Pvf3	CG1998	CG2691	shot	CG32795	Tmhs	Zip102B	drongo	Myt1	Serinc	CG4239	NimA	Rlip	Sk2	santa-maria	Zip42C.2	Rep	l(2)03659	CG17660	CG13016	CG11357	CG3829	CG3529	CG5160	CalpB	TM9SF4	mol	Zip42C.1	brv2	CG31793	et	brv3	Bem46	JhI-21	Fur1	Ih	ClC-c	CG17906	Adgf-A2	Nmt	CG8708	Jwa	CG11898	GalT1	SREBP	Sec15	Piezo	CG11162	NTPase	Mrp4	mv	Loxl1	CG9270	Cog3	CG4480	Hsc70-3	CG6299	Rich	Pis	CG31792	Agpat1	CG2224	CG2736	CG42638	CG31262	CG42404	ppk20	ci	CG3961	CG14411	CG8135	SLO2	CG43367	S2P	Rop	Sdr	CG30392	Ras85D	Vps51	CG12746	CG10345	fwd	Mtmr6	CG7720	Stoml2	CG32669	FucTA	CG16957	Pi4KIIIalpha	Ir40a	inaF-C	cpx	Ir75b	CG32647	CG4332	Fmr1	Pi3K68D	laza	Sr-CIII	por	CG18635	CG15111	CG9109	crq	Ctl1	CG31717	CG8673	Pvf2	CG3566	Fur2	CG5026	rg	Spp	GlcT	G6P	Sec16	Yip1d1	CLS	CG5687	Drp1	RhoGDI	Pde6	Vha14-1	Orai	CG3632	Tret1-1	SLC5A11	hpo	CG5157	CG6293	inaF-A	CG43346	CG8401	Cyt-b5	tgy	Sbf	CG1607	CG5348	kumpel	TM9SF2	Edem1	CG2187	Alg11	Mvl	CG4293	jef	Osbp	CG33061	Zip88E	Rap2l	CG11655	Gos28	bark	Phm	pes	bumpel	CG15706	CG32576	TM9SF3	alpha-Man-Ib	C901	inaF-D	SppL	CG34057	CG40006	Ir68a	strat	ClC-b	rdog	gb	CG8519	CG10171	shi	CG31741	Snmp2	CG4645	Edem2	CG34452	CG6282	Pi3K59F	CG13223	Cog2	Ir31a	Tango5	CG1513	stv	beta3GalTII	amon	Sugb	EndoB	CG7011	nes	CG10702	hbt	atl	CG14744	oxt	CG12121	Corin	CG30281	CG8841	Sr-CIV
+euchromatin	Parp	e(y)3	row	jumu	Top1	Su(var)205	HP1b	Nup153	akirin	HP1c	mu2	Trl	La	woc	Rel	piwi	Set1	Mtor	prod	Jarid2	Sirt1	Myb	G9a	lin-52	Bap60
+nucleus	Brd7-9	CG4968	Dsp1	Sf3b3	Hipk	bru3	pic	gem	Nlp	asun	Tudor-SN	Zw10	nxf2	Rpt6	TfIIA-S	gcl	Fip1	IP3K2	Prp4k	sens	Ptpa	CG12877	emc	Spt3	az2	CG2199	CG15011	Qtzl	Setd3	CG1674	CG1234	orb2	HDAC1	pip	CG4553	Art2	dhd	bbx	upSET	Usp1	CG6689	wor	RtcB	Nedd8	CG10321	Exd2	Whamy	Ets97D	Smn	NC2alpha	pav	CG4629	CG8569	hyd	Saf-B	Atf-2	CG10375	CG3032	Axn	Tgs1	Usp14	CG12942	Mtr4	CG10793	CG8031	PolD1	SNF4Agamma	Ste:CG33247	Hr51	sob	Nf-YB	Chro	CG5181	ro	Bin1	CG6833	sra	Nt5c	Elba2	Xpd	Vsx1	ato	Taf3	SuUR	thoc7	CG17202	en	CG17803	Spt7	CG2034	CG31365	CG30356	Adk1	Hsc70-4	Prosbeta2R2	Rcd-1r	Ubc10	tHMG2	E(var)3-9	His4:CG33887	Ada2b	Cbp80	bin3	CG5098	CG11597	EcR	CG4936	Uev1A	simj	dpy	Mettl14	kay	HP1Lcsd	rux	Pur-alpha	Rack1	E(spl)mbeta-HLH	glob2	MED18	Opbp	sgg	His4:CG33903	JMJD6	drm	l(3)mbt	CycE	CG3927	SMC5	Hr83	Cep290	Ssb-c31a	G9a	lds	PolA1	RecQ4	L	CG31441	BNIP3	ab	insb	RecQ5	sud1	CG3407	RPA1	Roc1b	rngo	cpo	Mst77F	His4:CG33871	SLIRP2	Ranbp16	PpD5	CG32568	CG10038	HUWE1	dj-1beta	Mitf	cyc	lmd	Ssu72	CG12728	ash2	vig2	CG7907	REPTOR	pcm	ari-1	MESR4	r2d2	Cap-D3	SNRPG	slbo	JMJD5	gol	PDCD-5	stg	cwo	CG6118	MED20	Myc	Ibf2	Mcm3	Pdp	mbl	Eip63E	lilli	pira	esc	CG32845	vg	Vsx2	Lim3	CG42360	Sgf11	CG6443	mrj	CG40191	sug	Prosalpha7	Ste:CG33242	rno	Klf15	CG6700	nkd	crp	Ibf1	bigmax	sub	Chd3	gpp	CG1602	CG7101	SkpC	MED24	TfIIA-L	Rpn13R	Nnk	slp2	Tet	Lim1	CG6839	CG17168	Ptp61F	Mlp60A	Hsp27	Dref	CG6656	SF2	Ste:CG33244	Myt1	Smyd3	IntS2	CG4282	Phs	MEP-1	vig	poly	NO66	E(bx)	zen	CG11617	CG2129	CG5728	DOR	Ripalpha	vir	fs(1)K10	14-3-3epsilon	Rep	His4:CG33873	cas	SmydA-4	CG34404	Prdm13	Hen1	Ubi-p63E	bcd	woc	CG12493	CG6985	MED22	cg	glu	Arts	CG11275	Doc2	E(spl)m8-HLH	E2f2	Jra	ocm	Eip78C	gcm	Rat1	TfIIFbeta	Rrp6	ninaC	Spf30	Pdk1	CG6179	CG5521	Hou	bru2	CG42304	onecut	ftz	Hrb98DE	Rchy1	Oda	Cdc45	LTV1	Non2	Pus1	Hmt4-20	p47	Trs20	eve	grau	Iswi	salm	CG4374	cato	tun	Su(H)	Pp1-13C	Fam92	mats	ect	CG3919	Adk2	ocn	hfp	B-H1	CG16790	Tpl94D	Rpn12	TBCB	CG31224	CG7839	abd-A	msk	His4r	tara	vih	CG9272	Prosalpha6	pelo	Df31	CG1663	fmt	Hr38	pho	tap	CG5846	Sox100B	trh	Dfd	trem	Trap1	twi	CG8149	dl	PQBP1	Ref1	CG8531	His4:CG33901	Cdk9	Psi	crb	h	Antp	Hpr1	wap	nvy	POLDIP2	CycB	CtBP	Camta	Nxf3	CG12609	scra	qkr58E-2	Adk3	His4:CG33897	Taf5	Samuel	Mes2	CG5986	Maf1	Prosalpha4T1	CG13001	Asx	yps	PNKP	jumu	ChAT	aqz	faf	Hr3	Nufip	vnd	CG3819	REPTOR-BP	prage	cher	CG4709	cav	mirr	vri	Caper	Cul4	PrBP	lgs	Prosbeta4R2	CG2577	CG10376	mkg-p	ncd	CG11360	CG1142	GV1	Dph4	His4:CG33893	Brf	Fancd2	mago	Rm62	mus81	swm	TfIIEalpha	mRpL44	tsh	CG6791	Sbf	CG16903	Cap-H2	Ada2a	dap	dco	CG3473	Prp3	tho2	del	CG4730	stc	ldbr	N	Nprl3	toc	erm	hay	tud	Haspin	Trf2	CG10543	Chrac-16	kat-60L1	CG10669	CG14322	Set	CG12147	Kaz	Tor	CG10862	HLH54F	Hcf	Rcd1	mahe	CG9915	aop	mamo	Daxx	CG4565	Prosalpha3T	CG10366	Smyd4-1	crn	fliI	grim	smid	emb	CG17698	Dlip3	Flacc	Rbp1	Npl4	Fibp	Ufm1	jnj	CG7423	Aven	Sry-beta	CG13287	Sgf29	CG11811	slou	Su(var)3-3	Rexo5	Hel25E	CG5412	Dronc	CG31388	Pk34A	l(2)gd1	IntS12	CG14120	Top3beta	ZC3H3	SkpB	Rap1	HHEX	dj	Adar	Clk	Nup98-96	Pka-C2	Tdrd3	Arp6	CG11723	Rnf146	Cf2	stv	p120ctn	yki	ttk	Rpn12R	tow	Gug	Hand	Ing3	brwl	bys	Pp1alpha-96A	dpa	Set2	Deaf1	hd	pea	CG8204	CG10147	Bre1	Ube4B	Mad	Oli	brk	pre-lola-G	Skadu	trsn	CG11417	CG8188	trbd	Mcm7	Optix	mrt	RpL40	p23	SkpF	Lpin	CG8223	Wee1	dUTPase	pros	CG13123	Taf2	Plzf	rogdi	wdn	Mcm10	peb	E5	E(spl)m5-HLH	PolE4	CG5757	CG13204	shn	ATbp	CG5111	CG5087	qjt	CG11788	Mlp84B	CrebA	skd	CG3437	MTF-1	Hsp68	CG7728	SCCRO	GATAd	SmD3	CG3708	Cpsf6	Rpp25	sff	how	CG14711	lig	CG31140	Zif	tj	lok	da	Nup153	CG9596	Eip63F-1	Not3	Prosbeta6	Hey	CG9119	flfl	CG9962	Smyd4-2	lbe	mute	dmrt99B	Rrp1	Tfb4	bab2	Cpn	CG2694	ubl	CG2202	pds5	Kr	bap	lncRNA:bxd	Taf10	Parg	Rhau	tub	Stat92E	ord	CG15412	RanBPM	Dyrk2	CG32756	Trf	tomb	holn1	tai	Ssdp	djl	Cap-D2	vvl	Ntan1	CG7236	RagC-D	CycK	Prp6	Psf2	tay	Rnmt	nxf4	qin	bel	Art9	Trl	dod	CG13627	csul	CycT	CG18011	His1:CG33801	Plap	halo	Klp61F	Cdk2	Asciz	MBD-like	CG17807	His4:CG33899	sna	Nnp-1	CG31457	Xrp1	mio	bab1	Tfb1	Rpn10	omd	eya	Rlb1	bbg	Dcr-2	Taf1	CG11504	Marf1	alphaTub67C	CLIP-190	l(3)L1231	CycB3	nab	Poxm	Nph	bs	shep	Gadd45	Hmg-2	Dbp73D	CG34025	Dbp45A	TfAP-2	CG14118	ZAP3	CG8414	Ipk1	CG12769	elfless	Cdk8	CG12917	defl	CG17219	Atu	Pph13	Ipk2	Urm1	chm	CG3815	AGO2	sle	Nelf-A	Nmd3	Nf-YC	Dcr-1	Fign	Hinfp	Coop	Rpp20	Pdp1	koko	Prosbeta1	Rbp9	CG10341	mam	CG7963	CG10254	Hsp70Ba	ush	SkpA	CG2924	Nos	nopo	CycA	Mcm6	CG17349	Ube4A	CkIIalpha	mei-218	CG4119	primo-1	esg	Nup154	Sik3	CG2091	CG9932	CG9890	Sid	CG14655	CG5567	Tengl2	p38c	bsh	ewg	CG17030	dgt1	mld	TfIIS	Kdm4A	fbl	Noa36	IntS3	MESR3	hkb	MED27	wds	Akt	CG11085	dmpd	CG9328	Elp3	usp	TH1	CG42526	Taf6	orb	PNUTS	CTCF	Trx-2	Mlf	CG9452	CG4328	z	dati	Pep	CG12321	CycG	PpN58A	Prp39	U2af38	Tlk	nsl1	CG4887	PolE1	CG11454	Lmx1a	nonC	pzg	CG14544	Cyp1	HnRNP-K	Hexim	disco-r	mahj	Claspin	schlank	Polr2C	Alh	Usp5	MED31	SREBP	Pten	Taf9	Uba2	aft	ems	spn-E	Cmtr1	Art8	kin17	exex	Pp1-87B	piwi	HP6	Ufd4	bsd	mip130	Cdc2rk	Prosalpha3	SLIRP1	Gem2	Roc1a	CG42299	RfC4	Phax	eIF3d1	ci	akirin	tio	scf	CG1024	IntS14	Prosbeta5	CG17361	CG11563	Atxn7	Cdk4	CG5800	CG8611	Atf6	spas	Tob	lin-52	cup	ph-p	MED1	Prosalpha4T2	CG14710	Lkb1	Phf7	Es2	CG15027	Nab2	sad	CG4896	Ste12DOR	Rif1	PpD3	ich	CG3491	insv	pygo	CG5446	MCPH1	NK7.1	PpY-55A	CG11322	Pc	tefu	Cdk12	Rel	CG4424	Su(var)2-10	CG7512	Prosbeta2R1	Hr78	Eip74EF	Rad9	Sidpn	Cbp53E	CG1965	Tnpo-SR	pasha	CG6171	ey	CG3726	Gen	Kap-alpha3	Rae1	Rsf1	Snoo	CG14718	dwg	Hr39	CG9222	zfh1	CG43089	CkIIbeta2	gish	rhi	Tctp	CG11906	cid	Pp1-Y1	Pask	Art6	CG8833	e(y)2b	CG8301	Cdc42	mad2	Trax	HDAC4	croc	Srpk79D	Tengl4	CG5245	pont	His1:CG33807	Ubc6	CG18605	CG6999	SmydA-9	RpS27A	PolD2	CG7691	ph-d	cbc	Jupiter	EloA	His4:CG33879	Snrk	Usp12-46	Sesn	PCNA2	Regnase-1	CG42741	Hira	gro	dmrt11E	pim	CG6276	elB	CG12219	Ada1-2	PolD3	CG1463	CG6805	wda	rept	CG10947	Ino80	Hsc70Cb	Hsp70Aa	tx	Cap-G	Dr	Hnf4	Prosalpha4	CG9067	Shmt	Slbp	Coq7	psq	toe	CG33672	pnt	DUBAI	Dp	sd	CG15800	scro	Marcal1	Cul1	CG14305	RfC38	Ets65A	ecd	CG1218	zen2	CG2247	Brr2	Ing5	Cdk1	dar1	dup	Uba1	Spps	Su(var)205	MTPAP	CG17328	Caf1-105	Bap111	PolA2	Nxt1	mEFG1	mip120	CG11980	CG31612	su(Hw)	morgue	Fer3	l(2)dtl	crc	TBPH	CG9286	PCNA	Elba1	Art1	His4:CG33889	dnc	Taf10b	tin	pAbp	mask	Med	CG2681	Nipped-B	Hr96	Su(z)2	osa	Sirt7	Awh	CG42383	su(f)	CG2712	Prosbeta7	CG12236	Aatf	dan	pita	CG11695	Atpalpha	apt	Lsm12a	His4:CG31611	Pitslre	Polr2I	CG16721	CG15269	gl	CG2574	wek	ham	CG7483	br	CG10431	e(r)	CG42830	Abd-B	mei-41	ps	Rai1	x16	RPA3	Tcs5	snf	S6k	CG5316	dec	Acn	Aos1	CG8119	pdm2	Tengl1	Tnpo	Keap1	edl	ERR	Ste:CG33238	meep	ase	spel1	Srp54	Pcl	CG14480	mil	seq	Smox	Mcm2	lms	CG43347	Klp3A	Cypl	Sirt2	nej	Su(z)12	trx	l(3)73Ah	dve	CG10418	Yeti	Vdup1	CG5641	Moe	TfIIFalpha	fus	Spag1	CG5440	Nuak	Rbfox1	Trm1	Sry-delta	Paris	dac	Kdm2	LSm-4	CG9312	Sirt6	Mettl4	CG18476	lwr	Incenp	vas	mars	CG5913	FoxL1	His4:CG33875	FDY	sim	bi	CG1647	Brca2	Bro	Mnn1	Zfrp8	Pcyt1	CG3356	His4:CG33907	CG11596	pum	DNAlig1	Dek	CG34367	Mnt	Caf1-55	CG9784	CG17359	Ste:CG33245	Atf3	CG32797	PRL-1	Xpac	Hmx	Ets21C	Su(var)3-9	sgl	Cmpk	Ets98B	wdb	mus201	gus	CenG1A	ap	CG2063	Kr-h1	His4:CG33905	bol	rec	Usp47	CG11456	DJ-1alpha	Sumo	pll	rig	Charon	CG17839	ara	CG8209	wcy	Jarid2	Gcn5	qkr58E-3	Pp1-Y2	Dyrk3	CG6683	Caf1-180	elav	CG3226	His4:CG33885	IP3K1	spt4	Zpr1	Nelf-E	SoxN	CG18262	Pits	Bx	Prosalpha6T	hid	cass	CG3008	BuGZ	phol	RpS10b	CG17329	Lime	Dp1	niki	alph	nsr	Kap-alpha1	Utx	Apl	Arp8	Larp7	corto	Rsph1	CG7379	CG14297	XNP	IntS11	Nse4	key	puf	CG1529	cdc14	CG9288	Topors	ktub	Etl1	Tdg	ball	mdlc	CG7786	Roc2	CG2321	CG17612	CG2182	Smu1	Nsun2	nonA	E(Pc)	Aps	Ubc4	MED11	CG34376	wapl	Jasper	CG42366	Irp-1A	Prx5	CG31007	CG12768	SkpD	Ced-12	HP1b	Sfmbt	gkt	NSD	IntS4	CG2006	Nek2	l(2)k01209	tra	CG6693	Ubc84D	CG10631	MED4	CG10214	CG17801	UbcE2M	CG33552	rgn	Rga	lz	CG4496	CG5808	Wbp2	eIF4A	Hsf	CG6523	crm	Nfs1	Fs(2)Ket	CkIIalpha-i1	CG13185	sisA	Ak1	RNaseZ	Blm	PolH	YL-1	Boh1	CG7094	Ssl1	retn	Bacc	alphaTub84B	CG8944	caz	dbr	CG7044	Hsc70-1	CG45071	bora	ind	mod(mdg4)	Psn	CG11403	Ste:CG33236	CG17598	ctrip	Ublcp1	Tailor	Hr4	Swt1	Cdc7	SMC1	e(y)2	RunxB	gcm2	CG4004	Mau2	ssx	rdgC	Su(Tpl)	Fcp1	4E-T	Prosalpha1	PpD6	D1	Six4	Hsc70-3	CG34183	RPA2	tsu	Nap1	CDK2AP1	Rca1	inv	heph	slp1	CG32110	drosha	CG7988	Cdc6	CG3045	cry	Prtl99C	Eip75B	CG13994	CG6163	barr	Tnks	CG10077	CG6066	CG33557	Karybeta3	MRG15	fru	rad50	dysf	p38b	mael	Chi	BigH1	Mcm5	bin	CG17385	HERC2	CG7220	Spt6	ken	CG7148	E(spl)m3-HLH	Top3alpha	CG9588	klu	CG13481	Top2	CG17806	Mink	CG8509	chinmo	mle	ohgt	SF1	pie	CG14739	Myb	Pcif1	Tbp	Fhos	lola	mod	tst	tum	lolal	Tfb5	fkh	alc	Orc2	beag	JIL-1	noc	odd	Tif-IA	Ythdc1	CG15262	chn	WRNexo	Hrb87F	lmgA	CG33156	opa	GATAe	Crtc	Ubx	CG10348	disco	CG12069	Doc3	pan	crol	Dph3	Acph-1	CG17528	CG12299	Rtca	Mapmodulin	Dis3	Ak6	Prosbeta2	row	HP1e	SRPK	Top1	CG10949	CG44002	RunxA	dsx	Ddx1	pb	CG6220	HP1c	Adi1	CG11398	RAF2	Sox21a	Cp190	Meics	CG33346	CG7182	Rtel1	fand	CG13369	dimm	E(z)	CG4502	CG14062	Cdc27	CG9541	danr	east	Hsp70Bc	mor	thoc5	Saf6	CG7544	bowl	CG10654	HINT1	wcd	hng1	CG13344	acj6	CG3065	Rbf2	Su(fu)	Rev1	CG30431	CG30020	Scr	RpL41	Mondo	twin	Asap	U2af50	CG9062	Rtf1	UbcE2H	CG16812	His4:CG33895	PPYR1	Rcd5	Fsn	OS9	ouib	ftz-f1	CG4707	prd	CG4266	CG31917	mus301	su(sable)	gammaTub37C	zld	Nprl2	Ulp1	Prp5	mnb	trc	CG10555	Mt2	Hsc70-2	Sym	CG8142	yem	Asator	Ste:CG33243	mtd	Rpn1	rad	CG32264	DMAP1	CG8388	MED6	gce	Cka	Fen1	CG5543	Ip6k	bon	cad	eEF1gamma	XRCC1	Elba3	rib	Prosbeta5R2	sage	Sox15	kis	SNCF	Lrr47	Irp-1B	LIMK1	Pka-C1	comr	NELF-B	DIP1	Mettl3	mof	Bug22	hb	SmB	His2Av	dre4	flw	CG7747	Su(var)3-7	SC35	CG2116	CG15432	Usp7	sbb	sina	CG11839	CycJ	Fancm	msi	unpg	Ste:CG33239	rswl	CG10384	CG10600	CG1231	CG6770	CG11710	Ptx1	B	hang	fs(1)h	HDAC3	MAPk-Ak2	CG4045	CG4318	ovo	dpn	Ssl	jub	MED21	MED28	par-6	geminin	brm	Neu2	Gas41	lark	Prosbeta3	wash	rn	scrt	net	Ste:CG33241	Rcc1	qkr58E-1	CG2104	jing	CG9279	Drice	Ada3	CG8001	CG5823	ova	Tengl3	Cand1	CG15120	Mi-2	CG4021	Sas-4	CG4404	vtd	Prosalpha5	pad	NC2beta	per	CG7368	ben	Hsp70Ab	Erk7	MBD-R2	Amun	so	MED17	CG6843	CG15356	Prosbeta4R1	CG12391	His1:CG33834	Acam	Bap60	NfI	CG11700	velo	Den1	dany	SAK	CG30428	gsb	CG8677	CG14174	Dll	TfIIEbeta	obe	Ubi-p5E	amos	Diap2	rl	kmg	wisp	sno	hng2	RfC3	CG9609	CG31111	Gclc	CG2218	CG2926	CG6813	tant	Ets96B	Bgb	CG17568	cnc	CG32767	Mef2	CG5013	MKP-4	sbr	pnr	CG5828	CG14983	CG17233	pths	Pp4-19C	CG6418	Axud1	zf30C	EndoGI	RpS3	CG9215	Mtor	spen	Uba3	Prosbeta5R1	myo	E(spl)mdelta-HLH	BRWD3	CG4820	CG31807	CG31008	Met	CG15073	Panx	CG12362	Usp16-45	chico	TER94	Ranbp21	repo	Map60	E(spl)mgamma-HLH	nmo	Gld2	SkpE	Inx7	Nurf-38	Scm	nclb	cag	Rbf	IntS9	ECSIT	mub	ct	CG6026	Arp5	rgr	CG6153	cdi	RIOK1	Ncoa6	CG4360	wrd	tim	Lam	PhKgamma	CycH	cbt	Lk6	Mrtf	CG12071	CG42458	bgcn	Sou	cuff	bsk	Diap1	CycD	His3.3A	Xpc	HGTX	CG8478	GMF	sinah	Rpn9	Hel89B	Hsp70Bb	Clic	SA	Nil	CG31715	CG11247	cerv	foxo	nonA-l	CG5003	Dif	c12.1	lov	E(spl)m7-HLH	MED30	RYBP	dom	CG11696	dgrn	phr6-4	Pomp	CG2691	achi	Ogg1	Eip93F	fz2	CG15435	gt	CG43689	CG13367	CG4049	pbl	SA-2	His4:CG33891	salr	Uch-L5	eIF3e	Dpit47	tHMG1	sqd	Ada1-1	WASp	CG7879	Cdk7	BEAF-32	Cpsf160	Pus7	eyg	vis	arx	Sik2	phyl	Rad23	cic	Taf12	Dlip1	hyx	REG	oc	Poxn	Mo25	Cdk5	lab	Pp2C1	gammaTub23C	hth	Ran	Taf4	htk	CG14618	Taf11	p38a	TfIIB	Gcna	Kdm4B	Ubc2	Hrb27C	PolZ1	Tip60	CG32121	Ran-like	twe	CG10887	C15	mtrm	Zaf1	tos	CG13926	zfh2	chif	lbl	Sxl	mbf1	stx	CG6254	rdx	Spt20	Chchd2	His4:CG33877	Kdm3	RagA-B	ss	mRNA-cap	CG18599	CG17059	CG10336	14-3-3zeta	PCID2	sima	His4:CG33869	MAGE	Nipped-A	CG31109	Atac3	stwl	OSCP1	CG14667	CG8219	mbm	Art4	nub	CG1603	CycC	CG6800	Stlk	Rpn2	CG13599	CG12259	Rpn13	Ntmt	La	CG4854	Vhl	His4:CG33881	HIPP1	Sce	Xbp1	CG15812	Sf3a1	abo	caup	srl	D	His4:CG33883	Sirt1	trbl	fid	hh	Gnf1	CG2120	tey	Ste:CG33240	Pen	CG7745	grh	mh	Dbp80	Pabp2	CG7115	B52	Prosbeta4	snRNP-U1-70K	fuss	I-3	tgo	fal	rump	AGO1	CkIalpha	wupA	Sse	Snr1	CG6765	CG10177	SCCRO4	CG13293	chb	Fmr1	tup	Kank	e(y)3	CG5790	Lsm11	Herc4	gsb-n	Skeletor	His4:CG33909	CG8924	calypso	eff	Tgi	Imp	SmE	CG3281	ms(3)K81	E2f1	CRIF	arm	rnh1	nito	Doa	MED15	CG10584	snRNP-U1-C	His1:CG33855	nerfin-1	CG2678	Sin3A	pch2	Nulp1	Drak	ebi	PPP4R2r	B-H2	Hsp70Bbb	TTLL3B	Non1	p53	HmgD	His3.3B	BtbVII	CG1910	CG2662	Moca-cyp	cutlet	sv	Ste:CG33246	DCTN1-p150	Rpt4	CG7484	CG14443	Prosalpha2	NADK	fl(2)d	dmrt93B	lqfR	Sox14	not	Fancl	SmD1	mrn	ac	Max	Psc	hiw	exd	CG2889	elg1	btn	Nse1	Sox102F	wuho	byn	Smyd4-4	scny	mura	CoRest	RhoGEF4	CG9449	Usp30	CG8765	Polr2A	gwl	Pdcd4	CG3847	bru1	run	CG10445	AMPKalpha	CG16863	lin	P32	Klp67A	CG12054	CG5466	gig	CG8565	tws	tplus3b	CkIIbeta	nau	CG7987	CG9650	Rox8	SCAR	Acf	Vps4	RpS7	Sp1	blanks	aly	CG8858	CG8319	CG42300	RIOK2	CG9300	Pngl	CG10462	polo	IntS6	okr	CG11902	EndoG	CG9948	CG14641	hng3	ASPP	ash1	Syp	CG9451	CG18764	CG18467	Gsc	Ste:CG33237	Adf1	alphaKap4	CG32856	grp	jigr1	CG1233	Tis11	CG17249	CrebB	trr	Kdm5	Blimp-1	Srrm1	egg	org-1
+polytene chromosome interband	BEAF-32	Sry-beta	dany	Mlf	Gug	Chro	mof	CG8677	vtd	Polr2D	z	JIL-1	Nlp	Spt5	REG	Xpd	spt4	Spt6	lawc	HP1c	woc	MBD-R2	Hsp83	Adf1	moi	EloC	nsl1	ADD1	Sry-delta	Asciz	pzg	TH1	Rcd5	G9a	Utx	tHMG1	Ada3	Ndf	HDAC1	Marcal1	tHMG2	Tip60	Chd1
+cytoplasm	Leash	Hipk	dsb	bru3	pic	CG5906	Nlp	asun	Tudor-SN	nxf2	Rpt6	betaTub56D	IP3K2	AQP	aay	Ptpa	CG3014	emc	CG2901	Odc2	Setd3	CG1105	orb2	Myo28B1	CG4278	Nedd8	Exd2	bocks	Damm	Smn	iPLA2-VIA	CTPsyn	CG8891	Mrgn1	CG4629	hyd	stck	Axn	Smyd4-3	Dis3l2	unk	Acsl	SNF4Agamma	Ste:CG33247	Fkbp59	CG5181	dnd	Galk	Nmnat	beta-PheRS	sra	Rab8	park	mib2	Xpd	Cat	klar	Hsp83	GstE13	CG8910	bmm	puc	Gel	Zwilch	CG3788	Prosbeta2R2	drpr	Sec8	Nedd4	Arr1	Hsc70-4	Myo95E	tHMG2	ND-42	CG11597	Ns3	EcR	san	Kyat	loco	Mettl14	Cul3	glob1	kay	RpL8	CG31248	CG42390	Rack1	Pur-alpha	CG11178	sgg	l(3)mbt	CycE	DCP2	lds	RecQ4	RecQ5	pyd3	sud1	RnpS1	l(2)gl	rngo	spg	Ranbp16	PpD5	Hk	Snap25	sofe	HUWE1	CG31678	CG40470	Atg7	cyc	GstD1	vig2	sip1	CG9986	Tdc2	CG32281	pcm	Sin1	Usp20-33	CG6195	ari-1	r2d2	kra	Gpb5	JMJD5	gol	Myo31DF	stg	Arl6	CG3760	CG32262	Pop2	CG2964	qua	t	Pdp	sicily	mbl	Eip63E	alpha-PheRS	pira	ctp	CG10984	CG31275	CG1673	alphaSnap	Prosalpha7	CG18814	Ste:CG33242	RpS5a	CG17110	CG10749	LKRSDH	nkd	JTBR	mts	CG7611	SkpC	Rbp4	Rpn13R	shot	CG6330	CG32487	Ptp61F	Mlp60A	Hsp27	Idi	comt	brun	aurA	Ste:CG33244	IntS2	Smurf	Pink1	vig	Tsc1	CG31343	Dph2	14-3-3epsilon	Rep	phm	SmydA-4	CG34404	Hen1	Ubi-p63E	psidin	CG12493	GstD10	glu	Arts	CG11275	GstD5	CysRS-m	CG5071	ninaC	CG11593	AnxB11	Spf30	Pdk1	CG3626	CG33521	CG6179	RpS9	CG5521	cbs	Hou	Pak	bru2	rod	CG3552	CG15715	CG15385	Cdc23	mbt	loopin-1	Oda	GstZ1	Cdc45	Pfdn4	Spn43Aa	p47	NTPase	Trs20	Odc1	CG31687	cold	clu	Su(H)	Pp1-13C	Fam92	Mos	CG1074	ENGase	Uba5	CG2617	fog	CG2736	TBCB	CG32809	CG18528	msk	Zmynd10	Ldh	Gs1	Cdc37	GstE8	Prosalpha6	PKD	HisRS	pelo	Df31	GlyP	Cnot4	smg	CG32263	twi	dl	PQBP1	CG2246	CG11342	RapGAP1	fu	Psi	Pak3	Antp	CycB	armi	Epg5	PolG2	Sardh	Naa35	tut	scra	GstE1	Nrt	Pi3K68D	Wnk	Sec5	Gem3	CG18747	Prosalpha4T1	CG13001	bgm	PRAS40	ChAT	faf	Dhps	CG42271	gfzf	Prx3	raptor	CG17593	Pcmt	veli	CG6738	PrBP	gammaSnap1	Clc	Prosbeta4R2	CG2577	CG32104	Nadsyn	eIF4E1	CG10376	mkg-p	viaf	CG14339	fs(1)Ya	Upf3	CanA-14F	CG2680	Rab11	FBXO11	rin	hpo	CG32488	Rbpn-5	mago	Rm62	GstE6	par-1	Gbeta5	AGBE	tsh	Sbf	dco	vls	N	Nprl3	RpL10	toc	Paics	Ccs	Aldh	GstD7	tud	Haspin	Ube3a	Vps36	Kaz	CG12147	CG1662	Fit1	Tor	cu	DZIP1	CG5731	sqh	CG6106	S-Lap8	mahe	Btk	RpL32	scyl	mamo	Mdh2	se	Prosalpha3T	Smyd4-1	CG18745	Oat	CG11436	ida	Dip-B	fliI	Prps	grim	Idh	r	emb	CG17698	CG40006	S-Lap3	MESK2	Ufm1	CG7423	CG17019	CG11811	CG5412	Dronc	CG2641	Mst89B	IscU	parvin	l(2)gd1	Flo2	CG31741	SkpB	Adar	CG8800	Clk	Fer3HCH	Nup98-96	Pi3K59F	Tdrd3	Vps16B	Rnf146	stv	p120ctn	yki	EndoB	X11L	Rab1	bys	Pp1alpha-96A	CG8176	Tdc1	CG18268	Gle1	Pu	Arf1	Ube4B	CG5958	Mad	GstD9	spir	CG5555	CG31342	stai	rho	Mkp	trsn	gek	CG11807	CG9806	krz	trbd	CG11249	St4	GlyS	RpL40	SkpF	Lpin	Hmr	CG1827	dUTPase	CG9389	sti	dop	CG11134	CG5757	CG15543	RpS18	CG5577	CG17026	CG5111	CG5087	Dbct	Mlp84B	Mtr3	MTF-1	Hsp68	Pdi	SCCRO	Uba4	sff	how	lig	maca	CG31140	lok	muskelin	GstD4	Eip63F-1	Prosbeta6	sbm	Mer	Gs2	CG7860	flfl	CG9962	Smyd4-2	jar	lost	Fbp2	Dap160	Dlic	eIF2D	atk	BicC	Cpn	Strica	ubl	Srxn	Galt	mtm	rols	GstO2	CG13531	Taf10	Taldo	Parg	Dtd	Rhau	tub	CG7551	RanBPM	CG4872	Dyrk2	p130CAS	scb	Rab3GAP1	Mbs	Trxr-2	Akap200	Cap-D2	CG12078	CG7236	Sk1	Upf1	bif	Amph	CG10470	Uxs	CG34456	bel	CG3165	Ak3	Tao	CG31659	ave	Plap	halo	Klp61F	Unr	Cdk2	CG10283	CG14696	CG17028	alien	CG17807	f	Mitofilin	ArgRS	mio	Rpn10	omd	eya	Dcr-2	CG43902	S-Lap7	GstE11	PyK	Marf1	alphaTub67C	SMC2	CLIP-190	CG7328	fest	CG8774	CycB3	Nph	Patr-1	Cbl	Su(dx)	Gadd45	CG7694	CDase	arg	IleRS	CG7227	defl	CG17219	Ipk2	Urm1	MsrA	aux	AGO2	l(2)37Bb	Nmd3	CG31198	Nf-YC	KP78b	Dcr-1	Rilpl	PolQ	Rpp20	Ocrl	Acyp2	CG2111	Khc	Prosbeta1	tsr	GstD6	CG10254	Hsp70Ba	SkpA	CG11899	lft	CycA	Ube4A	CkIIalpha	mei-218	capt	primo-1	Nup154	Sik3	CG16758	Sid	CG18128	CG5567	GstT2	ATP7	p38c	RhoGAP54D	CRMP	HDAC6	l(3)02640	Upf2	UGP	fbl	Pi3K92E	svp	qkr54B	HIP	DCP1	RpL36	Elp3	drongo	BicD	Uch	orb	Mob2	Mlf	Pka-R1	Rac1	CG5327	Arl2	santa-maria	CycG	PpN58A	CG6465	plh	ckn	eIF3k	CG42788	HEATR2	uri	CG30496	robl22E	Argl	nsl1	CG42335	robls54B	nonC	BTBD9	Myo61F	CG11356	Cyp1	chic	HnRNP-K	Hexim	for	htt	DCTN2-p50	Polr2C	Usp5	Adat1	Nmt	CG2540	Pten	AANATL5	Uba2	slpr	aft	spn-E	Cmtr1	CG14408	CG5323	CaMKII	Pp1-87B	mri	piwi	bsd	PAN3	FRG1	dnk	Rrp4	hook	Prosalpha3	JMJD4	CG7362	primo-2	Gp210	Phax	scf	CG9008	eas	neur	Prosbeta5	Rop	Ack	Nak	RanGAP	Rpt1	spas	Tob	cup	Lkb1	SerRS	Cam	Prosalpha4T2	p	ple	fwd	CG13423	ImpE2	Nab2	Ste12DOR	tamo	PpD3	CG9391	Gprk2	CG4839	PpY-55A	Rel	kibra	egh	Su(var)2-10	Grip71	didum	Prosbeta2R1	robl	CG11291	GstE2	conu	GstO3	Tnpo-SR	AlaRS	Gen	Kap-alpha3	Rae1	SP1029	eEF5	Rnp4F	CG9222	CG43089	CkIIbeta2	CG1227	Tctp	Antdh	Pp1-Y1	fbp	Pask	Svil	CG10352	CG5026	kkv	GstE4	CG6726	Cdc42	Tango11	AspRS	mad2	Trax	HDAC4	Srpk79D	Drp1	Oscillin	HBS1	Fpps	Rpt5	Slob	pn	Rrp40	Ubc6	S-Lap4	reb	SmydA-9	AANATL4	RpS27A	St1	Snrk	CG10950	Sesn	PCNA2	AspRS-m	pon	Pfdn6	Argp	pim	Fim	CG9297	CG6805	CG34334	CG10947	Hsc70Cb	Hsp70Aa	Cap-G	Prosalpha4	CG9067	Shmt	pes	Slbp	Rtnl1	RhoGAP92B	Capr	Msp300	CG1344	Strip	stau	Ythdf	RhoGAP16F	CG15800	Dh31	CG18748	CG14305	AgmNAT	CG8520	ecd	TyrRS	CG12355	dup	Uba1	betaTub97EF	MTPAP	Gmd	Fkbp12	Nxt1	Fas2	128up	CG11980	cN-IIIB	PCNA	nwk	Taf10b	pAbp	mask	Dlish	dlt	Med	CG2681	CG6907	CG43901	CG42383	GstT4	mus304	Mkp3	Apc	Treh	Prosbeta7	CG17266	STUB1	CG8665	Coprox	Atpalpha	Flo1	dx	endos	apt	thr	Argk1	CG4372	CG5776	CG10561	CG12320	Pcyt2	CG4892	Dera	Sps2	GstE10	CG10483	Gdi	Tcs5	S6k	RhoGAP18B	Eno	Acn	Aos1	Tnpo	gammaSnap2	AGO3	Ste:CG33238	CG4849	Bet3	mib1	sn	ValRS	KP78a	Ace	Aplip1	Ggamma30A	CG3492	Dhc64C	Sans	PheRS-m	Klp3A	CG15118	Sirt2	CanA1	Vdup1	Invadolysin	Ubr1	Moe	glob3	Raf	Nuak	Rbfox1	Trm7-34	gw	CG6071	APC7	ref(2)P	dob	Pfas	vas	drk	mars	Pdh	CG5913	Det	spag	Trm7-32	FDY	sim	Opa1	GAPsec	Zfrp8	wat	Pp2A-29B	CG3356	Naa80	pum	e	DNAlig1	ksr	boca	eIF4E3	Src42A	Rbp6	gskt	Evi5	CG9784	alphaTub85E	PTP-ER	Ste:CG33245	PRL-1	Cmpk	eIF5B	gus	Reps	pug	Eps-15	bol	fax	mira	pll	rig	Spn	MagR	ara	CG8209	Jarid2	CG33288	Pp1-Y2	grsm	pcs	CG5849	Dyrk3	Ass	gry	CG1434	Dbp21E2	CG4080	CG17109	sip3	IP3K1	ppl	Zpr1	Pkg21D	Pits	Prosalpha6T	hid	CG3008	niki	Dp1	SmydA-1	cact	Kap-alpha1	Apl	corto	Dph1	CG14297	IntS11	Cth	key	CG17819	bam	GstE12	cdc14	Femcoat	Hecw	Arr2	CG7970	Kpc1	ktub	Mulk	ball	inc	CG10417	Roc2	Atg9	GlnRS	CG2182	shu	Smu1	Gprk1	Nsun2	Aps	AnxB10	CG8004	Ddc	CG17375	betaTub60D	Ate1	Pfdn1	CG42366	Cyfip	Grx1t	Prx5	Abl	blow	cort	CCT2	SkpD	Vps39	Ced-12	Nek2	l(2)k01209	CG6693	CG17027	Arl4	bchs	chrb	CG16837	S6kII	AnxB9	GluProRS	Fs(2)Ket	dia	Arf6	GstE3	Ak1	Blm	trus	CG13502	Cyp40	betaTub85D	CG18746	Trxr-1	CG7094	alphaTub84B	Hsc70-1	Aduk	bora	Nsf2	Ste:CG33236	CG17598	Lst8	Tomosyn	Tailor	Hr4	CG5662	casp	Cdc7	DNAlig3	CG4415	AANATL6	CG46339	GstD3	tilB	rdgC	4E-T	Prosalpha1	PpD6	D1	Ski6	cdm	CG12863	larp	Hsc70-3	CG34183	tsu	Nap1	Magi	lncRNA:yar	Cdc16	Sps1	heph	CG7058	PCB	CAH1	Tes	Dcp-1	CG7988	cry	CG3045	Gbeta13F	Cbs	Ubr3	Tnks	CG12316	fzr	CG10077	S2P	Karybeta3	Sc2	Prm	Tti1	Mp20	Dab	Fadd	sky	p38b	mael	CG10345	Takl2	Mtmr6	Pkn	CG14777	CalpA	Ide	CG6567	CNBP	Dhpr	Pi4KIIIalpha	Nup358	ScpX	HERC2	brat	CG12289	CG3663	CG15739	CG9588	CG10822	CG8509	cin	mle	MetRS	serp	ohgt	CG14739	Dys	Ptpmeg	enc	robl62A	Fhos	lola	mod	GstS1	alc	ric8a	Fum3	CG4022	Gbeta76C	JIL-1	RpS2	baf	Pdxk	CG10527	CSN5	Atg5	WRNexo	CG33156	rg	Crtc	GLaz	feo	CG7997	osk	Dph3	Cyp4d21	CalpC	CG17528	Mapmodulin	Pfdn5	Ak6	Prosbeta2	AANATL2	SRPK	CG9314	Top1	CysRS	Ankle2	Pka-R2	CG8839	CG32819	Ak2	CG13972	Adi1	corn	Wwox	AANATL7	Meics	CG7182	JMJD7	mst	CG8584	CG13369	CG17029	CG13192	Nop17l	Cdc27	Uggt	CG9541	AsnRS	CG9044	Hsp70Bc	Tasp1	CG15803	Pfrx	HINT1	CG11333	hgo	exp	ras	PpV	Su(fu)	Naa15-16	bnl	CG33144	ThrRS	RpL41	twin	Asap	Traf6	CG7536	Pfdn2	dgo	Rab23	Apt1	PPYR1	Dd	Fsn	Spt	ftz-f1	dos	Rrp46	CG31917	gammaTub37C	CG12081	Nprl2	Dna2	Ulp1	trc	Asator	Hsc70-2	Ste:CG33243	CG10474	CG4467	mtd	Uch-L5R	cyp33	rad	MED6	gce	Cka	Ip6k	cad	eEF1gamma	CG10055	CG8726	CG12229	Prosbeta5R2	PAPLA1	Lrr47	Rab10	LIMK1	DIP1	SmB	CG14778	Lrrk	flw	SC35	lic	TBCC	atl	Arl1	elgi	Fas3	APP-BP1	IKKepsilon	sina	CG11951	CycJ	msi	GstZ2	Pgls	CG10839	Ste:CG33239	Usp2	LysRS	HDAC3	RpL11	Mettl5	MAPk-Ak2	Rho1	Gdh	Tak1	Ssl	ari-2	lark	Prosbeta3	wash	Ste:CG33241	INPP5E	Rcc1	y	CG14260	Daao2	Rrp42	CG9705	CG2104	CG9279	Drice	RNF220	Atx2	sds22	rudhira	Traf4	CG8001	RabGGTa	RpS13	mei-P26	homer	GstT1	Traf-like	Sod1	Sas-4	Unc-76	Prosalpha5	Tmem63	Z600	GlyRS	RhoGAP93B	per	Snmp1	CG11523	Hsp70Ab	sigmar	Erk7	betaTub65B	GstT3	Prosbeta4R1	S-Lap5	alphaTub84D	Acam	CG6733	CG11700	DppIII	CG17124	velo	SAK	me31B	Inos	Daao1	gsb	mlt	CG15743	GstO1	Ubi-p5E	mas	ssh	Diap2	rl	wisp	CG3270	Git	dsh	tant	Hdc	Arf4	CIAPIN1	CG9393	CG5013	superdeath	Arl8	Vrp1	RpS15	sbr	CG5828	GstE5	Pp4-19C	CG3764	CG7653	CG15676	CG34297	Uba3	Aprt	Prosbeta5R1	Elp1	insc	CG12362	CG18744	chico	Girdin	TER94	Ranbp21	repo	c12.2	CG15611	Shark	CG10481	nmo	Gld2	SkpE	crok	Sec6	Inx7	ACC	Nurf-38	CG5885	BHD	CG31445	CG32683	Paip2	fng	Patj	Hsp26	ECSIT	CG9886	mub	CG12896	Arp5	CG10365	Dredd	cdi	S-Lap2	CG1354	cactin	GstE7	Pp2B-14D	Thor	RIOK1	tim	PhKgamma	syd	Karl	Eb1	Fum1	Lk6	Rpn5	Mrtf	bgcn	Sou	cuff	bsk	Diap1	CycD	Xpc	AANATL3	emp	sinah	ninaD	Hsp70Bb	rdgB	CG7794	Nil	CG31715	foxo	adp	Apc2	Dif	d	ArfGAP3	Tbce	dgrn	phr6-4	Pomp	GstD11	CG7889	CG9643	NLaz	CG31493	Uch-L5	CG11050	tHMG1	sqd	nudC	WASp	Cdk7	eyg	mgr	CG4238	CG10428	Sk2	Sik2	mxt	Rad23	REG	CG5048	CG3829	Mo25	Cdk5	Pp2C1	gammaTub23C	Klp64D	CalpB	sav	hth	Ran	CG31251	CG11077	IKKbeta	CG10086	Taf11	CG44243	p38a	eEFSec	pix	Fum2	Hrb27C	CG31233	CG2852	Ran-like	twe	mbc	BthD	l(2)41Ab	Decay	capu	Sxl	mbf1	CG9961	rdx	hts	Tom	CG33172	CG12661	mRNA-cap	CG17059	14-3-3zeta	PCID2	twf	Nipped-A	RpS11	pk	OSCP1	CG8219	mbm	Art4	GstD8	CG31773	CG6888	numb	Reph	CG14411	GstE14	Stlk	amd	btz	TrpRS	Rpn13	Ntmt	CG7768	St2	D	Sirt1	Lmpt	Csl4	fid	hh	CG14505	CG34375	Naa60	hdc	HSPBAP1	Ste:CG33240	CG13473	exu	Pym	Pabp2	CG4842	CG7115	Prosbeta4	inaE	tgo	msn	rump	AGO1	CG32473	Arl5	CG12093	S6KL	CkIalpha	CG10177	fray	PsGEF	Rab35	chb	Fmr1	eIF2A	Rpt2	Kank	Grx1	CG3184	Myo10A	bsf	CG5790	Herc4	Prp8	Rok	CG14966	crq	GstD2	LeuRS	Lerp	calypso	CG6910	Imp	Past1	Doa	wnd	RhoGAP19D	Dph5	Psa	PPO3	CG6873	PPP4R2r	Hsp70Bbb	CG3632	yuri	X11Lbeta	CG5116	CG17224	Moca-cyp	ck	Ste:CG33246	DCTN1-p150	CG10834	rdgBbeta	speck	CG14443	Prosalpha2	loqs	NADK	Cnep1r2	lqfR	CG15141	Ostgamma	vret	GstE9	Mekk1	exd	Fpgs	Pcf11	PHGPx	CG9578	AdSS	Smyd4-4	CG7335	RhoGEF4	fry	Hus1-like	Tcs1	gwl	bru1	CG8773	AMPKalpha	Arpc5	Drep4	lin	CG3502	Klp67A	CycY	gig	CG8565	scaf	CkIIbeta	CG2201	nau	shi	SCAR	Snmp2	Fnta	CG12016	blanks	csw	RanBP3	aly	aub	fj	Madm	CG7069	Takl1	RIOK2	BubR1	CG32820	Pngl	sws	polo	sol	Syx4	CG18467	CG42233	robl37BC	Ste:CG33237	alphaKap4	CG1440	Cyp18a1	grp	fne	wkd	spn-F	CG10748	Hsc70-5	ninaA	Nacalpha	Blimp-1	temp	CG14562	egg
+cytosol	tRNA:Asn-GTT-1-3	car	p23	tRNA:Arg-ACG-1-6	PIP4K	CG3544	Lpin	Gdh	Sec13	tRNA:Pro-AGG-1-4	Gart	tRNA:Tyr-GTA-1-4	betaNACtes2	Mvk	Sema2a	kat80	Gdi	Atg8a	CG7920	ps	sau	tRNA:Glu-CTC-3-4	tRNA:Asn-GTT-1-4	tRNA:Leu-CAA-2-1	Rai1	Tudor-SN	S6k	PGRP-LE	tRNA:Trp-CCA-2-6	tRNA:Asn-GTT-1-9	CCT1	CG10089	CG5757	tRNA:Arg-TCG-2-4	RpS18	tRNA:Gly-GCC-1-7	tRNA:Glu-TTC-1-3	ORMDL	eEF1delta	Tnpo	Mdh1	Tina-1	AGO3	tRNA:Ser-TGA-1-1	Mob4	Mvb12	Bet3	CG4849	tRNA:Met-CAT-1-3	Qtzl	rudhira	tRNA:Gln-TTG-1-1	tRNA:Phe-GAA-1-6	orb2	Adh	tRNA:Ala-CGC-1-3	Hsp68	CG14969	CG1890	Pex1	dhd	Gcn2	tRNA:Lys-CTT-1-9	Usp1	CG15120	Mi-2	mil	otu	Uba4	ATPCL	Pmm2	tRNA:Ser-AGA-2-3	tRNA:Lys-CTT-1-6	CG34149	tRNA:Ala-AGC-2-3	HIP-R	Smg6	tral	CG2765	tRNA:Leu-AAG-1-1	Pax	Smox	CG8353	Cyt-c-p	Not3	tRNA:Val-AAC-1-2	CG1236	CG5504	Hsp70Ab	CTPsyn	dve	CG5726	Tango10	tRNA:Pro-AGG-1-3	CG7546	tRNA:Glu-CTC-3-8	Moe	tRNA:Ile-AAT-1-3	AhcyL1	tRNA:Met-CAT-1-2	CG30178	lost	CG12766	CG7560	Spag1	Sry-delta	CG12224	Pde11	tRNA:Gln-CTG-3-1	tRNA:Arg-ACG-1-3	CG8031	tRNA:Gln-TTG-2-1	tRNA:Phe-GAA-1-3	DppIII	lin-28	tRNA:iMet-CAT-1-2	Mocs2B	Fdh	CG5001	Atg18a	SelR	tRNA:His-GTG-1-4	Atg3	tub	CG9072	Galk	Stat92E	park	CG4752	CG15412	Pepck2	icln	Dyrk2	tRNA:Ala-CGC-1-2	CG5355	tRNA:Arg-ACG-1-4	tRNA:Gly-GCC-1-9	rl	tRNA:Arg-TCG-2-1	tRNA:Arg-TCG-1-1	Hsp83	bmm	Gel	tRNA:Tyr-GTA-1-5	CG18547	tRNA:Val-TAC-1-1	tRNA:Ser-AGA-1-1	CG9331	CG1307	Pp2A-29B	CG2034	tRNA:Thr-AGT-2-1	CG4393	dsh	CG11596	RnrS	CaMKI	tRNA:Thr-TGT-2-3	tRNA:His-GTG-1-3	CG3902	Akap200	tRNA:Val-AAC-2-4	Adk1	Hsc70-4	tRNA:His-GTG-1-1	tRNA:Tyr-GTA-1-7	CG7675	tRNA:Ser-AGA-2-4	Pgant9	tRNA:Phe-GAA-1-8	Sk1	tRNA:iMet-CAT-1-5	Ns3	eIF4G1	sgl	san	tRNA:Asp-GTC-1-6	CG5828	wdb	eIF5B	tRNA:Gly-TCC-2-1	eEF2	Cul3	Kr-h1	pug	tRNA:Ala-AGC-2-9	Helz	bel	CG4390	Jafrac2	dod	tRNA:Leu-CAG-1-2	Rack1	csul	tRNA:Tyr-GTA-1-3	Usp47	tRNA:Val-CAC-2-2	Pgd	DJ-1alpha	ave	vimar	tRNA:Thr-CGT-1-3	tRNA:iMet-CAT-1-4	sgg	AMPdeam	POSH	Gnmt	CG10602	Cubn2	CG9205	tRNA:Gly-TCC-2-2	Mov10	Elp1	tRNA:Thr-AGT-1-3	Mon1	CG31997	tRNA:Ile-AAT-1-7	tRNA:Lys-CTT-1-11	tRNA:Lys-CTT-1-10	tRNA:Asp-GTC-1-2	Rpn10	Usp16-45	Prx6005	eya	CG8360	chico	tRNA:Thr-AGT-1-7	Epp	tRNA:Ser-GCT-2-4	tRNA:Tyr-GTA-1-6	tRNA:Gly-GCC-1-5	Gpdh3	tRNA:SeC-TCA-1-1	rngo	galectin	tRNA:Phe-GAA-1-1	PyK	spg	pirk	tRNA:Glu-TTC-1-2	CG32568	tRNA:Gln-CTG-1-1	CYLD	tRNA:Asp-GTC-1-9	tRNA:Asp-GTC-1-12	Nurf-38	shep	spdo	Prosalpha6T	BHD	dj-1beta	arg	tRNA:Ala-AGC-2-2	CG34025	CG3008	eIF2Balpha	lmd	tRNA:Ser-AGA-2-1	alph	Pgm1	tRNA:Gln-TTG-1-3	CCT4	REPTOR	deltaCOP	tRNA:Ala-AGC-2-10	cact	Fmo-1	ari-1	CG12896	CG10638	cdi	bun	AGO2	tRNA:Ser-AGA-3-2	Tsf2	CG31115	tRNA:Ser-AGA-3-1	Thor	RIOK1	tRNA:Lys-TTT-2-2	eIF2Bepsilon	PDCD-5	wrd	tRNA:Thr-TGT-2-2	Rsph1	tim	CG6701	tRNA:Asp-GTC-1-1	tRNA:Phe-GAA-1-7	Ltn1	Pop2	tRNA:Thr-TGT-2-5	eIF3c	tRNA:Ile-AAT-1-8	t	Pgk	Vha55	puf	tRNA:Ala-AGC-2-6	Sam-S	Ttd14	tRNA:Cys-GCA-1-1	tRNA:Val-CAC-2-4	tsr	tRNA:Trp-CCA-2-3	CG11168	Eip63E	alpha-PheRS	Gapdh1	stumps	Ipo9	Hsp70Ba	CG7970	Lk6	tRNA:Ser-GCT-2-5	Nos	eIF4B	tRNA:Gly-TCC-1-4	eIF4H1	CG32845	cnk	tRNA:Val-CAC-2-6	Smr	tRNA:Asn-GTT-1-6	Rnb	tRNA:Arg-TCG-4-1	CycA	CG2767	Roc2	tRNA:Ile-AAT-1-1	tRNA:Leu-CAG-1-6	cuff	CG17349	janB	tRNA:Leu-CAG-1-7	Xpc	Ald2	GlnRS	CkIIalpha	tRNA:Asp-GTC-1-7	mrj	tRNA:His-GTG-1-5	CG31528	Hmgcl	tRNA:Tyr-GTA-1-2	CG13667	tRNA:Leu-CAG-1-4	CG31624	tRNA:Gln-CTG-2-2	CG1416	EndoA	cert	Rpn9	Tango6	tRNA:Lys-CTT-1-7	nkd	Hsp70Bb	Clic	Tango4	CG10494	Irp-1A	Atg13	Nil	LRP1	Abl	Prx5	tRNA:Arg-ACG-1-2	foxo	Mocs2A	CG6083	PNPase	Spred	Pli	CG9010	UGP	Mcad	tRNA:Ala-AGC-2-8	CG5003	Dif	fbl	d	tRNA:Arg-TCG-2-2	tRNA:Asn-GTT-1-2	tRNA:Tyr-GTA-2-1	CG4858	HIP	eIF6	tRNA:Leu-TAA-3-1	Akt	CG6583	Lsd-2	tRNA:Gly-GCC-1-12	deltaTry	Atg18b	tRNA:Asn-GTT-1-8	tRNA:Val-CAC-2-5	tRNA:Leu-TAG-1-2	Rga	tRNA:iMet-CAT-1-1	CG11151	tRNA:Arg-TCG-2-3	tRNA:Pro-TGG-1-2	BicD	Tango2	GAPcenA	Smurf	Srp54k	Mlc1	Pink1	S6kII	nudC	Wbp2	vig	eIF4A	poly	tRNA:Ser-CGA-1-1	CG6523	Jafrac1	CG10189	tRNA:Gln-CTG-2-1	NetA	CG12020	Nfs1	CG8635	CG4238	CG31674	tRNA:Ile-AAT-1-2	Arf6	phyl	Rad23	DnaJ-H	cic	Rep	CG12321	tRNA:Gly-GCC-1-3	Ak1	tRNA:Arg-ACG-1-9	RNaseZ	Pp2C1	tRNA:Lys-TTT-1-1	tRNA:Ser-AGA-2-2	tRNA:Leu-CAA-2-2	tRNA:Glu-TTC-1-4	Droj2	sav	tRNA:Arg-TCT-3-1	tRNA:Lys-CTT-1-5	hth	tRNA:Leu-AAG-1-2	tRNA:Asn-GTT-1-10	tRNA:Pro-AGG-1-7	Trxr-1	tRNA:Pro-CGG-2-3	janA	tRNA:Lys-TTT-2-4	tRNA:Asn-GTT-1-7	eIF4H2	tRNA:Asp-GTC-1-3	vap	eIF1A	Ifrd1	Jra	jdp	ValRS-m	pix	tRNA:Lys-TTT-2-3	Gpdh2	eEF1beta	tRNA:Gly-TCC-1-1	Cyp1	Hsc70-1	tRNA:Ala-AGC-2-5	tRNA:Thr-AGT-1-6	for	tRNA:Glu-TTC-1-5	Gapdh2	Pdk1	PIP82	tRNA:Thr-CGT-1-1	Gss1	RpS9	CG13926	Usp5	wts	Secp43	Sxl	Atg8b	CG18662	mbf1	CG9961	tRNA:Arg-ACG-1-7	Sos	Pten	Got1	tRNA:Phe-GAA-1-5	tRNA:Val-CAC-2-1	Oda	Usp8	tRNA:Leu-CAG-1-1	Sry-alpha	poe	LTV1	tRNA:Ser-CGA-1-4	tRNA:Asp-GTC-3-1	Chchd2	Ccz1	p47	eIF2gamma	tRNA:Thr-CGT-1-2	piwi	mv	eIF3l	Tm1	CG33158	ss	eIF2Bbeta	ssx	rdgC	Gapvd1	tRNA:Gly-GCC-1-10	SamDC	tRNA:Leu-TAA-2-1	sima	4E-T	Prx2540-1	tRNA:Lys-CTT-1-1	St3	tRNA:Leu-AAG-1-3	mAcon2	larp	tRNA:Met-CAT-1-4	tRNA:Lys-CTT-1-12	Cyt-c-d	CG6299	Sema1b	tRNA:Ala-AGC-2-7	tRNA:Pro-CGG-3-1	tun	tRNA:Ile-AAT-1-6	Rich	tRNA:Asp-GTC-1-10	tRNA:Val-AAC-1-1	mats	Uba5	tRNA:Arg-TCT-1-1	Adk2	tRNA:Arg-TCG-3-2	ocn	heph	CG2811	axed	Mpi	Hsl	tRNA:Phe-GAA-1-2	Rpn12	CG31773	CG9436	Dcp-1	tRNA:Thr-AGT-1-1	Hex-t2	CG2528	Gad1	eIF3d1	tRNA:Pro-AGG-1-2	TyrRS-m	CG6888	cry	CG6983	ci	tRNA:Gly-GCC-1-13	tRNA:Leu-CAA-1-1	msk	RpS3A	Ubr3	Bdbt	tRNA:Ser-GCT-2-1	sty	ARY	tRNA:Gly-GCC-1-4	Prosbeta5	CG43367	tRNA:Glu-CTC-3-6	tRNA:Ile-AAT-1-4	Mtap	tkv	CG6345	CG17068	Karybeta3	HisRS	CG33947	Rop	St2	olf413	srl	CG30392	Rift	tRNA:Glu-CTC-3-2	fmt	Dab	CG12241	AdSL	cup	trbl	CG34325	SerRS	Cam	tRNA:Arg-ACG-1-5	tRNA:Val-AAC-2-2	eIF3m	Pkn	tRNA:Cys-GCA-1-4	PpD3	tRNA:Arg-ACG-1-8	tRNA:Gly-GCC-1-8	Urod	tRNA:Glu-CTC-2-1	CG1116	tRNA:Trp-CCA-1-1	Gga	dl	CG5446	brat	betaNACtes3	tRNA:Ala-AGC-2-11	Vps16A	CG8036	Hex-C	CG7148	fuss	fu	cpx	eIF5	Naprt	Impbeta11	msn	Rel	tRNA:Trp-CCA-1-2	Cpr	tRNA:iMet-CAT-2-1	armi	tRNA:Glu-CTC-3-9	cin	mle	MetRS	tRNA:iMet-CAT-1-3	Atg4a	CG11291	tRNA:Leu-TAA-1-1	Pex7	THADA	Ptpmeg	Prx2540-2	tRNA:Pro-AGG-1-6	CG31673	Adk3	tRNA:Ile-AAT-1-5	Cbp53E	Src64B	Tnpo-SR	Yod1	tRNA:Ser-GCT-2-3	Ubc7	ric8a	tRNA:Tyr-GTA-1-1	tRNA:Ala-AGC-2-4	tRNA:Thr-TGT-1-1	Snoo	tRNA:Glu-CTC-2-2	PRAS40	tRNA:Ser-CGA-1-2	Atg4b	ChAT	tRNA:Leu-TAG-1-1	Pdxk	Gyg	Men	faf	tRNA:Cys-GCA-1-2	CG11835	mAcon1	tRNA:Met-CAT-2-1	Imp	tRNA:Arg-TCG-3-1	fbp	hop	Pask	CG3368	tRNA:Tyr-GTA-1-8	tRNA:Gly-GCC-1-2	Tps1	CG10352	CG3534	cher	tRNA:Pro-CGG-1-1	rg	tRNA:Arg-ACG-1-1	eIF2beta	Ankrd49	CG4438	tRNA:Gln-CTG-2-5	tRNA:Cys-GCA-3-1	Pepck1	Crtc	tRNA:Ile-AAT-1-9	RpS23	tRNA:Pro-AGG-1-1	tRNA:Ala-TGC-2-1	CBP	AsnS	AspRS	eIF4E1	CG8078	CG10863	CG2678	Ald1	tRNA:Val-AAC-2-3	Usp10	tRNA:Pro-CGG-2-1	HDAC4	Dph3	Gpdh1	tRNA:Asp-GTC-1-8	step	ry	tRNA:Gln-CTG-2-4	CG3223	tRNA:Thr-AGT-1-5	tRNA:Lys-CTT-1-3	RhoGDI	pst	Dph4	Hsp70Bbb	CG2680	CSN4	Mthfs	rin	Lasp	hpo	CG3397	tRNA:Pro-AGG-1-5	Top1	tRNA:Ala-TGC-1-1	CG46385	cib	tRNA:Val-TAC-1-2	tRNA:Lys-CTT-1-13	bur	tRNA:Leu-CAG-1-5	tRNA:Ser-CGA-1-3	tRNA:Ala-AGC-2-1	CG11444	CG8401	tRNA:Thr-AGT-1-2	Ahcy	CG15456	UK114	tRNA:Lys-CTT-1-8	tRNA:Gly-TCC-1-3	St1	tRNA:Cys-GCA-1-3	DnaJ-1	Tap42	Jupiter	CG31988	CG7182	Tpr2	Usp12-46	Pex5	Not1	CG3939	vls	tRNA:Arg-CCT-1-3	tRNA:Val-AAC-2-1	tRNA:Leu-CAG-1-8	tRNA:Arg-CCT-1-1	Paics	CG14207	tRNA:Arg-CCT-1-2	scu	SmD1	tRNA:Leu-CAA-2-3	Hex-t1	Ube3a	Hsp70Bc	Fim	tRNA:Arg-TCT-2-1	tRNA:Gln-CTG-2-3	Gclm	tRNA:Glu-CTC-3-1	tRNA:Thr-TGT-2-1	tRNA:Asp-GTC-1-11	Osbp	tRNA:Pro-TGG-1-1	Pfrx	tRNA:Gly-GCC-1-11	eIF3a	Fpgs	CG11975	Rpe	CCT7	tRNA:Pro-CGG-2-2	Hsc70Cb	tRNA:Lys-TTT-2-1	Su(fu)	tRNA:Asn-GTT-1-1	Hsp70Aa	wuho	CG9578	CG10184	aop	futsch	Shmt	Daxx	scny	RpL41	Mondo	Rtnl1	CG17904	CG33672	IRSp53	tRNA:Ser-AGA-2-5	Pbgs	twin	Capr	Usp30	crn	Strip	Pdcd4	Fmo-2	Idh	DUBAI	tRNA:Cys-GCA-4-1	cl	r	eIF3b	Ubqn	tRNA:Arg-ACG-1-10	MFS3	betaNACtes1	Lsd-1	tRNA:Met-CAT-1-5	mgl	tRNA:Thr-AGT-1-4	tRNA:His-GTG-1-2	Npl4	su(r)	CG7423	Aven	strat	tRNA:Trp-CCA-2-4	tRNA:Gly-TCC-1-2	tRNA:Val-CAC-2-3	fabp	tRNA:Trp-CCA-2-5	Uck	tRNA:Ile-TAT-1-1	CG11811	tRNA:Pro-TGG-1-4	CG17327	gig	Hsc70-2	tws	tRNA:Ser-TGA-2-1	CkIIbeta	CG3793	Flo2	CG6724	l(1)G0196	tRNA:Ser-GCT-1-1	CG9650	tRNA:Leu-AAG-1-4	CG42496	Vav	eRF1	tRNA:Glu-CTC-2-3	CG32264	tRNA:Glu-TTC-1-6	tRNA:Ser-GCT-2-2	Akr1B	Rap1	Frl	tRNA:Gly-GCC-1-1	CG1640	bic	betaNACtes6	tRNA:Ile-TAT-1-2	CG10694	eIF2Bgamma	Fas2	Cse1	CG13124	eIF2Bdelta	tRNA:Gln-TTG-1-2	tRNA:Lys-TTT-2-5	Madm	Slh	Gale	tRNA:Gln-CTG-4-1	tRNA:Met-CAT-1-1	RIOK2	Rnf146	Cf2	CG12229	cN-IIIB	HtrA2	CG3308	Atox1	CG1513	stv	Pngl	dnc	tRNA:Leu-TAA-4-1	yki	smp-30	pAbp	mask	Rpn12R	tRNA:Glu-CTC-3-7	ApepP	Irp-1B	Pka-C1	Med	betaNACtes4	tRNA:Arg-TCG-3-3	hppy	CG17292	CG32147	Ptpmeg2	CG2887	CG18659	Syp	zip	CG42383	tRNA:Phe-GAA-1-4	Su(var)3-7	Mkp3	CG4975	AhcyL2	tRNA:Pro-TGG-1-3	tRNA:Ala-CGC-1-1	Apc	tRNA:Cys-GCA-2-1	tRNA:Trp-CCA-2-1	tRNA:Ala-AGC-1-1	TppII	Tpi	Mical	tRNA:Trp-CCA-2-2	tRNA:Leu-CAG-1-3	Fas3	mwh	Mad	tRNA:Glu-CTC-3-5	Hex-A	Usp7	eIF3h	CG17931	CG1440	Mvd	tRNA:Lys-CTT-1-2	sina	tRNA:Glu-CTC-3-3	tRNA:Pro-TGG-1-5	CG17746	tRNA:Thr-TGT-2-4	stai	grp	cos	Pgi	tRNA:Gly-GCC-2-1	tRNA:Lys-CTT-1-4	Tis11	tRNA:Gly-GCC-1-6	trsn	Ts	CG8349	eIF2alpha	eRF3	tRNA:Arg-TCG-3-4	dock	krz	Argk1	St4	LysRS	tRNA:Val-CAC-1-1	CG11089
+dendrite	fra	Dop1R1	Tmc	Ir75a	Gr94a	Gr93a	mys	Gr21a	Mmp2	Neurochondrin	mAChR-B	Gr47b	Gr59f	5-HT1A	Sarm	Gr98d	CaMKII	Gr59b	Gr93b	Gr22c	CG4537	tilB	Gr98c	tau	Or22a	Gr98a	Gr28b	Gr36a	homer	mAChR-A	Wnt5	Orco	Gr93d	drl	CG6805	Gr43a	plum	Gr68a	Gr93c	Snmp1	CG9288	Oamb	Gr10a	nudE	futsch	Gr36c	Or47a	smo	Gr2a	nAChRalpha7	fry	Ret	Gr23a	Nak	Rpn8	bsk	Or23a	Gr39a	Gr89a	Gr77a	Gr22b	Gr22d	trpl	path	Mmp1	ena	hdc	Gr57a	CG13531	5-HT2A	Gr10b	Gr32a	Gr22f	Gr9a	CadN	Gr22e	Cdk5alpha	trc	Nrg	Uba1	Timp	Apc2	5-HT7	Gr36b	Gr59c	Lis-1	unc-104	Rdl	armi	Gr39b	cin	robo1	Gr58b	nompC	usp	Gr59a	CG9784	Dnai2	Gr58a	Gr63a	Cbp53E	Pka-C1	Gr59d	EcR	Gr92a	Gr8a	Gr33a	rpk	mtt	stum	Or83a	Gr22a	Gr59e	Abp1	Gr28a	Spn	Efhc1.1	Gr98b	Or22b	Dscam1	PlexB	Gr66a	5-HT1B
+postsynaptic membrane	nAChRbeta2	nAChRalpha2	nAChRalpha1	nAChRalpha3	clumsy	GluRIIA	Syx4	Prosap	nAChRbeta1	Syt4	Nlg2	GluRIIE	unc-13	Grip	CG11155	Cals	scrib	mys	inaE	wls	nAChRalpha6	GluRIID	Abp1	nAChRalpha5	GluRIIB	slo	Ten-m	Fas2	Synd	CaMKII	lqf	cin	dlg1	nAChRalpha7	Drep2	veli	Nmdar1	KaiR1D	Ekar	GluRIIC	nAChRalpha4	nAChRbeta3
+postsynaptic specialization	vlc	cin
+plasma membrane	CG4822	Rala	MFS12	Hexo1	Rheb	kuz	Rho1	veil	Bsg	PIP4K	CG32091	CG32812	Nepl10	Ntl	CG3104	dUTPase	CG32638	CG10483	CG3078	Eaat2	pros	SPR	dpr1	Appl	unc-13	par-6	Ir76b	Tsp66E	S	Eno	Or33b	RabX2	CG2901	Nepl4	Cont	CG33181	Nepl5	Or24a	Drice	Syx7	Ekar	Or22a	wus	MFS10	Ance-2	Hsp68	Vap33	homer	Ace	CG3164	tutl	CG6574	SPoCk	bdl	CG14540	Rab7	Pax	Ctr1B	Vha100-3	GluRIIE	Tmem63	CG2061	sosie	Eip63F-1	Sccpdh2	Rab5	Mco1	CG7272	Hsp70Ab	CG42748	Mer	CG4829	Moe	CG13248	Syx5	mah	Raf	Nepl16	CG31195	jar	CG30178	CG34357	Dap160	fdl	Axn	Syb	alpha-Cat	Pi4KIIalpha	Or33c	Dh44-R2	Or2a	Nepl18	wun2	Zip89B	Axs	drk	Or19b	CG32432	5-HT2A	Sccpdh1	CadN	pkaap	Nep5	Rab40	tub	dlp	CG15399	Syt4	Rab8	CG14736	mGluR	CG3649	Nhe2	raw	Ent3	Ric	wg	Ork1	icln	p130CAS	CG9664	mas	CG31689	Tl	ATP8A	CG32225	Kcmf1	CG9981	CG14644	Ttc7	CG7627	slo	Ptr	Hsp83	Shc	foi	put	VGAT	Or19a	robo1	dsh	KaiR1D	Src42A	l(3)mbn	Akap200	Arf4	scramb1	Hsc70-4	Sec8	CG9784	drpr	Nedd4	Or65a	Nep6	pnut	Vha68-3	Myo95E	Or46a	CG42258	Lac	CAH9	Sk1	CG32579	PRL-1	MRP	awd	Cnx99A	Amph	CG7739	CG3638	Jabba	sns	CG13794	Fic	loco	E23	Egfr	Reps	glob1	Eps-15	CG42674	GluRIID	dmGlut	Slc25A46b	dao	fax	Dl	NimC4	Tao	Ir64a	pll	shg	vimar	nrv1	Oatp74D	PMCA	Grasp65	CG17646	CAH2	Nmdar1	CG10353	CG31835	melt	CG2003	Nepl11	fan	CG13796	Syx13	CG8850	pcs	Sb	Irk3	Or67d	CG33253	Drip	Or49b	chico	MSBP	l(2)gl	CG4080	TER94	Or85f	Pkc53E	Chc	CG12490	nebu	Ir75a	alphaTub67C	CG32982	spg	CG10481	moody	ine	Nepl21	CG13654	CG42540	Snap25	Nepl7	Mmp2	Inx7	Cbl	spdo	hid	fz3	CG4066	CG13375	CG32683	Stim	otk	Or88a	Or47b	Dh44-R1	kug	Patj	Tace	Sin1	CG1492	bdg	Eglp1	Galphaq	Rgk1	Tret1-2	Nrk	Act57B	Tsf2	hzg	Or59a	CG4984	clumsy	Myo31DF	Dlg5	GluRIB	Nox	CG2964	Nepl14	CG9663	Nrx-IV	Vha55	CG33296	Or42b	Eip63E	Hsp70Ba	Nos	Vha100-1	ChT	sax	Or47a	Cad89D	glec	Or94b	Synd	lqf	Mdr50	CG5921	Con	Galphao	Ctr1A	Gprk1	CG31624	GluRIIC	CG3662	Dscam4	Eglp3	Hsp70Bb	Bili	rdgB	Rab9Db	Dyb	CG31642	Nepl17	ATP7	uzip	CG30265	CG9336	Eato	SH3PX1	PGRP-LC	Ced-12	CG11155	JYalpha	GlyT	fbl	spartin	Pi3K92E	GluRIA	VhaAC39-1	CG42514	CG33120	Dop1R2	pyd	Or22c	Rdl	Spec2	Kul	Arl4	fz2	Nepl15	Ptp52F	qvr	in	Tmhs	Or92a	Gyc76C	AP-1-2beta	CG30158	Grik	Mec2	Ser	Ir84a	nrm	LpR2	Ggt-1	CG7565	Mob2	Hakai	Gli	CG1698	Mdr49	Rac1	Or67a	Or13a	Or9a	CG6454	Arf6	Nep7	Zip42C.2	robo3	Trpml	CG9254	EMC5	Or10a	14-3-3epsilon	Vha100-2	Or71a	Or83a	elm	klg	wit	Or82a	CG4301	List	CG31729	goe	bib	Mid1	CCT8	Abp1	TM9SF4	CG13793	mol	Ptp69D	Rab9Fb	Dscam2	Ent2	sinu	aru	Or65b	Zip42C.1	babo	kirre	Vha68-1	Myo61F	Hsc70-1	ed	Ent1	Nep4	for	CAH7	Rab3	CG7497	CAH4	Nepl12	Pdk1	Mco3	Rab9E	CD98hc	eag	AdipoR	Ptp99A	Fur1	fra	scramb2	GluRIIA	Tomosyn	stmA	CG7166	st	Inx6	Lcch3	mbt	Inx2	Sod3	Or74a	sktl	Or98a	Pten	wls	fusl	Or33a	hts	rhea	mtgo	CAH5	Sry-alpha	zpg	Piezo	hec	wdp	Vha26	NT5E-2	CG6891	Mipp1	Or67c	Nep3	SerT	14-3-3zeta	twf	Ndae1	CG9825	Or59b	Sec3	GILT1	pk	Nap1	CG31183	OSCP1	SCCRO3	CG13795	mats	Or85c	CG5080	Ir21a	Ir25a	Inx3	Indy	CG42638	Ras64B	CDC50	CG8500	Nepl13	CG42541	Gbeta13F	SK	Or69a	NimC1	SLO2	sty	Oct-TyrR	CG32206	Or98b	Ir75c	NaCP60E	neur	smo	Rcd2	tkv	Mco4	Rop	M6	Syt7	mino	Nepl19	Or23a	Vha100-4	Swip-1	Gyc32E	kst	Ras85D	Pkc98E	w	CG34325	Cam	Vha100-5	Or63a	path	hh	ifc	nSyb	Ide	CG10738	Or1a	Or59c	CG31358	RhoBTB	Syx6	Gprk2	tadr	Pi4KIIIalpha	Syx8	Sytalpha	Or85b	ZnT35C	Grd	Itpr	Pzl	Gp150	CG4839	CG4476	DAT	CG2121	Or45a	GluRIIB	crb	Csp	Hexo2	Shrm	blot	Dmtn	Syx16	ogre	Ae2	dysc	ZnT41F	CG31609	PsGEF	Rab35	Or45b	Snap29	Nrt	Nmdar2	CAH3	ATP8B	Ehbp1	Pi3K68D	Src64B	tipE	Ance-4	Syx17	Sec5	CG10226	hrm	arr	Syt1	CG18635	CG17636	Galphas	chp	nrv2	Tsf1	Dgk	MFS1	CG6938	grnd	Cortactin	Rac2	bw	gish	Rab9Fa	Vha68-2	Tctp	Schip1	Eaat1	comm	CG33958	arm	Fur2	Past1	Orc6	frma	cher	Nepl9	kcc	Lamp1	pain	dlg1	Rab2	Or30a	Clc	Cdc42	Fas1	CG14694	Hyccin	Or22b	Nepl20	step	RasGAP1	CG8888	CAH8	ZnT77C	Hsp70Bbb	Vang	Slob	Pde6	Rab11	Ephrin	Tret1-1	RabX4	Sytbeta	Nepl6	Or7a	X11Lbeta	CG17036	Pka-R2	Shab	ZnT63C	Shal	mys	Rab9D	ZnT33D	Ank2	Gbeta5	Adi1	Gat	Or56a	CAH6	ATP6AP2	dco	jp	slif	Nct	CG33096	CG31988	Or83c	CG7182	zyd	CG3216	Reck	N	TM9SF2	lqfR	Or85d	MFS15	Atet	CG6527	alpha-Spec	Cip4	CG44153	Or35a	CG5535	Mvl	Syt12	CG5853	Dscam3	CG30103	Hsp70Bc	Nepl8	Ama	egr	hiw	CG13506	Orco	Sol1	CG9297	Osbp	CG15270	CG6805	Nlg2	dah	Zip88E	Pdfr	Shaw	sqh	Rap2l	Ance-3	Hsp70Aa	lace	Syx1A	Btk	ptc	CG15744	FER	CG31904	Asap	CG7536	tty	Ret	dnt	MYPT-75D	wrapper	grim	Rab23	Inx5	Tsf3	rst	MFS3	trpl	mgl	shakB	loaf	dos	Picot	otk2	CG10804	Ance	CG17019	vib	Lrt	Apoltp	CycY	Dronc	5-HT2B	Hsc70-2	Nrg	Uba1	CG6978	Nhe3	shi	Flo2	Nep1	CG12531	CG6724	beta-Spec	Rab4	CG15096	Cerk	CG7881	Rap1	Fkbp12	Crag	Ten-m	RyR	Fas2	Ir8a	CG1407	Galphai	MFS14	fj	CG7255	CG7069	Slh	Nep2	CG33298	Ir75d	CG4928	CG8726	ImpE3	Or43a	Ir93a	CG18788	p120ctn	sws	Or42a	blw	CG9826	Ncc69	X11L	Rab10	gogo	Pka-C1	Tsp96F	Or94a	Syx4	CG3036	Myd88	if	Or43b	CG8176	Or49a	Mcr	cora	btl	Or85a	Dg	Or67b	Mical	trp	Fas3	AP-2alpha	NAAT1	Arf1	Duox	cta	grk	Snap24	CG42249	Ank	CG31342	cos	Atpalpha	fz	Flo1	Ctr1C	B4	Ance-5	Or65c	CG14234	CG3526	CG15279	Argk1	CG15286	Acer	PlexB
+cellular_component	CG12984	CG44102	CG13127	nrd	acj2	CG30432	CG17855	CG14631	CG43731	CG13272	CG34442	CG43813	CG32241	X-63-3	CG43329	l(3)04837	dikar	CG31041	X-28-2	CG42577	CG7139	CG10286	fs(2)ltoRM7	CG42535	CG34445	E(rst)C544	CG17162	CG43403	CG31415	nord	CG34141	pre-mod(mdg4)-I	mcl(3)Z0589	CG44290	fliE	CG30325	Mod(var)E646	sine	CG32213	BCL7-like	CG32846	CG32681	Fs(3)Hod	CG15764	abof	CG43111	l(1)G0469	CG30269	ird24	CG15550	CG14669	CG10265	orion	CG43325	CG12849	AstCC	E(rst)C349	CG12723	CG32204	CG33199	CG14300	CG31068	CG42266	CG14357	Su(rst)E358	CG31230	XG47	btdl	mat(2)cell-E	Su(rst)E122	CG15892	Dgkepsilon	mat(2)cell-F	Dlip2	CG13202	CG33155	cripA	CG44406	mcl(3)Z2761	CG43886	lncRNA:CR43890	CG14435	CG34328	acd(2)5N15	ird25	lncRNA:CR15061	pre-mod(mdg4)-C	CG10919	CG13337	CG17944	lncRNA:CR32553	CG43106	CG44142	mcl(3)Z5468	Mod(var)1552	CG17564	CG13877	CG43291	CG43798	CG43095	alpha-Est10	hypoA	CG33339	lncRNA:CR42790	CG7739	lncRNA:CR43287	CG42740	CG31206	pom	CG7785	acd(2)5G23	CG3558	dind	CG45099	CG31559	CG42327	fs(2)eo1	3N5	obk	X-40-2	CG34169	CG33483	CG43135	CG45428	CG13843	rde	Duba	CG15145	Pstk	2D5	CG13727	CG32537	CG31459	E(rst)B54	M(UAS-dsh)8-4	l(2)46F4	CG14007	CG10979	CG13847	CG31688	CG42690	Rsbp15	CG33299	CG33665	CG43114	C3G	CG30271	CG44094	CG2701	CG13362	CG32712	Mod(var)1420	CG13197	CG17047	fs(2)ltoHE41	Mod(var)1181	CG44574	CG33626	CG42854	chal	CG42559	CG15820	CG2269	fs(1)127	CG34250	CG33136	CG34212	Su(rst)D63	CG43880	CG31870	CG13407	CG34258	CG43244	CG33489	CG15431	CG15471	lncRNA:CR33987	f7	fli-385	lncRNA:CR32027	Mudd	Mkrn1	CG32829	Branchlet	CG14000	CG14947	CG13545	CG14316	Su(rst)B188	hubl	fs(1)164	pre-mod(mdg4)-AB	CG43103	X-185-37	CG34180	CG45078	CG31817	CG34204	lncRNA:CR44338	CG6180	mcl(3)Z1641	CG12470	CG45061	CG12347	CG3517	slrp	mit(1)10	CG33306	CG42579	CG34135	rags	mit(1)7	CG43397	CG9801	CG13008	fs(1)A273	CG43181	X-31-10	l(3)psg2	CG34273	l(3)C80	CG43061	CG7271	CG43774	M80-39	CG13148	CG31406	CG14659	E(rst)C421	flrdA	pf-8	gl(2L)50-27	Mod(var)1025	Mod(var)1038	E(rst)C210	CG13038	l(3)rQ303	CG43138	mbmC	2R-F	CG33332	CG43139	CG12992	CG32983	CG31157	nate	CG43438	CG13040	CG32650	fch	CG40498	Mod(var)1602	mcl(3)Z5578	CG45101	mcl(3)Z1898	CG34382	CG13693	CG6980	CG43072	CG10970	CG11741	CG18266	fliB	sorc	CG33770	CG42394	CG8173	CG42346	asRNA:CR32252	gl(3R)66-35	CG43402	hui	CG5439	CG33511	CG32551	CG5973	CG11362	CG11679	oho51	CG30192	MtnC	CG12994	CG43220	KH5	CG34312	CG11373	CG30411	CG44385	CG7376	CG2267	CG8997	CG42566	Epac	mei-S8	fs(2)ltoPI23	CG43092	CG44476	M7BP	lncRNA:CR44178	fldB	bot	CG11404	CG34202	CG43208	RhoGAPp190	3R-196-22	MtnD	Dgp-1	gl(2R)279-37	Fs(3)Lev	CG43052	CG33679	CG5334	ird26	CG12645	CG34236	CG42578	CG15642	Rdh	CG6304	CG43109	CG3081	CG15196	bma	3R-40-7	CG7884	acd(2)5N29	tal-3A	CG31465	CG2291	ect	CG12035	CG43680	Su(ro[DOM])1993	CG32148	CG15517	CG30285	limbo	CG42272	roam	CG14082	CG32809	Pif1B	CG34433	CG14315	CG34188	CG31517	2R-L	Mst84Db	CG13810	CG43308	lncRNA:CR44206	CG16824	CG8854	CG31775	gl(2L)137-8	CG13457	CG14212	zaro	grr	Hsp67Ba	CG3199	2L-250-35	CG31677	CG42586	mcl(3)Z3370	CG14546	CG44037	CG43349	CG4631	CG42364	CG33792	CG30380	CG44428	E(rst)H122	sesA	Mst84Dc	CG43115	CG34434	CG33927	CG42852	CG31051	CG33667	CG42806	CG5339	CG34377	CG33108	CG17186	CG31542	CG43742	mit(1)6	Tsen15	CG14826	CG7016	CG42759	9.35	mat(2)cell-J	nocte	CG34370	CG42847	CG45084	CG17190	CG33506	gs(1)N26	fs(1)K741	CG43923	gl(1)82-33	mcl(3)Z5121	CG14229	CG17744	Mod(var)1540	MtnF	CG33217	CG33655	CG17217	CG44426	CG30284	CG11768	CG32189	CG43814	CG13428	CG42495	l(3)04053	CG43246	CG43345	CG2841	pre-mod(mdg4)-W	CG30472	CG13443	CG10459	CG13255	CG42831	X-189-23	CG42544	CG13171	CG12713	Fs(3)Bak	VepD	CG7222	CG34453	CG15878	eel	CG32448	Elal	Pura	pre	CG13786	pel	mcl(2)Z0193	CG3222	CG30393	CG5541	CG34248	bip1	ifx	CG42833	CG44227	mcl(3)Z5839	CG18540	CG43371	CG45012	CG33995	CG34012	Mst84Dd	CG32588	CG34007	hwt	CG34223	mmei-1	abz	CG31861	be	trou	MESR6	CG43750	mcl(3)Z1335	CG32181	CG14556	CG34256	Su(rst)C352	2L-144-32	CG5280	mcl(2)Z3384	CG43198	alb	CG32040	CG7194	CG5386	E(rst)H42	CG33309	Mod(var)1457	CG14369	CG42703	gl(2R)62-37	CG42240	CG13455	rsh	mat(3)1	CG14974	Ppm1	Su(rst)J45	CG43060	Arc42	CG42523	CG2861	CG9777	CG34184	Osi24	l(2)k08634	CG43082	CG15337	CG5704	mat(2)cell-L	COX6CL	CG14380	CG10680	CG34039	CG44247	CG34431	Mod(var)1322	CG42782	nerd	CG10969	3R-66-38	CG43732	CG31050	Rgl	mcl(3)Z2086	CG43054	Mod(var)600	CG43251	CG32507	mcl(2)Z2641	fs(1)3	CG42585	Usp15-31	CG32228	CG44622	mat(2)cell-I	asRNA:CR31912	l(3)C101	CG11127	E(rst)D70	CG32450	fs(1)250	mat(2)cell-G	CG34452	lncRNA:noe	CG43237	MtnA	gl(2L)210-31	CG34432	CG33764	CG34201	CG43229	CG12682	CG32713	CG7634	mei-S82	CG43710	CG14676	CG45085	mei-T3	CG30120	E(ro[DOM])1065	CG30060	lncRNA:CR34046	CG45489	CG12589	fragile-locus-A	CG3251	CG34164	CG14151	CG44286	sah	att-ORFB	E(spl)malpha-BFM	PIG-X	krk	dls	CG18171	X-158-33	CG32170	CG34030	CG12923	Ypel	unc79	CG6362	CG11816	gdrd	wwy	plph	mcl(3)Z5860	CG11815	CG31437	CG33062	CG45218	CG31404	CG33647	fs(2)ltoAHK35	CG33919	CG43618	CG43090	CG33783	3R-259-18	CG43254	fcl	fs(2)ltoAHE1	CG13465	CG15082	CG12038	CG41242	CG43341	CG11309	Mod(var)224	daed	CG18622	CG42445	CG43168	CG14668	CG12929	l(2)k06524	CG3581	CG8641	fs(1)A147	CG1172	E(rst)J76	CG12204	Ota3	CG4617	CG43190	CG43850	CG12278	Mod(var)E1261	pre-mod(mdg4)-G	CG15185	Mod(var)1116	flrdD	mei-O81	CG34124	Gmer	rambl	CG43071	CG45069	CG32246	lncRNA:CR31647	CG9231	CG32266	CG34313	CG33284	fsco	CG2921	CG31800	dbf	CG14492	asRNA:CR43885	Mod(var)1227	CG42493	CG18538	CG14154	CG32117	CG1092	CG33722	h-cup	CG42869	CG30385	CG14330	Mod(var)E1451	mit(1)8	CG43400	CG34280	CG31174	Sbp3	tal-AA	CG45095	comm2	Cdep	CG33926	CG43993	CG15317	l(2)k05819	CG13471	CG30076	eZ6	Larp4B	CG43348	CG42565	CG31867	CG31337	CG32655	Mod(var)1356	CG15153	Gagr	Aco	CG33509	CG34287	Mod(var)1485	CG33912	Ptp36E	God60D	Fs(3)Bot	hog	CG7378	E(rst)C384	CG45075	CG15741	CG17344	CG33725	lncRNA:CR32160	CG43332	l(2)2D8	CG30373	4B7-11	puri	CG32298	CG42392	CG43131	lncRNA:CR43949	CdGAPr	Tsen34	CG13540	CG9752	CG33469	2mit	udt	CG34206	CG2991	CG31789	CG44569	Mod(var)1259	Mod(var)1658	mit(1)14	CG12861	CG42810	flrdF	mcl(3)Z3401	CG31709	spok	l(2)k11512	CG4325	CG11791	CG12105	CG34126	CG44271	mcl(3)Z2138	CG42307	acd(2)5M7	asRNA:Eig63F-2	CG10298	CG34393	CG17193	CG43925	ms(2)35Ci	CG31457	CG15336	CG44253	X-100-6	3F43	CG15386	CG31253	CG13539	CG43895	CG6290	CG33270	CG31249	CG42597	CG12209	CG14984	CG10208	CG15545	CG33322	atlas	CG31274	CG32195	CG33998	lmgB	Acp54A1	CG14499	CG14395	Frd	Bit	CG43101	CG42613	lncRNA:CR43104	CG42560	CG14692	CG6569	frk	ird21	els	CG33673	CG43394	CG33772	mcl(3)Z3808	lncRNA:CR32111	PRY	CG32599	CG15333	CG31533	CG14054	CG33325	CG9970	CG43255	Mod(var)1250	CG30383	JhI-26	CG15601	Pas	Fcp3C	CG43231	bul	mcl(3)Z6257	CG33189	ovr	3L-215-13	CG43391	CG43207	CG45691	CG4983	fs(2)ltoHM11	mit(1)12	tlr-2	CG33644	CG42561	CG11694	CG30110	CG13010	CG43121	CG18666	CG34208	mei-S282	CG32719	CG34265	CG42809	CG31805	nain	CG42650	l(2)11B9	CG15882	sowah	SS3-6	mit(1)2	CG33798	lncRNA:CR43132	CG16890	CG6216	CG31806	grl	CG45065	CG33502	jok	CG32115	CG33721	Fbp1	CG10013	Mod(var)E1275	moa	CG32106	cha	CG17159	MtnB	CG33017	CG30096	M285	CG32554	CG17601	quag	CG3880	CG31735	mat(2)syn-H	CG10205	CG7857	CG10550	fs(2)lto1	CG17778	CG43248	CG13558	KH6	flrdC	CG31798	CG43996	Bsb	l(2)k08225	Su(ro[DOM])2014	CG42487	X-156-10	thic	CG42568	ptl	CG12003	CG33630	CG12491	Mod(var)1535	CG5160	mcl(2)Z5838	CG33666	whip	lncRNA:CR33218	CG32267	064Ya	CG34107	CG14341	salto	CG12446	mcl(3)Z0317	CG44141	CG45491	lncRNA:CR43952	CG30413	3R-C	CG16825	CG31769	Zir	cola	Mod(var)1474	CG14759	CG15576	CG34338	CG18731	CG12099	l(2)05714	mat(2)syn-B	CG15332	CG4734	CG32248	3L-B	CG12507	CG42553	CG18265	CG42661	CG33268	CG45089	l(3)C416	CG31606	CG32815	CG15425	Mod(var)1551	CG32544	BaraA1	l(2)23Ab	E(rst)H253	sAB1	CG12538	CG34430	Roa	A122	CG13884	CG32259	CG46281	CG30485	CG32720	Slc25A46a	CG42784	Mod(var)E1672	Fem-1	CG43318	CG34038	CG10064	CG4250	pre-mod(mdg4)-E	CG16826	fragile-locus-C	M80-11	CG30338	X-103-22	CG5928	X-195-35	CG44521	mat(2)syn-E	CG43057	lncRNA:CR43337	fs(2)51Fb	CG42654	CG44195	CG13133	Fs(3)Far	CG42580	CG17361	CG13870	angel	CG43187	mat(2)syn-D	CG31055	CG43084	CG15572	CG44250	CG15710	CG12828	CG43185	CG9877	gl(3R)60-38	CG12818	CG42470	CG42634	CG43677	CG15536	pre-mod(mdg4)-P	CG14053	CG42446	CG33337	plk	cst	CG13058	CG43938	CG42835	mcl(3)Z1956	CG43221	CG42363	CG33752	CG43401	Dtwd2	CG31784	Fs(3)Zom	CG43338	E(rst)E146	Mst33A	CG33795	CG32074	CG15461	CG43386	CG43133	CG43271	CG10005	CG31226	CG11475	CG33056	CG42853	CG13031	CG42583	CG15484	CG31820	CG14518	CG31525	CG3568	CG10674	obx	CG17048	l(2)k09913	CG44329	CG43245	CG42587	CG33757	CG32668	Mod(var)1200	X-97-26	CG34185	CG13578	CG32212	CG33272	bc10	pre-mod(mdg4)-U	ripp	flrdB	E(rst)B92	cau	CG18661	CG34112	CG14961	CG15127	f36	CG33342	CG43390	CG34027	CG33463	CG9269	mab-21	CG31161	CG34150	schuy	alrm	MtnE	CG4714	CG13869	fliC	CG10809	fs(2)ltoQZ47	CG32192	CG13738	CG33500	CG43124	CG43296	glissade	CG9624	CG43290	CG42591	lncRNA:CR43681	CG12438	Mod(var)1144	CG44257	lncRNA:CR44214	lncRNA:CR43285	CG45060	CG31862	CG33796	CG43346	Mod(var)E1047	CG43232	CG9795	CG43841	CG43117	CG18542	CG15375	fs(2)ltoRN73	E(rst)K166	mbr	mcl(3)Z2585	CG33771	CG12679	CG43107	X-162-11	mcl(3)Z3298	hup	CG13449	CG10560	Adhr	Mod(var)26	CG43249	CG33454	CG33978	CG43968	Atg10	E(rst)C162	CG11755	CG44623	CG32512	CG33054	CG15891	gl(1)170-20	sph	CG44014	CG12883	CG14377	CG34190	M82-19	CG13511	l(2)09851	swif	gl(1)83-27	Su(ro[DOM])923	CG42590	Mod(var)1539	CG43102	CG13692	SpdS	CG15605	CG13376	CG11414	CG31446	fit	P-25	CG34199	mcl(3)Z6256	CG12115	hap	Mod(var)E1060	CG42361	lncRNA:CR44202	CG43147	kub	E(rst)J25	CG32182	CG43439	hydra	CG12971	misp	CG43233	lncRNA:CR34052	CG13070	CG12483	CG6424	Ufsp1	CG43645	CG33228	CG42682	apb	hypnos-P	fs(1)261EL	Pif2	CG2225	X-210-22	CG30369	CG43658	Argk2	CG31819	Mod(var)1205	CG32718	CG13081	CG32945	CG34162	CG31550	lncRNA:CR43406	e(sei)	CG43056	CG15563	CG13002	Mod(var)E69	CG2871	CG13996	CG30039	Mod(var)1683	CG13022	CG18469	fs(2)eo7	CG34029	E(rst)D160	dsd	CG12590	CG43091	tak	CG8152	ali	CG43336	CG33252	CG43829	Glyat	CG43800	EDTP	mat(2)N	CG9922	CG8260	CG32017	CG42781	CG45081	gusA	CG5217	CG45545	Csr	Opl	CG31921	3L-114-20	CG43679	mcl(3)Z3822	lncRNA:CR44295	asRNA:CR43933	CG32651	Achl	CG34040	bch	CG13039	mat(3)3	CG12521	l(3)05822	CG45088	CG33191	E(rst)E370	CG5262	CG31279	CG12920	slinky	ota5	CG15728	CG43273	qui	abg	lncRNA:CR32368	CG15712	medo	flrdG	pratf	3R-64-33	CG13733	erratic	mcl(3)Z4141	blc	lncRNA:CR44204	CG1421	CG15888	fs(1)192	CG44954	pre-mod(mdg4)-K	dnr1	Su(rst)E392	ms(2)34Fe	pre-mod(mdg4)-AD	Mod(var)1447	CG44437	CG32987	CG33769	CG34277	fs(2)eo5	CG43351	fs(1)56	CG43965	CG43448	CG44158	CG34241	CG43725	CG31848	CG3257	Su(hh)3A	CG15144	CG14839	CG33125	dog	CG8243	lphB	CG30065	CG33767	CG34443	CG42557	CG14332	pf-7	CG4622	CG34332	CG33290	fs(2)ltoQE45	CG34210	CG43659	CG4681	Mst85C	bip	CG42692	CG13005	CG11099	gl(2R)2-11	Su(rst)C379	CG43062	CG33476	CG34327	fs(1)A1459	E(ro[DOM])50	spaw	CG12206	CG32686	CG45492	lncRNA:CR44229	CG33687	CG7409	PVRAP	CG33631	CG43702	CG32391	lncRNA:CR43950	CG31347	CG14561	CG34222	CG15528	fs(1)140	CG43392	l(2)01482	CG33223	CG43088	CG30099	CG14286	Mst84Da	CG42659	mcl(3)Z3946	CG43447	l(2)17E1	CG40198	mcl(2)Z0198	CG34116	CG33301	CG43192	CG14818	CG34261	CG9992	flrd393	CG11693	mit(1)13	CG30047	CG13380	Kaz-m1	CG14841	SmydA-7	fs(1)A180	CG42536	CG6280	lncRNA:CR44171	CG2126	lncRNA:CR43991	era	CG33278	CG32814	CG43646	CG31321	l(2)talc	CG11634	CG32750	CG5968	CG30010	CG12106	CG14313	CG32726	CG42391	Fs(3)Zer	pre-mod(mdg4)-AA	CG42581	CG43982	ms(3)76Ba	CG43125	CG13494	CG34238	CG13921	CG12692	CG15130	CG31710	CG43203	CG13970	CG43919	CG31643	fau	CG30080	Cir	CG44475	acj3	CG45116	CG32196	3R-64-22	CG42693	CG34056	CG6614	CG44270	fragile-locus-B	CG15247	CG42758	CG14658	CG7168	CG32816	CG10752	CG32461	Su(rst)C233	lcs	CG43317	CG14837	CG3995	CG33341	CG34300	ms(3)76Ca	ned	mcl(2)Z0218	Sms	skl	CG17717	CG12594	CG17672	rubb	CG8003	CG10164	CG43068	CG33773	CG14069	fs(1)513	CG4597	CG30049	CG13154	gau	CG10628	CG4955	CG30151	Mod(var)1515	CG33269	NKAIN	CG13385	MESK4	CG42355	CG43691	term	CG12448	tal-1A	CG14829	eddy	CG31898	fout	Cnep1r1	CG34302	CG34446	Slip1	Mod(var)1309	CG13474	CG14903	Alp13	fidipidine	CG44001	X-86-9	CG42633	E(rst)C7	knax	olf186-M	stf	CG8236	fldA	CG15879	CCY	bac	CG43799	CG12725	CG42680	CG30273	eor	CG8958	CG1288	CG15734	CG12851	Mod(var)1294	RhoGAP102A	fs(1)162	lncRNA:CR44173	UBL3	CG16800	CG32119	CG1971	ray	axe	CG30098	CG34105	CG32214	asRNA:CR31845	CG13484	Oab	mcl(2)Z0338	CG43894	Mod(var)E1350	fs(2)lto3	Mod(var)1310	CG15071	CG43779	pts	CG43647	Iru	CG3781	CG13510	CG32163	mcl(2)Z4635	war	Mod(var)1317	CG42851	CG9926	l(2)18E4	CG43059	flrdJ	CG31750	CG43867	CG12502	acd(2)5N18	tal-2A	CG43450	CG33287	E(spl)m2-BFM	snama	CG42694	CG43120	p-cup	CG8476	CG16711	art	CG15282	CG34281	CG14551	CG9263	CG6420	CG10011	CG45011	lncRNA:CR32582	cra	E(ro[DOM])2051	Snx21	nansen	X-206-23	CG32817	CG43935	CG30398	CG31788	boly	acd(2)5F3	CG4229	CG45087	CG12853	CG14042	CG44439	CG5623	CG13476	mcl(3)Z1483	CG13561	CG7632	Tmem18	fs(2)eo4	CG32198	fs(2)ltoHC44	CG33643	CG11842	fs(1)60	CG34225	CG7841	CG33285	CG18063	CG3841	CG33262	CG33664	CG9098	CG44314	CG44362	Iris	CG32161	CG43694	CG33293	CG13725	fs(1)137a	CG5902	mcl(3)Z0375	CG8750	Su(rst)D124	CG33493	CG43272	RhoL	mwr	CG12637	CG9014	CG33468	CG33308	CG5043	CG7202	dsp	CG13454	CG43362	CG34337	CG14834	CG33229	2L-393-17	KH3	CG32751	CG16739	mcl(3)Z1345	X-75-9	CG1850	CG43407	CG13557	KH2	ird27	CG42323	lncRNA:CR42862	lncRNA:CR34024	CG43784	CG45072	CG43076	l(2)50F7	CG5539	CG45544	CG33490	nahoda	fl338	Fs(3)Pud	CG43376	CG15498	CG14325	par	CG15824	3R-69-15	CG32219	cGlr1	CG12672	gsu	CG34279	CG15172	CG42529	Mtmr6	CG43163	CG12307	Su(dpp)39CDE	CG7065	Mod(var)1429	CG42393	CG44625	CG13559	Mettl2	slip	Mod(var)1126	CG31815	CG13108	fs(2)ltoWi42	mng	CG41434	3L-61-3	CG30484	CG33632	lncRNA:CR33963	CG42649	s-cup	CG11756	CG13155	bisc	CG5509	CG12231	CG43755	CG45307	CG15646	CG43116	CG32806	mcl(3)Z4617	X-136-10	CG44341	fliD	CG13028	CG15136	CG33766	CG33923	lncRNA:CR32690	CG43219	saturn	CG42688	CG14488	pre-mod(mdg4)-AE	ttf	CG34167	mez	CG15579	CG34125	CG44815	CG31952	cgd	CG33257	CG13566	pre-mod(mdg4)-X	ncn	fs(2)ltoRU26	CG17207	RhoGEF3	fs(2)ltoDG25	fs(1)217	fs(1)A1059	lncRNA:CR43961	CG31125	Xe7	CG3408	mln	CG42369	CG1951	lncRNA:CR42719	diva	pre-mod(mdg4)-L	Mod(var)1128	CG34235	E(rst)D25	Mod(var)1650	CG30376	Alms1a	CG33235	sbg	CG44355	CG12947	X-115-40	mkf	CG15731	Adv	bsl	CG12439	CG1138	Nepl6	pre-mod(mdg4)-Z	Andorra	lncRNA:CR34006	bly	EK3-3	CG45073	CG18536	CG11656	mat(2)cell-K	CG1690	CG43920	E(rst)B94	f4	sbe	CG33267	CG13198	CG45493	CG11474	CG15535	CG34305	CG13247	CG42857	lncRNA:CR43914	dalm2	lncRNA:iab8	CG33475	Mod(var)1367	825-Oak	CG33640	pre-mod(mdg4)-V	CG10031	Crtp	CG14384	CG14400	pana	CG42655	CG32855	CG8746	eK6	CG9005	CG42263	CG42718	CG30355	CG42681	CG43167	fs(1)A125	CG43843	Rtnl2	CG32625	lncRNA:CR31451	CG42556	CG42562	gusC	sie	CG4461	CG10098	lncRNA:CR31044	CG43312	CG33140	CG31740	CG13685	CG42357	CG43678	CG34219	CG34288	CG14854	CG18368	CG13175	CG15143	CG34173	CG32073	CG14071	vag	asRNA:CR30267	CG45676	CG43789	phtf	CG9101	CG34459	CG31882	Fs(3)Ava	CG33928	CG8852	Su(ro[DOM])3023	CG8519	CG32452	mat(2)cell-B	CG32299	CG43709	31B8	CG43093	CG43210	CG1387	CG42489	M(UAS-dsh)8-3	gl(3R)53-6	hale	l(2)61E5	CG33645	CG31407	CG43788	CG31204	GILT2	Mod(var)1173	CG45690	CG43739	asRNA:CR44205	CG18473	eH3	fs(1)K1563	Su(ro[DOM])345	mat(2)cell-D	nis	mit(1)5	Pig1	CG43293	CG43315	CG43630	ca	lncRNA:CR34044	2L-311-30	E(br)65	CG43711	CG34263	CG30026	CG42287	Gdap2	CG14246	CG33654	lphA	CG14931	E(spl)m6-BFM	CG44088	CG33710	CG31949	CG10916	CG43153	rubymine	CG43075	CG30391	lncRNA:CR30055	CG13170	CG33922	CG15124	CG13721	CG34195	Su(hh)2A	CG42672	CG43844	CG42834	X-179-36	karr	GILT3	fs(1)242	CG5478	CG45066	Mod(var)1260	CG32811	CG13919	CG30001	Mod(var)1094	gl(2L)343-11	CG33648	flrdE	CG30105	CG32280	Mod(var)1444	CG42507	CG33510	CG32388	CG43083	CG43326	CG32857	CG42789	gl(3R)70-22	lncRNA:CR44299	CG43077	CG18675	CG13131	CG43134	CG44174	CG13850	sbn	Mod(var)E1377	CG32988	lncRNA:CR32194	CG15514	CG34008	auk	blis	CkIIalpha-i3	moch	CG32095	amrt	CG44044	CG42356	fs(2)ltoHL22	CG34232	CG9164	CG34216	CG14113	CG13403	lncRNA:CR31526	CG43924	luc	cGlr2	CG42714	CG42471	mcl(3)Z5502	atilla	ko	KH4	CG43179	CG18539	Ziz	3R-31-22	drg	mcl(2)Z3534	CG14106	CG34211	CG44303	E(rst)H186	CG2961	CG32453	CG44139	CG31538	CG30416	pre-mod(mdg4)-J	CG33453	fs(1)260	CG33703	crib	mcl(3)Z0777	Sgsf	CG17917	CG34221	jb	fret	CG13501	CG31268	CG43050	fs(1)38	CG3306	CG11141	fragile-locus-D	kiwi	CG44477	CG33641	E(tc)	CG15564	CG33669	CG43169	CG10035	fs(2)ltoAPV63	lncRNA:CR31840	CG5399	fs(1)A120	fs(2)ltoRV64	sAM16	CG31897	CG45603	CG30154	CG33642	lncRNA:CR43166	CG5727	CG30357	fs(1)100	Mod(var)1044	gl(2R)243-17	dode	hypoC	CG12213	oho55DE	CG45086	lncRNA:CR42715	CG13538	pre-mod(mdg4)-Y	CG3520	CG34457	Sclp	CG32243	CG13231	Su(rst)E124	mcl(2)Z0756	CG14354	CG42866	cyst	CG43773	CG14454	mat(2)syn-G	Mod(var)1328	CG15784	ami	CG45064	spb	gusD	pf-3	CG7369	Gbp3	CG31835	CG34203	CG12826	CG31909	im(1)457	CG31639	CG43331	CG11666	CG13332	X-72-7	Mod(var)234	CG34178	CG32102	Kpc2	CG30222	CG33477	CG32023	CG42481	CG34026	Mod(var)E113	mcl(3)Z2094	CG17378	CG15387	mit(1)9	lncRNA:CR45232	CG42246	CG34429	CG9483	CG14570	l(2)12A9	flrdL	CG42662	CG43449	CG4951	CG18335	CG8508	CG33704	CG5347	Sp212	CG3611	CG34181	CG31468	CG34165	CG13082	CG12128	CG14563	adm	CG11449	CG33689	CG34425	CG1143	CG15927	CG34450	CG31516	CG42531	pf-5	mcl(3)Z4085	X-149-3	CG15909	CG11786	CG43175	CG33768	CG42570	pre-mod(mdg4)-H	gl(2L)37-36	CG13168	CG12237	dali	CG44242	gs(1)N41	CG7366	gar	CG33340	CG11007	CG7080	CG34289	CG45546	CG10646	CG45488	CG34269	CG44532	CG12948	CG17169	CG3386	CG12126	CG16952	CG43330	X-183-12	CG34234	CG15249	3R-168-17	cv-3	X-157-3	CG7457	CG33758	CG11367	CG2519	CG1637	CG30324	CG43094	CG44163	CG30184	wlf	gusE	CG34298	fs(1)K254	CG13409	CG31128	CG10911	CG30050	Tel	CG44405	CG2812	gou	CG15435	E(br)24	CG43445	CG45494	Fs(3)Kar	ee	CG33775	CG44403	CG13361	CG30429	flrdH	mat(2)cell-C	CG43354	CG4766	CG12384	CG31294	fs(1)221a	CG43997	CG4970	CG13033	crpe	CG42592	CG13639	CG33307	ota2	CG11588	CG15914	lncRNA:CR43150	3R-35-29	Mod(var)177	CG2145	lncRNA:CR32835	CG31816	CG34179	CG33702	CG43112	CG44438	CG44038	mit(1)11	CG43064	CG13228	CG44869	ziti	CG42867	CG43335	CG43204	CG12914	CG44013	CG42675	CG17786	CG34292	GEFmeso	CG43195	CG43393	CG14495	CG34451	l(2)3A2	CG33700	asRNA:CR43936	CG42691	CG43796	coq	Mod(var)1657	CG33914	CG33169	CG34196	mcl(3)Z3320	CG33777	lncRNA:CR43695	CG30403	mcl(3)Z0684	CG42841	CG31109	CG15548	CG15599	CG32939	CG12698	E(rst)K137	CG45122	CG34106	pf-4	acd(2)5N17	CG34028	Ipp	3L-211-27	msb1l	CG9626	sng	CG12784	CG17260	Hydr1	Mod(var)E1178	CG33271	Phlpp	CG43209	CG43156	mcl(3)Z1550	CG34021	sve	mat(2)syn-I	CG18170	CG34299	CG13699	bub	CG31698	meso17A	CG4945	CG45050	ota7	X-200-22	pf-6	CG33688	pto	CG42660	acd(2)5M38	E(rst)H65	CG31131	CG44040	CG43638	CG4666	Fs(1)10A	CG31601	CG34134	CG34274	CG43339	CG43098	Dnaaf3	CG31231	fs(2)ltoDC37	CG34251	CG10063	CG43137	l(2)k04301a	CG17267	CG11698	vss	CG14115	CG42656	CG30270	CG33920	CG44140	side-II	CG44624	CG10734	CG32240	boil	CG10139	Egfrap	CG42676	CG42876	CG45154	CG14662	CG42878	CG1738	CG33784	CG32700	pal	X-146-21	CG42763	CG44090	CG9815	CG30177	l(2)SH0834	fkl	CG43316	CG33137	gl(2L)179-26	rdhB	fs(2)ltoRG3	CG14050	CG3687	CG33286	gl(2L)266-11	CG15870	CG44836	CG14326	CG31910	lncRNA:CR32652	CG15546	acj1	acd(2)5E8	usdy	ovm	mar	CG31327	CG33627	CG44261	CG14930	CG33003	CG45490	Fs(3)Jut	CG43267	CG8006	CG44259	CG43851	CG7381	CG13330	CG12729	CG34015	CG30334	CG42855	lncRNA:CR44319	CG14708	flrd397	CG42846	CG30075	larv	CG43230	CG33658	schmalspur	mcl(3)Z3426	pre-mod(mdg4)-O	Mod(var)E226	CG12426	CG34160	CG45486	CG15468	Mod(var)1453	CG4161	l(2)65C2	CG14684	CG34286	pre-mod(mdg4)-B	CG8568	CG3323	CG12182	CG9106	CG2794	ctl	RhoU	CG34054	CG34230	CG31675	CG34428	CG42870	CG6333	CG13724	Faf2	ms(3)76Cc	CG4853	Os-C	lncRNA:CR14310	kol	CG43342	LUBEL	meng	CG43396	CG32736	CG46025	gui	RalGPS	CG42635	CG43182	CG43149	CG32457	CG42792	Him	CG32295	CG31464	acd(2)5D10	CG33668	CG34303	fs(1)A456	CG31955	Mod(var)1641	Mtl	CG32032	CG30056	CG43191	mcl(3)Z1492	Fs(3)Ven	CG34259	CG34140	mcl(3)Z6259	CG34307	CG8679	CG32639	CG2846	CG1103	3L-200-14	CG43922	CG10317	CG34310	CG42832	fs(2)lto4	lncRNA:CR34047	CG31785	CG34057	Dlw	CG13055	CG14537	Ost	pre-mod(mdg4)-N	CG45079	mcl(2)Z4579	CG42711	mit(1)4	CG45080	bnb	CG34174	CG30058	Fs(3)Hub	CG7601	CG31804	CG30440	fok	mcl(3)Z2592	CG45092	CG43815	lncRNA:CR32773	CG42752	Pgam5-2	CG14257	CG30447	CG43123	CG45413	DEF8	CG11060	CG31088	CG42558	E(rst)C408	Mod(var)242	CG32107	CG32235	bop	lncRNA:CR31386	CG34213	lncRNA:CR43193	CG43288	ES1-1	lncRNA:CR43199	CG44251	CG15404	CG44245	CG34444	CG44812	CG45100	CG43816	CG12104	l(3)05430	CG32188	CG43760	CG32590	CG43931	CG8065	ultA	CG3610	CG32856	CG12477	lncRNA:CR44335	spab	CG13605	CG30487	CG42710	CG13217	CG5681	mit(1)3	CG34163	CG14329	CG1979	CG5707	geko	CG45487	CG13216	lncRNA:CR45669	CG42779	X-87-21	oop
+integral component of membrane	MFS12	kuz	ppk28	CG3168	CG1688	cyr	Rh6	Ntl	Cftr	CG5906	CCHa2-R	Eaat2	Ir54a	CG10483	SPR	anne	Appl	CG9864	Glut3	dpr1	CG33639	Gr21a	CG5104	Ir76b	ttv	Tsp66E	Eglp2	anchor	ItgaPS5	COX2	Or33b	CG11262	CG7458	Ac3	VhaPPA1-1	CG33934	Octbeta3R	CG7806	NijC	AkhR	ORMDL	Mctp	Sec22	CG12783	CG2901	Gr98d	TrpA1	disp	Gr93b	Gr22c	Fie	Scgbeta	mey	CG1358	Or24a	sut2	Dh31-R	CG32320	Syx7	Ir94a	Or22a	Gr98a	Ugt37B1	Gr28b	Sur	MFS10	rk	CG12290	Abcd3	pip	ppk22	CG11601	Tsp86D	BI-1	CG33203	ppk	CG31106	CG33234	Tsp26A	CG6574	SPoCk	CapaR	Ctr1B	bocks	ppk14	Ykt6	prom	Ir7d	Ir60e	CG7272	nAChRalpha6	Desi	Vha16-1	ppk29	CG8008	CG31213	sNPF-R	CG9399	Syx5	Vha16-4	Ror	CG13937	Abcd1	Ir10a	Teh4	MFS16	CG10864	CG17928	Ugt37A1	Syb	fz4	Mct1	Or33c	Dh44-R2	Gr89a	Nha2	Gr77a	Or2a	Tsp42Ei	mthl3	NijA	CCKLR-17D1	Kr-h2	CG42816	Axs	Or19b	5-HT2A	Gr22f	sut3	CG12825	Ir60b	Ir47a	CadN	CG15553	sotv	CG5342	Indy-2	Nep5	Syt4	Rph	CG8046	CG45049	PK2-R1	mGluR	CG3649	Nhe2	CG12376	Ent3	mthl14	CG31787	Ork1	Gr61a	CG30345	AstC-R1	scb	ATP8A	Irk2	klar	CG9981	CG30340	hoe1	CG3702	CG7627	Gr59c	Ir7c	Ptr	Ir56b	bai	ppk8	ppk12	Afg3l2	Or19a	CG7333	CG15614	CG30389	Efr	Ir11a	Or65a	ZnT49B	CG14856	Task6	CG8908	TkR99D	Proc-R	HisCl1	Or46a	CG31743	ppk17	Tsp47F	Teh3	Pgant9	snky	CG32579	CG13196	bif	mthl1	CG31103	odd-striped	CG2126	stnB	Orct	CG4465	spict	CG13794	Hmt-1	CG11000	Ir67b	Gr22a	VGlut	Tsp42Eb	CG31321	CG14439	CG14743	fa2h	CG8034	FMRFaR	Dl	dmGlut	NimC4	Ir64a	bwa	CG11537	Tango9	CG3690	sing	Gr98b	Spg7	PIG-N	mthl4	PMCA	CG32547	Nmdar1	CG4615	TkR86C	Tsp66A	CG2003	CarT	CG13796	Syx13	CG8850	ppk31	BNIP3	Irk3	Or67d	ninaE	ppk24	mthl8	Gr64b	Octbeta2R	Drip	Or49b	VAChT	Dop1R1	Lkr	prt	Or85f	CG6659	sip3	nebu	CG12490	CG14070	pyx	Ir75a	TyrRII	AdoR	CG10481	moody	ine	CG13654	Shawl	PK1-R	Inx7	mAChR-B	CG5885	VhaPPA1-2	fz3	CG14646	fzo	CG13907	bond	ppk18	Gr59b	CG6398	Stim	otk	Or88a	CG3803	Or47b	Dh44-R1	galene	Tace	Gr98c	CrzR	AstC-R2	bdg	eater	Eglp1	Tsp42En	AstA-R2	Tret1-2	KCNQ	Ir94e	PIG-Q	CG14691	CG32395	Gr36a	p24-2	mthl6	CG4313	CG8399	Or59a	Teh1	CG4984	CG34396	ACXD	Tsp74F	CG7342	CG15556	ItgaPS4	rho-7	Task7	AstA-R1	CG45076	CG17637	CG32262	Ir52c	CG17930	CG33296	Gr93c	Or42b	Nha1	Ir56a	Sema1a	Oamb	Slc45-1	CG8028	mthl9	CG31600	CG7970	CG9706	nyo	DopEcR	ChT	Or47a	glec	Or94b	Ir20a	Gr23a	Mdr50	CG43672	Atg9	PIG-C	CG10505	loj	Meltrin	Tsp68C	Ctr1A	CG18281	CG5281	Nhe1	CG45067	CG30160	Ir68b	Gr57a	Npc1b	slv	CG1161	unc-5	Eglp3	rdgB	Tsp42Ee	Gr22e	CG17600	ATP7	mthl2	CG30265	pck	Ir92a	Eato	Ir41a	PGRP-LC	JTBR	JYalpha	CG5078	Prip	GlyT	Lgr4	5-HT7	CG42514	Gr36b	Dop1R2	CG33635	Or22c	Rdl	CG14160	Or85e	Kul	CG33303	CG14024	Gr39b	fz2	CG32795	Or92a	CG7084	Gr64d	ppk25	Desat1	botv	Ser	CG1801	GPHR	Ir84a	Gr63a	Rh7	NimA	CG3156	CG1698	Mdr49	Or67a	Or13a	Or9a	spin	Gr92a	CG7309	Gr33a	CG7639	CG9254	Ir56d	Or10a	Eglp4	l(2)03659	Or71a	Or83a	CG17660	CG1090	CG1572	ppk23	Rh2	CG4630	Gr58c	CG4301	pcx	CG31729	List	ACXA	Or82a	Gr59e	bib	plh	Tsp3A	CG12194	CG13793	TM9SF4	mol	CG6790	CG11077	Ent2	Pex23	CG4459	sinu	Or65b	MFS9	rho-5	Itgbn	Tsp42El	chk	Nep4	Ent1	CG7497	CG3625	CG31793	Ir52a	CG43915	CG7882	5-HT1B	opm	lbm	NPFR	Ir94h	CG17270	AdipoR	schlank	CG7582	C1GalTA	CG43795	NimC2	CG9396	MsR2	CG14857	Tomosyn	CG4907	CG13995	Vamp7	Xport-B	Adgf-A2	Tsp42Ec	Inx6	CG11898	Inx2	CG9240	Or74a	Ir76a	Or98a	Or33a	Hmgcr	NKCC	zpg	CNMaR	Glg1	Piezo	5-HT1A	hec	COX1	SsRbeta	wdp	Tmx3	Mrp4	ETHR	CG31272	Nckx30C	Or67c	Nep3	Tsp42Eo	SerT	ppk27	Ndae1	CG9536	ppk11	CG9270	CG9825	Or59b	spi	mthl12	CG31792	ppk19	CG13795	mAChR-A	CG11318	Ir94f	Rh5	Or85c	Hs2st	Tre1	Ir21a	CG34242	Ir25a	Inx3	CG15020	Ir7e	Tsp42Ed	Indy	Kua	rasp	CDC50	CG16727	Octbeta1R	Marf	rtet	Gr43a	ppk20	Gr68a	SK	Or69a	NimC1	Ir62a	SLO2	Tsp42Ea	Gr10a	PIG-Wb	Oct-TyrR	Tsp39D	Or98b	Ir75c	Gr36c	CG4562	CG8925	smo	mthl11	CG10486	ppk30	RIC-3	Tsp42Eg	M6	Syt7	Tsp29Fa	CG13575	ppk10	Or23a	Gr39a	Arl6IP1	Scamp	CG8195	Ir48b	ppk15	Or63a	CG6126	CG14777	ifc	NaPi-T	mthl7	nSyb	twr	Ir60d	Pgam5	Ir7b	Gr10b	Or1a	Gr32a	Or59c	Ir60a	CG44098	CG32054	CG33090	Dop2R	Syx6	Ac13E	asrij	Tapdelta	Sln	ort	CG32263	Syx8	Sytalpha	Ir7a	CG15098	CG6052	Or85b	ZnT35C	Grd	Rab3-GEF	Vha16-5	Ir40a	Gr64a	Pzl	CG4476	Tsp42Ef	CG4462	Or45a	CG1494	Teh2	Ir75b	egh	Tsp42Er	Tsp42Ek	blot	Ir51b	Tsp42Ej	ppk3	Syx16	ogre	Ae2	CG14767	CG30344	Ir67c	ZnT41F	FucT6	ste14	Lgr1	mthl5	Or45b	CG7091	CG4332	Nmdar2	SLC22A	Sply	Gr58a	ATP8B	Ugt35B1	Syx17	CG17841	CG6230	Ir67a	Ir100a	CG8654	hrm	MsR1	Syt1	CG10226	CG18635	Gr59d	NijB	CG43155	beta4GalT7	CG2975	CG3792	GABA-B-R2	CG14195	Tsp42Eq	Ir7g	MFS1	Ir94b	mtt	CG13229	CCKLR-17D3	mth	bw	CG17207	Ir48c	Eaat1	Mdr65	CG13978	CG14855	CG13747	Gr28a	hoe2	rg	CG32053	kkv	pain	Esyt2	Or30a	TyrR	eca	m	CG8389	ihog	CG42288	CG14694	Or22b	Nach	Rh4	CHOp24	rho-6	Glut1	Tsp97E	Gr59a	ZnT77C	CG17111	CG31760	Vang	CG1824	Tsp2A	Scgdelta	Cox10	Tret1-1	CG6836	Sytbeta	Fili	CG10019	Pex13	Or7a	CCAP-R	Msr-110	CG17036	ZnT63C	CG13288	Abca3	Shab	Shal	Gr93a	Gr94a	Gr64f	CG3149	Spase25	ZnT33D	CG43277	ABCB7	GABA-B-R1	CG12730	Gat	Or56a	Gr5a	mrva	Syt14	CG7530	nAChRalpha5	ZnT86D	Alg7	ATP6AP2	Tsp42Eh	Gr59f	RYa-R	DPCoAC	NimC3	CG6006	SIFaR	Or83c	CG5348	Ir94c	CG15221	N	TM9SF2	stan	CG33233	Or85d	CG43954	MFS15	CG34120	CG6845	Or35a	ppk6	Hs6st	Syt12	Ir94d	CG31693	CG6901	Tsp42Ep	PIG-Wa	Ir56c	Orco	CG13801	PK2-R2	Surf4	CG6231	p24-1	Gr97a	Gr93d	CG1662	Npc1a	promL	Amnionless	Pdfr	Shaw	Ance-3	sand	Ir52d	Syx1A	ppk21	ACXE	Gos28	SMSr	Gr64e	CG15744	Gr64c	ema	Ir94g	ppk9	Tsp5D	CG9308	CG31904	Gr2a	CCHa1-R	CG7536	tty	TM9SF3	CG44247	ppk5	Msp300	CG15890	Inx5	OstDelta	CG6149	Gr22b	rst	MFS3	CG17929	Gr22d	trpl	ppk13	Rh3	Picot	Tspo	Ir68a	GluClalpha	otk2	CG8051	CG10804	Gr9a	Sh	colt	Lrt	Cirl	ppk16	Tsp42A	SERCA	SdhD	Ugt35A1	CG12355	CG4101	rdog	CG6978	CG10171	Nhe3	Tmep	PGRP-LD	Nep1	CG15096	Orct2	Gr85a	sut1	Ir85a	CG7881	neo	ACXB	Vmat	Ir87a	GABA-B-R3	Ir52b	CG17752	RyR	mthl10	Ir8a	CG5554	MFS14	CG13223	CG6356	mAChR-C	Cyt-b5-r	CG14196	Gr58b	CG13579	Ir31a	Nep2	CG42825	Gr47a	CG33298	Ir75d	PIG-M	CG5850	dy	Tsp29Fb	Or43a	CG8468	Ir93a	Spase22-23	Or42a	Ncc69	CG18788	CG9826	mmd	out	ppk7	Tsp33B	Irk1	gogo	Mgat2	nes	Tsp96F	Or94a	ACXC	Syx4	CG15211	Gr8a	CG3036	Lgr3	CG43066	Vha16-3	rpk	Or43b	TrissinR	Or49a	Fatp2	Mcr	Ugt37C1	mthl13	CG14778	CG13887	Ir7f	Or85a	CG42826	CG42269	Or67b	CG14744	trp	CG5592	pHCl-1	NAAT1	oxt	CG12121	ppk26	CG10311	KdelR	Vha16-2	CG17751	fz	rho	stg1	TM4SF	Ctr1C	CG4324	sll	ninaA	Or65c	CG15279	kune	Gr66a	CG42594
+dendrite membrane	ppk	Or19b	Or59a	Or85c	Or49b	Or1a	Or59c	Orco	Or67a	Or13a	Or9a	Or94a	Or85f	Or7a	Or10a	Or43b	Or71a	Or49a	Or83a	Or85b	Shaw	Or82a	Or69a	Or74a	Or42b	Or85a	Shawl	Or98a	Or56a	Or33b	Or33a	Or67b	Or45a	Or63a	Or98b	Or47a	Ir64a	Or22c	Or85e	Or94b	Ir8a	Or65b	ppk26	Or19a	Or83c	Or88a	Or47b	Or67c	Or92a	Or24a	Or30a	Or23a	Or45b	Or33c	Or67d	Or59b	Or85d	Or22a	Or22b	Or2a	Or65a	Or65c	Or43a	Or35a	Or42a	Or46a
+extracellular region	CG8586	CG13308	Sema2a	BaraA2	Appl	Idgf2	CheA75a	wntD	Fer2LCH	Muc11A	PGRP-LE	BomS2	Cht9	Spn77Bc	CG31077	Nplp3	dec	mav	Obp50d	CG10154	yellow-f	scpr-A	y	CG42259	CG32201	Lcp9	Cpr49Ac	Capa	Mur18B	Muc68D	isoQC	Obp47a	CG43055	yellow-h	CG14304	Acp26Ab	yellow-e3	CG42564	Obp57a	Wnt5	Phk-3	CG5756	Pburs	Cda4	CG13075	Muc18B	Yp2	CG13837	Pal1	svr	Obp19a	CheB98a	Mst57Da	Obp46a	Lip1	GNBP3	Obp56a	Obp83b	yellow-k	Dro	CG14125	Obp83ef	grass	PGRP-SC1a	BomS3	Obp57d	scpr-B	CG3640	lectin-37Db	Peritrophin-A	teq	CG40160	dlp	Sgs9	CG7248	PPO1	spz5	PGRP-SB2	Cht7	IM18	psh	Lcp65Ag1	wg	Acp36DE	spz3	PGRP-LB	CG13643	Obp56f	Gel	Obp83a	Ag5r2	CG9331	Ag5r	CG8160	CG43777	Mtkl	CheA46a	CG6403	Burs	eys	CG34426	CG32036	Obp18a	CG16995	Dh44	EbpIII	CG18749	Dso2	Idgf3	CheB53b	Obp56g	ndl	Eig71Ef	Jafrac2	Mur89F	Obp28a	CheB42a	Acp33A	edin	GXIVsPLA2	Obp56b	NimB4	Obp56c	CG11570	CheA87a	CG17145	ckd	Ptth	intr	CG3348	upd1	Drsl4	Nplp2	Obp59a	sli	beat-Ia	lush	Nepl21	CG34282	CG7298	Obp84a	Eig71Ed	Est-6	sphinx1	cmpy	Drsl5	CG34427	CDase	Obp56h	SP	thw	NimB2	CG6628	CG32313	CG30172	yellow-d2	CG14880	CG43775	Obp19d	CG9849	Eig71Ea	Obp57b	CG10651	NPF	Obp99d	Muc68E	CG30486	AttC	Obp50a	yellow-g2	Eig71Eg	CG12009	Kaz1-ORFB	CG9822	NimB3	CG4306	CG34324	CheA84a	Obp58d	Gbp2	CG10725	CG33258	slow	Obp69a	CG14607	Pal2	Hug	Dup99B	CG13532	magu	yellow-e2	CG43061	Sp7	NimB5	CG14247	Crz	lama	Cht6	Obp57e	CheB38c	CG43776	Drsl3	CG9400	Muc96D	CG31286	CG14957	Ebp	CG11977	Cht4	CG6996	Obp99b	CheA56a	Obp85a	CG17575	CheB38b	Idgf6	AttB	BomBc1	CG31296	Yp3	CG8072	gbb	Nplp1	Drsl1	Obp47b	yellow-b	CG43218	Kal1	Cda5	CG5883	PGRP-SC2	CG6933	Obp51a	Obp99a	Obp56d	to	CG42296	cv-2	CG5897	CG34454	CG31482	Wnt2	shf	Mco3	lbm	CG2852	CG32302	TotF	Obp73a	Obp50b	Obp83g	sNPF	antr	CG4835	Spn28F	CG14301	fs(1)M3	Cht2	CG33462	Lcp65Ab1	Acp98AB	CG11313	upd2	Npc2g	CG32679	CheB93b	Obp50e	lectin-21Ca	Eig71Eb	SPE	NimB1	Muc26B	CG32024	CG31145	CG32284	Drsl6	EbpII	Nepl13	CG13806	CecC	CG34220	CheB93a	Cht11	mtg	CheB38a	yellow-g	Cht8	Eig71Ee	CheA29a	LManII	Manf	Npc2h	Eig71Ec	Fs	sphinx2	Anp	clos	hh	ImpE2	CecB	CG42728	CG42486	tsg	Ilp2	CG5390	Obp58b	jeb	CheB42c	CG8192	BomS1	Wnt6	CG43896	Ten-a	apolpp	Obp93a	Obp49a	verm	Obp22a	CG7017	cathD	CheA7a	Mtk	serp	CG17147	CG17826	CecA2	yellow-f2	CG5177	axo	Tsf1	dpr16	Cals	PGRP-SA	CG42397	PGRP-SD	Acp26Aa	Obp44a	CG42494	l(2)34Fc	dpr6	CG33986	TotB	Obp19c	CG13676	PPO3	CheB42b	CG33263	spz6	Idgf4	Dso1	Victoria	CG2915	NT1	Obp57c	Obp56e	Mur2B	Cht10	dally	Mst57Db	Cht12	Yp1	CG15293	CG13312	Amy-p	PGRP-SB1	Obp83cd	CG43673	QC	Idgf1	Cht5	Lectin-galC1	CG3505	Alp4	Spn27A	spz	spirit	CG30197	Obp50c	ITP	CG4847	Obp19b	Wnt4	regucalcin	Obp99c	Hml	bou	CG14244	bnl	Gip	CG8483	RYa	fat-spondin	GCS2alpha	Phm	SiaT	scpr-C	vn	PPO2	GNBP1	Crys	yellow-e	CG42525	CG10140	sphe	Eig71Ei	Obp56i	TotZ	GNBP2	Fer1HCH	lectin-37Da	TotM	yellow-c	miple1	CG13309	scaf	CG7290	a10	Idgf5	TotC	CG43294	CG8460	CG17974	Nplp4	CheA86a	RNaseX25	CG10467	spz4	Mst57Dc	CheB74a	CheB53a	amon	Lrr47	CG7252	Acp32CD	Wnt10	Eig71Ej	Qsox3	Eig71Eh	CG33985	Drsl2	Spn88Ea	yellow-d	CG42729	resilin	TotX	miple2	fon	Obp8a	PGRP-SC1b	Obp58c	Eig71Ek	CG9806	Argk1	CG13675	Acer	CecA1	ChLD3
+cell hair	y	Rho1	Mob2	trc
+transcription regulator complex	gro	Chi	ac	CG16779	Med	Optix	CG3919	Mes2	CG6276	NFAT	CG7745	CG4404	CG9948	mof	MED25	CG11504	exd	CG12768	hng1	brwl	Brf	Coop	da	CG10949	hyx	jub	abd-A	Rbf2	sim	CG31875	nej	fuss	Trf	CG6163	hth	MED23	hng2	l(1)sc	MED7	gce	Mad	Mondo	so	Adf1	CG8119	cyc	phol	CoRest	CG8765	Ubx	jigr1	Rbf	Jra	CG11723	dac	pan	CrebB	sc	CG42526	Dref	Iswi	CG13609	Caf1-55	Hr38	Ssb-c31a	sd	Six4	pho	CG45071	Ptx1	stwl	CG6683
+RNA polymerase II transcription regulator complex	ac	Max	CG11350	CG11585	exd	CG34205	Hr39	abd-A	CG2962	hth	E2f1	CG31626	l(1)sc	tgo	CG1368	CG11584	CG32603	CG32564	E2f2	usp	sima	sc	ase	sd	ftz-f1	yki	mask
+lysosome	car	CG31661	Lamtor1	dsb	Lamtor5	CG1827	CG4080	cd	CG5367	CtsF	RagA-B	N	Nprl3	CG13442	Ppt1	CG4847	dor	Vps33B	CG5860	Lamtor4	Wdr24	Rab7	LManIII	LManIV	Cp1	Iml1	LManII	CG10104	lqf	CG17134	Rab6	Syt7	Rab32	LManVI	emp	ClC-b	asrij	CG10474	Vps16A	Pgcl	Cln3	Rab9	cathD	bchs	Tsp42Ej	Syx16	CtsB	CG6508	CG33128	yki	Fuca	Bace	CG11459	CG15533	RagC-D	LManI	Arl8	Swim	Trpml	CG31928	LManV	Vps13D	psidin	CG15534	Ppt2	cer	Lamp1	CG5863	beta-Man	CG31926	CG6347	wcy	CG4025	CG4372	Sap-r	mio	26-29-p	Nup44A
+mitochondrial inner membrane	CG9863	Psn	CG9410	CG1824	aralar1	Pmi	ABCB7	mfrn	CG30412	Hsp60D	CG1907	Tengl1	Coq2	DPCoAC	CG14118	CG33346	CG3803	GC2	CG12917	Tim10	Cyt-c-d	CG14062	MME1	Tengl3	GC1	CG34242	rho-7	CG3776	Ucp4C	ATPsynepsilonL	Cyt-c-p	CG4743	Dhod	Ucp4B	ttm50	Surf1	CG7772	ttm2	Hsp60C	Scox	CG11779	Coq7	CG8026	Ttc19	CG7514	Adck5	Bcs1	Sid	FeCH	colt	CG18418	Tengl2	SdhD	Trap1	Coq9	CG14120	Bmcp	Afg3l2	CG6839	Hsp60B	Ppox	SCaMC	Hsc70-4	CG5569	Gpo1	sesB	Ant2	Adck1	Etf-QO	CG3156	EndoG	sun	CG3092	Hmt-1	CG3819	ttm3	CG5265	Cchl	Coq4	l(3)87Df	CG11077	Spg7	Chchd3	Ucp4A	SdhB	Hsp60A	CG1628	Tengl4	Mitofilin	P5CS
+integral component of mitochondrial membrane	DPCoAC	Adck1	CG7506	CG3156
+mitochondrion	CG9166	Alr	Gdh	CG17221	mTerf5	CG5906	CG7985	CG7920	CG32857	Menl-1	Acat2	CG13601	CG4611	CG13564	CPT2	Lon	CG41128	heix	Dic3	CG5757	Mpcp2	CG15543	AlkB	Sirt4	CG2124	mRpL27	UQCR-C2	CG4592	Dbct	AGO3	CG4594	Qtzl	Echs1	CG42375	isoQC	Hsp68	CG30022	mRpL14	yip2	CG3719	CG2059	CG4278	CG7430	ATPsynD	Pdk	CG10814	Exd2	Whamy	Cyt-c-p	PheRS-m	GlyRS	Slimp	Sccpdh2	ATP6	CG5504	iPLA2-VIA	YME1L	CG4882	Gabat	Pisd	Gasz	Cyp12d1-d	mtSSB	CG17896	ND-ACP	Spag1	CG17928	Rab32	Letm1	shd	Sirup	Cpn	Hsdl2	Fdx1	GstO2	mRpS10	cype	Cox11	Sfxn1-3	ND-30	Sccpdh1	mtTFB1	CG13018	pkaap	nmdyn-D7	SCOT	CG4098	park	GatB	Pepck2	Opa1	Cat	CG4230	Gk1	Roe1	Alas	CG11562	CG1307	Afg3l2	Gk2	puml	CG31381	CG33178	DNAlig1	Tcs4	CG3902	Trxr-2	CG1750	Hsc70-4	CG5793	pnut	CG42308	bor	D2hgdh	ND-42	mldr	Phb1	Etf-QO	CG2100	MCU	bonsai	Pdha	Phb2	bb8	Kyat	COX4	CG3262	CG14630	Ak3	COX6B	ClpX	CG11267	l(3)87Df	bcn92	L2HGDH	DJ-1alpha	CG15035	Menl-2	Tango9	CG31244	Spg7	MagR	ND-75	CG1635	CG31008	Mitofilin	CG31712	Coa8	mRpL12	Prx6005	Scsalpha2	CG14997	Dbp21E2	COX8	CG42497	dib	Taz	ppl	shop	Rim2	hid	CG43999	dj-1beta	CG8517	arg	CG1907	whd	ECSIT	Fmo-1	CG12896	ATPsyngamma	T3dh	Dic1	CG43998	Ech1	rho-7	CG7387	PGS1	CG32262	SdhA	slmo	CG14757	Dic4	CG42380	AsnRS-m	Pdp	sicily	Fum1	nmdyn-D6	IleRS-m	Men-b	CG7970	Kaz1-ORFB	Mulk	CG8298	Ogdh	Pdhb	mIF2	CG1673	ND-B15	CG12848	CG13551	CG8993	GatA	CG15403	COX3	CG10749	Mrm2	PolG1	CG42376	Clic	Egm	Irp-1A	Prx5	Coq8	CG31007	Su(P)	PNPase	mEFTs	ND-13A	mTTF	Mcad	CG7755	Hibch	slgA	CG15283	Blos1	RFeSP	CG4957	CG1271	CG1638	spd-2	PolrMT	kdn	mRpL35	CG10214	mtTFB2	CG11722	fh	CG6415	CG14717	Jhe	CG7791	ND-PDSW	Pink1	sesB	CG14613	CG6984	pdgy	TrpRS-m	Nfs1	CG17508	CG12479	RNaseZ	CG6094	Cchl	plh	CG17996	CG4598	Trxr-1	ND-23	mRpS18B	PTPMT1	CG11077	CG33791	CG31126	ATPsyndelta	Nna1	CG44243	Nrd1	CysRS-m	ValRS-m	mIF3	Gdap1	CG17726	mRpL13	Hsc70-1	CG34454	CG12379	Nipsnap	Fum2	TFAM	GatC	wal	CG3626	CG9804	COX7A	CG9410	aralar1	Dhfr	Dic2	CG8067	CG34423	Coq6	UQCR-C1	Idh3b	fig	GstZ1	Chchd2	Scsalpha1	CIA30	Prx2540-1	Miga	mRpL33	CG4679	mAcon2	SerRS-m	larp	Cyt-c-d	clu	Nap1	CG10340	dnk	CG9921	OSCP1	mRpL36	porin	AlaRS-m	Gpo3	CG14130	mRF1	PCB	Acsf3	CG31773	Dcp-1	COX6AL	Hex-t2	TyrRS-m	CG18528	ttm50	Nmdmc	HIPP1	CG34132	CG17141	Scox	Gs1	Ttc19	CG6345	HisRS	Mccc1	Coq5	mino	Tim8	mRpS25	Got2	CG14777	FeCH	ifc	Hsc20	mtDNA-helicase	waw	CG3483	Ide	Pgam5	CG2854	sad	Ssadh	CG32263	Trap1	ScpX	CG16935	CG8531	ClpP	Hex-C	CG1774	mRpL45	mge	CG4610	CG7461	Top3alpha	Acat1	P5CDh1	armi	CG3021	PolG2	Sardh	LeuRS-m	Ptpmeg	Prx2540-2	COX5A	mRpL39	CG7848	Fum4	mRpL37	Shawn	bsf	AlaRS	CG31278	Fum3	mRpS23	Men	Mtpalpha	CG3999	mAcon1	ttm3	CG15093	tomboy40	beg	Ccdc58	CG3566	Coq4	rnh1	Prx3	Tom40	ArgRS-m	CG32026	ScsbetaG	Pepck1	CG14894	CG14043	CLS	spoon	Hsp60A	Drp1	ND-49	Cox10	Mthfs	Mpc1	ND-SGDH	pr	CG9314	Sod2	mTerf3	Ak2	mfrn	Naxe	UK114	GluRS-m	ND-B14	Las	dap	CG34117	Cyt-c1	140up	Suv3	CG5321	CG8728	CG13392	mEFTu1	AspRS-m	ATPsynF	ATPsynB	Aldh	Mccc2	scu	mRRF1	Gcat	tud	Mtpbeta	CG4335	Hex-t1	CG13623	ATPsynbeta	CG31373	CG3337	CG1662	CG3776	Fpgs	mRpL24	cu	Tim17b	PHGPx	mRpL30	MetRS-m	CG12118	CG7772	ThrRS	ProRS-m	Shmt	Mdh2	AIF	Gpo2	ttm2	CG4884	mRpS33	Oat	Etfb	milt	CG2846	CG13126	Porin2	CG4627	Fmo-2	rpr	grim	Idh	CG13771	dare	CG8520	P32	mRpL55	mRpL22	CG17327	Dronc	CG12355	Hsc70-2	Debcl	MTPAP	Idh3g	zuc	CG8778	CG8206	CG13295	prel	CG12895	CG8080	Sfxn2	Idh3a	CG1640	mRpS9	mEFG1	ND-24	Cyt-b5-r	CG12091	HtrA2	Gpo1	blw	ATPsynCF6	Irp-1B	ScsbetaA	Ccdc56	EndoG	sea	CG31759	mRpL9	CG14778	Lrpprc2	CG9581	CAHbeta	Hex-A	Coprox	retm	Tom20	mEFTu2	ATPsynO	Ts	CG10748	Hsc70-5	GstZ2	mRRF2	rswl	mRpL18	GLS	P5CS	LysRS
+extracellular space	CG4382	CG18563	msopa	Ilp3	Acp95EF	CG8586	CG14457	cv-d	CG10407	Sfp23F	Sema2a	BaraA2	Sfp26Ad	mfas	Idgf2	wntD	CG15199	Cht9	Spn77Bc	CG13618	mav	CG5758	Akh	AttD	CG11037	scpr-A	Tep1	AttA	CG11113	CG15116	Capa	Drs	amn	cv	LysD	Ance-2	Semp1	Pdi	Vap33	Acp26Ab	CG42342	CG12374	Sod1	CG42564	Wnt5	CCHa2	Phk-3	CG8945	CG8642	SPH93	Yp2	Sfp24Bc	CG7509	Spn42Db	LysB	CG17633	svr	CG33458	CG5235	CG4582	Dsk	CG13748	CheB98a	LysE	CG6414	CG34034	Mst57Da	CG16799	srw	fz4	Gp93	CG30395	CG6071	Sfp35C	Sfp26Ac	CG9525	Ms	CG18417	Ilp6	Sfp24C1	Spn28Db	CG3640	CG15635	Peritrophin-A	CG43319	CG43366	CG40160	CG4408	Tep3	spz5	Calr	Npc2a	CG3349	wg	Acp36DE	mas	spz3	CG34051	Ilp1	CG10264	Obp56f	Ag5r2	CG4793	CG5945	CG18258	shv	CG31189	Ag5r	scw	CG33459	CG34435	CG44008	Sfp36F	CG3355	CG31515	eys	CG6421	CG1124	CG16995	Spn77Ba	Swim	CG10041	Dh44	CG34130	Sfp60F	Tep2	Sulf1	CCHa1	CG11852	BomBc3	CG1791	IM33	Diedel	CheB53b	BG642312	Adgf-B	Obp56g	polyph	FMRFa	CG4546	Jafrac2	CG14227	CG18284	Eh	ea	CG9294	CG31659	CheB42a	Acp33A	edin	CG42827	Acp29AB	CG6347	CG3868	myo	tsl	CG42264	Spn53F	CG31997	CG34033	Fkbp14	CG6277	Tbh	CG8539	CG6429	Adgf-C	Spn42Dd	lbk	upd1	CG18735	CG4270	Nplp2	S-Lap7	CG4477	betaGlu	CG2016	Adgf-D	CG4914	CG34447	CG8562	CG5367	CG4613	fest	Est-6	Mmp2	Spn77Bb	Acp24A4	CG17472	sona	CG11458	CG5402	Tep4	SP	AstA	ETH	CG6628	Sems	CG32313	Bbd	Pxt	Cpr67Fb	Spn38F	CG43775	CG14820	Tsf2	CG10433	Gpb5	CG10651	Spn42Da	CG31704	SIFa	CG30486	AttC	CG31419	aos	tctn	CG1889	CG6472	Proc	CG17919	CG32379	CG9500	Sema1a	ssp7	Spn31A	CG9822	Adgf-A	CG18557	CG30088	Acp63F	Acp53C14c	Pvf1	CG6865	Qsox4	CG11159	Hug	CG6675	Dup99B	CG34458	CG3662	magu	CG15201	CG9672	CG10359	Sp7	Npc2b	Egm	CG5948	Crz	Gpa2	CG9168	Timp	Spn28Dc	CG43333	CG9673	CheB38c	Ilp4	CG1986	Pvf3	CG30289	CG9400	CG9997	CG31883	LysP	CG31286	Lk	NLaz	Ebp	CG2444	CG11977	Cht4	Sfp79B	CG14259	CG42764	CG34448	Spn28Da	CG11112	CG8564	Sfp87B	Jhe	CG34002	CG3108	Ggt-1	CG4017	CG17575	Npc2e	CheB38b	OdsH	Idgf6	CG12256	AttB	BG642163	Spn43Ad	CG31296	Yp3	Adgf-E	lectin-30A	Np	CG3556	CG8072	gbb	CG4267	Nplp1	tok	CG17192	Acp53C14a	Or82a	Spn28B	CG3604	retinin	CG31832	Sfp33A4	Obp51a	CG14990	CG3097	to	ND-51L2	CG18478	CG42326	CG8492	l(2)k05911	DptB	CG30414	CG4815	TotA	Nep4	CG31482	DptA	Wnt2	CG9593	26-29-p	upd3	CG6168	CG2852	sog	TotF	CG5267	CG6283	Diedel3	CG11608	CG13282	Adgf-A2	CG5867	Notum	Gbp1	Sod3	sNPF	Pxn	antr	CG42823	CG10730	CG30287	Spn28F	Spn43Aa	CG14132	CG15418	Qsox2	Sfp65A	Sfp33A1	trk	Cht2	CG33493	CG18628	LysX	Cpr51A	Acp98AB	Spn43Ab	daw	CG17097	mAcon2	upd2	CG11313	Hsc70-3	Sema1b	spi	CG32679	CG15080	CheB93b	clt	nur	CG5162	CG15117	Spn42De	Ilp5	fog	CG41520	CG17380	EbpII	CG31207	CG14258	CecC	Sfp96F	LysS	Sfp77F	Sfp24Ba	Qsox1	CheB93a	Trissin	Cp1	mtg	Spn85F	CheB38a	CG33226	Spn47C	Toll-7	Eig71Ee	CG12869	CG1552	CNMa	Manf	Npc2h	CG16756	CG6296	Fs	olf413	Sdr	Listericin	CG10116	Jhedup	CG18135	CG30159	Acp53C14b	tpr	Acp76A	CG11598	Pdf	Anp	CG5665	hh	CecB	Ccp84Ad	tsg	Ilp2	Ilp8	CG5390	jeb	CheB42c	Wnt6	CG17404	CG10163	Jon99Ciii	apolpp	CG6788	NUCB1	CCAP	CG30062	Obp22a	CG7079	tnc	Hexo2	CG8420	Sfp24F	serp	CG42780	Cow	CG31418	CG32055	CG7798	Spn42Dc	Nrt	CecA2	CG7668	Actbeta	CG10663	CG13965	Ance-4	CG11459	CG33160	Ndg	CG31266	BG642167	Tsf1	CG15641	CG14089	CG11836	CG34177	dyw	PGRP-SD	CG10587	Pvf2	Acp26Aa	Sfp70A4	CG3117	Est-P	GLaz	TotB	CG6431	Fas1	CG43165	CG15497	CG18585	Acp62F	CheB42b	spz6	sxe2	CG18304	nw	Sfp38D	Dso1	aspr	Victoria	CG2915	CG4678	NT1	Fili	Obp56e	CG34049	BomS5	CG14034	Sfp33A3	Vago	Tk	CG15203	Mst57Db	CG8563	CtsF	CG15537	CG34460	Yp1	lectin-29Ca	CG5225	CG33259	pyr	Diedel2	sca	Cht5	CG18641	Alp4	ths	Spn27A	CG5397	ltl	CG3916	CG14661	Sfp24Bb	spz	CG33127	CG15225	CG17191	ITP	CG6426	CG11131	CG6847	CG10918	CG4847	Sfp53D	CG32052	egr	CREG	CG5966	CG17242	PH4alphaNE2	Wnt4	regucalcin	CG6271	CG10862	Spn88Eb	CG11630	Hml	CG9733	Spn75F	Sfp93F	bnl	CG30083	CG14913	CG8483	RYa	CG17189	mesh	Phm	scpr-C	vn	CG33680	Mip	PPO2	GNBP1	tld	CG8093	Cys	CG31872	AstC	Tsf3	PPYR1	Mmp1	CG17271	Obp56i	Dh31	TotZ	CG11854	CG32833	Ance	CG10357	CG17279	TotM	Apoltp	CG34227	Spn55B	CG34129	CG31496	CG8738	dpp	CG13309	scaf	nec	Fst	vkg	TotC	CG31680	SPARC	CG30288	CG8460	CG6295	CG17974	CG4757	Ilp7	fj	RNaseX25	CtsB	CG16820	Met75Cb	Sfp78E	Nep2	CG2918	spz4	Plod	Mst57Dc	CheB74a	CG7025	CG1701	Sfp51E	CG7367	CheB53a	amon	Sfp33A2	CG5639	ImpL2	CG15533	Spn100A	Acp32CD	sun	Wnt10	Vm32E	Qsox3	lectin-46Cb	CG17292	lectin-46Ca	CG15202	Mcr	Spn88Ea	Pde1c	CG14892	Cpr72Ec	Sfp84E	CG18095	CG9029	Def	CG15534	CG7142	grk	Acp53Ea	Met75Ca	TotX	CG8560	Col4a1	Ance-5	aqrs	CG30281	trn	Sap-r	Acer	CecA1	Krn	CG11664
+endomembrane system	ReepB	Stt3A	Sil1	EMC3	CG12945	t-cup	CG2852	MSBP	wbl	l(1)G0320	CG2915	Lnpk	Tango1	Sema2a	Gpat4	CG33523	CG11200	Ankle2	Fer2LCH	CG8839	Jwa	ergic53	Spase25	Cyt-b5	wls	Sac1	Ufl1	Trc8	Asph	Rab18	EMC8-9	Glg1	SsRbeta	CG43783	CG7484	whd	Stim	CG31139	Tmem131	alt	Syx7	sturkopf	SelT	Hsc70-3	Pgant7	CG30291	Ostgamma	Pdi	Vap33	CG33129	Uggt	CG3061	c-cup	SPoCk	Surf4	CG5196	Alg9	PH4alphaEFB	Osi6	alpha-Man-IIb	alpha-Man-Ia	CG5382	CG8306	PHGPx	CG5946	Trp1	CG12056	svr	Rab5	lace	Stt3B	scf	Syx1A	CG5510	GCS2alpha	CG1309	Rtnl1	Syx5	Agpat4	Manf	CG6766	Rab6	Rab14	Sc2	ERp44	Rab21	Rab32	Gp93	ERp60	Rab23	OstDelta	Fatp1	Ugt35D1	CG8042	Ndc1	prtp	Hmu	Ugt302C1	Use1	rumi	Kr-h2	Mtp	twr	CG16957	CG14715	GAA1	SERCA	Syx6	CG9175	Tapdelta	Ost48	EMC4	CG15743	Calr	Syx8	Dpck	GCS1	NUCB1	CG7872	CG8460	CG9302	Pss	CG3702	Rab19	RabX6	P58IPK	CG33303	CG9257	Sec61alpha	Cpr	CG7556	Cyp4e2	Dmtn	CG5554	bai	Syx16	CNPYb	Madm	Sec61beta	Rdh1	boca	CG2918	Agpat3	Tango5	CG4332	CG32069	CG32087	MAN1	sel	CG4789	AnxB9	Syx17	GCS2beta	CG6230	EMC7	CG6550	Cnx99A	CG11999	Syx4	gbb	Rab1	CG7071	CG8507	RabX1	CG13887	CG4972	Aladin	CG10616	CG1371	Pgant5	SrpRbeta	zda	Dad1	atl	CaBP1	Jafrac2	TM9SF4	CG11790	Duox	cer	Ho	Obp99a	CG17593	SrpRalpha	PIG-S	Alg2	eca	Ufsp2	Syx13	Cyp6a8	Fkbp14	CHOp24	EMC1	Ote
+perinuclear region of cytoplasm	SCCRO3	hdc	scaf6	Mapmodulin	Hakai	Mlf	Psn	NetB	Arl8	Rilpl	cbs	Rab11	FBXO11	ATP7	tapas	SH3PX1	Rep	Chc	Gga	Vha55	vas	Cul2	alphaTub67C	Nhe3	gus	Abi	nos	Lerp	Ndfip	sqh	mbl	msk	svr	l(2)efl	ben	wash	Kebab	Diap2	CRIF	klar	Past1	nuf	neur	cher	Hsp83	Gclc	krimp	AGO1	Charon	dlg1	cuff	Msp300	RanGAP	Ptp61F	Diap1	alphaTub84B	Plod	GMF	koi	Gp93	Tsp68C	alphaTub84D	TBPH	chic	Fhos	ncd	dnc	orb2	mael	tum	Pdi
+Cajal body	scaRNA:PsiU2-35.45	snRNA:U2:14B	Parp	Gem3	elav	Fib	snRNA:U2:38ABb	Ns3	scaRNA:MeU5-U42	SmB	scaRNA:MeU4-A65	msk	scaRNA:MeU5-C46	Smn	snRNA:U2:34ABc	scaRNA:PsiU2-55	snRNA:U2:34ABa	coil	CG10909	scaRNA:PsiU2-38.40.42	scaRNA:PsiU1-6	WDR79	scaRNA:PsiU5-44	Rbfox1	scaRNA:MeU2-C41	scaRNA:MeU5-G38	scaRNA:MeU2-48	snRNA:U2:34ABb	Snup	scaRNA:PsiU6-40	scaRNA:MeU1b-A234	snRNA:U2:38ABa	scaRNA:MeU2-G25	scaRNA:MeU2-C28
+endoplasmic reticulum	ReepB	opm	CG18234	Mapmodulin	Sil1	xit	EMC3	CG18810	Ero1L	p23	CG17270	schlank	CG17197	wbl	Gnpnat	l(1)G0320	CG33932	Seipin	LPCAT	CG7049	sip3	Tango14	Xport-B	CG4483	Ankle2	ru	Zw10	ttv	Ugt36F1	S	heix	Sac1	CG17198	Trc8	CG5885	Rab18	nSMase	Sec20	Sec22	CG14646	Agpat2	SsRbeta	CG43783	CG7484	Stim	fng	CG17196	CG32201	CG1924	alpha-Man-Ic	CG18233	g	sturkopf	Torsin	Spt-I	CG31013	CG3631	Edem1	Hsc70-3	spi	clu	gny	CG31016	CG5823	CG4293	Pdi	Ugt49B1	Vap33	homer	CG33129	OSCP1	Patsas	Agpat1	Uggt	p24-2	rt	SPoCk	CG5196	Osbp	PH4alphaEFB	p24-1	tank	CDC50	CG31371	PH4alphaNE2	PH4alphaSG2	rasp	tral	alpha-Man-Ia	PIG-P	GM130	Trp1	CG3961	CG34189	Pgant6	scf	CG4676	CG34345	CG17195	Scp1	CG13029	Rtnl1	CG9308	Syx5	gammaCOP	Manf	CG32576	fdl	alpha-Man-Ib	loj	mino	spo	Buffy	Gp93	ERp60	SppL	Fatp1	prtp	Rint1	Use1	Kr-h2	Axs	Mtp	cert	twr	Scp2	Acsl	me31B	CG10973	sotv	SERCA	Hacd2	CG9175	Tapdelta	CG5862	CG11828	PSMG1	Calr	park	CG13585	CG31787	CG7840	Ndfip	Itpr	wg	Sec31	CG15539	CG8314	Edem2	CG17883	app	CG9981	GABPI	PH4alphaSG1	puc	P58IPK	EMC6	Sec61alpha	bai	myd	O-fut2	Alg3	CNPYb	PPP1R15	ste14	CG31021	Plod	boca	CG31650	Tango5	hob	Desat1	aph-1	Efr	botv	CG32087	GPHR	CG32199	Sply	CG8405	sel	sws	CG17841	por	Zip99C	Cyp4e3	Ubc7	CG17287	CG31524	CG7011	Tango8	CG6550	Sec23	PH4alphaPV	PGAP1	CG1486	Ns3	CG10470	CG18231	Syx18	CG9698	CG4956	snz	CG18749	p115	Dnz1	Dhdds	CG17075	phm	O-fut1	Fatp2	CG8507	Ugt36E1	Mgat4a	CG4557	CG10029	CG13284	CG4301	pcx	Alg1	CG32276	sfl	Cnx14D	Ir48c	Dpm3	PIG-Z	CG5265	atl	CaBP1	fa2h	Jafrac2	CG4174	CG4880	Alg10	CG34041	Doa	PH4alphaMP	CG17593	ksh	bwa	Spp	alpha-Man-IIa	Klp61F	tw	KdelR	Ldsdh1	Grasp65	Fatp3	rho-5	CG11257	eca	Tango11	Papst2	CG15864	CG10344	fan	wol	Hacd1	PH4alphaNE1	PH4alphaNE3	Fkbp14	CHOp24	Krn	ReepA
+COPII-coated ER to Golgi transport vesicle	opm	CG7011	Sec23	p24-1	PAPLA1	CG31787	ergic53	Sec31	CG5510	Yif1	CG9308	CG3500	bai	cnir	loj	eca	CG32069	cni	CHOp24	CG4293	p24-2
+axon	ReepB	Bsg	Ptp99A	fra	Ptp10D	sli	CG7166	Appl	Gr94a	Gr93a	Gr21a	CLIP-190	Shawl	sNPF	Sac1	Gr47b	DCTN1-p150	Gr59f	Gr98d	Gr22c	CaMKII	Gr59b	Gr93b	otk	Cont	CG9279	SerT	Gr98c	tau	Gr98a	Gr28b	CG44153	kra	Gr36a	Dscam3	Aplip1	tutl	CG13506	Mkk4	bdl	Gr93d	Unc-76	drl	CG6805	Gr43a	plum	Gr68a	Shaw	Gr93c	Gr10a	InR	nudE	futsch	Gr36c	fzr	Rtnl1	smo	Gr2a	fry	Ret	Gr23a	Nak	bsk	Gr39a	wrapper	Gr89a	Scamp	Gr77a	Dab	Cpn	Gr22b	Gr22d	ple	path	ena	hdc	Acsl	Gr57a	CG13531	Dscam4	Gr10b	Gr32a	Sdc	Gr22f	Gr9a	CadN	Gr22e	Abl	Cdk5alpha	Prosap	dlp	trc	Syt4	Nrg	shi	beta-Spec	mas	rad	Gr36b	Gr59c	Lis-1	pyd	unc-104	Rdl	Fas2	armi	Gr39b	robo1	Gr58b	PsGEF	Nrt	CG9784	drpr	Fmr1	Gr58a	Gr63a	X11L	Bace	gogo	Syt1	Gr59d	Arl8	nrv2	Gr92a	Ptp4E	Catsup	Gr8a	robo3	Gr33a	rpk	klg	robo2	Gr22a	kek6	Imp	Gr59e	Apc	Lar	CG42674	ringer	Abp1	arm	ckn	Gr28a	Ptp69D	Dscam2	kcc	hep	wnd	sgg	Gr98b	gek	Cdc42	Efa6	Dscam1	unc80	Gr66a	trio	Gr59a
+neuronal cell body	br	Psn	NetB	fra	Rab11	RabX4	CG7166	Appl	Gr94a	Gr93a	Gr21a	sNPF	na	Sac1	Fbxl4	Neurochondrin	Rab18	Gr47b	Gr59f	Sarm	Gr98d	Gr59b	Gr22c	Gr93b	Gr98c	pcm	RpL10	erm	sn	Gr98a	Gr28b	kra	Gr36a	Pdi	Vps36	CG13506	PICK1	Gr93d	CG6805	Dcp-1	Rab7	Gr43a	Pal1	Gr68a	Pdfr	SK	Gr93c	Zmynd10	Rab5	Snmp1	Gr10a	hig	Trpgamma	ktub	futsch	Gr36c	smo	Gr2a	Rab14	Gr23a	Rab6	RIC-3	Nak	Or23a	stau	Gr39a	wrapper	Gr89a	Rab23	Gr77a	Gr22b	Lapsyn	Gr22d	Pdf	path	CCKLR-17D1	Gr57a	CalpA	Dfd	Gr10b	me31B	Gr32a	Gr22f	Gr9a	Gr22e	Cdk5alpha	SH3PX1	Nmnat	Nrg	Rab8	brat	Ten-a	Apc2	Rab4	Rab3-GEF	mas	rad	Gr36b	Gr59c	Lis-1	Rab19	RabX6	slo	Ten-m	Akt	didum	armi	Gr39b	robo1	Gr58b	nompC	Rab35	Rab39	CG9784	Dnai2	Fmr1	Gr58a	Ir84a	Gr63a	X11L	Rab10	shrb	Bace	Myo10A	Pka-C1	Gr59d	Gr92a	Ptp4E	Rab1	Gr8a	Catsup	Gr33a	rpk	klg	Or83a	Gr22a	Imp	Gr59e	bel	ringer	Gr28a	kcc	rg	Efhc1.1	Gr98b	Rab2	Dscam1	Gr66a	Gr59a
+microtubule organizing center	CG18190	CG15306	Rab11	asp	CG32318	Actn3	CG42399	Eb1	Mical	nuf	Kif3C	lva	CG34417	CG2955	CG15740	CG32371	spdi	Mst27D	chb	ncd	Ehbp1
+filamentous actin	Mical	spdi	CG43897	Zasp66	Zasp52	Ehbp1	Actn3	Zasp67	CG42319	CG34417
+ESCRT I complex	Mvb12	CG10435	TSG101	Vps28	Vps37B	Vsp37A
+intracellular membrane-bounded organelle	AP-2sigma	Rho1	chico	CG2852	Ugt303B2	Vps37B	CG14893	CG34342	FarO	CG5157	Abca3	Ugt35C1	Ugt35E2	Ugt36F1	Cyt-b5	Ugt50B3	Rubicon	Moca-cyp	CG14464	Hip1	or	CG8303	Ccz1	Ugt304A1	CG6870	lqfR	Fmo-1	CG34120	CG8320	Ugt37B1	Ppt1	aux	AP-2mu	Ugt49B1	Ugt37E1	Ugt302E1	CG10096	CG1441	Osbp	CG9297	Ugt307A1	CG10097	CG8306	Ugt317A1	Vsp37A	Ugt302K1	Ugt36A1	CG7768	Mulk	CG17562	CG31213	Ugt37C2	Ugt37A3	lqf	RIC-3	CG43672	CG4020	Ugt37A1	cm	CG4770	Fmo-2	Dmnd	Ugt35D1	Ugt302C1	CG17560	CG42816	Ugt49B2	RhoBTB	CG3420	ClC-b	Ugt35A1	Eato	CG5065	Ugt35E1	CG6052	Ugt303B1	CG1494	wat	Ugt305A1	Ugt301D1	CG12268	eIF3e	CG1513	CG1801	Mgstl	CG8908	Ugt35B1	Sk1	Rac1	stnB	Sk2	CG30427	Ugt37D1	CG18659	phm	Rac2	Rip11	Ugt37C1	Ugt36E1	Ugt36D1	SelG	Cyp40	Ugt303B3	CG3566	Rpi	Arf1	Past1	Ppt2	Ugt37A2	CG17266	Sgp	Tango9	Cyp18a1	PMCA	Ugt303A1	CG5071	CG9205	ninaA	Ugt316A1	Cyp1	Ugt49C1	AP-1mu
+nuclear chromosome	Kah	RpL11	msl-2	east	elB	thoc5	RpS9	RpS15	mof	msl-1	JIL-1	RpS2	RpL8	NSD	RpL32	mamo	RpS18	RpL41	Cdk12	mle	RpL36	msl-3	RpS11	mei-W68	RpS5a	Dlip3	RpS13
+nucleolus	CG7483	RpL11	CG3071	mod(mdg4)	RpS9	Trf4-1	CG43902	Hmr	Non1	Mys45A	Taf1	Nlp	Top1	Ns2	Adat1	CG12301	CG6999	MED26	l(1)G0020	nop5	Nph	Nopp140	CG8545	BHD	RpS18	Mat89Ba	ph-d	Non2	Surf6	TAF1C-like	nclb	Hlc	HP6	dbe	kz	Su(Tpl)	Mtr3	Trf4-2	can	Ski6	CG2875	CG12863	CG9004	RpS11	CG8461	FRG1	CG1234	CG41562	CG8441	RpS13	stwl	CG1785	sle	mbm	east	elB	thoc5	CG17652	CG9630	CG12499	CG11122	l(2)k09848	wcd	CG10993	CG7137	CG5645	CG4554	cdc14	U3-55K	snoRNA:Me28S-G1083b	peng	CG6712	l(2)34Fd	RpL32	scny	CG5641	Sce	RpL41	TAF1B	CG11563	Rrp47	nht	ball	Rs1	Samtor	CG31301	CG1671	Rbfox1	Hus1-like	Non3	ph-p	snoRNA:Me28S-G764	Nsun2	l(1)G0004	RpS5a	CG9143	Rrp46	dany	CG12608	Fib	CG5815	Rbm13	Rexo5	CG40813	Mt2	CG4038	CG7275	tbrd-3	CG32793	Nle	CG2260	CG3527	hoip	CG4364	snoRNA:Me28S-G1083a	Noa36	Pc	CG11030	CG16753	Adar	CG1789	eIF6	CG32708	blanks	tbrd-2	CG7006	Mink	mle	Bka	RpLP0-like	RpL36	pit	SA-2	SNCF	CG9300	CG1542	Mybbp1A	sqd	CG11920	mod	Nsun5	NO66	Cdk7	CG32767	Parp	CG14210	CG5728	DIP1	Nop60B	CG18178	snoRNA:Me28S-G1083d	RpS15	Bug22	Sas10	bys	jumu	RpS2	tbrd-1	CG8939	CG32344	REG	CG15019	snoRNA:Me28S-G1083c	dre4	Tif-IA	CG32409	CG9246	HP4	RpL8	Ssrp	CG6937	CG9344	CG12493	RNaseMRP:RNA	Rtc1	udd	CG15432	Aatf	MED22	Sumo	l(3)07882	CG3735	CG11123	Tsr1	mia	CG10903	CG32706	Mtor	Ns1	vito	CG12909	Eaf6	CG3335	CG9123	sa	Hr83	cal1	Rrp6	CG11583	Hrb27C	ath	Upf3
+cytosolic large ribosomal subunit	RpL19	RpL18	RpL12	RpL11	RpL26	RpL40	RpL24	RpL30	RpL15	RpLP2	RpL10Ab	RpL7A	RpL22-like	RpLP1	RpL9	RpL6	RpL39	RpL35A	RpL23A	RpL27A	RpL21	RpL3	RpL4	RpL8	CG13096	RpL35	RpL27	RpL13	RpL31	RpL32	RpL34b	RpL18A	RpL38	RpL22	RpL41	mRpL1	RpL5	RpL37a	RpL24-like	RpLP0-like	RpL36	RpL17	RpL37A	RpL36A	RpL34a	RpL23	RpL10	RpL7	RpL7-like	RpL37b	RpLP0	RpL29	RpL13A	RpL28	RpL14	RpL10Aa
+cytosolic ribosome	RpL19	RpL18	RpS16	RpL12	RpL11	5SrRNA:CR33430	RpS9	RpS8	RpL30	RpS17	5SrRNA:CR33436	RpS15Aa	5SrRNA:CR33372	5SrRNA:CR33377	5SrRNA:CR33423	RpL7A	5SrRNA:CR33365	RpL23A	5SrRNA:CR33407	5SrRNA:CR33404	5SrRNA:CR33435	5SrRNA:CR33441	5SrRNA:CR33368	RpL38	RpL13	5SrRNA:CR33364	RpL22	5SrRNA:CR33440	RpL5	RpS10b	5SrRNA:CR33437	5SrRNA:CR33397	5SrRNA:CR33408	5SrRNA:CR33400	RpL10	5SrRNA:CR33386	5SrRNA:CR33373	5SrRNA:CR33450	sta	5SrRNA:CR33428	RpS13	RpL26	5SrRNA:CR33420	RpS24	5SrRNA:CR33355	5SrRNA:CR33392	5SrRNA:CR33358	5SrRNA:CR33362	5SrRNA:CR33388	5SrRNA:CR33415	PEK	RpL27A	RpL21	5SrRNA:CR33451	RpL31	5SrRNA:CR33385	5SrRNA:CR33399	5SrRNA:CR33402	5SrRNA:CR33360	5SrRNA:CR33394	5SrRNA:CR33395	5SrRNA:CR33438	5SrRNA:CR33406	5SrRNA:CR33390	RpS27	5SrRNA:CR33387	5SrRNA:CR33379	5SrRNA:CR33361	5SrRNA:CR33444	RpS19a	5SrRNA:CR33413	5SrRNA:CR33366	RpL7	RpS14a	5SrRNA:CR33396	5SrRNA:CR33446	RpS25	RpS5a	5SrRNA:CR33376	5SrRNA:CR33389	5SrRNA:CR33353	5SrRNA:CR33401	5SrRNA:CR33422	5SrRNA:CR33378	5SrRNA:CR33369	RpLP2	5SrRNA:CR33432	5SrRNA:CR33382	5SrRNA:CR33431	RpL9	5SrRNA:CR33443	RpL35A	RpL4	5SrRNA:CR33410	5SrRNA:CR33412	RpL34b	5SrRNA:CR33375	5SrRNA:CR33383	5SrRNA:CR33374	5SrRNA:CR33427	5SrRNA:CR33370	5SrRNA:CR33411	5SrRNA:CR33439	RpL36	RpS6	5SrRNA:CR33414	5SrRNA:CR33449	5SrRNA:CR33425	5SrRNA:CR33429	5SrRNA:CR33448	5SrRNA:CR33421	5SrRNA:CR33434	RpL14	5SrRNA:CR33381	RpL24	RpS21	5SrRNA:CR33419	5SrRNA:CR33384	5SrRNA:CR33380	5SrRNA:CR33393	5SrRNA:CR33409	RpS2	5SrRNA:CR33403	RpLP1	5SrRNA:CR33447	5SrRNA:CR33442	5SrRNA:CR33359	RpL6	5SrRNA:CR33367	RpL8	RpL35	5SrRNA:CR33354	5SrRNA:CR33391	5SrRNA:CR33398	5SrRNA:CR33452	5SrRNA:CR33357	5SrRNA:CR33417	5SrRNA:CR33445	5SrRNA:CR33405	RpS3	RpS23	5SrRNA:CR33418	5SrRNA:CR33433	5SrRNA:CR33424	RpS4	RpLP0	RpL13A	5SrRNA:CR33426
+nucleoplasm	Mapmodulin	CG8312	CG13516	Sec13	CG43902	CG8223	RnpS1	Taf1	snoRNA:Or-CD9b	Nlp	Ns2	CG46385	CG7974	sm	Gld2	S6k	nxf2	stx	CG9636	CG8419	CG9776	Nph	PolD2	Pits	Oda	Moca-cyp	CG1910	Nopp140	CRAT	CG6340	poe	dap	Chchd2	nclb	emc	piwi	dbe	Mau2	CG17059	Tpr2	CG11788	Unc-115a	vls	mip130	Kap-alpha1	CG14207	Ipk2	skd	MTA1-like	stwl	CG1785	CG30022	Srp54	CG30183	mei-P26	snoRNA:Or-CD9a	CG43740	east	Adk2	CG5062	CG10324	PolD3	seq	CG34334	bocks	Mad1	msk	mbl	nej	tsr	glo	CstF50	aop	CG12259	Hph	CG10984	scny	glec	Prosbeta5	RpL41	GCC185	fus	IRSp53	Saf-B	Smr	U2af50	CG31301	Rbfox1	CG15356	gw	CG12848	CG1620	Sirt1	CG10347	Cam	PolD1	Npl4	CG42374	drk	mars	fabp	su(sable)	Parg	Clic	zld	CG4896	Pen	SelR	MED25	Bub3	CG4038	Ref1	mts	CG4364	cocoon	Akr1B	CG11030	CG11164	MED6	CG10694	Nxt1	Papss	rump	Su(var)2-10	aly	Cse1	Unc-115b	S6KL	pbl	CG10055	mud	Dek	TBPH	Mnt	Dpit47	kis	lola	sqd	PAPLA1	S6kII	CG11920	MEP-1	CG7879	Cdk7	Kap-alpha3	Fs(2)Ket	sbr	osa	Rnp4F	Rad23	JIL-1	14-3-3epsilon	baf	mbo	Sap130	REG	Fbl6	Ythdc1	CG9246	Hrb87F	Tlk	CG15432	coil	alphaKap4	Eaf	sgg	CG14618	Caper	CG8060	CG9346	PIG-S	CG11839	Mtor	eIF1A	Bacc	caz	dx	CBP	mad2	rswl	Hexim	CG31712	Hrb27C	CG46301
+polytene chromosome	br	ebi	mod(mdg4)	Dsp1	Polr2C	Top1	Rm62	bur	ZIPIC	brm	peb	sktl	His3.3B	Pits	SMC1	Sbf	ph-d	Scm	sens	Cp190	ash2	Pp1-87B	vig2	Su(Tpl)	Fcp1	mip130	Iswi	D1	msl-3	CrebA	Utx	Nipped-A	Ada3	HDAC1	Su(H)	stwl	Trf2	Pcl	corto	upSET	east	Mi-2	Su(var)2-HP2	Polr2D	XNP	Ino80	nej	akirin	trx	mam	scf	Topors	Yeti	esc	MBD-R2	Atxn7	Smr	tou	ADD1	abo	Set1	PR-Set7	bab2	Rpt1	Polr2A	His3.3A	Df31	lin-52	Hcs	ph-p	pho	D12	E(Pc)	pds5	Spt5	Phf7	wapl	asf1	Mocs2B	CG31917	su(sable)	Hel25E	Chro	CG8677	polybromo	Lint-1	Su(var)205	Xpd	B52	Trf	Cdk9	NSD	Pc	SuUR	Bap170	Cdk12	mip120	EloC	Eip93F	CtBP	Nup98-96	mle	Pof	su(Hw)	usp	Dref	Caf1-55	Myb	sage	ttk	MEP-1	lolal	vig	Hsf	fkh	Parp	e(y)3	Ada2b	Nipped-B	Lpt	EcR	Skeletor	osa	JIL-1	jumu	kto	ash1	Deaf1	His2Av	CycG	Tctp	Trl	CycT	Usp7	uri	pita	l(3)mbt	pzg	MBD-like	trr	Jarid2	Gcn5	Sin3A	egg
+transcriptionally active chromatin	CG9899	upSET	comr	atms	Nipped-B	Ice1	su(sable)	Mi-2	SA	Rbp1	p53	Spt6	B52	Chd3	lilli	SMC1	MBD-R2	Ada2a	Moe	nclb	Eip93F	EloA	Rtf1	CG12674	Set1	Su(Tpl)	caz	Ski6	Utx	Ctr9	Csl4
+SCF ubiquitin ligase complex	CG5961	FipoQ	CG13088	Cks85A	SkpF	CG14891	CG32085	CG2247	Roc1a	Roc1b	FBXO11	Cks30A	Fbw5	SkpD	CG14937	CG10516	Cul2	gus	CG15412	CG12520	Fbl6	CG9316	CG5003	SkpE	CG7148	Fbxl7	SkpC	SkpB	Skp2	Cul5	SP555	SkpA	CG31633	Fbxl4	ago	CG7707	Cul6	ntc	CG4042	CG12402	slmb	CG33969	CG34025	CG8272	CG30466	Fbxo42	dmpd	Cul4	fsd	CG11044	morgue	pall	CG13085	Kdm2	Cul1	CG4911	CG9003	bard	CG13766	CG11658	Fsn	Ppa	CG32221	jet	Rca1
+cullin-RING ubiquitin ligase complex	lmgA	Cul6	Cul2	CG30496	Cul3	Roc1a	Roc1b	Cul4	abo	Roc2	Cul5	pic	Cul1
+Cul2-RING ubiquitin ligase complex	Cul2	CG12084	slim	EloC	Roc1a	Dora
+Cul3-RING ubiquitin ligase complex	BTBD9	ScsbetaA	Cul3	inc	Roc1a	KLHL18	Roc1b	rdx	gcl	klhl10
+Cul4-RING E3 ubiquitin ligase complex	Fbw5	CG7275	CG6325	CG1523	adp	Tango4	DCAF12	Roc1a	Cul4	CG42233	CG8001	CG31855	CG9945	mahj
+heterochromatin	Orc2	moon	e(y)3	CG2129	Fkbp39	Rif1	Su(var)2-HP2	Su(var)3-9	XNP	Su(var)205	Odj	HP1b	Su(var)3-7	Kdm4A	rhi	Cap-G	TfIIA-S	HP4	SuUR	Hrb87F	Tlk	woc	neb	Hmt4-20	blanks	Dp1	ADD1	piwi	HP6	del	dmt	HP5	crol	prod	Sirt1	Hr83	D1	Lhr	l(3)neo38	Trf2
+integral component of plasma membrane	CG32447	ppk28	boss	Osi21	CG1688	Rh6	Zip71B	CCHa2-R	kek4	Tmc	dpr1	Glut3	smog	Osi16	Tsp66E	DIP-beta	Ac3	Octbeta3R	AkhR	Dh31-R	Rh50	pHCl-2	dpr2	rk	CG12290	ppk22	ppk	dpr8	Esp	Tsp26A	rut	tutl	bdl	Osi6	nAChRbeta1	Alk	ppk14	plum	Toll-4	CG5404	nAChRalpha6	Osi7	ppk29	sNPF-R	Ssk	Ror	Teh4	kek1	Ca-alpha1T	CG34357	CG10864	Nlg1	Dh44-R2	CG42637	mthl15	Tsp42Ei	wun2	CCKLR-17D1	Osi5	5-HT2A	CG11438	CG45263	Indy-2	DIP-eta	PK2-R1	mGluR	Ork1	DIP-zeta	AstC-R1	PGRP-LA	Tl	Osi13	Cad86C	foi	ppk8	dpr7	ppk12	CG11426	robo1	mew	Task6	Ac78C	TkR99D	Proc-R	HisCl1	nAChRbeta3	ppk17	Tsp47F	Teh3	CG42340	MRP	dpr19	sns	CG12344	Egfr	beat-Ib	Tsp42Eb	Octalpha2R	CG7912	fred	FMRFaR	dpr13	shg	CG11425	Oatp74D	PMCA	kek5	CG6927	TkR86C	Cad99C	Oatp33Ea	Dscam1	ppk31	ppk24	ninaE	DIP-delta	dpr11	Octbeta2R	CG15449	Dop1R1	Lkr	Ir75a	TyrRII	Toll-9	PK1-R	mAChR-B	beat-IIa	ppk18	Nlg3	CG44325	Dh44-R1	galene	kug	CrzR	AstC-R2	Tsp42En	AstA-R2	Nrk	ACXD	CG34396	nAChRalpha1	Tsp74F	CG15556	Task7	AstA-R1	CG9628	DIP-kappa	SecCl	Oamb	DopEcR	DIP-alpha	sax	Cad89D	wgn	CG32305	CG8916	Tsp68C	CG12061	CG1806	emp	Dscam4	rdgB	Tsp42Ee	Osi1	CG11437	Osi15	ds	DIP-gamma	Osi23	kar	PGRP-LC	beat-Ic	Lgr4	5-HT7	Eph	Dop1R2	Osi19	Oatp58Db	Rdl	fz2	Ptp52F	CG9717	Gyc76C	ppk25	Ir84a	nrm	nAChRalpha4	dpr14	CG17167	dpr5	Rh7	nAChRalpha3	Gli	Mdr49	rho-4	PlexA	hbs	CG1090	ppk23	Rh2	ACXA	Tsp3A	Dscam2	Ent2	CG5002	tor	kirre	Tsp42El	Osi18	Drl-2	ed	5-HT1B	eag	lbm	NPFR	iav	Psn	ClC-c	fra	CG32301	MsR2	CG13995	Tsp42Ec	Lcch3	ru	CG2930	wls	Osi12	sas	ft	kek3	Tie	5-HT1A	Osi4	ETHR	wun	Nckx30C	ppk27	Oatp58Dc	Ndae1	ppk11	yin	Oatp33Eb	Osi22	DIP-theta	CG31183	ppk19	mAChR-A	CNT1	CG11318	Rh5	Best1	Tsp42Ed	Indy	Octbeta1R	Best3	drl	Amt	ppk20	Sr-CI	Tsp42Ea	InR	Toll-7	Oct-TyrR	Tsp39D	Oatp58Da	Trpgamma	smo	Cad87A	tkv	nAChRalpha7	ppk30	Tsp42Eg	Tsp29Fa	ppk10	sev	Elk	Gyc32E	Rift	htl	ppk15	nAChRbeta2	CG10738	Osi8	Dop2R	Ac13E	ort	Sln	Prestin	Osi9	Grd	Osi2	Tsp42Ef	DAT	Teh2	kek2	CG6928	Tsp42Er	Tsp42Ek	Tsp42Ej	ppk3	Oatp26F	Lgr1	Oatp30B	nan	aph-1	PGRP-LF	tipE	laza	MsR1	CG43155	Cad96Cb	GABA-B-R2	Tsp42Eq	dpr17	mtt	mth	Cals	kcc	Balat	MstProx	Best2	Esyt2	TyrR	ihog	NaPi-III	Nach	Rh4	CG10339	Tsp97E	CG43373	Osi14	Orai	Tsp2A	Ephrin	CCAP-R	dpr20	mys	GABA-B-R1	nAChRalpha5	Osi11	Tsp42Eh	slif	Nct	dpr3	SIFaR	zyd	sei	CG3216	N	CNT2	Atet	ppk6	Mvl	Dscam3	DIP-lambda	Tsp42Ep	CG6125	PK2-R2	NtR	Nlg4	Osi3	Nlg2	Cad74A	Pdfr	sand	ppk21	para	ptc	CG3277	ACXE	SMSr	ppk9	Tsp5D	CCHa1-R	Ret	dnt	ppk5	DIP-epsilon	dpr18	CadN2	Cad96Ca	rst	trpl	ppk13	Ac76E	Rh3	GluClalpha	nAChRalpha2	Cirl	ppk16	Cad88C	CG9702	Osi10a	Nrg	PGRP-LD	dpr9	ACXB	Ten-m	pasi1	Ir8a	lili	DIP-iota	mAChR-C	tei	pasi2	Tsp29Fb	ppk7	Tsp33B	knk	ClC-a	ACXC	Lgr3	if	TrissinR	Trpm	btl	kek6	Tehao	trp	Fas3	pHCl-1	NAAT1	sdk	ppk26	fz	Best4	Ddr	Pvr	PlexB	Osi20	Osi17	CG42594
+apical part of cell	RhoGEF2	Zasp52	upd1	ens	bbg	Cyfip	Dlg5	pot	dia	Ptp10D	exp	reb	jub	Tmem63	RhoGAP71E	ru	sqh	pio	Desi	SCAR	sty	corn	Btk	Slc45-1	Fbxl7	ssh	Apc	sav	Chmp1	Rabex-5	Arf1	pyd	cnk	ATP6AP2	mira	kkv	Pez	sdk	Asap	fry	wat	CG10939	wun	CG5921	rho	boca	Mbs	stau	Cdc42	sds22	Cad96Ca	rst	wun2	Traf4	cdi
+perivitelline space	ea	babos	kuz	Sdc	dsx-c73A	Spn27A	gd	fra	sdk	ndl	flz	dally	CtsB	CG32066	Cda4	CtsF	dlp	Meltrin
+ribosome	Rp21	tko	RpS21	RpS24	RpS17	RpLP2	mRpS23	RpL22-like	mRpS7	RpS3A	RpL22	RpS5b	RpL37A	RpS6	RpS23	CG10602	mRpL13	RpS14a	RpS14b	Rp7-8	RpL13A	RpS5a	sta
+endoplasmic reticulum membrane	xit	Ero1L	CG10425	l(1)G0320	Seipin	CG4907	Tango14	Membrin	ergic53	CG30156	SREBP	CG3149	CG15880	CG7149	Hmgcr	Desat2	Sac1	CG1840	Ufl1	CG42359	ATP6AP2	jp	CG11162	ORMDL	Mctp	Sec22	mdy	Tmx3	PIG-V	CG9747	PIG-B	CG1924	Svip	SelT	CG6527	PIG-Q	Alg11	gny	CG5823	cni	CG8112	Vap33	CG9743	CG4960	rt	Alg12	CG3061	Alg9	CG16781	PGAP2	CG5510	Hpd	CG5969	Erk7	Der-1	CG13829	CG32640	cnir	stas	CG8630	Dd	PIG-F	SERCA	CG5342	Calr	Itpr	Cds	GCS1	Vti1a	CG7872	CG17883	CG33116	CG15531	CG1998	jagn	Desat1	CG32069	sws	CG10761	CG6230	Cnx99A	CG15111	CG11999	meigo	Fad2	CG9855	CG13887	PIG-X	SelG	CG4972	Cnx14D	CG1371	PIG-Z	PIG-O	CG15814	Vti1b	CG13978	CG6790	mol	nero	Alg10	Vkor	CG7990	Yif1	SCAP	SrpRalpha	GlcT	tw	PIG-N	rho-5	Tango11	fan	wol	CG17991	Dpm1
+chromatin	Dsp1	Sec13	her	Crg-1	tna	MED26	CG8419	rn	scrt	sens	pdm2	Rcc1	Mst77Y-9	fd59A	ERR	His1:CG33861	CG11788	His1:CG33831	CrebA	Setd3	HDAC1	mei-P26	GATAd	upSET	CG14711	vtd	Zif	da	Smox	Su(z)12	dve	MBD-R2	His1:CG33843	dsf	nom	Atf-2	stil	Paris	Kdm2	His1:CG33825	CG12391	His1:CG33834	CG2202	pds5	Ravus	sens-2	asf1	Hr51	Clamp	CG8677	gsb	His1:CG33810	FoxL1	PHDP	Dll	ord	Stat92E	SmydA-8	sim	Doc1	CG10959	eco	Trf	cocoon	tomb	bi	tbrd-2	Mnn1	Cap-D2	Mnt	CG17359	CG17568	vvl	tHMG2	Mef2	Trf4	CG4936	timeout	pnr	mbo	Kr-h1	HP1Lcsd	Bx42	His1:CG33801	His1:CG33813	CG9215	CG33288	Hr83	CG31441	sna	RecQ4	CHES-1-like	Nup62	CG3407	Taf1	repo	Mst77F	SMC2	Mabi	mid	Poxm	CG15696	SoxN	CG18262	bs	topi	phol	Rbf	D19A	CG42726	Pph13	chm	Utx	slbo	Smyd5	CG32532	tim	His2A:CG33853	Myc	Hinfp	HLH4C	jim	cbt	mam	CG7963	esc	ball	Usf	Smr	luna	CG17612	Klf15	CG14655	srp	SA	Mst77Y-4	bsh	Sox21b	CG11294	His1:CG33819	lncRNA:Hsromega	Dif	vrs	svp	fd102C	NSD	CG11696	hkb	Nnk	CG15160	D19B	His1:CG33822	His1:CG33846	CG10631	achi	btd	M1BP	CG17801	usp	SA-2	lz	tHMG1	sqd	Hsf	BEAF-32	CTCF	al	eyg	CG2129	vis	CkIIalpha-i1	His1:CG33840	His1:CG33804	Odj	Poxn	hth	Boh1	MED22	cg	glu	wge	Doc2	E2f2	Jra	ocm	CG8944	HnRNP-K	fd3F	Tip60	TFAM	CG15725	mod(mdg4)	Irbp18	cbs	Zaf1	Hr4	His1:CG33849	e(y)2	RunxB	mms4	Kdm3	piwi	HP6	dmt	Mau2	CG17059	CG10336	sima	mip130	Iswi	Su(H)	Kah	slp1	nub	Nup50	Tpl94D	barr	Trf5	CG8159	CG4854	FoxK	Sce	CG1792	His1:CG33816	CG33557	tou	mei-P22	d4	rad50	Df31	CG32772	D	ProtA	dysf	pho	CG14710	CG6654	BigH1	trh	trem	hbn	Mst77Y-2	CG17385	twi	dl	Uxt	Pc	klu	Cdk12	Rel	wuc	ProtB	rump	Su(var)2-10	Drgx	mle	Hr78	Tbp	Taf5	His1:CG33828	fkh	e(y)3	ey	NFAT	Asx	gsb-n	zfh1	dwg	JIL-1	jumu	toy	calypso	HmgZ	rhi	CG11906	E2f1	Hrb87F	GATAe	Rx	His1:CG33855	His1:CG33858	Doc3	pan	crol	Sin3A	croc	Hat1	fd96Cb	HP1e	Rad17	His1:CG33807	Ubc6	CG44002	RunxA	p53	HmgD	Oxp	CG7386	sv	Polr3G	CG4744	borr	Sox21a	ranshi	pps	CG4730	HP1D3csd	PCNA2	can	Sox14	CG42741	E(z)	CG3430	Mst77Y-7	Hira	Haspin	Trf2	His1:CG33852	tll	exd	acj6	wda	H15	CG3065	HLH54F	Ino80	Rbf2	Cap-G	byn	Hnf4	enok	toe	Mst77Y-13	Rtf1	fd19B	run	sd	ouib	His1:CG33864	prd	CG9876	CG12605	zld	CG12081	His1:CG33837	Su(var)3-3	CG31388	dar1	HLH3B	nau	kni	CG32006	HHEX	Sp1	mip120	aly	Nup98-96	bon	kn	su(Hw)	CG10274	Arp6	CG8319	fd96Ca	Fer3	Cf2	TBPH	PCNA	Sox15	Nf-YA	Med	Nipped-B	CG11902	prg	His1:CG31617	Lpt	Dad	Hand	mof	ash1	Set2	His2Av	CG1894	CG18764	eg	SC35	CG2712	CG2116	Gsc	CG10147	Bre1	sqz	Mad	pita	CG11695	Skadu	CrebB	knrl	CG15269	gl	grn	org-1
+Myb complex	mip130	Dp	Rbf2	Caf1-55	Myb	mip120	lin-52	mip40	E2f2	Rbf	HDAC1	l(3)mbt
+Rb-E2F complex	Dp	Rbf2	E2f2	Rbf	E2f1
+Golgi membrane	Naa60	Hip14	ICA69	Mgat2	GlcAT-I	SPoCk	l(2)gl	PGAP2	alpha-Man-IIb	Golgin84	alpha-Man-Ia	p115	sau	Vps45	syd	ergic53	GlcAT-S	CG15880	siz	CG5510	Hpd	CG15814	Gos28	CG33635	CG7990	Glg1	ATP6AP2	SCAP	gammaCOP	Syx5	Sec22	GlcT	Gmap	alpha-Man-IIa	Syx16	GlcAT-P	CG14232	Rab2	Slh	FucTB	alpha-Man-Ic	Efa6	Rab39	Fmr1	ArfGAP1	step	Rich	CG9356
+endoplasmic reticulum-Golgi intermediate compartment	opm	Gnpnat	p24-1	CG14971	alphaCOP	CG31787	ergic53	Mgat4a	NUCB1	CG5510	PGAP5	Yif1	CG9308	gammaCOP	Sec22	bai	loj	eca	CHOp24	p24-2
+ER to Golgi transport vesicle membrane	Sec16	p115	Membrin	Vti1b	Vti1a	Sec22
+transport vesicle	Pldn	Muted	Ykt6	Sec22
+SNARE complex	nSyb	Syx4	Syx6	Syx18	Tomosyn	Vamp7	Membrin	Syx8	Ykt6	Vti1a	Snap25	Syx1A	cpx	Vti1b	Gos28	Snap24	Sec20	Syx5	Sec22	Bet1	Syx16	gammaSnap2	gammaSnap1	alphaSnap	Syx7	Snap29	Syx13	Use1	Syx17
+cytoskeleton	Kank	CG5882	CG8086	Rho1	Bili	RhoBTB	Fak	Rac1	Pak	CG43867	flr	gukh	Rok	CG8176	Rac2	cora	sti	RhoGAP93B	Dyrk2	SCAR	hop	ORY	hts	Mer	rhea	Abp1	Sdb	CG42788	Cdep	Shrm	shot	Pez	CG7131	yrt	Prm	Dys	gek	Ptpmeg	CG5022	Akap200	Fhos	Dyrk3	dnr1	CG10252	ex	CG34347	CG6059
+mediator complex	MED11	MED16	ix	MED25	MED20	kto	Pk34A	MED8	MED31	Uxt	MED21	CycC	MED28	MED19	MED26	MED24	MED30	Cdk9	MED23	MED27	MED6	MED7	CG32971	MED22	MED18	MED15	MED4	MED17	Cdk4	MED9	Cdk8	MED14	MED10	CG13609	MED1	skd
+integral component of endoplasmic reticulum membrane	por	Dolk	CG17821	Xxylt	Spase12	CG7011	CG6660	CG10470	meigo	Hacd2	CG9175	Seipin	CG14511	Der-2	Elo68alpha	Trp1	TRAM	ste24b	S	Baldspot	SrpRbeta	Dad1	CG9459	ste24c	SMSr	shams	CG30008	Der-1	PIG-G	Elo68beta	sit	CG3500	CG5326	CG7573	CG33110	Sting	Fitm	CG8534	bond	Alg3	Sras	CG31523	CG9458	PIG-A	eloF	PIG-V	CG16904	Dpm2	alt	ste24a	LBR	Papst2	wfs1	crc	Elovl7	Hacd1	Efr	CG31141	CG7218	CG1317	CG18609
+Holliday junction resolvase complex	mus81	mms4
+transcription factor TFIIA complex	moon	TfIIA-S-2	TfIIA-S	TfIIA-L
+nuclear pre-replicative complex	CG14805	CG10185	Cdc45	Orc3
+nuclear origin of replication recognition complex	Orc2	Cdc45	Orc6	Orc1	Orc5	Orc3	Orc4
+DNA replication preinitiation complex	Cdc45	Orc3
+CMG complex	dpa	Cdc45	Mcm5	Mcm2	Sld5	Psf1	Mcm3	Psf2	Psf3	Mcm6	Mcm7
+intracellular organelle	CG3655	Oatp33Ea	CG12910	Oatp74D	CG12715	CG9395
+eukaryotic translation initiation factor 4F complex	eIF4A	eIF4E3	eIF4E4	eIF4E6	eIF4E1	eIF4G2	eIF4G1	eIF4E5	eIF4EHP	eIF4E7
+egg chorion	Cp15	CG12517	CG4009	CG13083	CG11381	CG31661	Ilp8	Swim	Vm32E	CG31928	Cp7Fa	CG14187	Mur2B	CG15570	Cp16	CG1077	Cp19	dec	CG13084	Muc4B	Cp36	CG4066	Muc12Ea	CG13114	CG15721	CG13113	CG13299	CG31926	psd	CG13998	CG15571	Mur11Da	Cp7Fc	Cp7Fb	Pxd	CG12716	Cp18	CG12398	CG32642	Vm26Ac
+striated muscle thin filament	DAAM	Act88F	sals	Chd64	up	wupA	TpnC25D
+sarcoplasm	DAAM	Syt7
+Z disc	rols	DAAM	sls	bsf	Zasp52	tn	Psn	Act88F	Lasp	CG42319	bt	Pgk	CG43707	CG43897	kon	mib2	zip	mbl	Hsp67Bc	Dg	l(2)efl	Smn	zormin	Gapdh1	Tpi	rhea	Zasp66	cher	RyR	STUB1	ball	Actn	Zasp67	Msp300	Mlp60A	Mlp84B	CG14207	Hsc70-4	Ald1	Pglym78	CG1674	stv	Gpdh1	mask
+axonal growth cone	DAAM	Rtnl1	erm	Itpr	NetB	NetA	CLIP-190	Eb1	fra	shot	kra	Trim9	robo1	Con
+presynaptic active zone	DAAM	Fife	nSyb	Liprin-alpha	RhoGAP100F	Bsg	stnB	CG31211	Nmnat	Nrx-IV	Liprin-beta	unc-13	Ten-a	S6k	cac	cpx	Rim	Git	stj	Gycbeta100B	brp	Fas2	CaMKII	bchs	KaiR1D	Vps35	Rab3	Srpk79D
+presynapse	drk	DAAM	Strip	PGRP-LC	Rgk1	tkv	S6kII	ReepA
+postsynapse	DAAM	Rpt6R	me31B	drpr	sky	Rpt6
+NatC complex	Sbat	Naa30A	Naa30B	Naa35
+smooth septate junction	mesh	Fas3	cora	Ssk	Tsp2A	dlg1	l(2)gl
+apicolateral plasma membrane	Tsp2A	l(2)gl	ds	PGRP-LC	Mcr	scrib	Inx2	PDZ-GEF	sdt	d	ft	crb	dlg1	Patj	kst	Dlish	ex	Magi	aPKC
+serine/threonine protein kinase complex	png	plu
+protein kinase complex	gnu	png	plu	Ask1
+cytoplasmic stress granule	Sec16	lin-28	Dbp80	Atx2	Sxl	me31B	Fmr1	roq	ssx	rin	Rbfox1	pAbp	Mt2
+ribonucleoprotein complex	Spx	CG4806	heph	rin	CG4022	bru3	LSm7	CG2931	bru2	Dhc64C	Nbr	Rm62	Sxl	eEF2	Hrb98DE	snf	mRpL41	glo	mahe	Sbp2	shep	Hrb87F	La	CG10077	rump	AGO1	CG7879	orb	fus	mRpL10	Dp1	mle	CG14443	lost	Capr	CG33158	ssx	CG4849	bru1	HnRNP-K	CG10803	Hrb27C	pAbp	SNRPG	Larp7
+lysosomal membrane	Ctns	CG7523	Psn	Arl8	Rilpl	CG42638	Sk2	Trpml	CG1275	Lrrk	Iml1	VhaAC39-1	comm	CG6903	CG32225	Pex23	Lamp1	CG6707	CG14767	pHCl-2	HPS4	VhaAC39-2
+ciliary basal body	twy	CG4714	CG15208	CG17122	CG3062	BBS1	Sas-6	Rilpl	CG7886	Bug22	rempA	dila	nompB	DZIP1	ana3	ana1	asl	Ttc26	CG17118	Ttc30	Oseg2	BBS5	Sdb	unc	Cby	Grip71	BBS8	CG7131	ana2	CG3769	CG14995	CG5614	Plp	Cep135	CG4712	IFT54	IFT57	CG7218	CG13693
+septate junction	crim	bbg	Gli	nrv2	pck	Nrg	CG45049	Mcr	cora	scrib	sdt	vari	bark	CG3770	sinu	dlg1	CG6398	yrt	Cont	wun	Patj	Atpalpha	kune	Tsf2	Lac
+synaptic vesicle	Vap33	Hip14	nSyb	mfr	Rab9E	Syt1	ClC-c	Cirl	Rab9Db	PICK1	CanB2	stnB	Catsup	Rab40	Tomosyn	jeb	Sytbeta	Syt4	CG15399	Gdi	Rph	Rep	RabX4	Rab8	CanB	unc-13	Vps45	Rab9D	Rab3-GEF	VGlut	Rab3-GAP	Rab9Fa	CanA1	Eps-15	Rab27	Syx1A	Vmat	stnA	Rab9	Vha100-1	Rim	Csp	Rab9Fb	RabX2	unc-13-4A	prt	lap	Dap160	Esyt2	Syt7	Syb	Septin4	Frq2	Syx7	spas	comt	stac	Scamp	Cadps	Rab3	Dysb	Snapin	Septin1	Rab10
+secretory granule	Rph	Chc	Snap24	7B2	AP-1gamma	Rab27	CG32536	Rop
+vesicle	DCTN2-p50	Rab9E	Myo10A	Myo28B1	Als2	Myo31DF	Rab9Db	spin	Rab26	Rab11	CG2915	Rab40	RabX5	Rab1	RabX4	Syt4	Rab7	Rab8	RabX1	Rab30	Rab9D	Rab4	mop	VGlut	Rab9Fa	Rab5	d	kermit	Rab27	CG13427	comm	Cln3	ck	Rab9	Rab19	Rab18	RabX6	Rab9Fb	RabX2	didum	jar	Rab14	Rab2	robo1	RN-tre	Syt7	Rab21	Dtg	Rab32	Rab35	Rab39	Rab23	Evi5	Myo61F	link	aux	Rab3	Myo95E	Rab10
+synapse	Hip14	CG10339	Rab11	RabX4	stmA	Ir75a	Lcch3	nAChRalpha5	Rpt3	Nlg3	Sap47	pHCl-2	orb2	hook	mAChR-A	Liprin-alpha	dor	nAChRalpha1	NtR	Rab26	RabX5	nAChRbeta1	Nlg4	Rab7	Nlg2	Nrx-IV	Rab30	Rab5	SecCl	Rab27	nAChRalpha6	Vha100-1	Ir75c	futsch	nAChRalpha7	Rab14	Rab6	CycA	Rab21	Rab32	CG8916	Nlg1	Arc1	Rab23	Prosalpha7	Fsn	GluRIIC	GluClalpha	nAChRbeta2	nAChRalpha2	CG13531	Sdc	Cyfip	Dyb	ort	dlp	Syt4	Rab8	shi	Grd	Rab4	Rab3-GEF	Rab9	Rab19	stj	Rdl	armi	dysc	Dys	Elp3	PsGEF	Rab35	Rab39	Sec8	Cbp53E	HisCl1	nAChRalpha4	nAChRbeta3	orb	Rab10	nAChRalpha3	Gli	Amph	Arl8	Catsup	sif	wit	RabX1	CG12344	Rpt3R	pHCl-1	Ir64a	aru	dlg1	veli	Nmdar1	CG6927	CG8907	Cadps	Rab3
+spindle	sle	mars	Klp59D	gammaTub37C	twe	Klp10A	cbs	Chro	wake	dgt6	rod	wac	Asator	dgt5	JTBR	Klp59C	Klp3A	gammaTub23C	Patronin	fbl	aurB	Mps1	dgt2	ssp3	nudE	sofe	fzr	Tao	Moe	dgt4	Klp61F	mei-38	Map205	Mtor	feo	alphaTub84B	mud	polo	mad2	toc	Mzt1	chb	CG3437	ncd	Cam	fzy	tum	Axs
+polar microtubule	chb	mei-38
+kinetochore microtubule	pav	Lis-1	mars	mad2	DCTN1-p150	Klp59C	Klp67A	Klp10A	Zw10	Zwilch	mei-38	rod	polo
+spindle midzone	CG18190	Arl8	CG15306	rod	Klp3A	sqh	Eb1	sub	Zw10	aurB	aust	borr	CycB	Zwilch	mei-38	CG2955	feo	Mtor	CG32371	mud	Mst27D	aurA	Incenp
+mitotic spindle	Grip84	mars	Klp67A	TBCB	shi	Mad1	CG42399	cdc14	Aladin	Wdr62	Ran	Grip91	DCX-EMAP	CycB	Efhc1.1	Mink	sgg	Klp61F	mei-38	Mtor	Clc	mad2	Efhc1.2	chb	clu	Cam	ncd
+early endosome	Rbsn-5	rush	arr	PIP4K	ClC-c	IPIP	Tsf1	Arf6	Khc-73	asrij	sp3	Vps2	EMC5	Sans	wit	Rbpn-5	Vha55	Vps45	scaf	Ocrl	VhaAC39-2	Klp98A	CG8134	wg	Rab5	spartin	wls	VhaAC39-1	wash	Tl	Rubicon	Tsf2	Rab9	Dl	Vha100-1	Past1	Sara	Rab18	spdo	tkv	fz2	Snx16	Pi3K59F	Rab14	RhoGAP68F	Snx27	Vps8	Rab21	Vps35	TBC1D16	Syx7	Culd	N	lqfR	Tsf3	Snx3	ed	upd2	wus	CG6607	ninaE	Snx17
+late endosome	rush	arr	CG7523	Psn	ClC-b	Trpml	Rab7	lt	scaf	Ndfip	Ocrl	wg	pen-2	comm	Cln3	Rab9	Chmp1	spdo	ema	Nct	fz2	Snx16	serp	Rab14	Vps15	c11.1	fdl	Vps8	Vps35	N	g	Rab39	aph-1	upd2	Sap-r	yki
+cytosolic small ribosomal subunit	mRpS11	RpS29	RpS16	RpL40	RpS9	RpS21	RpS8	RpS24	RpS17	RpS28-like	RpS15	RpS15Aa	RpS28b	RpS2	RpS10a	RpS3A	RpS19b	RpS27A	RpS12	Rack1	RpS28a	RpS18	RpS7	RpS10b	RpS26	RpS5b	RpS3	RpS27	sta	RpS6	RpS23	RpS19a	eIF2D	RpS4	RpS14a	RpS11	RpS15Ab	eIF2A	RpS14b	RpS20	RpS25	RpS5a	CG11700	RpS30	RpS13
+ionotropic glutamate receptor complex	GluRIIB	GluRIIE	Grip	scrib	Nmdar2	GluRIB	GluRIIA	dlg1	GluRIIC	Neto	GluRIA	Prosap	GluRIID	Nmdar1
+extracellular matrix	shf	Tig	lbk	TwdlX	nolo	NetB	CG34462	Cpr23B	l(2)gl	Fili	mfas	wntD	Mur2B	Muc11A	TwdlW	Pxn	Ccp84Aa	Mmp2	CG34461	sas	CG5225	CG5758	CG30046	sona	stl	TwdlZ	TwdlE	Cpr62Ba	SP2353	ltl	Cpr51A	Tb	Mur11Da	Cpr64Ad	Mur18B	Muc14A	CG5455	Cpr72Eb	Muc68D	Cpr92F	CG15080	Ccp84Ab	TwdlK	Cpr66Cb	Muc30E	CG42342	TwdlB	Muc26B	CG14309	Muc68E	TwdlY	Ccp84Ac	Muc18B	CG7509	Hml	Toll-7	AdamTS-A	Cpr92A	fat-spondin	Cpr76Bb	Mur82C	Muc4B	TwdlT	mspo	CG17211	TwdlP	Crys	Cpr62Bc	Cpr5C	atk	Ccp84Af	Mmp1	Cpr65Ax1	TwdlG	Ppn	Cpr62Bb	Ccp84Ad	Cpr64Ab	Cpr57A	Mur29B	Muc55B	prc	Cpr56F	Cpr31A	Muc91C	TwdlM	Cpr72Ea	TwdlJ	Timp	Ten-a	vkg	CG30203	TwdlR	CG43333	SPARC	Sgs1	Cpr76Bd	Ten-m	loh	Muc96D	CG13670	Ccp84Ag	CG32055	Cpr76Bc	TwdlN	Twdlalpha	Ccp84Ae	TwdlL	Cpr64Aa	Cpr50Cb	frac	eys	nompA	NetA	Twdlbeta	TwdlC	Cpr66D	Edg84A	Cpr64Ac	CG14089	Cpr50Ca	Cpr76Ba	dpy	TwdlV	Kal1	CG42367	Cpr35B	Cpr72Ec	Mur89F	TwdlS	Muc12Ea	Cpr30B	TwdlO	resilin	TwdlQ	Cpr67B	Ccn	Col4a1	Fas1	Cpr30F	AdamTS-B	CG17739	Muc68Ca	trn
+endosome	Wdfy2	Vps36	Rab9E	Rbsn-5	dor	Snx6	gol	gzl	Snx1	CG16957	CG15099	CG2224	Rab9Db	Ist1	Rab26	Rab11	hbs	Rab40	asrij	RabX4	CG15399	CG4074	inaC	Rab8	CG13784	Vps50	Vps29	Rab30	CG30423	Ykt6	CG8202	CG3529	Vps16A	Rab4	mop	Klp98A	CG31729	Rab5	ALiX	Rab9D	Rab9Fa	Sec15	wash	Vps26	Strump	Hrs	Vps4	Dl	Vps11	Nost	neur	Rab9Fb	sona	RabX2	SWIP	lqf	Pi3K59F	mon2	fz	Vps35	fab1	Pi4KIIalpha	N	lqfR	Cad99C	AMPKalpha	CG13442	Lkb1	Rab3	Mvl	hh	Uvrag	hook	Rab10
+HOPS complex	Vps16B	Vps11	Vps39	lt	dor	Vps33B	car	Vps16A	Vps8
+CORVET complex	Vps16B	Vps11	dor	Vps33B	car	Vps16A	Vps8
+sarcoglycan complex	Scgbeta	Scgalpha	Scgdelta
+sarcolemma	if	RyR	CG1806	Dg	Scgdelta	bves
+costamere	mys	Scgdelta	kon
+Ragulator complex	Lamtor2	Lamtor1	Lamtor3	Lamtor4	Lamtor5
+core mediator complex	MED8	MED31	MED14	MED7	MED6	MED18	MED4	MED17	MED26	skd	kto
+peroxisome	CG5122	CG14893	CG4586	CG9314	Mvk	CG34342	Pex13	FarO	Marf1	CG6178	Acat2	Amacr	Lon	Got1	Dhrs4	Pex3	CRAT	Acox57D-p	CG8303	Daao2	Mdh1	Uro	Acox3	CG17597	Pex5	CG11737	Ccs	Acsf2	Pex1	Ech1	Sod1	Pex16	CG10096	CG1441	SPoCk	Pex2	CG10097	CG8306	Mul1	Dci	Mfe2	Nos	Agps	CG17562	Pex11c	Pex6	CG4020	CG4770	Idh	Hmgcl	CG17560	Hsdl2	Acsl	Ide	Pex10	Pmvk	Daao1	Prx5	Pex11ab	CG12355	ScpX	CG5065	CG17544	Cat	Pex19	Acox57D-d	CG3589	Gnpat	Acat1	wat	Pi3K59F	ACOX1	puml	CROT	Pex7	Idi	CG12268	CG11151	Hao	CG31259	CG30427	Mtpalpha	CG31454	CG5265	Pex12	Sgp	Best2	Agxt	Hacl	Pex14
+peroxisomal membrane	Pex5	CG5065	Pex14	Pex10	CG11077	Gnpat	PMP34	Pex16	Sgp	Fis1	Abcd1	Pex11ab	Abcd3	Hmgcr	Pex19	Topors	Pex1	Pex13
+MCM complex	dpa	mei-218	Mcm5	Mcm2	CG14803	Mcm3	Mcm6	Mcm7	rec
+nuclear replication fork	SuUR	CG14803	Rif1	Marcal1	Ctf4	DNAlig1
+retromer complex	Vps35	Vps26	Snx3	Vps29
+retromer, cargo-selective complex	Vps35	Vps26	CG4074	Vps29
+mitochondrial ribosome	mRpL40	mRpL51	CG12848	mRpL48	CG14817
+Rix1 complex	CG14805	CG10185	CG1575
+mitochondrial membrane	Coa8	Rim2	mino	Taz	CG5532	Letm1	shi	CG1544	Opa1	SdhB	Drp1	SdhBL	Cln3	Slc25A46b
+polytene chromosome puff	ifm(2)RU5	cnc	Parp	RpL11	ifm(2)RU3	Sec13	Polr2C	vig	Polr2D	JIL-1	Top1	Pep	Spt5	ifm(2)RU8	Su(var)205	REG	Rm62	Xpd	dre4	spt4	Spt6	Hrb98DE	lawc	mam	scf	ifm(2)RU6	Cdk9	ifm(2)RU4	Hrb87F	CycT	Cdk12	Moe	Mhc	ifm(2)RU7	Keap1	Nup98-96	ash2	vig2	Asciz	Polr2A	Su(Tpl)	TH1	trr	Gcn5	Nipped-A	pho	Ada3	sqd	Chd1
+MLL3/4 complex	CG33060	trr	Dpy-30L2	wds	Hcf	Ncoa6	CG14282	Lpt	Dpy-30L1	Utx	Rbbp5	Ptip	ash2	Pa1
+mitochondrial large ribosomal subunit	mRpL36	mRpL14	mRpL40	mRpL12	mRpL42	mRpL51	mRpL15	mRpL55	mRpL22	CG30100	mRpL54	mRpL24	mRpL3	mRpL34	mRpL11	mRpL17	mRpL28	mRpL9	CG6094	mRpL21	mRpS30	mRpL30	mRpL41	mRpL44	mRpL45	mRpL48	mRpL16	mRpL43	mRpL32	mRpL38	mRpL1	mRpL49	mRpL52	mRpL20	mRpL27	mRpL10	mRpL47	mRpL53	mRpL35	mRpL2	l(2)10685	mRpL23	mRpL13	mRpL50	mRpL33	mRpL46	mRpL18	mRpL39	mRpL4	mRpL37	mRpL19
+adherens junction	nullo	cpa	ena	cpb	Zasp52	a	Arf6	ASPP	CG42319	hbs	CG43897	wts	Grip	jub	scrib	mbt	PDZ-GEF	sqh	ArfGAP3	Schip1	Mer	arm	bark	Zasp66	pyd	FER	Moe	Shrm	shg	cno	shot	Asap	RASSF8	Zasp67	Patj	alpha-Cat	Efa6	rst	ed	p120ctn	step	Magi	baz
+zonula adherens	Zasp52	Girdin	yrt	Sec6	baz	arm
+rhabdomere	Mob2	Sec5	PIP82	Rh5	Rac1	chp	Rh6	Ggamma30A	Gbeta76C	inaC	norpA	Sec6	Arr2	Trpgamma	ktub	arm	rtp	crb	trp	inaD	cno	inaF-B	didum	Cdc42	ninaA	Galphaq	Sec8	Cpn	Arr1	trpl	Cam	ninaC	ninaE	WASp
+apical plasma membrane	rols	cpa	RhoGEF2	zye	ClC-a	Rho1	a	Psn	T48	Ca-alpha1D	Pde6	Np	dia	dyl	tyn	Ptp4E	hbs	dome	Sln	Zip42C.2	Syt4	btsz	Amnionless	Mcr	scaf	ZnT63C	Cad74A	ZnT35C	sosie	par-6	Inx2	sqh	sdt	apn	cac	sktl	chas	Schip1	dally	CG4230	scb	Cln3	Mer	arm	sas	crb	mira	Moe	Shrm	Fas2	uif	CG10939	kek1	CG6688	Zip42C.1	Patj	m	stau	kirre	pHCl-2	kst	mew	stan	Cad99C	Sec8	rst	Ser	alpha-Spec	mgl	Mvl	Zip89B	baz	aPKC
+catenin complex	alpha-Cat	CadN2	Apc2	shg	Apc	arm
+endocytic vesicle	Dl	Amnionless	Rabex-5	Past1	nuf	N	hh	apolpp	Rab5	jar	stnB	spri	CG42674	ptc	comm	stnA	arm
+beta-catenin-TCF complex	pan	lgs	pygo	arm
+transcription repressor complex	Nelf-A	ebi	asf1	NELF-B	Su(var)3-3	Nelf-E	nxf2	mip40	Nxt1	CG4744	aly	CoRest	Smr	TH1	mip130	nerfin-1	Sin3A	HDAC1	Su(H)	ttk	Panx
+eukaryotic translation initiation factor 2B complex	eIF2Bgamma	eIF2alpha	eIF2Bepsilon	eIF2Balpha	eIF2Bdelta	eIF2Bbeta
+recycling endosome	Rab9E	Sec5	Psn	ClC-c	AP-1gamma	Rab9Db	IPIP	Tsf1	Rab26	Arf6	Rab11	TBC1D23	asrij	RabX4	CG15399	Whamy	Rab8	wit	RabX1	scaf	Nhe3	Ocrl	Rab9D	Rab4	Rab9Fa	pen-2	Sec15	Rab9	Sbf	Fas3	Rab19	Crag	Rab9Fb	RabX2	shg	CG11178	Nct	Rab14	Vps52	CG3309	RhoGAP68F	Rab21	Rab32	Rab23	Evi5	Tsf3	aph-1	nwk	Tsf2	Rab10
+elongator holoenzyme complex	poly	Elp3	Elp2	CG3587	CG6907	Elp1	CG2034
+GPI-anchor transamidase complex	PIG-U	PIG-K	GAA1	PIG-S	PIG-T
+ecdysone receptor holocomplex	EcR	usp	Lpt
+activator ecdysone receptor complex	EcR	usp
+focal adhesion	Liprin-alpha	Zasp52	Fak	Pak	Lasp	if	Pax	parvin	Ilk	mys	Vinc	p130CAS	Lar	by	scb	rhea	ckn	Actn	CG30178	CG31988	kug	stck	Itgbn	mew	Zyx	CG34325	CG31624
+pleated septate junction	Nrg	Nrx-IV	moody	kune	Mdr65
+tRNA methyltransferase complex	CG4045	wuho
+PRC1 complex	corto	Samuel	Sce	Psc	ph-d	Scm	ph-p	l(3)73Ah	Su(z)2	z	Pc
+L-cysteine desulfurase complex	Nfs1	IscU	fh	bcn92
+actin cytoskeleton	CG30183	Myo10A	pigs	CalpA	Zasp52	ClC-a	Myo28B1	Myo31DF	osp	Tes	qua	Rok	parvin	sti	Vinc	d	tsr	CG3630	CG4230	ck	Svil	cher	Gel	Moe	Spn	didum	Unc-115b	jar	CG11436	CG2113	alpha-Cat	Unc-115a	fliI	Mlp60A	Mlp84B	Myo61F	sn	Myo95E	CG1674	CG6873
+sarcomere	sls	Arc1	Mhc	ball	CG3630	Tm1	Mhcl	CG2113	bt
+mitochondrial respiratory chain complex I	ND-49	CG11752	ND-MLRQ	ND-42	ND-MNLL	NP15.6	ND-30	ND-51L1	ND-49L	ND-15	ND-51	ND-SGDH	ND2	ND-B22	ND-B17	ND-MWFE	ND-39	ND4L	ND-13A	ND-24L	ND-B12	ND-AGGG	ND-13B	CG12464	ND1	ND-20L	ND-23	ND-B14	ND-B17.2	ND5	ND-B16.6	ND4	ND-ACP	ND-51L2	ND3	ND-24	ND-B14.5AL	ND-75	ND-19	CIA30	ND-B14.5A	ND-B15	ND-B8	ND-B14.5B	ND-B18	ND-B14.7	ND-ASHI	ND-PDSW	ND-18	CG11815	ND-20	CG40472
+mitochondrial matrix	dare	CG3626	P5CDh2	P32	TrpRS-m	CG31075	mtTFB1	Gdh	pn	Fdx2	CG14130	PCB	Trap1	SCOT	CG12375	Pdk	mTerf5	IscU	bb8	sra	mEFTs	mTTF	Sod2	Pdp	Lon	CG3107	Grx5	MetRS-m	slgA	Got1	Ak3	UQCR-C1	Gabat	Idh3b	Hsp60D	CG14740	Mdh2	CG11267	CG11837	Hsp60C	Oat	CG8043	Roe1	Alas	CG6661	P5CDh1	kdn	CG6638	CG9920	Suv3	mtTFB2	Mccc1	CG32281	Hsp60B	Sardh	CG7488	LeuRS-m	CG10748	Hmgcl	Hsp22	Echs1	Hsp60A	Aldh	Mccc2	Got2	CG9547	CG10749
+cytoplasmic side of apical plasma membrane	Stat92E	Rab35	l(2)gd1	kibra	Vinc	wkd	ex	baz	Mer
+intracellular anatomical structure	Drep1	Taldo	Rhau	Syn2	CG1983	pea	CG1582	CG8915	PDZ-GEF	Drep3	Mtl	Trim9	spn-E	Dhx15	Syn1	RhoU	Prp16	RhoGAP92B	mle	Drep2	bgcn	CG3225	CG7369	kz	CG4853	RhoL	CG34393	Epac	C3G	l(2)37Cb	RalGPS	Rgl	CG32533	ath	Parp16
+Prp19 complex	CG31368	CG12343	Cdc5	fand	Prp19	Bx42	BCAS2	Tango4	cyp33	CG14641	CG9667	crn
+nuclear speck	NiPp1	CG4021	Mettl3	Rsf1	ctrip	LS2	maca	CG31211	Slu7	x16	SC35	B52	mam	lark	snRNP-U1-70K	ttm2	U2af50	nsr	crn	Rbp1-like	srl	CG3927	sug	qkr58E-3	CG3335	SF2	mod	Rbp1
+U2-type catalytic step 2 spliceosome	CG4849	CG12343	fand	CG14641	crn
+precatalytic spliceosome	CG10466	CG7483	Spf30	CG42724	Sf3b6	Sf3b3	Prp19	rin	Sf3b1	mago	CG12343	Rm62	x16	snf	Zn72D	lark	CG5316	Moca-cyp	kin17	Mfap1	Prp4k	Acn	qkr58E-1	Prp3	U2A	sip1	CG4849	CG2021	fand	LSm3	SmD1	SNRPG	Srp54	Cdc27	Cdc2rk	CG31368	SmD3	hfp	CG9684	Cdc5	Cypl	l(1)10Bb	CG10418	CG17764	CG5641	Dhx15	U2af50	lost	CG15747	Sf3a1	CG3225	Rbp1-like	crn	CG4119	Smu1	Prp40	nonA	SmF	ymp	Cbp20	Tango4	CG2685	exu	Prp31	Brr2	abs	CG2931	ytr	Bin1	CG4291	PQBP1	CG6209	Pabp2	Ref1	CG6686	CG1677	BCAS2	B52	cyp33	hoip	c12.1	snRNP-U1-70K	CG30122	U4-U6-60K	Srrm234	aub	CG10333	SF1	CG9667	CG17187	CG7564	Hsc70-4	SF2	CG10907	l(2)37Cb	Spf45	CG11808	Usp39	sqd	CG5808	pAbp	CG1965	Spx	SmD2	beag	Cbp80	Prp6	CG14641	yps	Bug22	LSm7	Pnn	Pep	Prp8	tbrd-1	Dim1	SmB	Syp	Sf3b5	REG	pea	CG6015	Imp	noi	SmE	U2af38	CG3436	tra2	Prp38	Phf5a	nito	CG4935	CG8833	Sf3b2	Bx42	CG17266	CG4887	Caper	Neos	Sf3a2	CG1622	Srrm1	Ars2
+catalytic step 2 spliceosome	CG10466	CG7483	CG42724	Sf3b6	Sf3b3	CG6179	CG11777	Prp19	rin	Sf3b1	mago	CG12343	Rm62	x16	snf	Zn72D	lark	Moca-cyp	Mfap1	Prp4k	Acn	qkr58E-1	U2A	sip1	CG4849	fand	LSm3	FRG1	tsu	SmD1	SNRPG	Srp54	cactin	Cdc2rk	CG31368	CG7102	SmD3	hfp	CG9684	Cdc5	Cypl	CG13625	l(1)10Bb	CG10418	CG17764	CG5641	Dhx15	CG6066	CG4622	ncm	CG15747	lost	Sf3a1	CG3225	crn	Mtr4	Smu1	nonA	CG16865	SmF	ymp	Es2	Cbp20	Tango4	CG2685	Brr2	abs	CG2931	Bin1	PQBP1	CG6209	Pabp2	Ref1	CG1677	BCAS2	B52	cyp33	c12.1	snRNP-U1-70K	U4-U6-60K	Srrm234	aub	CG10333	CG9667	Hsc70-4	SF2	CG10907	l(2)37Cb	CG11808	sqd	CG5808	pAbp	CG1965	SmD2	beag	Cbp80	Prp6	CG14641	yps	Bug22	LSm7	Pnn	Pep	Prp8	SmB	REG	pea	CG6015	CG7747	Imp	noi	SmE	CG3436	Prp38	Phf5a	CG4935	CG8833	Sf3b2	Bx42	Caper	CG3511	CG5877	caz	Sf3a2	Srrm1	Ars2
+post-mRNA release spliceosomal complex	CG12343	CG9213	CG15525	fand	rump	crn	CG15084	CG9667	CG7741
+striated muscle dense body	CG4928	FRG1	CG2121	CG3078
+Rab-protein geranylgeranyltransferase complex	Rep	temp	RabGGTa	RabGGTb
+t-UTP complex	l(3)72Dn	l(2)k09022	CG3071
+endoplasmic reticulum chaperone complex	CG2918	Hsc70-3
+exocytic vesicle	PsGEF	Sytalpha	Syt1	Syt7	Syt12	Sytbeta	Syt4
+mitochondrial small ribosomal subunit	mRpS11	mRpL12	mRpL42	mRpS10	tko	mRpS14	mRpS26	mRpS23	bonsai	mRpL3	mRpS7	mRpS6	mRpS16	mRpS30	mRpS18C	mRpS21	mRpS34	mRpS2	mRpS9	mRpS18B	mRpS33	mRpS24	cav	mRpS18A	mRpS17	mRpS22	mRpS35	mRpS28	mRpS25	mRpS31	mRpS29	mRpS5
+cell surface	CG10339	Sdc	Psn	Gli	Alp10	jeb	dlp	Nlg4	Wnt4	sli	lectin-46Ca	Nlg2	Cals	mys	Kal1	wg	Mco1	dally	Lar	Tl	Alp2	verm	Alp8	Dl	Ptp69D	Alp9	Hsp83	ATP6AP2	Alp6	foi	wgn	GNBP-like3	Alp5	fs(1)M3	Tmx3	boi	Nlg3	serp	Ret	Alp4	phu	Alp11	Con	GNBP3	Alp7	wry	Itgbn	Dtg	CG31609	fs(1)N	N	Alp1	Nlg1	ihog	eater	slow	ed	Ser	Hmu	Alp12	plx	CG12780	eys
+cytoneme	Nrg	dpp	Egfr	btl	ihog	disp	tkv	boi	dia	bnl	dlp	caps
+neuron projection	Ir75a	unc-13	Lcch3	Gld2	DIP-beta	Gat	nAChRalpha5	Fbxl4	Sarm	CaMKII	fipi	SerT	tau	AstC-R2	pHCl-2	sn	DIP-theta	orb2	CG13795	DIP-lambda	nAChRalpha1	AstA-R1	CG33543	NtR	PICK1	nAChRbeta1	CG32318	CG33296	Pdfr	DIP-kappa	SK	SecCl	nAChRalpha6	Ir75c	DIP-alpha	CG31904	nAChRalpha7	Ca-alpha1T	RIC-3	DIP-epsilon	CG8916	Pdf	GluClalpha	nAChRbeta2	nAChRalpha2	Nab2	Cyfip	DIP-eta	ort	DIP-gamma	Grd	DIP-zeta	AstC-R1	DAT	Eph	Lis-1	slo	Rdl	Fas2	DIP-iota	Fmr1	amon	Cbp53E	HisCl1	nAChRalpha4	nAChRbeta3	orb	Lac	Pka-C1	Rh7	nAChRalpha3	CG13794	ChAT	CG12344	Eaat1	psidin	CG13793	pHCl-1	Ir64a	Kif3C	Ank	dlg1	stai	Nmdar1	Trh	CG6927	chic	CG13796	Dscam1	DIP-delta
+proton-transporting V-type ATPase complex	Vha36-3	VhaPPA1-2	Vha14-2	Vha36-1	Vha68-1	Vha36-2	VhaAC39-2	Vha68-3
+aster	Rep	DCTN1-p150	mira	Klp3A	Klp61F
+microtubule associated complex	Klp67A	Dhc64C	asp	Klp3A	Eb1	CLIP-190	sub	futsch	Lis-1	DCTN1-p150	unc-104	jar	Klp61F	Jupiter	Map205	cos	CG9279	Klp68D	chb	Drp1
+midbody	shrb	nesd	CG5270	Arl8	JTBR	cindr	ALiX	Klp3A	sqh	Patronin	aurB	Noa36	CG15602	pav	nuf	Nek2	sip2	DCTN1-p150	Sumo	Synd	Map205	Mtor	polo	toc	Cip4	Cam	Incenp	tum
+eukaryotic translation initiation factor 3 complex	eIF3i	eIF3f2	pix	eIF3d2	eIF3g2	eIF3k	eIF3d1	eIF3h	eIF3b	eIF3e	eIF3f1	eIF3j	eIF3m	eIF3a	eIF3l	eIF3c	eIF3g1
+lipid droplet	CG15629	Sccpdh1	Hsl	Jabba	Seipin	LPCAT	firl	CG13833	CG9265	Sccpdh2	klar	bmm	halo	Lsd-2	CG17121	puml	Ldsdh1	CG14717	sturkopf	Lsd-1	dob
+centrosome	DCTN2-p50	Grip128	Girdin	Rab11	wake	Neurl4	Map60	asl	CycB3	poe	DCTN1-p150	CG10834	Cp190	niki	Cnb	del	ana2	toc	Mzt1	ssp2	CG42699	CG3437	hook	corto	mats	Sgt1	Sas-4	Grip75	Klp10A	CG7886	Fign	asp	TBCB	CG31802	CG17493	t-Grip91	cdc14	CG10874	Bub1	CG13251	Lk6	nudE	fzr	Grip91	CG31275	cnn	Rad51D	Grip163	Dlic	Oseg5	spas	Cep135	Gorab	Cam	fzy	IFT20	Klp59D	SAK	gammaTub37C	BBS1	Sas-6	Chro	nmdyn-D7	Kat60	ana3	JTBR	Xrcc2	Patronin	CG15564	CG16896	CG15602	Lis-1	Nek2	Hsp83	CG10822	spd-2	CycB	robl	CG45105	mud	tacc	aurA	CG5614	chb	robl62A	p120ctn	CG16837	IFT54	polo	Grip84	sstn	CG5270	t-Grip84	Nin	t-Grip128	14-3-3epsilon	IFT46	Cen	ALiX	Klp59C	gammaTub23C	Mps1	robl37BC	Pp4-19C	nuf	sced	mira	msps	robl22E	sgg	Klp61F	robls54B	CycJ	CycE	alphaTub84B	Cep290	Cluap1	ncd	IFT57
+neuromuscular junction	Pdk1	pod1	Syt1	Sdc	Psn	CASK	GluRIIA	Syx18	Prosap	Tomosyn	Exn	dlp	Syt4	Nrx-1	Nmnat	gb	Nlg2	dl	unc-13	Grip	nos	Ten-a	Lrrk	scrib	beta-Spec	Ank2	Smn	Dg	cac	par-1	Eaat1	wls	Vmat	ringer	Abp1	cpx	rl	GluRIIB	Syngr	futsch	Fas3	Ten-m	brp	Fas2	RhoGAP92B	wnd	bchs	dlg1	sgg	shv	Neto	stai	Snx16	pum	Con	spas	Nlg1	cact	eIF4E1	Fsn	cup	alpha-Spec	sky	Cip4	nwk	GluRIIC	S6kII	WASp
+female germline ring canal	mino	pav	cher	nesd	sosie	Cul3	kel	sgg	vsg
+fusome	shrb	nesd	Fer1HCH	Tsp42Ee	Surf4	Rab11	l(1)G0320	TER94	Cdk1	Dhc64C	tral	Sec63	Calr	bam	cindr	cora	scrib	par-1	Cp1	beta-Spec	CLIP-190	Vha16-1	ptc	CtsF	hts	Mer	Rtnl1	Moe	Sec61alpha	Ank	shot	sgg	Klp61F	CycA	mino	chb	alpha-Spec	Sap-r	tmod	Pdi
+Swr1 complex	CG2652	rept	CG31917	pont	Arp6	dom	DMAP1
+NuA4 histone acetyltransferase complex	CG2652	Bap55	MrgBP	rept	Brd8	Eaf6	Act87E	msl-3	pont	Nipped-A	MRG15	Gas41	Ing3	E(Pc)	YL-1	dom	Tip60	DMAP1
+cell body	CCDC151	Pka-C1	Tob	Ir75a	Efa6	dco	trc	Lrrk	Cpn	per	fry	orb2	Gr33a
+Golgi medial cisterna	Gos28	Mgat2	senju	CG14511	Glg1	CG8708	FucTA	Mgat1	frc	CG8841	fng	Ugalt
+integral component of Golgi membrane	senju	CG7011	Fur1	rho-4	meigo	Qsox3	Sys1	CG14511	Qsox1	ru	Vti1a	heix	stet	SMSr	Fur2	Unc50	Yif1	CG3500	Qsox2	Bet1	fng	rho	Ugalt	Papst2	CG32069	Efr	Qsox4	pip	CG5021
+spliceosomal complex	cactin	SmF	SmD2	Prp19	Cbp20	CG2685	Gem2	Hel25E	Prp31	Brr2	CG10324	abs	Prp5	Dim1	SmB	nonA-l	CG7974	pea	Cdc5	CG6015	Slu7	CG6610	snf	noi	SmE	snRNP-U1-70K	U2af38	l(1)10Bb	tra2	CG10418	CG9344	Dhx15	Bx42	CG11586	Prp16	Prp18	Prp3	U2af50	ncm	sip1	CG11839	SF1	CG3294	CG11964	l(2)37Cb	SmD1	SNRPG
+Yb body	SoYb	vret	shu	fs(1)Yb	armi	piwi	BoYb
+nuclear envelope	Uggt	Dsor1	Rae1	Nemp	Fs(2)Ket	yuri	Rab11	sbr	Lam	ord	baf	LamC	bocks	Ankle2	mbo	Nup153	Mad1	msk	ssp	btz	gcl	wash	Pdi	Ipo9	Lk6	PolA2	klar	CG4880	Erk7	nudE	Lis-1	Impbeta11	Nup62	Nxt1	Sce	Nup214	CG14006	Nup58	Cse1	CG7655	Nup107	yrt	Mtor	pum	Patj	Msp300	Dlic	gwl	koi	LBR	polo	mad2	Dd	Torsin	spag4	Nup154	fs(1)Ya	Nup44A	Parp16
+nuclear lamina	LamC	Haspin	Ski6	Dis3	Su(var)2-10	Rrp6	Rrp42	Rrp4	Lam	fs(1)Ya	Topors	Mtor
+synaptonemal complex	nenya	corolla	solo	vilya	narya	vtd	cona	c(2)M	c(3)G
+central element	vilya
+chromosome	CG14667	CG10431	Parp	stg	wde	Fign	mei-S332	msl-1	14-3-3epsilon	Kat60	tbrd-1	tbrd-3	Su(var)205	His2Av	ZIPIC	Blm	SMC1	CG1647	Top3alpha	Top2	glu	tbrd-2	mle	Pof	spas	nenya	vilya	narya	CG8089	pch2	RecQ4	pip	Incenp	RecQ5
+recombination nodule	vilya
+site of double-strand break	rad50	mre11	His2Av	CG6171	RPA3	vilya	narya	RPA2	PolH	CG5543	Hus1-like
+TIM23 mitochondrial import inner membrane translocase complex	Tim17a2	Tim17b2	Tim23	CG7394	Tim17b	CG1724	Tim17a1	CG7382	Tim9b	ttm3	ttm50	ttm2	CG11779	Tim9a	CG1409	blp	CG31229	Tim17b1	CG6878
+cytoplasmic vesicle	Leash	Graf	Hakai	Rho1	hiw	Rich	RhoBTB	Rac1	stnB	Rab11	asrij	mag	Chc	PGRP-LC	Rac2	Rab30	ninaE	shi	Flo2	l(3)76BDm	Pld	Slc45-1	Sec15	TM9SF4	Dl	spdo	Crag	hh	milt	Rab6	cm	Flo1	alphaSnap	N	TM9SF2	HPS4	w	yl	ninaA	snsl	Desat1	wus	vsg	yki	AP-2mu	CG7565	AP-1mu	snu
+pigment granule	w
+integral component of pigment granule membrane	w	st
+cell-cell junction	rols	nullo	otk2	ex	CG45263	CadN	Abl	hbs	sns	hpo	wts	plum	sqh	Csk	Fbxl7	sav	fred	Mer	Fas3	kibra	veli	otk	tei	stck	kirre	stan	rst	ed	Zyx	nrm	ena
+nephrocyte diaphragm	sns	Mec2	kirre	pyd
+protein-containing complex	drk	gro	Liprin-alpha	mim	al	Rich	thoc5	Lrt	hfp	C15	dia	bru3	row	Liprin-gamma	HIP-R	MCTS1	wac	Cortactin	Myc	ash1	Liprin-beta	bur	Abi	Sxl	ci	Su(fu)	Apc2	snf	nej	HP1c	glo	dgt2	papi	fu	corn	mei-9	TppII	Prp38	kud	Tl	thoc7	HIP	WASp	woc	Mfap1	Trl	hdm	Hsp83	APP-BP1	Hpr1	Usp7	tgo	Tsp	CheB42a	jar	Rab3GAP1	piwi	Nup44A	orb2	robo1	Ack	Adh	Uba3	N	GlyP	spz	Ercc1	ppk25	dysf	mus312	mod	mio	Su(H)	Hrb27C	DENR	BI-1
+CSL-Notch-Mastermind transcription factor complex	Su(H)	mam	N
+adhesive extracellular matrix	Eig71Ee	Sgs3	Sgs5bis	Sgs4	Sgs5	Sgs7	Sgs1	Sgs8
+histone locus body	Myc	Sym	Parp	snRNA:U7	coil	FLASH	Spt6	Lsm11	Lsm10	mute	mxc
+mitochondrial outer membrane	CG17139	porin	CG8004	CG11498	CG16781	Marf	Debcl	CG5662	CG9855	zuc	Baldspot	Cisd2	CG10761	Slc25A46b	CG9393	cn	Spag1	Porin2	mino	Buffy	rpr	CG17140	spoon	Mgstl	BNIP3	CG17991	Slc25A46a	Tspo
+TIM22 mitochondrial import inner membrane insertion complex	CG14270	CG31229
+microtubule	betaTub60D	kat-60L1	pigs	nod	Klp59D	CG17003	gammaTub37C	Klp67A	awd	Klp10A	CG7794	cana	CG32318	betaTub97EF	Atat	alphaTub67C	Klp59C	Klp98A	Eb1	sub	gammaTub23C	Khc	CG15564	Klp64D	CG13251	betaTub56D	atl	ringer	betaTub85D	Lk6	futsch	neb	pav	Tao	sip2	Rtnl1	unc-104	Kif3C	CG11584	Efhc1.1	shot	Klp61F	Jupiter	betaTub65B	cos	CG14535	alphaTub84B	cmet	Efhc1.2	Klp68D	alphaTub84D	Klp31E	Kif19A	Gas8	Spindly	alphaTub85E	ncd	polo
+motile cilium	IFT46	lobo	CCDC151	CG5614	btv	HEATR2	CG7352	Gas8	CG3339	kl-2	CG13972	CG17118	Bug22	tilB	dj
+neuron projection membrane	dpr8	dpr10	dpr5	dpr19	DIP-gamma	dpr17	dpr1	dpr4	dpr20	dpr9	dpr15	dpr13	DIP-alpha	dpr12	Rdl	dpr7	dpr6	dpr3	dpr18	dpr2	dpr14	dpr11
+Noc4p-Nop14p complex	l(3)07882	CG2875
+small-subunit processome	CG5728	Fib	CG17652	wcd	Sas10	CG13097	CG7275	CG12301	CG4554	U3-55K	CG12325	CG2260	CG3527	nop5	l(2)k09022	l(2)34Fd	CG11030	CG8064	CG1789	Mat89Ba	RpS7	l(3)07882	CG3735	CG10909	CG9799	CG1671	dbe	Nop56	Bka	CG4866	CG2875	l(3)72Dn	CG7246	CG11920
+phagocytic vesicle membrane	yin
+vacuolar proton-transporting V-type ATPase, V0 domain	Vha100-1	VhaPPA1-1	VhaM9.7-d	Vha100-4	VhaPPA1-2	VhaM9.7-c	VhaM9.7-a	Vha100-3	Vha16-3	Vha16-4	Vha16-5	Vha16-1	Vha100-5	VhaM9.7-b	VhaAC39-1	Vha16-2	Vha100-2
+vacuolar proton-transporting V-type ATPase complex	VhaAC45	Vha100-1	Vha100-4	Vha100-3	ATP6AP2	Vha13	Vha100-5	VhaAC39-2	VhaAC39-1	Vha100-2
+plasma membrane proton-transporting V-type ATPase complex	VhaM9.7-d	Vha14-1	VhaAC45RP	Vha100-2	Vha55	CG5421	Vha68-2	Vha16-1	VhaM9.7-b	VhaAC39-1	VhaAC45	VhaPPA1-1	VhaM9.7-c	Vha36-1	Vha26	Vha13	VhaSFD	VhaM9.7-a	VhaAC39-2
+SMN complex	Gem4c	Gem3	rig	Gem4b	Smn	Gem2	Glos
+Golgi cis cisterna	opm	GM130	CG9590	Papst2	Glg1	Gmap	sfl	lva	garz	Tango1
+nucleotide-excision repair factor 1 complex	mei-9	Xpac	Ercc1
+Golgi stack	Sec23	Pgant4	rod	Pgant2	p115	GM130	Mgat4a	Lrrk	CG31495	Sec31	Pgant3	Pgant6	Zw10	Pgant35A	Pgant5	Pgant1	Pgant8	Arf1	Gmap	alpha-Man-IIa	Grasp65	brn	fng	comt	g	beta'COP	aux	Pgant7	ArfGAP1	Nsf2
+histone acetyltransferase complex	rept	Sbf	Taf10	msl-3	Nipped-A	nej	Gas41	Ada3	CG10931	Ing3	Spt3	trx	E(Pc)	MRG15	dom	Tip60
+growth cone	gogo	pod1	Cdc42	Lis-1	gek	trio	Psn	Fas2	chb	shot	jar	Cdk5alpha	Abp1
+leading edge membrane	dlg1	Fas2	l(2)gl
+presynaptic periactive zone	LanA	Fas2	Ank2
+presynaptic membrane	Fife	l(2)gl	Exn	gukh	SH3PX1	unc-13	Ten-a	mys	Ank2	spartin	wls	fusl	DAT	brp	Fas2	lqf	dlg1	Dap160	Lapsyn
+cell projection	Rac2	Rho1	Fas2	RhoBTB	Rac1	Pten	sigmar
+type I terminal bouton	Atg8a	Synj	Pldn	EndoA	Lrrk	par-1	Fas2	kek6	CASK	dlg1	cpx	Nrx-1
+muscle cell postsynaptic specialization	GluRIIB	GluRIIE	eIF4E1	par-6	Fas2	GluRIIA	Pak	GluRIIC	Neto	RtGEF	GluRIID	Magi	pum
+inaD signaling complex	inaC	trp	inaD	Galphaq	inaF-B	Fkbp59	trpl	ninaC	ninaE	norpA
+AP-3 adaptor complex	cm	g	or	rb
+NELF complex	TH1	Nelf-A	NELF-B	CG3546	Nelf-E	Usp10
+cell cortex	DCTN2-p50	CD98hc	Rho1	chico	Psn	l(2)gl	igl	Slik	pros	Chc	capu	Shark	par-6	par-1	cv-c	sktl	corn	gcl	Cbl	ck	slpr	Sbf	Su(dx)	borr	spri	toc	alpha-Spec	pon	orb2	tmod	Lnk	Tre1	Myo31DF	Dhc64C	TBCB	Rab7	numb	sqh	msk	Rab5	sbm	Mer	cnk	Moe	fry	jar	Lrch	stau	Fsn	Lkb1	mtm	Axs	RhoBTB	Abl	trc	SH3PX1	Kat60	scrib	Apc2	Hil	Lis-1	msn	Akt	Spec2	cno	Galphai	pbl	Dys	mud	drongo	Dok	pins	Ehbp1	AnxB9	orb	Sec5	Rac1	dia	Syx18	Rok	Rac2	zip	gus	sha	Abp1	Ran	mira	shg	spir	Pez	dlg1	Clc	Cdc42	insc	Myo61F	chic	ed	osk	step	baz	aPKC
+basal part of cell	mol	RhoGEF2	Tao	Zasp52	numb	Abi	mira	apolpp	Apoltp	Mco1	pon	SCAR	jar	Rab10
+centriole	twy	SAK	Sas-4	Sas-6	Rcd4	Hyls1	nompB	CG31802	CG17493	ana3	Cp110	mts	ana1	asl	ctp	Sdb	fzr	unc	spd-2	Cby	Grip71	Pp2A-29B	Cnb	Cep89	CG7131	ana2	cnn	CG45105	IFT52	Plp	Cep135	CG42699	Gorab	Cam	polo
+cytoplasmic dynein complex	Cdlc2	sw	SdicC	Sdic2	Dhc64C	CG13074	SdicA	Sdic4	robl37BC	ctp	CG31275	CG10822	SdicB	robl22E	CG10834	Dlc90F	Sdic3	robls54B	robl	Dlic	CG3769	btv	robl62A	CG16837	Sdic1
+dynein complex	Cdlc2	Dhc36C	Dhc98D	CG7276	Dhc64C	Dhc16F	kl-2	robl37BC	ctp	Lis-1	Dnah3	robl22E	Dlc90F	CG3339	kl-3	CG5359	Dlic	btv	Dhc62B	robl62A	CG8407
+mitochondrial pyruvate dehydrogenase complex	CG7024	muc	Pdha	Pdhb
+Sin3 complex	HDAC1	CG44774
+proteasome regulatory particle, lid subcomplex	Rpn7	Rpn5	Rpn9	Rpn3	Sem1	Rpn6	Rpn13R	Rpn11	Rpn12R	Rpn12	Rpn13	Rpn8
+small nuclear ribonucleoprotein complex	SmF	SmD2	SmD3	Sf3b3	CG31922	Brr2	wcd	CG4291	Prp8	Dim1	SmB	obe	snf	hoip	SmE	CG10418	CG17764	U4-U6-60K	CG9344	snRNP-U1-C	U2A	pps	CG4849	CG2021	SmD1	SNRPG	CG12320
+transcription factor TFIIH holo complex	Tfb5	Cdk7	Tfb1	Mat1	Xpd	mrn	CycH	Ssl1	hay	Tfb4
+carboxy-terminal domain protein kinase complex	Cdk7	CycH	Mat1
+transcription factor TFIIK complex	Cdk7	CycH
+U1 snRNP	SmF	SmD2	SmD3	CG3198	SmB	snRNA:U1:95Cb	Prp39	snf	snRNA:U1:95Ca	SmE	Rox8	snRNP-U1-70K	snRNA:U1:95Cc	snRNP-U1-C	SmD1	CG7564	Prp40	snRNA:U1:21D	snRNA:U1:82Eb	SNRPG
+U2 snRNP	CG10466	Spx	snRNA:U2:14B	SmD2	Sf3b6	SmD3	Sf3b3	snRNA:U2:38ABb	barc	Sf3b1	Sf3b5	SmB	snf	noi	SmE	snRNA:U2:34ABc	Phf5a	snRNA:U2:34ABa	Sf3b2	U2A	Sf3a1	snRNA:U2:34ABb	Sf3a2	snRNA:U2:38ABa	SmD1	SNRPG
+Y chromosome	TrxT
+ASAP complex	RnpS1	Rnp4F	CG34334
+myosin II complex	Mlc-c	seq	zip	sqh
+myosin V complex	didum	Mlc-c	Cam
+myosin VI complex	Mlc-c	Acam	jar	Cam
+myosin VII complex	Mlc-c	ck
+ribonuclease MRP complex	Rpp20	Pop5	Rpp25	Pop1	Rpp30	Pop4
+nucleolar ribonuclease P complex	Rpp21	Rpp20	Pop5	Pop1	Rpp30	Pop4
+multimeric ribonuclease P complex	Rpp21	Rpp20	Rpp14a	Pop5	Rpp25	Pop1	Rpp30	Rpp14b	Pop4
+integrator complex	IntS11	IntS1	defl	IntS14	IntS9	omd	asun	IntS12	IntS8	IntS2	IntS10	IntS6	IntS3	IntS4
+DRM complex	lin-52	wuc
+axonemal microtubule	CG7131	CG42699	Sdb	Ttc30
+chitin-based extracellular matrix	Cpr47Ee	CG34462	Cpr23B	Cpr49Aa	Cpr47Ea	Cpr47Eb	Cpr65Eb	Lcp65Ag3	Cpr49Ag	Peritrophin-15b	Cpr78Cb	Ccp84Aa	Cpr65Az	CG34461	Lcp2	CG32564	Peritrophin-15a	Pcp	Cpr49Ab	Lcp9	Cpr62Ba	Cpr49Ac	Lcp65Ab1	Cpr51A	Cpr47Eg	Cpr64Ad	Cpr72Eb	Cpr67Fb	Cpr92F	Ccp84Ab	Cpr66Cb	Cpr49Ae	obst-J	Lcp65Ae	Ccp84Ac	Vajk3	Cpr49Ad	Cpr47Ec	Cpr78E	Vajk2	Cpr92A	Eig71Ee	Cpr76Bb	Cpr97Eb	obst-I	Cpr11A	Cpr62Bc	Cpr5C	Cpr97Ea	Cpr65Ay	Ccp84Af	Cpr47Ed	Cpr65Ea	Cpr62Bb	Cpr73D	Ccp84Ad	Cpr64Ab	Cpr57A	Lcp4	Cpr56F	Vajk1	Cpr31A	Cpr72Ea	TwdlJ	Lcp65Ag1	Cpr65Ec	verm	Cpr49Af	Lcp65Ac	Cpr76Bd	Cpr78Ca	obst-F	serp	CG13670	Ccp84Ag	Lcp65Ab2	l(3)mbn	Cpr76Bc	dsx-c73A	obst-E	Ccp84Ae	Cpr49Ah	Cpr65Av	Cpr64Aa	TwdlH	Cpr50Cb	Cpr12A	obst-H	knk	Cpr100A	Cpr67Fa1	Cpr66D	Lcp65Ag2	Edg84A	Cpr64Ac	Lcp3	TwdlF	Cpr78Cc	Lcp65Ad	Cpr50Ca	Cpr76Ba	Edg78E	Cpr65Aw	TwdlD	Gasp	Cpr35B	Lcp65Aa	Cpr47Ef	obst-A	Cpr72Ec	Cpr65Au	Cpr30B	resilin	obst-B	Cpr67B	CG2150	obst-G	Lcp1	Cpr11B	Cpr65Ax2	Vajk4	Cpr30F	Cpr67Fa2	Cpr60D	Acp65Aa	Lcp65Af
+proteasome core complex	Prosalpha3	Prosalpha4T1	Prosbeta2	Prosalpha5	Prosbeta1	Prosbeta6	Prosbeta4	Prosbeta3	Prosalpha4	Prosalpha6T	Prosbeta7	Prosalpha3T	Prosbeta5	Prosbeta2R1	Prosalpha6	Prosalpha2	yip3	Prosbeta5R1	Prosbeta4R1	Prosbeta4R2	Prosalpha1	Prosbeta2R2	Prosalpha7	Prosbeta5R2	Prosalpha4T2
+proteasome core complex, beta-subunit complex	Prosbeta7	Prosbeta5R1	Prosbeta5	Prosbeta4R1	Prosbeta4R2	Prosbeta2R2	Prosbeta1	Prosbeta2	Prosbeta5R2	Prosbeta2R1	Prosbeta4	Prosbeta6	Prosbeta3
+X chromosome	msl-2	lncRNA:roX1	msl-3	mle	mof	msl-1	lncRNA:roX2
+X chromosome located dosage compensation complex, transcription activating	msl-2	lncRNA:roX1	msl-3	mle	mof	msl-1	lncRNA:roX2	JIL-1
+NSL complex	dgt1	MBD-R2	wds	Rcd5	Rcd1	nsl1	mof
+MSL complex	CG12316	msl-2	CG1894	lncRNA:roX1	msl-3	mle	mof	msl-1	lncRNA:roX2
+Ino80 complex	rept	CG18004	Act5C	CG10395	CG11970	Ino80	pont	Rcd5	CG32202	Arp5	pho	CG12659	Arp8
+brahma complex	Bap55	Act5C	Bap170	Act42A	mor	pont	brm	Bap60	Bap111	osa	polybromo	Snr1
+photoreceptor inner segment	CG5921	dysc
+stereocilia ankle link complex	CG5921	dysc
+photoreceptor connecting cilium	crb	CG5921	dysc
+stereocilium tip	CG5921	dysc
+TORC1 complex	Tti1	raptor	Lst8	Mipp2	Tor
+extracellular exosome	Argp	Nagk	CG3534	sona	CG6888	CG9451	CG6656	Acph-1	CG9452	CG3544	CG12896	Mipp2	CG9449	wls	Trap1	Mipp1	Galk	CG10353
+voltage-gated sodium channel complex	Ca-alpha1T	para	NaCP60E
+voltage-gated calcium channel complex	stol	CG16868	Ca-alpha1D	cac	Ca-Ma2d	Ca-alpha1T	Ca-beta
+extrinsic component of membrane	Atg18b	Pldn	CG11975	dah	ImpE2	Vps13B	FER	ImpE3	Atg2	Vps13	Atg18a	Vps13D	Atg13	Atg17	ImpE1	Rop	Lrr47	vanin-like
+cleavage furrow	Sgt1	vib	sstn	Amph	dia	Rab11	Arf6	Rab1	Slik	sau	zip	cindr	slam	Cen	Apc2	sqh	Tl	Hil	CG15602	Sry-alpha	pav	nuf	Arf1	Moe	Synd	Arl4	pbl	Lrch	scra	Spt	Cip4	step	pnut
+female germline ring canal inner rim	cher	sqh	Lpin	kel	hts
+apical cortex	RhoGEF2	PIP82	Fim	Rho1	aPKC	Abl	pros	Rok	loco	zip	cindr	jub	brat	par-6	Apc2	sqh	sdt	RhoGEF64C	app	ck	Dl	Arpc2	Crag	nuf	cher	mira	Spn	Galphai	dlg1	raskol	CG6398	sano	Grasp65	Dap160	dsh	Patj	Mbs	mud	conu	stau	Gint3	pins	dunk	mib1	insc	Ser	Traf4	Pkn	Dlish
+apicomedial cortex	Rok	wts	zip	kibra	sqh	sav	hpo	Mer
+cellularization cleavage furrow invagination front	slam	dunk	sqh
+actomyosin contractile ring actin filament	sqh
+RAVE complex	Rbcn-3A	rogdi
+male germ cell nucleus	Phf7	Prosalpha6T	ord	Taf12L	Prosalpha3T	Rpt3	can	sa	nht	mia	CycA	wuho	Hira	Trf2
+female germ cell nucleus	mio	wuho	ord	Trf2
+proteasome regulatory particle	Rpn7	Rpn10	Rpn9	Rpt5	Rpn12	Rpn3	Uch-L5R	Rpn1	Rpn2	Rpt6	Rpn13	Rpn5	Rpt3	Rpt4	Rpn11	Rpn8	Rpt1	Uch-L5	Rpn6	Rpt2	Rpn12R
+proteasome regulatory particle, base subcomplex	Rpn10	Rpt4R	Rpt3	Rpt4	Rpt5	Rpt6R	Rpn1	Rpn2	Rpt6	Rpt3R	Rpt2	Rpt1
+cytosolic proteasome complex	Rpt4R	Rpt3	Rpt4	Rpt6R	Rpt6	Rpt3R
+mitochondrial ribonuclease P complex	mldr	scu	rswl
+Sin3-type complex	CG15356	Sap130	CG14220	Caf1-55	htk	Kdm5	CG3815	Brms1	Sin3A	CG7379	HDAC1
+mitochondrial envelope	Ptp61F	Mpcp2	Debcl	fzo	OXA1L	Marf	Tspo	Mpcp1
+intrinsic component of mitochondrial outer membrane	fzo	Marf
+actin filament	pod1	pigs	Fim	dia	Pak	qua	Cortactin	Tm2	capu	Apc2	CG3342	bnk	Abp1	hts	cher	Gel	Moe	Tm1	CG6891	Msp300	twf	Arp2
+kinesin complex	nod	Klp59D	Klp67A	Klp10A	CG32318	Pat1	Klp59C	Klp98A	sub	Khc	Klp64D	nudE	neb	pav	unc-104	Kif3C	CG10845	Klp61F	cos	CG14535	Klc	Klp68D	Klp31E	Kif19A	ncd
+anaphase-promoting complex	cort	shtd	APC10	fzr	CG31687	lmgA	Cdc16	CG15237	Cdc23	mr	fzr2	Cdc27	APC7	ida	fzy	CG14339	APC4
+cytoplasmic microtubule	pod1	pigs	CG18190	CG15306	Dhc64C	Kat60	Apc2	CG42399	Eb1	Tctp	Apc	CG11125	klar	Lis-1	CG32591	CG2955	CG32371	tau	Mst27D	chb	alphaTub85E
+Dbf4-dependent protein kinase complex	chif	CG5790	Cdc7
+U2-type prespliceosome	SmB	CG7564	Sf3a2	CG3198	CG5986	Prp40	LS2	Prp39	U2af50	snRNP-U1-70K	LSm7	Sf3a1	SNRPG	Sf3b1
+tricarboxylic acid cycle enzyme complex	Fum2	Fum1	Fum3	Fum4
+Nebenkern	ifc	sea	porin	Sprn	HtrA2	mil	vib	Rae1	Pink1	Mer
+PML body	CG14441	Daxx	brk
+cation channel complex	nompC	Pkd2	pyx	trp	Trpm	nan	iav	TrpA1	trpl	wtrw	unc80	Trpml	Trpgamma
+CCAAT-binding factor complex	Nf-YC	Nf-YB	Nf-YA
+anchored component of plasma membrane	twit	GNBP1	chp	bou	Tsf2	dlp
+gap junction	zpg	Inx6	Inx5	Inx3	Inx2	shakB	ogre	Inx7
+clathrin adaptor complex	cm
+cilium	TTLL4A	TTLL1A	Ir25a	CG42366	TTLL1B	BBS1	Orco	Arl6	Bug22	IFT20	TTLL4B	IFT46	CG31036	nompB	CG32318	CG42399	Ttc26	Klp64D	CG13251	TbCMF46	Snmp1	Ttc30	ptc	TMEM216	CG11760	Oseg2	ktub	TTLL6B	CG13999	BBS4	ATP8B	Kif3C	smo	unc-119	niki	BBS8	Oseg6	CG10137	nompC	Oseg5	IFT52	bug	TTLL5	Cluap1	IFT54	Or67d	IFT57	TTLL6A	Dlish
+autophagosome	DOR	Atg18a	Rab11	Atg3	Atg14	Atg8a	Atg8b	Vps16A	Atg5	Rack1	Synj	lqf	CG8155	Rab6	Rab32	Rab23	Aduk	ref(2)P	Sap-r	Syx17
+phagophore assembly site membrane	Atg18b	CG11975	Atg18a	Atg17	Atg5	Atg12
+Atg12-Atg5-Atg16 complex	Atg5	Atg16	Atg12
+HIR complex	Hira
+germinal vesicle	Hira	mh	yem	wcd	XNP	jnj
+preribosome, small subunit precursor	RIOK2	LTV1	RIOK1	CG3008	CG11123	Tsr1	Nnp-1	CG2972	bys	CG16753
+cell body membrane	snz
+dehydrodolichyl diphosphate synthase complex	Tango14	Dhdds
+ubiquitin ligase complex	SCCRO	SCCRO3	m-cup	FBXO11	phyl	CG17030	park	CG10862	ari-2	Ndfip	Ype	Ubr3	CG33144	Rchy1	lmgA	vih	Rnf11	Ubr1	Ube4B	Sce	Ubc84D	CG3473	sina	Ube4A	morgue	SCCRO4	mr	ari-1	Smurf	CG6966	Ubc10	CG12362
+secretory granule membrane	olf413	Snap24	Itpr	CG5235	Tbh
+polysome	CG5515	msi	PCID2	Rbp6	Upf2	mgr	Fmr1	Dp1	CG15676
+exon-exon junction complex	mago	CG2162	Upf2	ranshi	Pym	Srrm1	tsu
+outer dynein arm	Dhc1	CG8800	CG9313	CG10859	Dnai2	CG3339	kl-3	Dhc93AB	CG1571	CG15701
+MLL1 complex	CG33695	Rcd5	Max	CG1575
+axonemal dynein complex	CG30259	kl-5	Dic61B	CG10958	kl-3	robl	CG10510	CG13930
+axoneme	wam	CG4714	CG14367	BBS1	Dhc98D	dtr	Arl6	CG10958	TTLL3B	CG12395	CG16719	rempA	mlt	Rsph9	CG6652	kl-2	CG10510	Dnali1	Oseg2	dj	CG17687	pav	Efhc1.1	CG3339	CG17387	CG3769	Oseg4	Rsph4a	btv	Efhc1.2	CG30259	CG4712	CG14905	IFT54	Kap3	CG13693
+heteromeric SMAD protein complex	Mad	Med	Dad	Smox
+phenylalanine-tRNA ligase complex	alpha-PheRS	beta-PheRS
+heterotrimeric G-protein complex	Galphao	Ggamma1	CG17760	Galphaf	cta	Galphaq	Gbeta13F	Galphas	Gbeta5	Galphai	CG30054	Ggamma30A	Gbeta76C
+plasma membrane signaling receptor complex	Traf4	Traf-like	Traf6
+acetylcholine-gated channel complex	nAChRbeta2	nAChRalpha2	nAChRbeta1	nAChRalpha1	nAChRalpha3	nAChRalpha7	nAChRalpha6	nAChRalpha4	nAChRbeta3	nAChRalpha5
+transcription factor TFIID complex	Tfb5	Taf10	Saf6	Taf13	Taf1	wda	Taf12	Taf2	Gas41	Trf	Taf3	Taf8	Taf9	Taf12L	Taf4	nht	Taf11	mia	ear	caz	can	sa	Tbp	Taf6	Taf5	Taf10b	Taf7	Trf2
+filopodium	Nrg	Myo10A	Rab35	shg	shot	Dnali1	kra	Mipp1	wkd
+TRAMP complex	Trf4-1	Trf4-2
+lateral cell cortex	yki	Crag
+CAF-1 complex	Caf1-180	Caf1-55	Caf1-105
+subapical complex	Cad86C	crb	Sec5	Moe	par-6	sdt	Zyx	lft	veli	Patj	aPKC
+mitotic spindle midzone	Slik	sofe	Det	pav	polo	sip2	Moe	Klp67A	Incenp	feo
+preribosome, large subunit precursor	CG18178	Rbm13	l(2)k09848	CG13185	CG32075	CG8939	CG6724	Wdr37	CG32409	CG6712	eIF6	ppan	CG7006	RpLP0-like	CG5033	CG3817	Ip259	Nnp-1	CG6769	CG1542
+Pwp2p-containing subcomplex of 90S preribosome	CG12325	CG7246	CG9799	wcd	CG8064
+chromocenter	egg	HP5	Su(var)205	prod	HP1b	p53	msl-3	Lhr	Rif1	piwi	HP6	HP4
+nuclear periphery	xmas	LamC	Nup153	Rad60	CSN5	gcl	Pits	APC4	e(y)2	dgrn	lqf	Nup93-1	Nup107	Mtor	koi	CSN7	Nup154	CG1542	Ote
+chaperonin-containing T-complex	CCT2	CCT4	CCT7	CCT3	CCT5	CCT1	CCT8	CCT6
+phosphorylase kinase complex	CG7766	CG8475	PhKgamma
+trans-Golgi network	Golgin104	Fur1	CG15099	AP-1gamma	IPIP	Csas	TBC1D23	ATP7	Sys1	Chc	Gga	sau	CG13784	Rab30	CG5934	Lerp	CG4301	CG31729	ATP8A	Arl1	Rab9	CG9981	Fur2	Sec71	Arl5	Rab14	Vps52	Trs33	pigeon	Rab32	Pi4KIIalpha	AP-1-2beta	brun	CG7083	lqfR	Tsp68C	Arfip	CG10365	Gorab	ATP8B
+AP-1 adaptor complex	AP-1sigma	Afti	VAChT	AP-1gamma	AP-1mu
+clathrin-coated vesicle	Chc	Gga	CG18659	Sec5	AP-1-2beta	Hip1	Clc	Lerp	CG8176	Vti1a	dock	AP-1gamma	lap	stnB	CG4230	AP-1mu	Ack
+SWI/SNF complex	Bap55	CG4751	mor	CG6026	brm	Bap60	Bap111	osa	Snr1
+RSC-type complex	Bap55	e(y)3	Bap170	mor	brm	Bap60	Bap111	polybromo	Snr1
+nucleosome	His2B:CG33870	His2B:CG33910	His3:CG33854	His4:CG33893	His1:CG33807	His4:CG33885	His3:CG33860	His4:CG33871	His2B:CG33880	His1:CG33849	His2B:CG33882	His3.3B	Sos	His2B:CG33898	His2B:CG33888	His3:CG33809	His2A:CG33835	His4:CG33877	His1:CG33861	His2B:CG33896	His2A:CG33859	His2B:CG33868	His4:CG33879	His3:CG33845	His1:CG33831	D1	His4:CG33869	His3:CG33857	His2B:CG33906	His1:CG33852	His3:CG31613	His2A:CG33862	His2A:CG33853	His2A:CG33829	His3:CG33863	His4r	His2A:CG33826	His2B:CG33904	His3:CG33842	His2A:CG33856	His4:CG33881	His1:CG33843	enok	His1:CG33816	His2A:CG33847	His3:CG33851	His3.3A	His2A:CG33820	His4:CG33883	His1:CG33825	His1:CG33834	His4:CG33895	His1:CG33864	His2A:CG33832	His2A:CG33838	His3:CG33866	BigH1	His3:CG33815	His1:CG33837	His3:CG33824	His1:CG33810	Mt2	His2A:CG33823	His4:CG33875	His2B:CG33886	His3:CG33812	His1:CG33819	His2A:CG33841	His4:CG33901	His2B:CG17949	His2A:CG33808	His2B:CG33892	His3:CG33827	His2B:CG33876	His2B:CG33900	His1:CG33846	His1:CG33822	His2B:CG33872	His2B:CG33884	His3:CG33836	His4:CG33907	His3:CG33803	His4:CG33891	His2A:CG33865	His2B:CG33890	His2B:CG33894	His4:CG33897	His3:CG33830	His1:CG33828	His4:CG33889	His3:CG33848	His4:CG33887	His2B:CG33902	His1:CG31617	His2A:CG31618	His3:CG33839	His4:CG33909	His1:CG33840	His2A:CG33814	His1:CG33804	His2Av	His4:CG33873	His4:CG33905	cid	His3:CG33821	His2A:CG33844	His3:CG33806	His1:CG33801	His2A:CG33850	His1:CG33813	His2B:CG33878	His1:CG33855	His4:CG33903	His1:CG33858	His2A:CG33817	His2B:CG33908	His3:CG33818	His3:CG33833	His4:CG31611	His4:CG33899	His2B:CG33874
+oligosaccharyltransferase complex	Stt3A	OstDelta	CG33303	CG9662	Stt3B	CG33774	Dad1	Ostgamma	Ost48
+receptor complex	drl	Alk	wit	Egfr	btl	Ir76b	Ir76a	InR	CG3277	Eph	Tie	Ror	tkv	Ir8a	Ret	tor	babo	dnt	sev	htl	Ktl	Cad96Ca	Drl-2	Nrk	Ddr	Pvr	Ir84a	mgl	loaf
+sensory dendrite	Sac1	Ir75a	stum	Ir64a	ATP8B	me31B	Ir25a	Or22a	DCX-EMAP	Ir8a	Girdin	Ir76a	Ir76b	Ir84a	Or67d
+condensed chromosome	rad50	Dsor1	Su(var)205	SMC2	Cap-D2	Top2	glu	Rcc1	CG6664	Cp190	Su(var)2-HP2	Cap-G	barr	Incenp	Fancd2	Cdc27
+Set1C/COMPASS complex	CG33060	Wdr82	Dpy-30L2	wds	Set1	Hcf	CG3515	CG14282	Rbbp5	Cfp1	Dpy-30L1	ash2	CG17440	CG3347
+spindle pole	Grip84	mars	SAK	Grip75	SA	Klp10A	t-Grip84	Grip128	t-Grip128	asp	Rep	t-Grip91	Apc2	cdc14	CG6664	sub	Aladin	Wdr62	CG15564	Lis-1	Grip91	DCTN1-p150	msps	Grip71	CG9279	cnn	Grip163	tacc	mad2	toc	chb	polo
+nuclear pore	CG17724	Rae1	xmas	Ulp1	Nup50	Elys	Nup358	Gp210	CG13137	mbo	Nup153	Nup54	Ranbp16	CG12782	Nup160	Aladin	gcl	CG42390	Gle1	e(y)2	Nup214	e(y)2b	RanBP3	Nup58	Nup98-96	Nup93-1	Nup107	Mtor	Nup93-2	Ndc1	emb	Nup154	CG14712
+TORC2 complex	rictor	Tti1	Sesn	Sin1	Lst8	Tor
+aminoacyl-tRNA synthetase multienzyme complex	GlnRS	LeuRS	AIMP2	AspRS	GluProRS	IleRS	MetRS	ArgRS	LysRS
+collagen-containing extracellular matrix	CG10359	CG41520	prc	CG8642	dlp	CG1791	CG1889	vkg	CG9500	CG6788	Pxn	dally	SPARC	LanA	CG31832	LanB1	tnc	loh	Tsp	sca	mspo	CG7668	CG31999	CG30281	Mmp1	CG9593
+chromosome, telomeric region	Hmr	Rif1	Dna2	CG5181	Su(var)205	nbs	ms(3)K81	HP4	mre11	woc	cav	moi	Su(var)2-10	HP6	Rad51D	Irbp	ddbt	Lhr	Ku80	RPA2	HipHop
+ACF complex	Yp2	Iswi	Top2	Caf1-55	Nap1	Acf
+mitochondrial proton-transporting ATP synthase complex, catalytic sector F(1)	ATPsynepsilonL	ATPsynbetaL	ATPsynbeta	ATPsyndelta	sun	blw	ATPsyngamma
+mitochondrial proton-transporting ATP synthase, central stalk	ATPsyndelta	ATPsyngamma	sun	ATPsynepsilonL
+voltage-gated potassium channel complex	Elk	eag	Shab	Shal	Shaw	Sh	Hk	KCNQ	Shawl	sei
+microtubule plus-end	Kank	CG18190	Mst27D	sip2	DCTN1-p150	chb	Eb1	CLIP-190	CG15306	shot	Khc	msps	Khc-73	CG2955	CG9279	CG32371
+GINS complex	Psf2	Psf1	Sld5	Psf3
+insulin-responsive compartment	Rab9E	Rab9Fb	RabX2	Rab9D	Rab9Fa	Rab9Db	RabX4	CG15399	Rab10
+chromosome, centromeric region	Cenp-C	PPP4R2r	sunn	Klp10A	Hmr	solo	mei-S332	Su(var)3-9	XNP	Det	Su(var)205	Cap-G	aurB	cid	mam	barr	aust	Noa36	mu2	Pp4-19C	flfl	Mis12	cav	borr	CycB	HP6	CG11788	prod	cal1	chb	Cap-D3	Incenp
+protein phosphatase 4 complex	flfl	PPP4R2r	Pp4-19C
+mitochondrial crista junction	CG14929	CG15296	QIL1	CG43328
+MICOS complex	Mic26-27	CG14929	CG8531	CG13564	CG15296	QIL1	CG12479	CG41128	Mitofilin	CG43328	Chchd3
+pericentric heterochromatin	SuUR	Su(var)205	prod	Su(var)3-7	SA	MED17	Hmr	Lhr	MED26	Atf-2	ADD1	mei-S332	vtd	NSD	Trl
+chromosome, telomeric repeat region	Hmr	Lhr	Sse
+dendritic spine	X11Lbeta	Fmr1	nAChRalpha7	Prosap	X11L
+autophagosome membrane	Atg8a	Atg8b	Pex23	Pi3K59F	Atg16	Syx17
+amphisome	Atg8a	ref(2)P
+autolysosome	Atg8a	Vamp7	Synj	Nprl3	Nprl2	TER94	mio	Wdr24	Nup44A
+synaptic vesicle membrane	Rph	Syngr	Clc	unc-13	Syt1	Mctp	prt	BORCS5	Syn	Vmat
+potassium channel complex	Ork1
+myosin complex	Prm	Myo81F	Myo10A	Myo28B1	Mhc	Myo61F	Myo31DF	didum	d	ninaC	Myo95E	Mhcl
+actin-based cell projection	Abi	Myo10A	kug
+endoplasmic reticulum exit site	Sec16	Sec24CD	Sar1	Sec24AB	Yip1d1	Rab9Fb	Yif1	tbc	me31B	Sec23	fws	Sec31	cup	Rab1	Rab2	Tango1
+cortical microtubule	Klp10A	tum	alphaTub67C
+mitotic spindle astral microtubule	Klp10A	Klp67A
+meiotic spindle	gammaTub37C	Klp10A	ncd	dgt2	wac
+meiotic spindle pole	Klp10A	ssp2
+mitotic spindle pole	Klp10A	Cam	Klp61F
+kinesin II complex	Kap3
+ciliary transition zone	B9d2	dila	tctn	unc	Mks1	Cep135	Cep290	CG14186	B9d1	Cby	Cc2d2a	Kap3	TMEM216	CG11760	CG14020
+cytoplasmic side of plasma membrane	shrb	Pli	Traf-like	cnk	tub	wek	Gprk2	cno	ave	Rgk1	CG5498	Herc4	sty	Rgk3	Myd88	hop	Rgk2
+mitochondrial intermembrane space protein transporter complex	CG34132	Tim8	Tim10	Tim9b	Tim13	tomboy40	CG42302
+basolateral plasma membrane	Mtp	Zip99C	ZnT77C	Zasp52	Ca-alpha1D	CapaR	Zip71B	Lkr	Sln	Zip42C.2	Mcr	Grip	ZnT63C	Zip88E	salt	ZnT33D	scrib	par-1	ine	cv-c	cac	dally	ZnT86D	pyd	Oatp58Db	foi	dlg1	veli	ogre	yrt	Atpalpha	Zip42C.1	Oatp58Dc	Oatp30B	Nrt	alpha-Spec
+lateral plasma membrane	RhoGEF2	Mcr	mew	scrib	Inx3	mys	beta-Spec	Oatp33Eb	alpha-Spec	dlg1	Pak	CG42748	hts	TBCD	vari	Rab10
+cell junction	Grip	scrib	dlg1	Schip1	Atg9
+terminal bouton	nSyb	Syt1	VAChT	Rab11	Syn	jeb	Prosap	mnb	gukh	Nrx-1	SH3PX1	ChAT	prt	unc-13	Grip	Burs	Lrrk	par-6	Rab3-GEF	wg	Ank2	mtg	spartin	Snap25	Eaat1	Syx1A	fusl	Vmat	cpx	Mical	Synj	Csp	Efhc1.1	dlg1	Rop	Mob4	Vps35	alphaSnap	spas	comt	g	Scamp	cup	sky	Cbp53E	CCKLR-17D1	Magi
+type Ib terminal bouton	Csp	DCTN1-p150	Fak	dlg1	jeb	Alk	pum	Abp1
+tricellular tight junction	bark	Sym	mud	Gli	dlg1
+subsynaptic reticulum	Vps35	dl	Past1	stau	cact	Lrrk	metro	Synd	dlg1	ena	Alk	SH3PX1
+postsynaptic density membrane	stg1	dlg1	boss
+molybdopterin synthase complex	Mocs2B	Mocs1	Uba5	Uba4
+signal peptidase complex	Spase25	Spase22-23	Spase12	twr
+RNA polymerase II, core complex	Polr2A	Polr2E	Polr2H	Polr2J	Polr2K	Polr2C	Polr2I	Polr2L	Polr2B	Polr2M	Polr2F	Polr2D	Polr2G
+kinetochore	Spc25	Cenp-C	Sgt1	Klp67A	Ndc80	rod	Bub3	Dhc64C	Det	yem	Nuf2	Nnf1b	Mad1	CLIP-190	Zw10	cid	aurB	Mps1	aust	nudE	Lis-1	DCTN1-p150	Mis12	CG10053	borr	msps	BuGZ	Kmn1	Zwilch	Mtor	Nnf1a	CG9279	cmet	Kmn2	mad2	BubR1	cal1	chb	Spindly	fzy	Incenp	polo
+Ndc80 complex	Spc25	Nuf2	Kmn2	Nnf1b	Mis12	Kmn1	Ndc80	Nnf1a
+NMS complex	Nnf1b	Nnf1a	Kmn1
+DNA replication factor A complex	RPA1	RPA2	Marcal1	RPA3
+aryl hydrocarbon receptor complex	Met	gce	tgo	cyc	ss
+rough endoplasmic reticulum membrane	bif
+nuclear membrane	GV1	p23	vib	bif	TER94	sbr	Ref1	SREBP	Fas3	Nup35	Mtor	CG5199	Cnep1r2	14-3-3zeta	Rad9	toc	bru1	ninaA	Dd	CG7744	chb	emb	CG7655	Ote
+Golgi cisterna membrane	FucT6	GM130	GPHR	Csgalnact	Chsy	Chpf
+protein kinase CK2 complex	SteXh:CG42398	Ste:CG33245	Ste:CG33240	Ste:CG33247	Ste12DOR	Ste:CG33236	Ssl	Ste:CG33243	CkIIbeta	CkIIbeta2	Ste:CG33237	Ste:CG33241	Ste:CG33246	Ste:CG33238	CkIIalpha	CG40635	Ste:CG33239	Ste:CG33244	Ste:CG33242
+endoplasmic reticulum lumen	boca	ninaA	Eogt	Alg12	wbl	CG7484	Hsc70-3	rumi	CG31139
+chaperone complex	Nrd1
+plus-end kinesin complex	BORCS5
+intrinsic component of membrane	CYTB	BORCS5	betaGlu	drpr
+cytoplasmic side of lysosomal membrane	BORCS5
+BORC complex	BORCS6	BORCS5	CG10681	BORCS7	Blos2	Snapin
+neuronal ribonucleoprotein granule	Dcp-1	pcm	stau	eIF4E1	me31B	nos	Upf1	cup	Fmr1	yps	btz	AGO2	pum	tral
+messenger ribonucleoprotein complex	Dcp-1	Pur-alpha	pcm	stau	eIF4E1	me31B	nos	Upf1	orb	cup	Fmr1	yps	btz	orb2	AGO2	pum	tral
+mitochondria-associated endoplasmic reticulum membrane	frj	CG10362	Atg14
+apical junction complex	Mbs	fw	shg	Shrm	baz
+dystrophin-associated glycoprotein complex	Dys	Syn1	CG1806	Dg	Dyb	Syn2
+CHRAC	Chrac-14	Chrac-16	Iswi	Top2	Acf
+transcriptionally silent chromatin	Usp7
+microtubule cytoskeleton	kat-60L1	ens	TTLL3B	Arl2	dnd	CG9072	CG32819	shi	Septin5	CG3085	jvl	futsch	Septin2	TTLL3A	Tektin-A	Septin4	spas	CG11356	Tektin-C	pnut	Septin1	CG1890
+cytoskeleton of presynaptic active zone	Fife	Rim	Rbp	Git	Bsg	brp	Ten-a	stnB
+larval serum protein complex	Lsp1gamma	Lsp1alpha	Lsp2	Lsp1beta
+MKS complex	B9d2	tctn	Mks1	B9d1	CG15923	Cc2d2a
+ciliary cap	dila	unc	Mks1	Cep290	Cby
+pre-snoRNP complex	CG8204	CG1463
+beta-catenin destruction complex	Apc	Apc2	Axn	CkIalpha
+histone deacetylase complex	HDAC3	CG16779	Sap30	ebi	CG4744	Kdm3	CoRest	Smr	MTA1-like	HDAC4	CG31875	HDAC1
+extrinsic component of mitochondrial inner membrane	CG33331	Coq8	CG5131	CG13458
+npBAF complex	Bap60	mor	Snr1
+nBAF complex	mor	tth	Bap60	osa	d4	Snr1
+proteasome activator complex	REG
+integrin complex	if	Itgbn	mew	mys	ItgaPS4	ItgaPS5	scb
+basal plasma membrane	if	stau	Egfr	mew	ClC-a	mira	mys	Sec8	Dg	Lar	ptc	scb	kug
+troponin complex	up	wupA
+condensed nuclear chromosome kinetochore	Ndc80	Bub1	BubR1
+DNA-dependent protein kinase-DNA ligase 4 complex	DNAlig4	CG3448
+DNA ligase IV complex	DNAlig4	CG3448
+ribonuclease H2 complex	CG11164	CG13690	CG30105
+cytoplasmic vesicle membrane	Ptr	CG15760	Itpr	RyR	spir
+integral component of organelle membrane	wls	CG15760	drd
+P granule	eIF4A	SNRPG	vret	me31B	pgc	Yp3	CG6701	Fs(2)Ket	TER94	CG11263	tapas	tral	PyK	zuc	qin	srRNA	Helz	bel	lrRNA	papi	tej	spn-E	poe	krimp	DCP1	armi	aub	Tm1	squ	AGO3	vls	Mov10	shu	bru1	Fmr1	osk	mael	Hrb27C	tud	vas
+subrhabdomeral cisterna	ninaE	rdgB	Xport-B	Arr2
+nuclear pore nuclear basket	Nup35	Nup93-1	Nup93-2	Gp210
+pericentriolar material	dila	BBS4	jub	Cep97	spd-2	asl	Sas-4	gammaTub23C	Grip71	Nin	Cp190	Rcd6	cnn
+P-body	Rcd-1	me31B	exu	Polr2D	Pop2	lig	tral	jub	Pos	LSm1	Not3	CG15262	Edc3	Patr-1	CG10418	CG9344	Ge-1	AGO1	DCP1	PAN2	CG17068	Rbfox1	CG17768	pcm	stau	4E-T	Rga	gw	eIF4E1	LSm3	Dis3l2	DCP2	Rcd-1r	cup	PAN3	CG2091	Polr2G	smg
+UBC13-UEV1A complex	Uev1A	ben
+nascent polypeptide-associated complex	bic	betaNACtes6	betaNACtes4	CG11835	betaNACtes3	Nacalpha	betaNACtes1	betaNACtes2	CG4415
+polysomal ribosome	RpS23	RpS29	bic	betaNACtes6	betaNACtes4	CG11835	eIF3h	betaNACtes3	betaNACtes1	RpS26	betaNACtes2
+coated vesicle	yl
+basement membrane	Tig	magu	Ndg	NetB	NetA	Galphas	Megf8	vkg	Mp	wb	CG30203	LanA	LanB1	CG30046	serp	Glt	SP2353	Col4a1	LanB2	trol	Ppn
+flotillin complex	Flo1	Flo2
+mitochondrial intermembrane space	Sdhaf3	shop	AIF	Cyt-c-p	CG42496	HtrA2	Coa7	CG42381	CG44194	Ak2	CG7950	Cox17	Cyt-c-d	prel	Dhod	Coprox	slmo	CG17996
+neuromuscular junction of somatic muscle	comt	Dysb	Rab3-GEF
+SAM complex	CG9393	CG8004	CG7639	CG5662
+intracellular cyclic nucleotide activated cation channel complex	CngB	Cngl	CG42260	CngA
+trans-Golgi network membrane	Scamp	Arfip	PICK1	Afti
+recycling endosome membrane	Scamp	Past1	nuf
+equatorial microtubule organizing center	Grip163	Grip84	Grip91	t-Grip91	Grip75	t-Grip84	Grip128	t-Grip128
+gamma-tubulin complex	Grip163	Grip84	Grip91	Uxt	t-Grip91	Grip75	gammaTub37C	t-Grip84	gammaTub23C	Grip128	Blos2	t-Grip128
+gamma-tubulin ring complex	Grip163	Mzt1	Grip75	Grip71	gammaTub23C	Grip128	CG46427
+UDP-N-acetylglucosamine transferase complex	Alg13	Alg14	Alg7
+male pronucleus	mh	ProtA	yem
+Smc5-Smc6 complex	CG42300	Nse4	SMC5	MAGE	Nse1	CG42299	cerv	qjt	jnj
+mitochondrial inner membrane peptidase complex	CG11110	CG9240
+RNA polymerase III complex	Polr3H	Polr3E	Polr3D	Polr3I	Polr2E	Polr3G	Polr2H	Polr3F	Polr2K	Polr2L	Polr3B	Polr1D	Polr2F	Polr1C	Polr3K	Polr3C	Polr3A
+protein phosphatase type 2A complex	tws	wdb	CG4733	CG11597	mts	Ptpa	wrd	Tap42	CG32568	CG8509	Pp2A-29B	CG2104
+clathrin-coated pit	Chc	CG8176	AP-2alpha	AP-1-2beta	lap	Dap160
+clathrin coat of trans-Golgi network vesicle	Chc	Clc
+clathrin coat of coated pit	Chc	Eps-15	Clc
+clathrin-coated endocytic vesicle	Chc	sp3
+clathrin complex	Chc	Clc
+cyclin-dependent protein kinase holoenzyme complex	CycD	CycE	CycJ	Cks85A	CycG	CG40191	Cdk12	CycB	CycB3	CycA	Cks30A	Cdk2
+axon terminus	SerT	alphaSnap	Lrp4	CarT	Srpk79D	orb2	na	Sec15
+synaptic membrane	Tob	Drep2	Lrp4	orb2
+GABA-A receptor complex	Lcch3
+exosome (RNase complex)	Rrp4	Rrp45	Rrp46	Mtr3	Ski6	Dis3l2	Dis3	Rrp47	Rrp40	Rrp42	Csl4
+katanin complex	kat80
+proteasome complex	Rpn7	Rpn10	Rpn9	Prosalpha3	Prosbeta2	TER94	Prosalpha5	Rpn12	Rpn3	Sem1	Prosbeta1	Rpn1	Rpn2	Prosbeta6	Prosbeta4	Prosbeta3	Prosalpha4	Rpn13	Ufd1	Rpn5	Prosbeta7	Prosbeta5	Pomp	CG8858	Prosalpha6	Rpn11	Prosalpha2	Rpn8	Prosalpha1	Uch-L5	Rpn6	Prosalpha7
+proteasome core complex, alpha-subunit complex	Prosalpha6T	Prosalpha1	Prosalpha3T	Prosalpha3	Prosalpha1R	Prosalpha7	Prosalpha4T1	Prosalpha4T2	Prosalpha6	Prosalpha2	Prosalpha5	Prosalpha4
+mitochondrial respiratory chain complex III	CYTB	UQCR-14	Cyt-c1L	UQCR-6.4	Cyt-c1	UQCR-C2	UQCR-14L	UQCR-Q	ox	UQCR-11	RFeSP	UQCR-C1	UQCR-11L
+WASH complex	cpa	cpb	SWIP	FAM21	CCDC53	TBC1D23	wash	Strump
+commitment complex	SmD3	Prp39	U2af50	LS2	SmD1
+U2AF complex	CG3294	LS2	U2af50	U2af38
+transcription elongation factor complex	Su(Tpl)	CycT	Elp2	Sbf	TH1	Ice2	CG6907	Ice1	spt4	Spt6	CG6244	Nelf-E	Eaf	trx	EloA	lilli	CG40228	Spt5
+eukaryotic translation initiation factor 2 complex	eIF2alpha	eIF2gamma	eIF2beta
+eukaryotic 48S preinitiation complex	eIF2alpha
+multi-eIF complex	eIF1	eIF2alpha	eIF2beta	eIF2gamma	eIF3a
+Arp2/3 protein complex	Arpc3B	Arpc2	Arpc4	Arpc5	Arpc1	Arp3	Arpc3A	Arp2
+calcineurin complex	CanB	CanA-14F	Pp2B-14D	Wdr92	CanA1	CanB2	Cib2
+cohesin complex	SMC3	SA-2	SA	vtd	SMC1
+ruffle	Pak3	CG9784	Rac1	mbc	CG6805	rhea
+non-motile cilium	CG6805	nompB	Oseg5	Oseg4	Oseg1	CG9784	Hyls1	BBS8	Oseg6	rempA	Oseg2	eys
+nuclear pore central transport channel	Nxt1	Ntf-2	Nup153	Nup35	Nup54	Ntf-2r	Nup98-96	Nup62
+U5 snRNP	SmD2	SmD3	snRNA:U5:38ABb	snRNA:U5:34A	Prp8	Dim1	SmB	snRNA:U5:14B	obe	SmE	snRNA:U5:35D	holn1	snRNA:U5:23D	Prp18	CG4849	snRNA:U5:63BC	snRNA:U5:38ABa	SmD1	SNRPG
+U4 snRNP	SmB	snRNA:U4:38AB	SmD3	snRNA:U4:39B	snRNA:U4:25F	Prp31	SmE	SmD1	SNRPG
+U12-type spliceosomal complex	Phf5a	Sf3b6	SmD3	snRNA:U11	Sf3b2	CG31922	CG44249	LSm7	SmD1	SNRPG	Sf3b1
+SMN-Sm protein complex	SmD3	SmD1	SNRPG
+spliceosomal tri-snRNP complex	SmD3	CG17768	Prp31	LSm7	SmD1	SNRPG
+nuclear outer membrane	klar	Msp300	Axs
+septin ring	Septin4	Septin2	Septin5	pnut	Septin1
+septin complex	Septin4	Septin2	Septin5	pnut	Septin1
+cell division site	Septin4	Septin2	Septin5	pnut	Septin1
+large ribosomal subunit	mRpL11	mRpL17	RpL12	mRpL10	mRpL22
+nuclear exosome (RNase complex)	Rrp4	Rrp45	Rrp46	Mtr3	Ski6	Dis3	Rrp40	Rrp6	Rrp42	Csl4
+cytoplasmic exosome (RNase complex)	Rrp45	Rrp46	Mtr3	Ski6	Dis3	Rrp40	Rrp42	Rrp4
+Seh1-associated complex	Nprl3	mio	Sec13	Nprl2	Iml1	Wdr59	Wdr24	Nup44A
+GATOR1 complex	Nprl3	Nprl2	Iml1
+spot adherens junction	shg	Girdin	baz
+actin filament bundle	kst	jv	Fim
+contractile ring	ifc	shrb	pav	Arpc2	zip	Fim	scra	cher	ALiX	msn	chb	Spn	Abl	step	pnut	Septin1
+phagophore assembly site	Atg101	Atg7	Atg2	l(3)76BDm	Atg13	Pi3K59F	CG5445	Atg17	Atg6
+spectrin	beta-Spec
+spectrosome	vas	bam	cora	chb	beta-Spec	Ank	alpha-Spec	CycA	hts
+muscle tendon junction	Kank	Pax	Swip-1	kon	Zasp52	slow	mys	Tsp	Lrt	shot	chas	LRR	Abl	wech
+phosphatidylinositol 3-kinase complex	Pi3K21B	Socs36E	Socs16D	Pi3K92E	Pi3K68D	Socs44A
+SAGA complex	Ada2b	Sgf29	Sf3b3	Saf6	Ada1-2	wda	Taf12	Sf3b5	Taf9	Ada1-1	e(y)2	Spt20	e(y)2b	Atxn7	Spt7	Spt3	mia	Sgf11	Gcn5	Nipped-A	Ada3	Taf6	Taf10b	not
+DNA replication factor C complex	RfC4	CG8142	RfC3	RfC38	Gnf1
+Elg1 RFC-like complex	RfC4	CG8142	RfC3	RfC38	elg1
+STAGA complex	Spt7	Spt3	Saf6
+ESCRT IV complex	Vps4	Vta1
+inner dynein arm	Dhc36C	Dnah3	Dhc98D	Dhc62B	mmm	Dnali1	Dhc16F
+Ada2/Gcn5/Ada3 transcription activator complex	Chrac-14	wds	Ada2a	Mocs2B	NC2beta	Sgf29	Gcn5	Hcf	Ada3	D12	Atac1	Atac2	Atac3	fs(1)K10
+H3 histone acetyltransferase complex	chif	Ada2b	Sgf29	Gcn5	Ada3
+COPI vesicle coat	deltaCOP	alphaCOP	betaCOP	beta'COP	CG5946	gammaCOP	epsilonCOP	zetaCOP
+replication fork	Rad51D	Pif1	spn-B	Xrcc2	Rev1	PolH	dup
+Rad51B-Rad51C-Rad51D-XRCC2 complex	Rad51D	Xrcc2
+nuclear inner membrane	LBR	Sirt1	schlank	Ulp1	kuk	Ote	CG6659
+extrinsic component of cytoplasmic side of plasma membrane	Src42A	fu	FER	Shark	kmr	Ack-like	Sos	cos	Src64B	Wsck	Ack	trio	gcl
+Hedgehog signaling complex	fu	ci	cos
+cortical actin cytoskeleton	Shrm	l(2)gl	Tm1	flr	CG6891	Abp1	Cortactin
+Atg1/ULK1 kinase complex	Atg1	Atg101	Atg13	Atg17
+RNA N6-methyladenosine methyltransferase complex	nito	Hakai	Mettl14	Mettl3	vir	Flacc	fl(2)d
+postsynaptic density	Grip	shi	scrib	Spn	Fmr1	PICK1	nAChRalpha7	hts	Prosap	Abp1
+protein acetyltransferase complex	san	Naa15-16	vnc
+NatA complex	san	Naa15-16	vnc
+gamma-tubulin small complex	Grip163	Grip84	Grip91	t-Grip91	t-Grip84	gammaTub23C	t-Grip128
+NatB complex	CG31730	Naa20A	Naa20B	psidin
+polytene chromosome chromocenter	Polr2D	Su(var)205	e(y)3	His2Av	MED26	Dp1	Atf-2	ADD1	Su(var)3-9	vig2	E(Pc)	bab2	jumu
+RSF complex	Iswi	e(y)3	CG8677
+CCR4-NOT complex	Not1	Rcd-1	Rga	Cnot4	Not11	Not3	Not10	twin	Pop2
+CCR4-NOT core complex	Rcd-1	Rga	Pos	Rcd-1r	Not3	CG15262	Pop2
+Sec61 translocon complex	Sec61beta	CG8860	Sec61gamma	Sec61alpha
+Ssh1 translocon complex	CG13426	CG8860	Sec61gamma
+dynactin complex	DCTN2-p50	Lis-1	Arp10	cpb	DCTN6-p27	DCTN3-p24	DCTN4-p62
+RNA nuclear export complex	Ranbp21
+mRNA cleavage and polyadenylation specificity factor complex	Sym	Wdr33	Cpsf73	Clp	Wdr82	Cpsf160	CG3515	Cpsf100	Ssu72	Fip1	CstF64
+Kibra-Ex-Mer complex	ex	kibra	Mer
+lamellipodium	Whamy	GMF	Rab35	Cdc42	Arpc5	Arp3	CG9288	ena	Naus	Abp1	Cortactin
+EKC/KEOPS complex	Tcs4	Tcs5	Tcs3	Tcs6
+AP-type membrane coat adaptor complex	AP-1-2beta
+AP-2 adaptor complex	AP-2alpha	AP-1-2beta	AP-2sigma	VAChT	AP-2mu
+mitochondrial respiratory chain complex IV	COX6AL2	COX6B	COX5B	COX6AL	ND-MLRQ	COX5A	cype	COX7AL	COX7A	COX5BL	COX1	COX7C	levy	COX4L	COX4
+cytoplasmic side of endoplasmic reticulum membrane	THADA
+nuclear pore inner ring	Nup154	Nup205	Nup188	Gp210
+filopodium tip	ena	Vrp1	CG9288	pico
+endosome membrane	fab1	Rab35	g	Rab23	CG5608	Snx1	CG33096	prd1	Pi3K68D	Rme-8
+anterior cell cortex	Rab35
+posterior cell cortex	osk	vas	Rab35
+endosome to plasma membrane transport vesicle	Rab35
+cell trailing edge	kug	Rab10
+Golgi trans cisterna	Gos28	Golgin245	Glg1	scat	GCC185	Bet1	CG8841	cbs	Syx16	GCC88	CG14971
+mitochondrial proton-transporting ATP synthase complex	ATPsynCF6	ATPsynE	Neb-cGP	ATPsynbetaL	CG15458	knon	ATPsynbeta	ATPsynF	ATP6	ATPsynCF6L	CG15459
+ring centriole	unc
+integral component of mitochondrial inner membrane	Tim17a2	l(3)neo43	Tim17b2	Tim23	Etf-QO	CG4942	Ccdc56	Sfxn1-3	MCU	CG9396	Mpc1	Pmi	CG14483	CG32832	CG1724	Tim17a1	Tim17b	CG31913	Tpc1	OXA1L	Sfxn2	Mpcp1	Mpcp2	CG9399	Coq2	CG43321	CG15653	EMRE	Tim17b1
+nuclear proteasome complex	Rpt6R	Rpn5	Rpt6
+Nem1-Spo7 phosphatase complex	Cnep1r1	Dd	Cnep1r2
+perikaryon	bol	S6kII	ple
+intraciliary transport particle B	IFT46	nompB	Oseg5	IFT52	IFT20	Ttc26	Cluap1	IFT57	IFT54	Ttc30	Oseg2
+cortical cytoskeleton	spdo	l(2)gl
+multivesicular body	shrb	Chmp1	dbr	Vps60	ninaE	CHMP2B	wg	tkv	CG5498	Snx16	wls	Vta1	Vps2	Vps24	Vps20
+spindle microtubule	galla-1	mars	Klp67A	sub	Eb1	CLIP-190	CG42399	aurB	Kebab	DCTN1-p150	Mink	Cp190	Klp61F	Meics	Diap1	tacc	aurA	chb	spag4	alphaTub85E
+phosphatidylinositol 3-kinase complex, class IA	Pi3K92E	Pi3K21B
+RNA polymerase I complex	Polr1E	Polr1B	Polr1H	Polr2E	Polr2H	Polr1A	Polr2K	Polr2L	Polr1D	Polr2F	Polr1C	Polr1F
+BBSome	BBS5	BBS4	BBIP1	BBS9	BBS1	BBS8
+subapical part of cell	ex	Dlish
+condensed chromosome, centromeric region	ord	Su(var)205	Sce	aurA	Cenp-C	Cap-D2	Sumo	SA	cid	lwr	Cap-D3	aurB	mei-S332	vtd
+condensed chromosome outer kinetochore	polo	Spc105R	Sumo	lwr
+integral component of cytoplasmic side of endoplasmic reticulum membrane	Use1	Spp	SppL
+integral component of lumenal side of endoplasmic reticulum membrane	Spp	SppL
+intraciliary transport particle A	Oseg4	Oseg1	IFT43	Oseg6	rempA
+varicosity	Ptth
+G protein-coupled receptor heterodimeric complex	GABA-B-R2	GABA-B-R1	GABA-B-R3
+SLIK (SAGA-like) complex	Taf12	Taf6	Saf6	mia
+SAGA-type complex	Ada2b	Ada2a	Spt20	Saf6	Atxn7
+integral component of peroxisomal membrane	Pex3	CG5065	Pex12	CG8303	Fis1	CG33474	Pex11c	Pex11ab	PMP34
+peroxisomal importomer complex	Pex14	Pex12	Pex13
+nuclear body	CG14252	CG12605	Lsm11	CG7239	CG18766	tbrd-1	PQBP1	CG10151	snRNA:U7	Lsm10	ssp	RYBP	CG11560	coil	tbrd-2	vers	bru1	dock	Setx	Dlip3	Ars2	CG14005
+male germline ring canal	pav	scra	nesd	dock	sktl
+cell periphery	gogo	Mob2	GMF	nSMase	trc	Rae1	kkv	dock	Btk	Ack	Chs2
+late endosome membrane	Vps36	Bulli	spin	CG4080	Trpml	Vamp7	Rab7	Membrin	Vps29	CG1275	Lrrk	ru	Vti1a	S	comm	CG32225	Vti1b	Lamp1	Vps13	CG6707	rho	Pi4KIIalpha	pHCl-2	HPS4
+perinuclear endoplasmic reticulum	Catsup	Cnx99A	Xport-A	Osbp	S	ninaE
+mitochondrial DNA-directed RNA polymerase complex	PolrMT
+transcription factor TFIIH core complex	Tfb5	Tfb1	Xpd	Ssl1	Tfb4	mrn
+M band	Prm	Pgk	Unc-89	mib2	mask	Ald1	Tpi	ball	Pglym78	zormin	Gpdh1	Gapdh1	robo3
+endoplasmic reticulum tubular network	Lnpk	Rab3GAP1	Parp16
+F-actin capping protein complex	cpa	cpb
+axonemal basal plate	frtz
+phosphopyruvate hydratase complex	Eno
+interphase microtubule organizing center	Wdr62	Mzt1
+Hrd1p ubiquitin ligase ERAD-L complex	Der-2	Hrd3	Der-1
+signal recognition particle receptor complex	SrpRbeta	SrpRalpha	Der-1
+signal recognition particle	Der-1
+Cdc73/Paf1 complex	CG9899	tplus3a	hyx	atms	tplus3b	Atu	CG6220	Ctr9	CG10887	CG12674
+GATOR2 complex	Sesn	Nprl3	Sec13	mio	Wdr59	Wdr24	Nup44A
+Golgi cisterna	Golgin84	sau	Pgant9
+COPII vesicle coat	Sec24CD	Sar1	Sec24AB	Sec23	Sec13	Sec31
+integral component of synaptic vesicle membrane	fwe	Dop1R2	Syt1	VGlut	VGAT	Syx6	wls
+excitatory synapse	VGlut
+cell leading edge	Kat60	Invadolysin	dpp	Git	zip	Zasp52	mys	Pak	Lar	ena	Rap1	stck
+dense core granule lumen	dpp
+Golgi-associated vesicle	Grip	sona	g	nac	Grasp65	Slh
+cis-Golgi network	loj	Gos28	GM130	Yip1d1	Yif1	gammaCOP	Syx5	Cog3	KdelR	garz	Trs33	Slh	CG14971
+checkpoint clamp complex	Rad9	Hus1-like	Rad1
+chromatin silencing complex	Elba3	Elba2	CG7137	Elba1
+polytene chromosome band	Spps	Elba2	Su(var)205	Psc	abd-A	mod(mdg4)	Abd-B	Ubi-p5E	pho	Cp190	trx	Atf-2	ADD1	Nup50	Ubx	Nup98-96	Pc
+U2-type spliceosomal complex	CG15084	Mfap1	CG15525	Sf3b6	Sf3b2	CG13625	barc	mdlc	Cwc25
+gamma-secretase complex	Nct	pen-2	Psn	aph-1
+dense core granule	gbb	Syt1	cmpy
+NADPH oxidase complex	Duox
+super elongation complex	CycT	Ice2	Ice1	Eaf	ear	Cdk9	lilli	CG8229
+gamma-tubulin large complex	gammaTub23C
+RNA polymerase II transcription repressor complex	Med	Mad	shn	H	Su(H)
+sperm flagellum	Sdb	Mst77F	djl	Sdic2	Mst98Cb	Hydr2	Sdic4	Mst98Ca	Rae1	Mst87F	CG7131	Bug22	Sdic1
+sperm plasma membrane	Hydr2	Fuca
+retromer, tubulation complex	Snx1	Snx6
+Golgi transport complex	Cog4	CG43322	Cog3	fws	Cog6	Cog1	Cog7	Cog2	Cog8
+exocyst	Sec5	Sec8	Sec3	Exo84	Exo70	Sec10	sktl	Sec15	Sec6
+annulate lamellae	Nup358	Sec5
+dosage compensation complex	msl-1	msl-2
+replication fork protection complex	tim	timeout	CG10336	Mcm10
+neuronal cell body membrane	Shawl	Rdl	Shaw	DAT
+exocytic vesicle membrane	Atet
+GARP complex	Vps53	Vps50	scat	Vps51	Vps52
+alpha,alpha-trehalose-phosphate synthase complex (UDP-forming)	Tps1
+U4/U6 x U5 tri-snRNP complex	U4-U6-60K	Dim1	SmB	CG9344	CG2021	SmD2	CG4849	CG6686	Prp6	CG11586	CG6610	LSm3	Prp18	Prp3	SmE	Prp31	CG17768	CG10418
+MOZ/MORF histone acetyltransferase complex	Eaf6	Br140	enok	CG15439	Ing5
+CAAX-protein geranylgeranyltransferase complex	Fnta	betaggt-I
+protein farnesyltransferase complex	Fntb	Fnta
+RNA cap binding complex	mxt
+Mon1-Ccz1 complex	Bulli	Ccz1	Mon1
+synaptic cleft	mav	mtg	Mon1	hig	Hasp
+eukaryotic translation initiation factor 3 complex, eIF3m	eIF3i	eIF3a	eIF3f1	eIF3f2
+smooth endoplasmic reticulum	Rtnl1	Itpr	RyR
+collagen trimer	Mp	vkg
+collagen type IV trimer	prc	Col4a1	vkg
+sarcoplasmic reticulum	Ca-Ma2d	Itpr	Nep4	SERCA	yuri	Tm1	CG4230
+BMP receptor complex	tkv	wit	sax	put
+spanning component of plasma membrane	fwe	nompC	egr	amx
+ciliary membrane	CG14020	CG14182
+intrinsic component of mitochondrial inner membrane	Cox11	Ppox
+condensin complex	Cap-H2	SMC2	Cap-D2	glu	Cap-G	Cap-D3	barr
+transcription export complex	thoc7	Ref1	tex	Hpr1	thoc5	thoc6	tho2	Hel25E
+lamin filament	Lam	LamC
+nuclear envelope lumen	Lam	Ote
+spindle envelope	nudE	LamC	vib	chb	Rab11	Lam	Pdi
+integral component of mitochondrial outer membrane	Miro	CG5676	Gdap1	Mul1	Fis1	tomboy20	CG12511	Tom20
+ATP-binding cassette (ABC) transporter complex	CG10226	osy	Mdr49	CG11147	Mdr50	Mdr65	snu
+glycerol-3-phosphate dehydrogenase complex	Gpo2	Gpdh2	Gpo3	Gpdh3	Gpo1	Gpdh1
+vitelline envelope	Vm34Ca	Vml	psd	fs(1)N	Vm26Ab	Vm26Aa	Vm32E
+egg coat	Vml	Vm26Ac
+histone methyltransferase complex	Wdr82	Art4	ash1	Hcf	Kdm4A	nej	Su(z)12	trx	gpp	esc	Sbf	Mnn1	MRG15	Jarid2	Caf1-55	Kdm5	Kdm4B	E(z)	CG10931
+vacuole	Ect3	CG42359	CG13829	l(3)72Dp	l(3)72Dr	Gal	CG41099	Cln3	CG5969
+CURI complex	CG9107	Mat89Ba
+UTP-C complex	CG9107	Mat89Ba
+prefoldin complex	Pfdn6	Uxt	Pfdn4	Pfdn5	Pfdn1	mgr	CG15676	Pfdn2
+rough endoplasmic reticulum	Uggt	PQBP1	Cpn	Sec61alpha	CG15651	ninaE	Pdi
+intraciliary transport particle	nompB	IFT52	Oseg2	IFT54
+tRNA (m1A) methyltransferase complex	CG9596	CG14544
+LUBAC complex	LUBEL
+sodium:potassium-exchanging ATPase complex	CG11703	CG5250	CG33310	nrv3	nrv1	nrv2	Atpalpha
+90S preribosome	CG1671	Rlb1	CG5645	CG4554	l(3)72Dn	CG11123	CG8461	l(2)k09022	CG7728	CG16753
+brush border	Nha2	Nha1	Myo61F	Vha55
+box C/D snoRNP complex	Fib	U3-55K	CG10909	nop5	Nop56
+FAR/SIN/STRIPAK complex	Strip	mts	Cka	Fgop2	Slmap	Pp2A-29B	Ccm3	Naus	Mob4
+nuclear mitotic cohesin complex	SA	vtd
+condensed nuclear chromosome	rad50	sls	spn-A	SA-2	Mat89Ba	mod(mdg4)	Sumo	spn-D	ms(3)K81	lolal
+early endosome membrane	Sara	hemo	Snx3	uif	CG4080	CG6051
+MLL1/2 complex	wds	Hcf	Rbbp5	Dpy-30L1	Mnn1	trx	ash2
+uniplex complex	EMRE	MCU	MICU1	CG4704	CG43321
+membrane raft	wg	mGluR	Psn	Cbl
+unconventional myosin complex	jar	ninaC
+rhabdomere membrane	rtp	inaF-B	ninaC
+myosin III complex	ninaC
+SOSS complex	CG5181	CG42374
+germ plasm	RapGAP1	stau
+mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	ATPsynCF6	ATPsynE	ATPsynG	CG17300	ATPsynF	ATPsynB	ATPsynC	ATP6	ATPsynCF6L	ATPsynGL	ATP8
+RISC complex	gw	AGO1	Dcr-2	Tudor-SN	Dcr-1	Fmr1	r2d2	bel	AGO2	vig
+RISC-loading complex	AGO1	Dcr-2	Dcr-1	r2d2	Taf11	AGO2	loqs
+kinociliary basal body	cdc14
+laminin complex	LanB1
+mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)	SdhCL	SdhAL	SdhC	Sirup	SdhB	SdhD	SdhA
+germline ring canal	14-3-3zeta	scra	par-1	chb	kel	14-3-3epsilon	jar	Btk	Src64B	hts
+basal cortex	pros	mud	strat	stau	Syp	brat	Abi	mira	Apc2	chb	ck
+small nucleolar ribonucleoprotein complex	NHP2	SmF	CG9344	CG10341	CG13097	CG4038
+Mpp10 complex	CG11920	CG13097	CG4866
+TRAPP complex	Trs31	CG9067	Bet3	SIDL	brun	Trs23	l(3)76BDm	Bet5	Trs20	Trs33
+TRAPPII protein complex	Trs31	CG9067	Bet3	SIDL	brun	Trs23	Bet5	Trs20	Trs33
+TRAPPIII protein complex	Trs31	CG9067	Bet3	Trs23	CG4953	gry	l(3)76BDm	CG11396	Bet5	Trs20	Trs33
+vacuolar membrane	LManIV	LManIII	alphaSnap	Hmt-1	LManVI	LManII	Ctns	Vha68-1	LManI	Arl8	Vha68-2	LManV	gammaSnap2	Vha68-3	gammaSnap1
+COP9 signalosome	CSN1b	CSN6	CSN8	alien	CSN3	CSN5	CSN1a	CSN7	CSN4	CG17059
+repressor ecdysone receptor complex	alien	EcR
+chromosome passenger complex	Det	aurA	borr	aurB	aust	Incenp
+meiotic spindle midzone	Det	borr	aurB	aust	Incenp
+intrinsic component of external side of plasma membrane	CAH2	Mco1
+junctional membrane complex	jp
+mitochondrial fatty acid beta-oxidation multienzyme complex	Mtpalpha	Mtpbeta
+Dom34-Hbs1 complex	pelo
+PeBoW complex	CG4364	CG5033	CG6724
+mitochondrial nucleoid	mtDNA-helicase	PolG1	mtSSB	POLDIP2
+eukaryotic translation elongation factor 1 complex	eEF1beta	eEF1alpha1	eEF1delta	eEF1alpha2	eEF1gamma
+cytoplasmic ribonucleoprotein granule	me31B	Regnase-1	Fmr1	exu	CG42360	vas
+protein kinase 5 complex	Cdk5	Cdk5alpha
+ribonucleoside-diphosphate reductase complex	RnrL
+cytochrome complex	Cox10
+endopeptidase Clp complex	ClpP	ClpX
+pole plasm	CG7483	vls	SmB	mago	gus	SmD3	nos	Ge-1	DCP1	DCP2	Fsn	pgc	osk	tud	vas
+transcription preinitiation complex	hay	Brf	TfIIB
+microvillus	Myo28B1	Cad74A	Cad99C	Myo61F	Myo31DF	jar	Myo95E	WASp	ck
+glycine cleavage complex	CG6415	CG3999	ppl	CG7430
+endoplasmic reticulum membrane protein complex	EMC2A	EMC8-9	EMC3	EMC7	EMC6	EMC2B	EMC1	EMC4	EMC10	EMC5
+nuclear pore outer ring	Nup43	Nup160	Sec13	Nup75	Nup133	Nup107	Nup37	Nup44A
+proton-transporting V-type ATPase, V0 domain	VhaM9.7-d	VhaM9.7-a	VhaM9.7-c	VhaAC39-2	Vha16-5	VhaM9.7-b
+vesicle membrane	Nos	Synj	fab1	dia	Cip4	cos
+spindle pole centrosome	nudE	vih	Lis-1	mars	aurA	DCTN1-p150	aurB
+ESCRT-0 complex	Stam
+SCAR complex	Abi	Cyfip	HSPC300	SCAR	Hem
+germ cell nucleus	osk	vas	piwi
+Mre11 complex	rad50	mre11	nbs
+meiotic nuclear membrane microtubule tethering complex	spag4	Msp300
+ESC/E(Z) complex	esc	escl	Pcl	corto	Jarid2	Caf1-55	Su(z)12	E(z)	HDAC1	jing
+mitochondrial outer membrane translocase complex	Tom40	Tom7	Tom70	tomboy20	CG4520	tomboy40	mge	Tom20
+nuclear matrix	Saf-B	RpS3	px	Mtor	Mt2
+translation release factor complex	eRF3	eRF1
+proton-transporting V-type ATPase, V1 domain	VhaAC45	CG5421	Vha14-2	VhaAC45RP	Vha68-3
+postsynaptic early endosome	PICK1
+rDNA heterochromatin	Sirt1	CG7137
+PcG protein complex	Kdm2	Sce	Psc	Sfmbt	psq	RAF2	phol	pho	lolal
+lytic vacuole	Uvrag
+transcription factor TFIIIB complex	Brf	Tbp	Bdp1
+transcription factor TFIIIC complex	l(2)37Cd	CG8950	CG42516	CG42588	CG7099
+rhabdomere microvillus membrane	trp	PIP5K59B	boss	trpl	Sos
+gamma DNA polymerase complex	PolG1	PolG2
+telomerase holoenzyme complex	Smg5	Smg6
+phagocytic vesicle	Rab9	dsb	Rab7	Rab14
+mismatch repair complex	spel1	Mlh1	Msh6	Pms2
+MutSalpha complex	spel1	Msh6
+MutSbeta complex	spel1
+bursicon neuropeptide hormone complex	Burs	Pburs
+negative cofactor 2 complex	NC2beta	NC2alpha
+mRNA cap binding complex	Cbp80	CG13807	eIF4E1	Rnmt	CG7907
+female germline ring canal outer rim	cher	ck
+micropyle	ck
+zeta DNA polymerase complex	PolD3	PolD2	PolZ1	PolZ2
+delta DNA polymerase complex	PolD1	PolD3	PolD2
+investment cone	Acam	jar	yuri	Tm1	eIF3m
+serine C-palmitoyltransferase complex	ghi	CG34194	Spt-I	lace	CG34293
+cyclin E1-CDK2 complex	CycE
+Ku70:Ku80 complex	Ku80	Irbp
+T-tubule	Dg	SclA	Ca-Ma2d
+proximal dendrite	shrb	Trpgamma
+vacuolar proton-transporting V-type ATPase, V1 domain	Vha44	Vha55	Vha36-1	Vha68-1	Vha68-2	Vha14-1	Vha26	VhaSFD
+U6 snRNP	CG9344	CG2021	LSm3	CG6610	snRNA:U6:96Ac	LSm7	CG17768	snRNA:U6:96Ab	CG10418	snRNA:U6:96Aa
+Lsm1-7-Pat1 complex	LSm1	LSm3	CG6610	LSm7	CG10418
+spindle matrix	BuGZ	mad2	Mtor	Asciz
+striated muscle myosin thick filament	Prm	sls	Mf	Mhc	fln
+A band	Lasp	Mhc	Mf	fln
+clathrin-coated endocytic vesicle membrane	BicD
+TRC complex	Sgt
+glucosidase II complex	GCS2beta	CG7685
+organelle membrane	Slc25A46b
+cytoplasmic side of rough endoplasmic reticulum membrane	RpS26
+H zone	mbl	TBPH	bsf
+cell tip	IKKepsilon	kon
+RNA polymerase II, holoenzyme	CG15160	CG9018
+cell cortex region	Efa6	brat
+tRNA-splicing ligase complex	RtcB	Archease	CG5913
+dolichol-phosphate-mannose synthase complex	Dpm2	Dpm3	Dpm1
+aggresome	ref(2)P
+PCNA complex	PCNA2	PCNA
+methylosome	icln	vls
+intercellular bridge	ALiX	nesd	pnut	cindr
+centralspindlin complex	nesd	pav	tum
+acroblast	brun	gammaCOP	Zw10	Cog7	rod
+intracellular vesicle	Dap160
+Noc1p-Noc2p complex	CG9246
+Noc2p-Noc3p complex	CG9246
+ciliary base	Ttc26	nompB	CG14367	INPP5E
+cell leading edge cell cortex	step
+Cul5-RING ubiquitin ligase complex	gus	Roc2	Cul5
+elongin complex	gus	EloC	EloB	EloA
+nuclear pore transmembrane ring	Ndc1	Gp210
+intrinsic component of endoplasmic reticulum membrane	wls	atl	PGAP3
+type II terminal bouton	Rab2	Cbp53E
+postsynapse of neuromuscular junction	Pldn	ICA69	Syp	Arc1	htl	nos	Rab2
+GET complex	CG1598
+podosome	blow
+actomyosin contractile ring	CG30183	RhoGEF2	zip	scra	sti
+RNA polymerase transcription factor SL1 complex	TAF1B	TAF1C-like	udd
+snRNA-activating protein complex	Pbp95	Pbp49	Pbp45
+EGO complex	RagC-D	RagA-B
+Gtr1-Gtr2 GTPase complex	RagC-D	RagA-B
+chiasma	Mlh1
+MutLalpha complex	Mlh1	Pms2
+ESCRT II complex	lsn	Vps36	Vps25
+nuclear pore cytoplasmic filaments	Gle1	Dbp80
+G-protein beta/gamma-subunit complex	Ggamma1
+cAMP-dependent protein kinase complex	CG8252	Pka-R2	Pka-C3	Pka-R1	CG12069
+PAN complex	PAN3	PAN2
+activin receptor complex	wit	babo	put
+cytosolic tRNA wobble base thiouridylase complex	CG8078
+Ski complex	tst	CG8777
+nucleotide-activated protein kinase complex	alc	SNF4Agamma	AMPKalpha	Pka-C2
+ESCRT III complex	shrb	Chmp1	Vps60	CHMP2B	CG5498	Vps2	Vps24	Vps20
+mitochondrial crista	prel
+external side of plasma membrane	fs(1)N	ATP6AP2	CG10948	Kal1	fs(1)M3	Toll-7	Mmp2	Tl	qvr	dlp
+centriolar satellite	Zmynd10	dila	CG13032
+U7 snRNP	Lsm11	snRNA:U7
+histone pre-mRNA 3'end processing complex	Lsm11	FLASH	Slbp
+cytoplasmic U snRNP body	Snup	snRNA:U7	Gem3	rig	Smn	Gem2	Lsm11	Lsm10
+origin recognition complex	Orc6
+septin cytoskeleton	Orc6
+telomere cap complex	cav	ver	tea	moi
+transcription factor AP-1 complex	Jra	kay
+6-phosphofructokinase complex	Pfk
+box H/ACA snoRNP complex	Nop60B	NHP2	CG7637	CG4038
+box H/ACA telomerase RNP complex	CG7637
+ISWI-type complex	tou	Iswi	CtBP
+mitochondrial electron transfer flavoprotein complex	wal	Etfb
+nuclear inclusion body	Mtor
+metaphase plate	Mtor
+sperm individualization complex	shi	gish	jar	PI31	Lasp	Cortactin
+type Is terminal bouton	Csp	Fak	jeb	Alk	pum	Abp1
+pICln-Sm protein complex	icln	SmD3	SmD1
+phagolysosome	ClC-b
+DSIF complex	spt4	Spt5
+NURF complex	CG33695	E(bx)	Iswi	Caf1-55	Nurf-38	Acf
+stress fiber	CG43897	Zasp66	Ilk	Zasp52	Zyx	Zasp67	Tm1	CG42319	bnk	Naus	seq
+tRNA-intron endonuclease complex	cbc	Tsen34	Tsen2	Tsen54
+mRNA cleavage factor complex	cbc	Cpsf5	Pcf11
+condensed nuclear chromosome inner kinetochore	cid
+CENP-A containing nucleosome	cid
+PAM complex, Tim23 associated import motor	Roe1	CG7394	CG32727
+astral microtubule	tacc	shot	alphaTub84B	Khc-73
+intermediate filament	shot
+hemidesmosome	shot
+small ribosomal subunit	mRpS9	RpS16	RpS18	mRpS14	RpS9	mRpS16	RpS20
+dendrite terminus	VGAT	Ir84a	orb2
+neuron projection terminus	VGAT
+bicellular tight junction	Shrm
+extracellular vesicle	Arc1	Arc2
+PR-DUB complex	Asx	calypso
+TRAPPI protein complex	Trs31
+ERCC4-ERCC1 complex	Ercc1
+CIA complex	CG17683	Ciao1	Mms19	galla-2
+BLOC-3 complex	HPS4	HPS1
+nucleotide-excision repair factor 2 complex	Xpc
+XPC complex	Xpc
+guanyl-nucleotide exchange factor complex	eIF2Bgamma
+Slit-Robo signaling complex	sli	robo1
+dystroglycan complex	Dg
+cell-cell contact zone	Rok	Rho1	zip
+U2-type catalytic step 1 spliceosome	Prp19	CG14641	CG8435
+extrinsic component of mitochondrial outer membrane	clu
+outer mitochondrial membrane protein complex	clu
+actin cap	Khc	RhoGEF2	Cortactin
+axon cytoplasm	DCTN1-p150	Khc	DCTN2-p50	Dhc64C
+mitochondrial proton-transporting ATP synthase, stator stalk	ATPsynO	knon	ATPsynB	CG17300	ATPsynD
+syntrophin complex	Syn1	Syn2
+protein-carbohydrate complex	resilin
+type III terminal bouton	Cbp53E
+apoptosome	Dronc	Dark
+autosome	tef	Pof
+microtubule minus-end	Patronin
+extrinsic component of endosome membrane	Snx16
+glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex	PIG-H	PIG-P	PIG-Q	PIG-A	PIG-C
+EARP complex	Vps50	Vps51
+calcium channel complex	pain	Orai	RyR
+tRNA-specific adenosine-34 deaminase complex	CG5292	CG10927
+plasma membrane raft	hts
+integral component of nuclear inner membrane	MAN1	CG7744	LBR	CG8111
+membrane-bounded organelle	kud	CG11007
+Ctf18 RFC-like complex	CG11788	CG34001	cutlet
+GID complex	Sou	Kaz
+glycosylphosphatidylinositol-mannosyltransferase I complex	PIG-M
+protein phosphatase type 1 complex	PPP1R15	Gbs-76A	Gbs-70E	Pp1-Y2	PpN58A	Pp1-87B	Pp1-13C	Pp1alpha-96A
+PTW/PP1 phosphatase complex	Pp1-Y2	PpN58A	Pp1-87B	Pp1-13C	Pp1alpha-96A
+plasma membrane bounded cell projection cytoplasm	Fmr1	Nab2
+epsilon DNA polymerase complex	PolE2	PolE4	PolE1	Chrac-14
+cyclin/CDK positive transcription elongation factor complex	Cdk12	CycT	Cdk9	CycK
+mitochondrial proton-transporting ATP synthase, catalytic core	ATPsynbetaL	blw	ATPsynbeta
+proton-transporting ATP synthase complex, catalytic core F(1)	ATPsynbetaL	ATPsynbeta	blw	ATPsynO
+dense fibrillar component	Fib
+phosphatidylinositol 3-kinase complex, class III, type I	Atg6	Vps15	Pi3K59F	Atg14
+phosphatidylinositol 3-kinase complex, class III, type II	Atg6	Vps15	Pi3K59F
+phosphatidylinositol 3-kinase complex, class III	CG42554	Pi3K59F	Atg14
+FACT complex	Ssrp	dre4
+THO complex	thoc7	Hpr1	thoc5	thoc6	tho2
+THO complex part of transcription export complex	thoc7	tex	Hpr1	thoc5	tho2
+mitotic spindle microtubule	Ran	ncd	Klp61F
+extrinsic component of plasma membrane	klg	Rac1	mbc	Abl	MabF7D6
+core-binding factor complex	Bro	Bgb
+DNA polymerase complex	PolD2
+mRNA cap methyltransferase complex	CG13807
+acrosomal vesicle	CG16984	snky
+NuRD complex	MBD-like	simj	Mi-2	Caf1-55	MTA1-like	HDAC1	MEP-1
+caveola	nSMase
+eukaryotic 43S preinitiation complex	eIF1	eIF3h	eIF2beta	eIF2gamma	eIF1A
+succinate-CoA ligase complex (ADP-forming)	Scsalpha2	ScsbetaA	Scsalpha1
+succinate-CoA ligase complex (GDP-forming)	ScsbetaG	Scsalpha1
+cell-substrate junction	Fit1	Fit2
+cytoophidium	CTPsyn	Ack
+somatic ring canal	vsg	pav
+transcription factor TFIIE complex	TfIIEalpha	TfIIEbeta
+signal recognition particle, endoplasmic reticulum targeting	Srp14	7SLRNA:CR32864	Srp19	Srp54k	Srp72	Srp9	Srp68
+NMDA selective glutamate receptor complex	Ir75c	Nmdar1	Ir75a	Ir64a
+NuA3a histone acetyltransferase complex	Eaf6
+NuA3b histone acetyltransferase complex	Eaf6
+Dsl1/NZR complex	Zw10	Rint1
+Slx1-Slx4 complex	slx1	mus312
+integral component of postsynaptic density membrane	Cln7
+Sec62/Sec63 complex	Sec63
+BAT3 complex	CG7546	CG9853
+clathrin vesicle coat	lqfR	lqf	Clc	CG9132
+clathrin coat of endocytic vesicle	lqf
+CLOCK-BMAL transcription complex	Clk
+ribonuclease P complex	Pop4
+RQC complex	Nulp1	Ltn1	Clbn
+alpha DNA polymerase:primase complex	PolA1	Prim2	Prim1	PolA2
+major mitochondrial derivative	S-Lap1
+peroxisomal matrix	Pex7
+anchored component of external side of plasma membrane	Gfrl	Mipp1	knk	dally
+R2TP complex	rept	pont	CG4022
+cis-Golgi network membrane	Bet3
+endolysosome	path
+site of polarized growth	fry	Abp1	Cortactin
+ribose phosphate diphosphokinase complex	Prps	CG2246
+nuclear stress granule	Rbfox1
+nucleotide-excision repair factor 3 complex	hay
+BLOC-1 complex	Pldn	Snapin	Blos3	Muted	CG10681	Blos1	Snap25	Dysb	Blos2	Blos4
+DNA repair complex	Irbp18	Xrp1
+VCP-NPL4-UFD1 AAA ATPase complex	Ufd1
+intrinsic component of Golgi membrane	wls	CG5447
+intrinsic component of endosome membrane	wls
+transcription export complex 2	PCID2	e(y)2	xmas
+ciliary transition fiber	twy
+cyclin A2-CDK2 complex	CycA
+ciliary rootlet	Root	CCDC151	Psn
+ciliary tip	CCDC151
+muscle cell projection	caps
+extrinsic component of endoplasmic reticulum membrane	CG9592	CG14671
+cell pole	Rab11	Pdi
+ciliary plasm	CG13074
+I band	Lmpt	Smn	sls	bt
+SMN-Gemin2 complex	Smn	Gem2
+SmD-containing SMN-Sm protein complex	Smn	Gem2
+Gemini of coiled bodies	Smn
+integral component of nuclear outer membrane	kud
+oligosaccharyltransferase I complex	kud
+mitochondrial oxoglutarate dehydrogenase complex	CG5214	CG33791	Ogdh
+oxoglutarate dehydrogenase complex	CG7430	CG33791	Ogdh
+microvillus membrane	Cln3
+mitochondrial alpha-ketoglutarate dehydrogenase complex	CG7430	CG8199	CG17691
+DUBm complex	not	e(y)2b	e(y)2	Sgf11
+cytoplasmic ubiquitin ligase complex	Atg3
+RCAF complex	asf1
+endolysosome membrane	Trpml	ema
+trans-Golgi network transport vesicle	syd	Rab8	Rab11
+proteasome storage granule	Rpn1	Rpn2
+TSC1-TSC2 complex	Tsc1	gig
+postsynaptic endocytic zone cytoplasmic component	Clc
+dendritic shaft	Lrrk	Psn
+transferase complex	qless	Pdss2
+intrinsic component of plasma membrane	Rab26
+nuclear cyclin-dependent protein kinase holoenzyme complex	Cdk12
+respiratory chain complex IV	COX8	COX1
+SPOTS complex	ORMDL
+BLOC-2 complex	p	CG14562
+cell septum	kkv	Chs2
+RIC1-RGP1 guanyl-nucleotide exchange factor complex	Rich
+mitochondrial degradosome	Suv3
+eukaryotic translation initiation factor 3 complex, eIF3e	eIF3a
+mucus layer	Mur82C
+HULC complex	Ubc6
+growth cone membrane	Sec8
+SUMO-targeted ubiquitin ligase complex	dgrn
+transcription factor TFIIF complex	ear	TfIIFbeta	TfIIFalpha
+mitochondrial derivative	djl	dj
+extrinsic component of presynaptic endocytic zone membrane	lap
+trans-synaptic protein complex	wit	Nrx-1	Nlg1
+integral component of postsynaptic membrane	Nlg1
+post-spliceosomal complex	CG9667
+extrinsic component of lysosome membrane	Arl8
+S bouton	Arl8
+mitochondrial respirasome	COX7AL	COX7A	COX7AL2
+succinate-CoA ligase complex	ScsbetaG	ScsbetaA
+nucleus-vacuole junction	Vps15
+omega speckle	Hrb87F	rump	HnRNP-K	lncRNA:Hsromega	SC35	B52	sqd
+3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex	CG8199	CG17691
+ASTRA complex	Tti1
+Cul4A-RING E3 ubiquitin ligase complex	ohgt
+Fanconi anaemia nuclear complex	Fancl
+RNA polymerase I core factor complex	TAF1B
+keratin filament	CG17230
+histamine-gated chloride channel complex	HisCl1	ort
+DNA ligase III-XRCC1 complex	DNAlig3
+SUMO activating enzyme complex	Aos1	Uba2
+extrinsic component of vacuolar membrane	CG5608
+PAS complex	CG5608
+nuclear lumen	mbo
+alpha-heterochromatin	Orc2
+lamellipodium membrane	Abi
+myofibril	twf	Act88F	Mlc2
+Rad51C-XRCC3 complex	spn-B
+Rad17 RFC-like complex	Rad17
+guanylate cyclase complex, soluble	Gycbeta100B	Gyc89Db	Gyc88E	Gyc89Da	Gycalpha99B
+SMC loading complex	Nipped-B	Mau2
+perichromatin fibrils	Hsc70-4
+ribonucleoprotein granule	Atx2	Syp
+mitochondrial chromosome	mtSSB
+nucleoid	mtSSB
+granular component	Ns1
+condensed nuclear chromosome outer kinetochore	Mps1
+nuclear cap binding complex	Cbp80	Cbp20	CG7907
+mRNA cleavage stimulating factor complex	CstF50	CstF64	su(f)
+glutamyl-tRNA(Gln) amidotransferase complex	GatB	GatC	GatA
+U2-type post-spliceosomal complex	Prp18
+IRE1-TRAF2-ASK1 complex	Ire1
+secondary lysosome	ninaE
+growth cone lamellipodium	psidin
+VCB complex	Vhl	EloB
+dendritic branch point	Lrrk
+brush border membrane	cta	rtet	Cad99C	pHCl-2
+dense core granule membrane	Rab11
+insulin receptor complex	InR
+CD95 death-inducing signaling complex	Fadd
+integral component of presynaptic membrane	Nrx-1
+protein-lipid complex	Lsd-1
+presynaptic active zone membrane	Syx1A
+nuclear RNA-directed RNA polymerase complex	CG6204
+RES complex	CG13625
+secretory vesicle	stac
+beta-heterochromatin	XNP
+Golgi-associated vesicle membrane	SppL
+axolemma	Ser
+muscle myosin complex	Mlc1
+anchored component of membrane	beat-VI	Svip
+pyruvate dehydrogenase complex	Pdhb
+extrinsic component of omegasome membrane	Atg14
+extrinsic component of phagophore assembly site membrane	Atg14
+HAUS complex	dgt6
+mitotic checkpoint complex	Bub3
+bub1-bub3 complex	Bub3
+oxidoreductase complex	CIA30
+cortical microtubule cytoskeleton	ncd
+integral component of endosome membrane	Osi23
+rhabdomere microvillus	chp	prom
+proton-transporting ATP synthase complex, coupling factor F(o)	ATPsynC
+transmembrane transporter complex	pHCl-2
+RZZ complex	Zw10	rod	Zwilch
+microprocessor complex	pasha
+nuclear microtubule	awd
+Hrd1p ubiquitin ligase complex	sip3
+semaphorin receptor complex	PlexB	PlexA
+glial cell projection	Gat
+calcium- and calmodulin-dependent protein kinase complex	CaMKII
+G protein-coupled receptor homodimeric complex	mGluR
+presynaptic active zone cytoplasmic component	unc-13
+basolateral part of cell	scrib	AMPKalpha
+U2-type post-mRNA release spliceosomal complex	sip1
+presynaptic endosome	g
+intracellular ferritin complex	Fer1HCH	Fer2LCH
+intercalary heterochromatin	SuUR	ascutex
+dendritic spine head	shi
+postsynaptic endocytic zone membrane	shi
+glutamatergic synapse	vlc
+endoplasmic reticulum Sec complex	Sec61beta
+condensed chromosome kinetochore	Kebab
+sarcoplasmic reticulum membrane	SERCA	RyR
+anchored component of the cytoplasmic side of the plasma membrane	gish
+glutamate-cysteine ligase complex	Gclc	Gclm
+methylcrotonoyl-CoA carboxylase complex	Mccc2
+phosphopantothenoylcysteine decarboxylase complex	Ppcdc
+cortical endoplasmic reticulum	Arv1
+AMPA glutamate receptor complex	stg1
+protein serine/threonine phosphatase complex	Pp2A-29B
+nuclear meiotic cohesin complex	vtd
+Scc2-Scc4 cohesin loading complex	Nipped-B
+eRF1 methyltransferase complex	HemK2
+U12 snRNP	snRNA:U12	CG44249
+U6atac snRNP	snRNA:U6atac
+outer acrosomal membrane	Fuca
+U4atac snRNP	snRNA:U4atac
+U11/U12 snRNP	CG44249
+mannosyltransferase complex	PIG-V
+proton-transporting ATP synthase complex	ATP6
+NADH dehydrogenase complex	ND3	ND4L
+respiratory chain complex I	ND4
+respiratory chain complex III	CYTB
