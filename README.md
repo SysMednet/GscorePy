@@ -19,7 +19,7 @@ The GscorePy source code is written in [python 3.9.13](https://www.python.org/do
 * numpy
 * pandas
 * os
-* Scipy
+* scipy
 * statsmodels
 * matplotlib
 * importlib
