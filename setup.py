@@ -6,11 +6,11 @@ requirements = [
     'scipy',
     'statsmodels',
     'matplotlib',
-    'seaborn',
+    'seaborn'
 ]
 
 setup(
-    name='GscorePy',
+    name='Gscore',
     version='0.0.1',
     description="GscorePy is a python implementation of Gscore.",
     author="SysMednet",
@@ -18,10 +18,10 @@ setup(
     url='https://github.com/SysMednet/GscorePy',
     install_requires=requirements,
     packages=[
-        'GscorePy',
+        'Gscore',
     ],
-    package_dir={'GscorePy': 'Gscore'},
-    package_data={'GscorePy':['Database/*/*/*','Database/*/*','Database/*']},
+    package_dir={'Gscore': 'Gscore'},
+    package_data={'Gscore':['Database/*/*/*','Database/*/*','Database/*']},
     license="MIT license",
     zip_safe=True,
     keywords='Gscore',
