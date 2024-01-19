@@ -1,6 +1,7 @@
 import numpy as np
 import os
 import shutil
+import pkg_resources
 
 def json_generate(data_df,node_num):
     tmp_df = data_df.head(node_num)
@@ -65,19 +66,25 @@ def gene_set_network(DEG_list_result_df, criterion, output_dir):
         html_selection += '\t'*2+'<option value=4>100</option>\n'
     
     #copy graph need files
+    graph_files_database = pkg_resources.resource_filename('Gscore', 'Database/graph_files')
     if not os.path.isdir(os.path.join(output_dir,'graph_files')):
-        shutil.copytree('Database/graph_files', os.path.join(output_dir,'graph_files'))
+        shutil.copytree(graph_files_database, os.path.join(output_dir,'graph_files'))
     
     #write html file
     fileo_html = open(os.path.join(output_dir,'GeneSet_network_graph.html'),'w')
     ###html backbone
-    filef1_html = open('Database/graph_code_fragment/html_f1.txt')
+    filef1_html_path = pkg_resources.resource_filename('Gscore', 'Database/graph_code_fragment/html_f1.txt')
+    filef1_html = open(filef1_html_path)
     html_f1 = filef1_html.read()
     filef1_html.close()
-    filef2_html = open('Database/graph_code_fragment/html_f2.txt')
+    
+    filef2_html_path = pkg_resources.resource_filename('Gscore', 'Database/graph_code_fragment/html_f2.txt')
+    filef2_html = open(filef2_html_path)
     html_f2 = filef2_html.read()
     filef2_html.close()
-    filef3_html = open('Database/graph_code_fragment/html_f3.txt')
+    
+    filef3_html_path = pkg_resources.resource_filename('Gscore', 'Database/graph_code_fragment/html_f3.txt')
+    filef3_html = open(filef3_html_path)
     html_f3 = filef3_html.read()
     filef3_html.close()
     
@@ -86,7 +93,7 @@ def gene_set_network(DEG_list_result_df, criterion, output_dir):
     fileo_html.write(html_f2)
     fileo_html.write(html_selection)
     fileo_html.write('\t</select>\n\tgene sets\n')
-    fileo_html.write('\t&emsp;&emsp;\n\t<button onclick="reset()">Refresh</button>\n')
+    fileo_html.write('\t&emsp;&emsp;\n\t<button onclick="reset()">Network initialize</button>\n')
     fileo_html.write('\t<br />\n\t'+rank_by_tag+'\n')
     fileo_html.write(html_f3)
     fileo_html.close()
@@ -94,16 +101,23 @@ def gene_set_network(DEG_list_result_df, criterion, output_dir):
     #write js file
     fileo_js = open(os.path.join(output_dir,'graph_files/script.js'),'w')
     ###js backbone
-    filef1_js = open('Database/graph_code_fragment/js_f1.txt')
+    filef1_js_path = pkg_resources.resource_filename('Gscore', 'Database/graph_code_fragment/js_f1.txt')
+    filef1_js = open(filef1_js_path)
     js_f1 = filef1_js.read()
     filef1_js.close()
-    filef2_js = open('Database/graph_code_fragment/js_f2.txt')
+    
+    filef2_js_path = pkg_resources.resource_filename('Gscore', 'Database/graph_code_fragment/js_f2.txt')
+    filef2_js = open(filef2_js_path)
     js_f2 = filef2_js.read()
     filef2_js.close()
-    filet1_cyto = open('Database/graph_code_fragment/cyto_t1.txt')
+    
+    filet1_cyto_path = pkg_resources.resource_filename('Gscore', 'Database/graph_code_fragment/cyto_t1.txt')
+    filet1_cyto = open(filet1_cyto_path)
     cyto_t1 = filet1_cyto.read()
     filet1_cyto.close()
-    filet2_cyto = open('Database/graph_code_fragment/cyto_t2.txt')
+    
+    filet2_cyto_path = pkg_resources.resource_filename('Gscore', 'Database/graph_code_fragment/cyto_t2.txt')
+    filet2_cyto = open(filet2_cyto_path)
     cyto_t2 = filet2_cyto.read()
     filet2_cyto.close()
     
