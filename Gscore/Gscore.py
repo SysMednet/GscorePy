@@ -171,7 +171,7 @@ def gscore(GEM,
             file_gene_set = open(data_path,encoding="utf-8")
             gene_set_data = file_gene_set.read().strip().split('\n')
         elif species=='cel':
-            data_path = pkg_resources.resource_filename('Gscore', gene_set_database_dir+gene_set+'/'+gene_set+'_elegans_'+ID_type+'.txt')
+            data_path = pkg_resources.resource_filename('gscorepy', gene_set_database_dir+gene_set+'/'+gene_set+'_elegans_'+ID_type+'.txt')
             file_gene_set = open(data_path,encoding="utf-8")
             gene_set_data = file_gene_set.read().strip().split('\n')
         elif species=='rno':
