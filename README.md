@@ -186,12 +186,12 @@ gscore(GEM='test_input/GSE157103.txt',
 
 GeneSet | gene_ID	| N | M | n | m | p_value | FDR_q_value 
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
-Alzheimer disease	| 100132406	| 155	| 19	| 8	| 4	| 0.00841512165628363	| 0.19581064097193132
-RNA degradation	| 100132406	| 155	| 19	| 2	| 2	| 0.014327607875994974	| 0.19581064097193132
-Protein digestion and absorption	| 100132406	| 155	| 19	| 2	| 2	| 0.014327607875994974	| 0.19581064097193132
-Pathways of neurodegeneration - multiple diseases	| 100132406	| 155	| 19	| 7	| 3	| 0.04011389753523095	| 0.2792114695340502
-Mucin type O-glycan biosynthesis	| 100132406	| 155	| 19	| 1	| 1	| 0.12258064516129032	| 0.2792114695340502
-Glycerolipid metabolism	| 100132406	| 155	| 19	| 1	| 1	| 0.12258064516129032	| 0.2792114695340502
+Alzheimer disease	| 100132406	| 155	| 19	| 8	| 4	| 0.0084151 | 0.19581
+RNA degradation	| 100132406	| 155	| 19	| 2	| 2	| 0.014328 | 0.19581
+Protein digestion and absorption	| 100132406	| 155	| 19	| 2	| 2	| 0.014328 | 0.19581
+Pathways of neurodegeneration - multiple diseases	| 100132406	| 155	| 19	| 7	| 3	| 0.040114 | 0.27921
+Mucin type O-glycan biosynthesis	| 100132406	| 155	| 19	| 1	| 1	| 0.12258 | 0.27921
+Glycerolipid metabolism	| 100132406	| 155	| 19	| 1	| 1	| 0.12258 | 0.27921
 
 **DEG list** result output (Example file : "DEG_list_sig.associations.txt" in "test_output" folder)
 * This result shows the significant associations between the query DEG list and each gene sets in the gene set collection.
@@ -199,12 +199,12 @@ Glycerolipid metabolism	| 100132406	| 155	| 19	| 1	| 1	| 0.12258064516129032	| 0
 
 GeneSet | N | M | n | m | p_value | FDR_q_value 
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
-Influenza A	| 45105	| 4919 | 2910	| 564	| 2.023591412811608e-44	| 3.8245877702139396e-42
-Measles	| 45105	| 4919	| 2619	| 512	| 2.893305586300621e-41	| 2.734173779054087e-39
-Coronavirus disease - COVID-19	| 45105	| 4919	| 3201	| 571	| 2.861210592445993e-34	| 1.8025626732409756e-32
-Cell cycle	| 45105	| 4919	| 4074	| 677	| 3.5465567829188843e-31	| 1.6757480799291729e-29
-Herpes simplex virus 1 infection	| 45105	| 4919	| 2619	| 471	| 5.416377513419858e-29	| 2.0473907000727063e-27
-Oocyte meiosis	| 45105	| 4919	| 2037	| 377	| 1.357134092542624e-25	| 4.2749723915092664e-24
+Influenza A	| 45105	| 4919 | 2910	| 564	| 2.0236e-44 | 3.8246e-42
+Measles	| 45105	| 4919	| 2619	| 512	| 2.8933e-41 | 2.7342e-39
+Coronavirus disease - COVID-19	| 45105	| 4919	| 3201	| 571	| 2.8612e-34 | 1.8026e-32
+Cell cycle	| 45105	| 4919	| 4074	| 677	| 3.5466e-31 | 1.6757e-29
+Herpes simplex virus 1 infection	| 45105	| 4919	| 2619	| 471	| 5.4164e-29 | 2.0474e-27
+Oocyte meiosis	| 45105	| 4919	| 2037	| 377	| 1.3571e-25 | 4.275e-24
 
 ### Coexpressed DEG pairs output file format
 [[Back to variable table]](#gscore-function-defined-in-gscorepy)  
