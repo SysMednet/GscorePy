@@ -63,7 +63,7 @@ ratio_plot | Set this variable "True" to output the dotplot (.png) of the ratios
 coexp_graph | Set this variable "True" to output the cytoscape network revealed by offline webpage (.html). See the details and example webpage [below](#Network-graph).
 
 ### Gene expression data format
-[[Click to back to variable table]](#gscore-function-defined-in-gscorepy)  
+[[Back to variable table]](#gscore-function-defined-in-gscorepy)  
 There are three available gene expression matrix (GEM) format can be used, please note that:
 * Each elements should be delimited by **tab (\t)**.
 * There should be at least 5 case samples.
@@ -96,7 +96,7 @@ gene5  3.40008  3.32992  3.28303  ...
 ```
 
 ### Differentially expressed gene data format
-[[Click to back to variable table]](#gscore-function-defined-in-gscorepy)  
+[[Back to variable table]](#gscore-function-defined-in-gscorepy)  
 A DEG file contains at least three genes, including two columns:
 * The first column is the DEG criteria which will be used to construct the coexpression network.  
 * The second column is used to define the query DEG list, the gene labeled by "0" or "1" which represents "not query DEG" and "query DEG", respectively.
@@ -116,7 +116,7 @@ gene7  0
 ```
 
 ### Gene sets data format
-[[Click to back to variable table]](#gscore-function-defined-in-gscorepy)  
+[[Back to variable table]](#gscore-function-defined-in-gscorepy)  
 A gene set file contains at least one gene set(s), including the gene set names (or IDs) and their lists of genes.  
 Please note that:
 * The genes in these gene sets **MUST** use the same feature ID as the expression profiles (entrez ID or gene symbol).
@@ -179,7 +179,7 @@ gscore(GEM='test_input/GSE157103.txt',
 ```
 
 ### Individual DEG result and DEG list result
-[[Click to back to variable table]](#gscore-function-defined-in-gscorepy)  
+[[Back to variable table]](#gscore-function-defined-in-gscorepy)  
 **Individual DEG** result output (Example file : "Individual_DEG_sig.associations.txt" in "test_output" folder)
 * This result shows the significant associations between each DEG in the DEG list and each gene sets in the gene set collection.
 * The result table will be grouped by gene_ID and sorted by p_value column in each group.
@@ -207,7 +207,7 @@ Herpes simplex virus 1 infection	| 45105	| 4919	| 2619	| 471	| 5.416377513419858
 Oocyte meiosis	| 45105	| 4919	| 2037	| 377	| 1.357134092542624e-25	| 4.2749723915092664e-24
 
 ### Coexpressed DEG pairs output file format
-[[Click to back to variable table]](#gscore-function-defined-in-gscorepy)  
+[[Back to variable table]](#gscore-function-defined-in-gscorepy)  
 This additional output can show the detail correlation (Pearson's r) between each DEG in the DEG list and each DEG in each gene set.  
 We provide two coexpressed detail file, and both of them only show the DEG pairs with greater |Pearson's r| than the pcc_cutoff.
 1. The result will be grouped by DEG in the DEG list. (Example file : "Individual_gene_coexpressed_detail.txt" in "test_output" folder)
@@ -233,7 +233,7 @@ p53 signaling pathway | 6241 | 64151 | 0.957943
 p53 signaling pathway | 6241 | 11130 | 0.955961
 
 ### Ratio dotplot
-[[Click to back to variable table]](#gscore-function-defined-in-gscorepy)  
+[[Back to variable table]](#gscore-function-defined-in-gscorepy)  
 This additional output visualize the ratio of significantly associated gene sets by dotplot. (Example file : "Ratio_dotplot.png" in "test_output" folder)
 * Ratio = m/n. m and n values have already record in DEG list result table.
 * This figure only show up to 500 gene sets.
@@ -241,7 +241,7 @@ This additional output visualize the ratio of significantly associated gene sets
 <img src="./test_output/Ratio_dotplot.png" alt="drawing" width="700"/>
 
 ### Network graph
-[[Click to back to variable table]](#gscore-function-defined-in-gscorepy)  
+[[Back to variable table]](#gscore-function-defined-in-gscorepy)  
 The offline webpage shows the significantly associated gene sets by network graph with cytoscape.js.  
 Example webpage : double click the "GeneSet_network_graph.html" file in "test_output" folder, the webpage will show on your browser.  
 <img src="./readme_figure/network_graph_1.png" alt="drawing" width="700"/>
