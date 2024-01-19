@@ -275,8 +275,8 @@ def gscore(GEM,
     if coexp_detail:
         print('Start getting coexpressed pair....')
         individual_detail_df, DEGlist_detail_df = codetail.get_detail(individual_result_df, DEG_list_result_df, coexpress_detail_df, criterion, query_list,ID_type)
-        individual_detail_df.to_csv(os.path.join(output_dir,'Individual_gene_coexpressed_detail.txt'),sep='\t', index=False)
-        DEGlist_detail_df.to_csv(os.path.join(output_dir,'DEG_list_coexpressed_detail.txt'),sep='\t', index=False)
+        individual_detail_df.to_csv(os.path.join(output_dir,'Individual_gene_coexpressed_detail.txt'),sep='\t', index=False, float_format='%.5g')
+        DEGlist_detail_df.to_csv(os.path.join(output_dir,'DEG_list_coexpressed_detail.txt'),sep='\t', index=False, float_format='%.5g')
         print('Complete')
     
     #ratio dotplot
