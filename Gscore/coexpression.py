@@ -32,7 +32,7 @@ def correlation(input_GEM, input_DEG_list, all_case_bool, phenotype_bool):
             for i in case_sample:
                 Exp.append(temp[i])
     Exp = np.array(Exp,dtype=float).reshape(len(geneID),len(case_sample))
-    PCC = np.round(np.corrcoef(Exp),6) #calculate pcc
+    PCC = np.corrcoef(Exp) #calculate pcc
     
     pcc_output = {}
     for i in range(len(geneID)):
