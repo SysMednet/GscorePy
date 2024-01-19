@@ -25,7 +25,6 @@ The GscorePy source code is written in [python 3.9.13](https://www.python.org/do
 * seaborn
   
 ## Installation
-<!--
 ```shell
 pip install git+https://github.com/SysMednet/GscorePy
 ```
@@ -33,12 +32,11 @@ If the error message "cannot find command git" was shown, please install "git" b
 ```shell
 conda install git
 ```
--->
 
 ## Variable
 ### Gscore function (defined in Gscore.py)
 ```python
-def Gscore(GEM, 
+def gscore(GEM, 
            DEG, 
            gene_set='KEGG', 
            species='hsa', 
@@ -165,19 +163,19 @@ sample code in user_test.py
 
 Every output files from this function will be saved in the folder set by output_dir variable.
 ```python
-import Gscore as gs
+from gscorepy import gscore
 
-gs.Gscore(GEM='test_input/GSE157103.txt', 
-            DEG='test_input/allDEG.txt', 
-            pcc_cutoff=0.7, 
-            criterion='fdrq', 
-            gene_set='KEGG', 
-            species='hsa', 
-            ID_type='entrez',
-            output_dir = 'test_output/',
-            coexp_detail=True,
-            ratio_plot=True,
-            coexp_graph=True)
+gscore(GEM='test_input/GSE157103.txt', 
+        DEG='test_input/allDEG.txt', 
+        pcc_cutoff=0.7, 
+        criterion='pv', 
+        gene_set='KEGG', 
+        species='hsa', 
+        ID_type='entrez',
+        output_dir = 'test_output/',
+        coexp_detail=True,
+        ratio_plot=True,
+        coexp_graph=True)
 ```
 
 ### Individual DEG result and DEG list result
