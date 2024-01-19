@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import os
+import pkg_resources
 from . import coexpression as coexp
 from . import main_process as main
 from . import dotplot as dplt
@@ -149,30 +150,37 @@ def Gscore(GEM,
     print('DEG....OK')
     
     #check gene set
-    gene_set_database_dir = './Database/geneset/'
+    gene_set_database_dir = 'Database/geneset/'
     gene_set_list = {'GO_BP','GO_CC','GO_MF','KEGG','Reactome'}
     
     if gene_set in gene_set_list:
         if species=='hsa':
-            file_gene_set = open(gene_set_database_dir+gene_set+'/'+gene_set+'_homo_'+ID_type+'.txt',encoding="utf-8")
+            data_path = pkg_resources.resource_filename('Gscore', gene_set_database_dir+gene_set+'/'+gene_set+'_homo_'+ID_type+'.txt')
+            file_gene_set = open(data_path,encoding="utf-8")
             gene_set_data = file_gene_set.read().strip().split('\n')
         elif species=='mmu':
-            file_gene_set = open(gene_set_database_dir+gene_set+'/'+gene_set+'_mus_'+ID_type+'.txt',encoding="utf-8")
+            data_path = pkg_resources.resource_filename('Gscore', gene_set_database_dir+gene_set+'/'+gene_set+'_mus_'+ID_type+'.txt')
+            file_gene_set = open(data_path,encoding="utf-8")
             gene_set_data = file_gene_set.read().strip().split('\n')
         elif species=='dre':
-            file_gene_set = open(gene_set_database_dir+gene_set+'/'+gene_set+'_danio_'+ID_type+'.txt',encoding="utf-8")
+            data_path = pkg_resources.resource_filename('Gscore', gene_set_database_dir+gene_set+'/'+gene_set+'_danio_'+ID_type+'.txt')
+            file_gene_set = open(data_path,encoding="utf-8")
             gene_set_data = file_gene_set.read().strip().split('\n')
         elif species=='dme':
-            file_gene_set = open(gene_set_database_dir+gene_set+'/'+gene_set+'_drosophila_'+ID_type+'.txt',encoding="utf-8")
+            data_path = pkg_resources.resource_filename('Gscore', gene_set_database_dir+gene_set+'/'+gene_set+'_drosophila_'+ID_type+'.txt')
+            file_gene_set = open(data_path,encoding="utf-8")
             gene_set_data = file_gene_set.read().strip().split('\n')
         elif species=='cel':
-            file_gene_set = open(gene_set_database_dir+gene_set+'/'+gene_set+'_elegans_'+ID_type+'.txt',encoding="utf-8")
+            data_path = pkg_resources.resource_filename('Gscore', gene_set_database_dir+gene_set+'/'+gene_set+'_elegans_'+ID_type+'.txt')
+            file_gene_set = open(data_path,encoding="utf-8")
             gene_set_data = file_gene_set.read().strip().split('\n')
         elif species=='rno':
-            file_gene_set = open(gene_set_database_dir+gene_set+'/'+gene_set+'_rat_'+ID_type+'.txt',encoding="utf-8")
+            data_path = pkg_resources.resource_filename('Gscore', gene_set_database_dir+gene_set+'/'+gene_set+'_rat_'+ID_type+'.txt')
+            file_gene_set = open(data_path,encoding="utf-8")
             gene_set_data = file_gene_set.read().strip().split('\n')
         elif species=='sce':
-            file_gene_set = open(gene_set_database_dir+gene_set+'/'+gene_set+'_saccharomyces_'+ID_type+'.txt',encoding="utf-8")
+            data_path = pkg_resources.resource_filename('Gscore', gene_set_database_dir+gene_set+'/'+gene_set+'_saccharomyces_'+ID_type+'.txt')
+            file_gene_set = open(data_path,encoding="utf-8")
             gene_set_data = file_gene_set.read().strip().split('\n')
         else:
             print('Please input correct species ("hsa","mmu","dre","dme","cel","rno","sce").')
