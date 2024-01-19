@@ -9,12 +9,12 @@ requirements = [
     'seaborn'
 ]
 
-package_data_format = {'Gscore':['Database/**/**/**/*', #graph_files/font-awesome-4.0.3
+package_data_format = {'gscorepy':['Database/**/**/**/*', #graph_files/font-awesome-4.0.3
                                  'Database/**/**/*', #geneset
                                  'Database/**/*' ]}  #graph_code_fragment, graph_files(first layer)
 
 setup(
-    name='Gscore',
+    name='gscorepy',
     version='0.0.1',
     description="GscorePy is a python implementation of Gscore.",
     author="SysMednet",
@@ -22,14 +22,14 @@ setup(
     url='https://github.com/SysMednet/GscorePy',
     install_requires=requirements,
     packages=[
-        'Gscore',
+        'gscorepy',
     ],
-    package_dir={'Gscore': 'Gscore'},
+    package_dir={'gscorepy': 'Gscore'},
     package_data=package_data_format,
     license="MIT license",
     zip_safe=True,
-    keywords='Gscore',
+    keywords=['Gscore','gscorepy','pathway analysis','enrichment'],
     classifiers=[
         'Programming Language :: Python :: 3.9.13',
-    ],
+    ]
 )
