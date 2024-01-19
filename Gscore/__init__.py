@@ -1,4 +1,4 @@
-from .Gscore import Gscore
+from .Gscore import gscore
 
-__all__ = ['Gscore']
+__all__ = ['gscore']
 
