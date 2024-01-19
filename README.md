@@ -34,7 +34,7 @@ conda install git
 ```
 
 ## Variable
-### Gscore function (defined in Gscore.py)
+### gscore function (defined in Gscore.py)
 ```python
 def gscore(GEM, 
            DEG, 
