@@ -266,8 +266,8 @@ def gscore(GEM,
     DEG_list_result_df = DEG_list_result_df.sort_values(['p_value'],ascending=True)
     
     #individual, DEG list result output
-    individual_result_df.to_csv(os.path.join(output_dir,'Individual_DEG_sig.associations.txt'),sep='\t', index=False)
-    DEG_list_result_df.to_csv(os.path.join(output_dir,'DEG_list_sig.associations.txt'),sep='\t', index=False)
+    individual_result_df.to_csv(os.path.join(output_dir,'Individual_DEG_sig.associations.txt'),sep='\t', index=False, float_format='%.5g')
+    DEG_list_result_df.to_csv(os.path.join(output_dir,'DEG_list_sig.associations.txt'),sep='\t', index=False, float_format='%.5g')
     
     print('Complete')
     
