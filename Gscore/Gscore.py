@@ -10,7 +10,7 @@ from . import coexpressed_detail as codetail
 
 pd.options.mode.chained_assignment = None
 
-def Gscore(GEM, 
+def gscore(GEM, 
            DEG, 
            gene_set='KEGG', 
            species='hsa', 
