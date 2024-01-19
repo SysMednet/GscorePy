@@ -155,19 +155,19 @@ def gscore(GEM,
     
     if gene_set in gene_set_list:
         if species=='hsa':
-            data_path = pkg_resources.resource_filename('Gscore', gene_set_database_dir+gene_set+'/'+gene_set+'_homo_'+ID_type+'.txt')
+            data_path = pkg_resources.resource_filename('gscorepy', gene_set_database_dir+gene_set+'/'+gene_set+'_homo_'+ID_type+'.txt')
             file_gene_set = open(data_path,encoding="utf-8")
             gene_set_data = file_gene_set.read().strip().split('\n')
         elif species=='mmu':
-            data_path = pkg_resources.resource_filename('Gscore', gene_set_database_dir+gene_set+'/'+gene_set+'_mus_'+ID_type+'.txt')
+            data_path = pkg_resources.resource_filename('gscorepy', gene_set_database_dir+gene_set+'/'+gene_set+'_mus_'+ID_type+'.txt')
             file_gene_set = open(data_path,encoding="utf-8")
             gene_set_data = file_gene_set.read().strip().split('\n')
         elif species=='dre':
-            data_path = pkg_resources.resource_filename('Gscore', gene_set_database_dir+gene_set+'/'+gene_set+'_danio_'+ID_type+'.txt')
+            data_path = pkg_resources.resource_filename('gscorepy', gene_set_database_dir+gene_set+'/'+gene_set+'_danio_'+ID_type+'.txt')
             file_gene_set = open(data_path,encoding="utf-8")
             gene_set_data = file_gene_set.read().strip().split('\n')
         elif species=='dme':
-            data_path = pkg_resources.resource_filename('Gscore', gene_set_database_dir+gene_set+'/'+gene_set+'_drosophila_'+ID_type+'.txt')
+            data_path = pkg_resources.resource_filename('gscorepy', gene_set_database_dir+gene_set+'/'+gene_set+'_drosophila_'+ID_type+'.txt')
             file_gene_set = open(data_path,encoding="utf-8")
             gene_set_data = file_gene_set.read().strip().split('\n')
         elif species=='cel':
@@ -175,11 +175,11 @@ def gscore(GEM,
             file_gene_set = open(data_path,encoding="utf-8")
             gene_set_data = file_gene_set.read().strip().split('\n')
         elif species=='rno':
-            data_path = pkg_resources.resource_filename('Gscore', gene_set_database_dir+gene_set+'/'+gene_set+'_rat_'+ID_type+'.txt')
+            data_path = pkg_resources.resource_filename('gscorepy', gene_set_database_dir+gene_set+'/'+gene_set+'_rat_'+ID_type+'.txt')
             file_gene_set = open(data_path,encoding="utf-8")
             gene_set_data = file_gene_set.read().strip().split('\n')
         elif species=='sce':
-            data_path = pkg_resources.resource_filename('Gscore', gene_set_database_dir+gene_set+'/'+gene_set+'_saccharomyces_'+ID_type+'.txt')
+            data_path = pkg_resources.resource_filename('gscorepy', gene_set_database_dir+gene_set+'/'+gene_set+'_saccharomyces_'+ID_type+'.txt')
             file_gene_set = open(data_path,encoding="utf-8")
             gene_set_data = file_gene_set.read().strip().split('\n')
         else:
