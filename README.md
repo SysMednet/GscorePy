@@ -214,12 +214,12 @@ We provide two coexpressed detail file, and both of them only show the DEG pairs
 
 Entrez ID of the individual DEG | Entrez ID in the gene set | Gene set | Pearson's r 
 ------------ | ------------- | ------------- | ------------- 
-991	| 9133	| p53 signaling pathway	| 0.905121
-991	| 891	| p53 signaling pathway	| 0.878674
-991	| 6241	| p53 signaling pathway	| 0.85834
-991	| 983	| p53 signaling pathway	| 0.819157
-991	| 7083	| Pyrimidine metabolism	| 0.895685
-991	| 7298	| Pyrimidine metabolism	| 0.862836
+991	| 9133	| p53 signaling pathway	| 0.90512
+991	| 891	| p53 signaling pathway	| 0.87867
+991	| 6241	| p53 signaling pathway	| 0.8583
+991	| 983	| p53 signaling pathway	| 0.81915
+991	| 7083	| Pyrimidine metabolism	| 0.89568
+991	| 7298	| Pyrimidine metabolism	| 0.86283
 
 2. The result will be grouped by gene set. (Example file : "DEG_list_coexpressed_detail.txt" in "test_output" folder)
 
@@ -229,8 +229,8 @@ p53 signaling pathway | 983 | 983 | 1.0
 p53 signaling pathway | 6241 | 6241 | 1.0
 p53 signaling pathway | 9133 | 9133 | 1.0
 p53 signaling pathway | 891 | 891 | 1.0
-p53 signaling pathway | 6241 | 64151 | 0.957943
-p53 signaling pathway | 6241 | 11130 | 0.955961
+p53 signaling pathway | 6241 | 64151 | 0.95794
+p53 signaling pathway | 6241 | 11130 | 0.95596
 
 ### Ratio dotplot
 [[Back to variable table]](#gscore-function-defined-in-gscorepy)  
