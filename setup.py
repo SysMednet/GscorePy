@@ -9,6 +9,10 @@ requirements = [
     'seaborn'
 ]
 
+package_data_format = {'Gscore':['Database/**/**/**/*', #graph_files/font-awesome-4.0.3
+                                 'Database/**/**/*', #geneset
+                                 'Database/**/*' ]}  #graph_code_fragment, graph_files(first layer)
+
 setup(
     name='Gscore',
     version='0.0.1',
@@ -21,7 +25,7 @@ setup(
         'Gscore',
     ],
     package_dir={'Gscore': 'Gscore'},
-    package_data={'Gscore':['Database/*/*/*','Database/*/*','Database/*']},
+    package_data=package_data_format,
     license="MIT license",
     zip_safe=True,
     keywords='Gscore',
