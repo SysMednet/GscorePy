@@ -66,7 +66,7 @@ coexp_graph | Set this variable "True" to output the cytoscape network revealed 
 [[Back to variable table]](#gscore-function-defined-in-gscorepy)  
 There are three available gene expression matrix (GEM) format can be used, please note that:
 * Each elements should be delimited by **tab (\t)**.
-* There should be at least 3 case samples (recommand >=5).
+* There should be at least 3 case samples (recommend >=5).
 * The gene ID should be entrez ID or gene symbol.
 1. GEM with two types of phenotype. The phenotype of the sample should be labeled by "0" or "1" which represents "control" and "case", respectively.
 ```
