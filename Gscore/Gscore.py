@@ -45,17 +45,27 @@ def gscore(GEM,
     if phenotype[0]!='Phenotype' and phenotype[0]!='phenotype': #第一行沒有phenotype視為全部case sample
         print('No phenotype detected, all samples will be considered as case smaples')
         phenotype_bool = True
-        if len(phenotype[1:])<5:
-            print('invalid sample num (control>=5)')
+        if len(phenotype[1:])<3:
+            print('invalid sample num (No. of control samples must >=3)')
             return
+        elif len(phenotype[1:])<5 and len(phenotype[1:])>=3:
+            print('Warning: your case sample count is less than 5 but more than 3, which meets the minimum requirement, but it is recommended to input 5 or more case samples for better performance.')
+            print(str(len(phenotype[1:]))+' case samples are detected')
+        else:
+            print(str(len(phenotype[1:]))+' case samples are detected')
     else:
         phenotype = phenotype[1:]
         if len(set(phenotype))==1: #只有一種phenotype，視為全部case sample
             print('Only one phenotype detected, all samples will be considered as case smaples')
             all_case_bool = True
-            if len(phenotype)<5:
-                print('invalid sample num (control>=5)')
+            if len(phenotype)<3:
+                print('invalid sample num (No. of control samples must >=3)')
                 return
+            elif len(phenotype)<5 and len(phenotype)>=3:
+                print('Warning: your case sample count is less than 5 but more than 3, which meets the minimum requirement, but it is recommended to input 5 or more case samples for better performance.')
+                print(str(len(phenotype))+' case samples are detected')
+            else:
+                print(str(len(phenotype))+' case samples are detected')
         else:
             try:
                 phenotype = [str(int(x)) for x in phenotype]
@@ -65,9 +75,12 @@ def gscore(GEM,
             if not check_list(phenotype): #確認phenotype都是0跟1
                 print('invalid phenotype format')
                 return
-            elif phenotype.count('1')<5: #check sample數量符合
-                print('invalid sample num (control>=5)')
+            elif phenotype.count('1')<3: #check sample數量符合
+                print('invalid sample num (No. of control samples must >=3)')
                 return
+            elif phenotype.count('1')<5 and phenotype.count('1')>=3: #check sample數量符合
+                print('Warning: your case sample count is less than 5 but more than 3, which meets the minimum requirement, but it is recommended to input 5 or more case samples for better performance.')
+                print(str(phenotype.count('0'))+' control samples and '+str(phenotype.count('1'))+' case samples are detected')
             else:
                 print(str(phenotype.count('0'))+' control samples and '+str(phenotype.count('1'))+' case samples are detected')
     
