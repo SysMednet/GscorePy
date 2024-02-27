@@ -49,7 +49,7 @@ def gscore(GEM,
             print('invalid sample num (No. of control samples must >=3)')
             return
         elif len(phenotype[1:])<5 and len(phenotype[1:])>=3:
-            print('Warning: your case sample count is less than 5 but more than 3, which meets the minimum requirement, but it is recommended to input 5 or more case samples for better performance.')
+            print('Warning: your case sample count is more than 3 but less than 5, which meets the minimum requirement, but it is recommended to input 5 or more case samples for better performance.')
             print(str(len(phenotype[1:]))+' case samples are detected')
         else:
             print(str(len(phenotype[1:]))+' case samples are detected')
@@ -62,7 +62,7 @@ def gscore(GEM,
                 print('invalid sample num (No. of control samples must >=3)')
                 return
             elif len(phenotype)<5 and len(phenotype)>=3:
-                print('Warning: your case sample count is less than 5 but more than 3, which meets the minimum requirement, but it is recommended to input 5 or more case samples for better performance.')
+                print('Warning: your case sample count is more than 3 but less than 5, which meets the minimum requirement, but it is recommended to input 5 or more case samples for better performance.')
                 print(str(len(phenotype))+' case samples are detected')
             else:
                 print(str(len(phenotype))+' case samples are detected')
@@ -79,7 +79,7 @@ def gscore(GEM,
                 print('invalid sample num (No. of control samples must >=3)')
                 return
             elif phenotype.count('1')<5 and phenotype.count('1')>=3: #check sample數量符合
-                print('Warning: your case sample count is less than 5 but more than 3, which meets the minimum requirement, but it is recommended to input 5 or more case samples for better performance.')
+                print('Warning: your case sample count is more than 3 but less than 5, which meets the minimum requirement, but it is recommended to input 5 or more case samples for better performance.')
                 print(str(phenotype.count('0'))+' control samples and '+str(phenotype.count('1'))+' case samples are detected')
             else:
                 print(str(phenotype.count('0'))+' control samples and '+str(phenotype.count('1'))+' case samples are detected')
