@@ -15,7 +15,7 @@ package_data_format = {'gscorepy':['Database/**/**/**/*', #graph_files/font-awes
 
 setup(
     name='gscorepy',
-    version='0.0.2',
+    version='0.0.3',
     description="GscorePy is a python implementation of Gscore.",
     author="SysMednet",
     author_email='medsb.net@gmail.com',
