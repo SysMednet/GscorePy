@@ -64,12 +64,12 @@ def gscore_processing(all_DEG ,query_list ,coexp_network ,pcc_cutoff ,gene_set,I
                     coexpress_detail_dic['Gene set'].append(l)
                     coexpress_detail_dic[type_label+' in the gene set'].append(p)
                     coexpress_detail_dic[type_label+' in the DEG list'].append(j)
-                    coexpress_detail_dic["Pearson's r"].append(coexp_network[j+'-'+p])
+                    coexpress_detail_dic["Pearson's r"].append(thresh[j+'-'+p])
                 elif p+'-'+j in thresh: # and j in interest_DEG_list
                     coexpress_detail_dic['Gene set'].append(l)
                     coexpress_detail_dic[type_label+' in the gene set'].append(p)
                     coexpress_detail_dic[type_label+' in the DEG list'].append(j)
-                    coexpress_detail_dic["Pearson's r"].append(coexp_network[p+'-'+j])
+                    coexpress_detail_dic["Pearson's r"].append(thresh[p+'-'+j])
     
             P_value=(hypergeom.sf(m-1,N,M,n)) #p-val of hyper
             
