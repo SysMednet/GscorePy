@@ -169,7 +169,7 @@ def gscore(GEM,
     if gene_set in gene_set_list:
         if species=='hsa':
             data_path = pkg_resources.resource_filename('gscorepy', gene_set_database_dir+gene_set+'/'+gene_set+'_homo_'+ID_type+'.txt')
-            file_gene_set = open(data_path,encoding="utf-8")
+            file_gene_set = open(data_path)
             gene_set_data = file_gene_set.read().strip().split('\n')
         elif species=='mmu':
             data_path = pkg_resources.resource_filename('gscorepy', gene_set_database_dir+gene_set+'/'+gene_set+'_mus_'+ID_type+'.txt')
