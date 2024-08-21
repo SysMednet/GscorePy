@@ -17,8 +17,8 @@ def plot(DEG_list_result_df, involved_dic, criterion, save_dir):
     figure_df['Involved DEG count'] = involved_num_list
     figure_df = figure_df.sort_values(['ratio'],ascending=False)
     
-    if len(figure_df)>500:
-        figure_df = figure_df.head(500)
+    if len(figure_df)>100:
+        figure_df = figure_df.head(100)
     
     x_value = max(list(figure_df['ratio']))*100
     y_value = len(figure_df)
