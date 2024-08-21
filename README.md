@@ -236,7 +236,7 @@ p53 signaling pathway | 6241 | 11130 | 0.95596
 [[Back to variable table]](#gscore-function-defined-in-gscorepy)  
 This additional output visualize the ratio of significantly associated gene sets by dotplot. (Example file : "Ratio_dotplot.png" in "test_output" folder)
 * Ratio = m/n. m and n values have already record in DEG list result table.
-* This figure only show up to 500 gene sets.
+* This figure only show up to 100 gene sets.
 * The point size represent how many DEGs in the DEG list contribute at least one coexpressed gene pair with the DEGs in the gene set.
 <img src="./test_output/Ratio_dotplot.png" alt="drawing" width="700"/>
 
