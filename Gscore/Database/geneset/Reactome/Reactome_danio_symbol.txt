@@ -1562,7 +1562,7 @@ C6 deamination of adenosine	adar	adarb1b
 Formation of editosomes by ADAR proteins	adar	adarb1b
 TET1,2,3 and TDG demethylate DNA	tdg.2
 ChREBP activates metabolic gene expression	fasn	agpat2
-Biosynthesis of electrophilic £s-3 PUFA oxo-derivatives	ptgs2b
+Biosynthesis of electrophilic î–¹-3 PUFA oxo-derivatives	ptgs2b
 Eicosanoids	tbxas1	ptgis
 Sterols are 12-hydroxylated by CYP8B1	ptgis
 Synthesis of dolichyl-phosphate-glucose	nudt14

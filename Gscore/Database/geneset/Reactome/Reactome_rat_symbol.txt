@@ -1447,7 +1447,7 @@ Biosynthesis of DPAn-3 SPMs	Alox15	Alox5	Ptgs2
 Biosynthesis of DPAn-3-derived protectins and resolvins	Alox15	Alox5
 Biosynthesis of DPAn-3-derived maresins	Alox5
 Biosynthesis of DPAn-3-derived 13-series resolvins	Alox5
-Biosynthesis of electrophilic £s-3 PUFA oxo-derivatives	Alox5	Ptgs2
+Biosynthesis of electrophilic î–¹-3 PUFA oxo-derivatives	Alox5	Ptgs2
 Triglyceride biosynthesis	Lpin3	Agmo	Dgat1	Gykl1	Gpam	Dgat2	Lpin2	Mogat2	Gk	Gk2	Gpat2
 Caspase activation via Dependence Receptors in the absence of ligand	Casp3	Dcc	Casp9
 ERBB2 Activates PTK6 Signaling	Hbegf	Erbb4	Ptk6	Btc	Ereg	Egf

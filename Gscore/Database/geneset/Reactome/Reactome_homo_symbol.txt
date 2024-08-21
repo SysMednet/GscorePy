@@ -2019,7 +2019,7 @@ Biosynthesis of aspirin-triggered D-series resolvins	ALOX5	GPX4	LTA4H
 Biosynthesis of E-series 18(R)-resolvins	ALOX5	GPX4	LTA4H	ALOX15
 Biosynthesis of DPAn-3-derived protectins and resolvins	ALOX5	ALOX15
 Biosynthesis of DPAn-3-derived 13-series resolvins	ALOX5
-Biosynthesis of electrophilic £s-3 PUFA oxo-derivatives	ALOX5	PTGS2
+Biosynthesis of electrophilic î–¹-3 PUFA oxo-derivatives	ALOX5	PTGS2
 Toxicity of tetanus toxin (tetX)	VAMP2
 Synthesis of 15-eicosatetraenoic acid derivatives	ALOX15B	PTGS2	GPX4	GPX1	GPX2	ALOX15
 Defective SLC17A8 causes autosomal dominant deafness 25 (DFNA25)	SLC17A8

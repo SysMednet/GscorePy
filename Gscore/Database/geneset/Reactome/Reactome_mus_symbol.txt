@@ -1034,7 +1034,7 @@ Biosynthesis of D-series resolvins	Hpgd	Gpx4	Alox5	Lta4h
 Biosynthesis of maresins	Cyp2d22	Cyp2e1	Cyp1a2	Cyp2c66	Ephx2	Alox5	Cyp3a11	Cyp2c65
 Biosynthesis of aspirin-triggered D-series resolvins	Gpx4	Alox5	Lta4h
 Biosynthesis of DPAn-3-derived 13-series resolvins	Alox5
-Biosynthesis of electrophilic £s-3 PUFA oxo-derivatives	Alox5	Ptgs2
+Biosynthesis of electrophilic î–¹-3 PUFA oxo-derivatives	Alox5	Ptgs2
 Acyl chain remodeling of DAG and TAG	Dgat1	Dgat2l6	Awat2	Dgat2	Pnpla2	Mgll	Pnpla3
 Conjugation of phenylacetate with glutamine	Acsm2	Acsm1
 Scavenging by Class A Receptors	Msr1	Colec11	Calr	Apob	Masp1	Marco	Apoe	Scgb3a2	Hsp90b1	Apoa1
